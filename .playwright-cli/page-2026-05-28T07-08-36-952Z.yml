@@ -1,0 +1,272 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to main content" [ref=e4] [cursor=pointer]:
+        - /url: "#main"
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - generic [ref=e8]:
+            - heading "Microsoft Build 2026" [level=2] [ref=e9]
+            - paragraph [ref=e10]: June 2-3, 2026
+          - link "Learn more" [ref=e11] [cursor=pointer]:
+            - /url: https://aka.ms/MSBuild_FY26_BN_MSLearn_Hero
+            - generic [ref=e12]: Learn more
+            - generic [ref=e14]: Ｔ
+        - button "Dismiss alert" [ref=e15] [cursor=pointer]:
+          - generic [ref=e16]: Dismiss alert
+      - generic [ref=e17]:
+        - text: Ｏ Ｐ 
+        - generic [ref=e18]:
+          - link "Microsoft" [ref=e19] [cursor=pointer]:
+            - /url: https://www.microsoft.com
+            - img [ref=e20]
+          - link "Learn" [ref=e26] [cursor=pointer]:
+            - /url: /en-us/
+            - generic [ref=e27]: Learn
+          - generic [ref=e28]:
+            - navigation "Global" [ref=e30]:
+              - text: Ｒ
+              - list [ref=e31]:
+                - listitem [ref=e32]:
+                  - button "Documentation" [ref=e34] [cursor=pointer]:
+                    - generic [ref=e35]: Documentation
+                    - generic [ref=e37]: Ｓ
+                - listitem [ref=e38]:
+                  - button "Training & Labs" [ref=e40] [cursor=pointer]:
+                    - generic [ref=e41]: Training & Labs
+                    - generic [ref=e43]: Ｓ
+                - listitem [ref=e44]:
+                  - button "Q&A" [ref=e46] [cursor=pointer]:
+                    - generic [ref=e47]: Q&A
+                    - generic [ref=e49]: Ｓ
+                - listitem [ref=e50]:
+                  - button "Topics" [ref=e52] [cursor=pointer]:
+                    - generic [ref=e53]: Topics
+                    - generic [ref=e55]: Ｓ
+              - text: Ｔ
+            - generic [ref=e56]:
+              - text: Ｐ
+              - button "Open search" [ref=e57] [cursor=pointer]:
+                - generic [ref=e59]: 
+          - link "Sign in" [ref=e60] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e62]:
+          - link "Training" [ref=e63] [cursor=pointer]:
+            - /url: /en-us/training/
+            - generic [ref=e64]: Training
+          - navigation "Site" [ref=e65]:
+            - list [ref=e66]:
+              - listitem [ref=e67]:
+                - button "Products" [ref=e68] [cursor=pointer]:
+                  - generic [ref=e69]: Products
+                  - generic [ref=e71]: Ｓ
+              - listitem [ref=e72]:
+                - button "Career Paths" [ref=e73] [cursor=pointer]:
+                  - generic [ref=e74]: Career Paths
+                  - generic [ref=e76]: Ｓ
+              - listitem [ref=e77]:
+                - link "Browse all training" [ref=e78] [cursor=pointer]:
+                  - /url: /en-us/training/browse/
+                  - generic [ref=e79]: Browse all training
+              - listitem [ref=e80]:
+                - button "Learn for Organizations" [ref=e81] [cursor=pointer]:
+                  - generic [ref=e82]: Learn for Organizations
+                  - generic [ref=e84]: Ｓ
+                - text: Ｔ
+              - listitem [ref=e85]:
+                - button "Educator Center" [ref=e86] [cursor=pointer]:
+                  - generic [ref=e87]: Educator Center
+                  - generic [ref=e89]: Ｓ
+                - text: Ｔ Ｔ
+              - listitem [ref=e90]:
+                - button "Student Hub" [ref=e91] [cursor=pointer]:
+                  - generic [ref=e92]: Student Hub
+                  - generic [ref=e94]: Ｓ
+              - listitem [ref=e95]:
+                - link "FAQ & Help" [ref=e96] [cursor=pointer]:
+                  - /url: /en-us/training/support/
+                  - generic [ref=e97]: FAQ & Help
+              - text: Ｓ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ
+  - main [ref=e98]:
+    - generic [ref=e100]:
+      - generic [ref=e102]:
+        - text: 
+        - group "Breadcrumbs" [ref=e103]:
+          - navigation "Breadcrumb" [ref=e104]:
+            - list [ref=e105]:
+              - listitem [ref=e106]:
+                - link "Learn" [ref=e107] [cursor=pointer]:
+                  - /url: /en-us/
+              - listitem [ref=e108]:
+                - link "Training" [ref=e109] [cursor=pointer]:
+                  - /url: /en-us/training/
+              - listitem [ref=e110]:
+                - link "Browse" [ref=e111] [cursor=pointer]:
+                  - /url: /en-us/training/browse/
+              - listitem [ref=e112]:
+                - 'link "Introduction to Cloud Infrastructure: Describe Azure architecture and services" [ref=e113] [cursor=pointer]':
+                  - /url: /en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/
+        - generic: 
+      - generic [ref=e119]:
+        - figure [ref=e120]
+        - generic [ref=e121]:
+          - generic [ref=e123]:
+            - text: ＂
+            - generic [ref=e124]: 800 XP
+          - generic [ref=e126]:
+            - heading "Describe Azure networking services" [level=1] [ref=e127]
+            - list [ref=e128]:
+              - listitem [ref=e129]: 24 min •
+              - listitem [ref=e130]: Module •
+              - listitem [ref=e131]: 7 Units
+            - button "Feedback" [ref=e134] [cursor=pointer]:
+              - generic [ref=e136]: 
+              - generic [ref=e137]: Feedback
+          - generic [ref=e138]:
+            - generic [ref=e139]: Beginner
+            - generic [ref=e140]: Administrator
+            - generic [ref=e141]: Developer
+            - generic [ref=e142]: DevOps Engineer
+            - generic [ref=e143]: Solution Architect
+            - generic [ref=e144]: Azure
+          - paragraph [ref=e146]: This module introduces Azure networking capabilities for secure communication between Azure resources, on-premises environments, and internet-connected clients.
+          - heading "Learning objectives" [level=2] [ref=e147]
+          - generic [ref=e148]:
+            - paragraph [ref=e149]: "Upon completion of this module, you'll be able to:"
+            - list [ref=e150]:
+              - listitem [ref=e151]:
+                - paragraph [ref=e152]: Describe Azure virtual networking, including subnets and endpoints
+              - listitem [ref=e153]:
+                - paragraph [ref=e154]: Describe connectivity options with Azure VPN Gateway
+              - listitem [ref=e155]:
+                - paragraph [ref=e156]: Describe when to use Azure ExpressRoute
+              - listitem [ref=e157]:
+                - paragraph [ref=e158]: Describe Azure DNS capabilities
+              - listitem [ref=e159]:
+                - paragraph [ref=e160]: Describe basic network access controls for Azure resources
+          - generic [ref=e161]:
+            - link "Start" [ref=e162] [cursor=pointer]:
+              - /url: /en-us/training/modules/describe-azure-networking-services/1-introduction/
+              - generic [ref=e163]: Start
+              - generic [ref=e165]: Ｔ
+            - group [ref=e166]:
+              - generic "Add" [ref=e167] [cursor=pointer]:
+                - generic [ref=e169]: 
+                - generic [ref=e170]: Add
+          - generic [ref=e171]:
+            - heading "Prerequisites" [level=2] [ref=e172]
+            - list [ref=e173]:
+              - listitem [ref=e174]: Basic familiarity with IT terms and concepts
+          - generic [ref=e175]:
+            - heading "Get started with Azure" [level=2] [ref=e176]
+            - paragraph [ref=e177]:
+              - text: Choose the Azure account that's right for you. Pay as you go or try Azure free for up to 30 days.
+              - link "Sign up." [ref=e178] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn_d4dd8874-9280-4660-7b5a-edb764a7d4cc
+          - generic [ref=e179]:
+            - heading "This module is part of these learning paths" [level=2] [ref=e180]
+            - list [ref=e181]:
+              - listitem [ref=e182]:
+                - 'link "Introduction to Cloud Infrastructure: Describe Azure architecture and services" [ref=e183] [cursor=pointer]':
+                  - /url: /training/paths/azure-fundamentals-describe-azure-architecture-services/
+          - list [ref=e184]:
+            - listitem [ref=e185]:
+              - generic [ref=e186]:
+                - generic [ref=e187]:
+                  - link "Introduction" [ref=e188] [cursor=pointer]:
+                    - /url: 1-introduction
+                  - text: 1 min
+                - generic [ref=e189]: ＂ Ｔ
+            - listitem [ref=e190]:
+              - generic [ref=e191]:
+                - generic [ref=e192]:
+                  - link "Describe Azure virtual networking" [ref=e193] [cursor=pointer]:
+                    - /url: 2-virtual-network
+                  - text: 5 min
+                - generic [ref=e194]: ＂ Ｔ
+            - listitem [ref=e195]:
+              - generic [ref=e196]:
+                - generic [ref=e197]:
+                  - link "Describe Azure virtual private networks" [ref=e198] [cursor=pointer]:
+                    - /url: 3-virtual-private-networks
+                  - text: 5 min
+                - generic [ref=e199]: ＂ Ｔ
+            - listitem [ref=e200]:
+              - generic [ref=e201]:
+                - generic [ref=e202]:
+                  - link "Describe Azure ExpressRoute" [ref=e203] [cursor=pointer]:
+                    - /url: 4-expressroute
+                  - text: 4 min
+                - generic [ref=e204]: ＂ Ｔ
+            - listitem [ref=e205]:
+              - generic [ref=e206]:
+                - generic [ref=e207]:
+                  - link "Describe Azure DNS" [ref=e208] [cursor=pointer]:
+                    - /url: 5-domain-name-system
+                  - text: 3 min
+                - generic [ref=e209]: ＂ Ｔ
+            - listitem [ref=e210]:
+              - generic [ref=e211]:
+                - generic [ref=e212]:
+                  - link "Module assessment" [ref=e213] [cursor=pointer]:
+                    - /url: 6-knowledge-check
+                  - text: 4 min
+                - generic [ref=e214]: ＂ Ｔ
+            - listitem [ref=e215]:
+              - generic [ref=e216]:
+                - generic [ref=e217]:
+                  - link "Summary" [ref=e218] [cursor=pointer]:
+                    - /url: 7-summary
+                  - text: 2 min
+                - generic [ref=e219]: ＂ Ｔ
+          - text: Ｓ
+          - generic [ref=e221]:
+            - generic [ref=e223]: ）
+            - generic [ref=e224]:
+              - strong [ref=e225]: "Note:"
+              - text: This module contains content created with AI.
+              - link "Learn more" [ref=e226] [cursor=pointer]:
+                - /url: /principles-for-ai-generated-content
+      - text: Ｔ
+  - contentinfo [ref=e228]:
+    - generic [ref=e229]:
+      - link "Content language selector. Currently set to English (United States)." [ref=e230] [cursor=pointer]:
+        - /url: /en-us/locale?target=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Ftraining%2Fmodules%2Fdescribe-azure-networking-services%2F
+        - generic [ref=e232]: 
+        - generic [ref=e233]: English (United States)
+      - link "Your Privacy Choices" [ref=e235] [cursor=pointer]:
+        - /url: https://aka.ms/yourcaliforniaprivacychoices
+        - img [ref=e236]
+        - generic [ref=e241]: Your Privacy Choices
+      - button "Theme" [ref=e244] [cursor=pointer]:
+        - generic [ref=e246]: ０
+        - generic [ref=e247]: Theme
+        - generic [ref=e249]: Ｓ
+    - list [ref=e250]:
+      - listitem [ref=e251]:
+        - link "AI Disclaimer" [ref=e252] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/principles-for-ai-generated-content
+      - listitem [ref=e253]:
+        - link "Previous Versions" [ref=e254] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/previous-versions/
+      - listitem [ref=e255]:
+        - link "Blog" [ref=e256] [cursor=pointer]:
+          - /url: https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog
+      - listitem [ref=e257]:
+        - link "Contribute" [ref=e258] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/contribute
+      - listitem [ref=e259]:
+        - link "Privacy" [ref=e260] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+      - listitem [ref=e261]:
+        - link "Consumer Health Privacy" [ref=e262] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+      - listitem [ref=e263]:
+        - link "Terms of Use" [ref=e264] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/legal/termsofuse
+      - listitem [ref=e265]:
+        - link "Trademarks" [ref=e266] [cursor=pointer]:
+          - /url: https://www.microsoft.com/legal/intellectualproperty/Trademarks/
+      - listitem [ref=e267]: © Microsoft 2026
+  - alert [ref=e268]
+  - status [ref=e269]

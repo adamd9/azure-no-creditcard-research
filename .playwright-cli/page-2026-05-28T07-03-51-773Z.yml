@@ -1,0 +1,95 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to main content" [ref=e4] [cursor=pointer]:
+        - /url: "#main"
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - generic [ref=e8]:
+            - heading "Microsoft Build 2026" [level=2] [ref=e9]
+            - paragraph [ref=e10]: June 2-3, 2026
+          - link "Learn more" [ref=e11] [cursor=pointer]:
+            - /url: https://aka.ms/MSBuild_FY26_BN_MSLearn_Hero
+            - generic [ref=e12]: Learn more
+            - generic [ref=e14]: Ｔ
+        - button "Dismiss alert" [ref=e15] [cursor=pointer]:
+          - generic [ref=e16]: Dismiss alert
+      - generic [ref=e17]:
+        - text: Ｏ Ｐ 
+        - generic [ref=e18]:
+          - link "Microsoft" [ref=e19] [cursor=pointer]:
+            - /url: https://www.microsoft.com
+            - img [ref=e20]
+          - link "Learn" [ref=e26] [cursor=pointer]:
+            - /url: /en-us/
+            - generic [ref=e27]: Learn
+          - generic [ref=e28]:
+            - navigation "Global" [ref=e30]:
+              - text: Ｒ
+              - list [ref=e31]:
+                - listitem [ref=e32]:
+                  - button "Documentation" [ref=e34] [cursor=pointer]:
+                    - generic [ref=e35]: Documentation
+                    - generic [ref=e37]: Ｓ
+                - listitem [ref=e38]:
+                  - button "Training & Labs" [ref=e40] [cursor=pointer]:
+                    - generic [ref=e41]: Training & Labs
+                    - generic [ref=e43]: Ｓ
+                - listitem [ref=e44]:
+                  - button "Q&A" [ref=e46] [cursor=pointer]:
+                    - generic [ref=e47]: Q&A
+                    - generic [ref=e49]: Ｓ
+                - listitem [ref=e50]:
+                  - button "Topics" [ref=e52] [cursor=pointer]:
+                    - generic [ref=e53]: Topics
+                    - generic [ref=e55]: Ｓ
+              - text: Ｔ
+            - generic [ref=e56]:
+              - text: Ｐ
+              - button "Open search" [ref=e57] [cursor=pointer]:
+                - generic [ref=e59]: 
+          - link "Sign in" [ref=e60] [cursor=pointer]:
+            - /url: "#"
+  - main [ref=e61]
+  - contentinfo [ref=e64]:
+    - generic [ref=e65]:
+      - link "Content language selector. Currently set to English (United States)." [ref=e66] [cursor=pointer]:
+        - /url: /en-us/locale?target=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fsearch%2F%3Fsearch%3Dazure%2Bpass%26scope%3DAzure
+        - generic [ref=e68]: 
+        - generic [ref=e69]: English (United States)
+      - link "Your Privacy Choices" [ref=e71] [cursor=pointer]:
+        - /url: https://aka.ms/yourcaliforniaprivacychoices
+        - img [ref=e72]
+        - generic [ref=e77]: Your Privacy Choices
+      - button "Theme" [ref=e80] [cursor=pointer]:
+        - generic [ref=e82]: ０
+        - generic [ref=e83]: Theme
+        - generic [ref=e85]: Ｓ
+    - list [ref=e86]:
+      - listitem [ref=e87]:
+        - link "AI Disclaimer" [ref=e88] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/principles-for-ai-generated-content
+      - listitem [ref=e89]:
+        - link "Previous Versions" [ref=e90] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/previous-versions/
+      - listitem [ref=e91]:
+        - link "Blog" [ref=e92] [cursor=pointer]:
+          - /url: https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog
+      - listitem [ref=e93]:
+        - link "Contribute" [ref=e94] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/contribute
+      - listitem [ref=e95]:
+        - link "Privacy" [ref=e96] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+      - listitem [ref=e97]:
+        - link "Consumer Health Privacy" [ref=e98] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+      - listitem [ref=e99]:
+        - link "Terms of Use" [ref=e100] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/legal/termsofuse
+      - listitem [ref=e101]:
+        - link "Trademarks" [ref=e102] [cursor=pointer]:
+          - /url: https://www.microsoft.com/legal/intellectualproperty/Trademarks/
+      - listitem [ref=e103]: © Microsoft 2026
+  - alert [ref=e104]
+  - status [ref=e105]

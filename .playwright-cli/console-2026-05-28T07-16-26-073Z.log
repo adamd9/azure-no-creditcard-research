@@ -1,0 +1,12 @@
+[     279ms] [LOG] message received from parent page @ https://publisher.liveperson.net/iframe-le-tag/iframe-cs.html?lpsite=60270350&lpsection=azure-leadgen-en-us&buttons=lpChatAzure:760
+[     279ms] [LOG] new condition found @ https://assets.adobedtm.com/launch-ENc0cbffaf0f8248c3a934a56818d7737e.min.js:7
+[     448ms] [LOG] KIF-46a086f0-ece0-4620-b963-b82fae81a037d: Launcher Rule Fired @ :1
+[     449ms] [LOG] KIF-46a086f0-ece0-4620-b963-b82fae81a037d: LI pixel @ :1
+[     449ms] [LOG] KIF-46a086f0-ece0-4620-b963-b82fae81a037d: FB pixel @ :1
+[     449ms] [LOG] KIF-46a086f0-ece0-4620-b963-b82fae81a037d: Google pixel @ :1
+[     449ms] [LOG] KIF-46a086f0-ece0-4620-b963-b82fae81a037d: Bing pixel @ :1
+[     499ms] [LOG] KIF-ea8e367c-a1c7-4e88-ae6c-907d6b8b1ab1: Launcher Rule Fired @ :1
+[     803ms] [LOG] message received from parent page @ https://publisher.liveperson.net/iframe-le-tag/iframe-cs.html?lpsite=60270350&lpsection=azure-leadgen-en-us&buttons=lpChatAzure:760
+[     823ms] [ERROR] Refused to execute script from 'https://signup.azure.com/epsilon/?dtm_cid=85524&dtm_cmagic=a2b968&dtm_fid=9870&dtm_promo_id=1&dtmc_loc=https%3A%2F%2Fazure.microsoft.com%2Fen-us%2Fpricing%2Fpurchase-options%2Fazure-account%2Fsearch%2F%3Fef_id%3D%3AG%3As%26OCID%3DAIDcmm69f38nhz_SEM_%3AG%3As%26msclkid%3Dnot-applicable&cachebuster=284742691' because its MIME type ('') is not executable, and strict MIME type checking is enabled. @ https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search/?ef_id=:G:s&OCID=AIDcmm69f38nhz_SEM_:G:s&msclkid=not-applicable:0
+[    7692ms] [WARNING] The resource https://learn.microsoft.com/en-us/media/ask-learn/check-for-accuracy-base.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/azurestudents-subscription-disabled:0
+[    7692ms] [WARNING] The resource https://learn.microsoft.com/en-us/media/ask-learn/meet-ask-learn-base.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/azurestudents-subscription-disabled:0

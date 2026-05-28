@@ -1,0 +1,501 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to main content" [ref=e4] [cursor=pointer]:
+        - /url: "#main"
+      - link "Skip to Ask Learn chat experience" [ref=e5] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - heading "Microsoft Build 2026" [level=2] [ref=e10]
+            - paragraph [ref=e11]: June 2-3, 2026
+          - link "Learn more" [ref=e12] [cursor=pointer]:
+            - /url: https://aka.ms/MSBuild_FY26_BN_MSLearn_Hero
+            - generic [ref=e13]: Learn more
+            - generic [ref=e15]: Ｔ
+        - button "Dismiss alert" [ref=e16] [cursor=pointer]:
+          - generic [ref=e17]: Dismiss alert
+      - generic [ref=e18]:
+        - text: Ｏ Ｐ 
+        - generic [ref=e19]:
+          - link "Microsoft" [ref=e20] [cursor=pointer]:
+            - /url: https://www.microsoft.com
+            - img [ref=e21]
+          - link "Learn" [ref=e27] [cursor=pointer]:
+            - /url: /en-us/
+            - generic [ref=e28]: Learn
+          - generic [ref=e29]:
+            - navigation "Global" [ref=e31]:
+              - text: Ｒ
+              - list [ref=e32]:
+                - listitem [ref=e33]:
+                  - button "Documentation" [ref=e35] [cursor=pointer]:
+                    - generic [ref=e36]: Documentation
+                    - generic [ref=e38]: Ｓ
+                - listitem [ref=e39]:
+                  - button "Training & Labs" [ref=e41] [cursor=pointer]:
+                    - generic [ref=e42]: Training & Labs
+                    - generic [ref=e44]: Ｓ
+                - listitem [ref=e45]:
+                  - button "Q&A" [ref=e47] [cursor=pointer]:
+                    - generic [ref=e48]: Q&A
+                    - generic [ref=e50]: Ｓ
+                - listitem [ref=e51]:
+                  - button "Topics" [ref=e53] [cursor=pointer]:
+                    - generic [ref=e54]: Topics
+                    - generic [ref=e56]: Ｓ
+              - text: Ｔ
+            - generic [ref=e57]:
+              - text: Ｐ
+              - button "Open search" [ref=e58] [cursor=pointer]:
+                - generic [ref=e60]: 
+          - link "Sign in" [ref=e61] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e63]:
+          - link "Azure" [ref=e64] [cursor=pointer]:
+            - /url: /en-us/azure/
+            - generic [ref=e65]: Azure
+          - navigation "Site" [ref=e66]:
+            - list [ref=e67]:
+              - listitem [ref=e68]:
+                - button "Products" [ref=e69] [cursor=pointer]:
+                  - generic [ref=e70]: Products
+                  - generic [ref=e72]: Ｓ
+                - text: Ｔ Ｔ
+              - listitem [ref=e73]:
+                - button "Architecture" [ref=e74] [cursor=pointer]:
+                  - generic [ref=e75]: Architecture
+                  - generic [ref=e77]: Ｓ
+              - listitem [ref=e78]:
+                - link "Migration" [ref=e79] [cursor=pointer]:
+                  - /url: /en-us/azure/migration/
+                  - generic [ref=e80]: Migration
+              - listitem [ref=e81]:
+                - button "Develop" [ref=e82] [cursor=pointer]:
+                  - generic [ref=e83]: Develop
+                  - generic [ref=e85]: Ｓ
+              - listitem [ref=e86]:
+                - button "Learn Azure" [ref=e87] [cursor=pointer]:
+                  - generic [ref=e88]: Learn Azure
+                  - generic [ref=e90]: Ｓ
+                - text: Ｔ
+              - listitem [ref=e91]:
+                - link "Troubleshooting" [ref=e92] [cursor=pointer]:
+                  - /url: /en-us/troubleshoot/azure/
+                  - generic [ref=e93]: Troubleshooting
+              - text: Ｓ
+              - listitem [ref=e94]:
+                - button "More" [ref=e95] [cursor=pointer]:
+                  - generic [ref=e96]: More
+                  - generic [ref=e98]: Ｓ
+                - text: Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ
+          - generic [ref=e99]:
+            - link "Portal" [ref=e100] [cursor=pointer]:
+              - /url: https://portal.azure.com
+            - link "Get started with Azure" [ref=e101] [cursor=pointer]:
+              - /url: https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn_nav_edc1727b-8a24-0578-0e9f-dcf90df1029e
+  - navigation "Primary" [ref=e105]:
+    - button "Collapse" [expanded] [ref=e107] [cursor=pointer]:
+      - generic [ref=e109]: ﾝ
+    - search "Search" [ref=e110]:
+      - generic [ref=e111]: Search
+      - generic [ref=e113]:
+        - combobox "Search" [ref=e114]
+        - generic:
+          - generic: 󿄓
+    - tree "Table of contents" [ref=e115]:
+      - treeitem "Billing and subscriptions documentation" [level=1] [ref=e116] [cursor=pointer]
+      - treeitem "Overview" [level=1] [ref=e117]:
+        - generic [ref=e118] [cursor=pointer]: Overview
+      - treeitem "Tutorials" [level=1] [ref=e119]:
+        - generic [ref=e120] [cursor=pointer]: Tutorials
+      - treeitem "Concepts" [expanded] [level=1] [ref=e121]:
+        - generic [ref=e122] [cursor=pointer]: Concepts
+        - group [ref=e123]:
+          - treeitem "What is a cloud subscription" [level=2] [ref=e124] [cursor=pointer]
+          - treeitem "Individual subscription usage terms" [level=2] [ref=e125] [cursor=pointer]
+          - treeitem "Individual subscription invoice terms" [level=2] [ref=e126] [cursor=pointer]
+          - treeitem "Understand the billing and tenant relationship" [level=2] [ref=e127] [cursor=pointer]
+          - treeitem "Microsoft Customer Agreement usage terms" [level=2] [ref=e128] [cursor=pointer]
+          - treeitem "Microsoft Customer Agreement invoice terms" [level=2] [ref=e129] [cursor=pointer]
+          - treeitem "Microsoft Customer Agreement price sheet terms" [level=2] [ref=e130] [cursor=pointer]
+          - treeitem "Microsoft Partner Agreement invoice terms" [level=2] [ref=e131] [cursor=pointer]
+          - treeitem "Changes to your updated pay-as-you-go billing account" [level=2] [ref=e132] [cursor=pointer]
+          - treeitem "Keep your billing account active" [level=2] [ref=e133] [cursor=pointer]
+          - treeitem "Billing accounts for Microsoft Customer Agreement" [level=2] [ref=e134] [cursor=pointer]
+          - treeitem "Billing accounts for Microsoft Partner Agreement" [level=2] [ref=e135] [cursor=pointer]
+          - treeitem "Get started with EA billing in the Azure portal" [level=2] [ref=e136] [cursor=pointer]
+          - treeitem "Direct EA billing invoice documents" [level=2] [ref=e137] [cursor=pointer]
+          - treeitem "Enterprise agreement price sheet terms" [level=2] [ref=e138] [cursor=pointer]
+          - treeitem "Request Withholding Tax credit - India" [level=2] [ref=e139] [cursor=pointer]
+          - treeitem "Plan to manage Azure costs" [level=2] [ref=e140] [cursor=pointer]
+          - treeitem "Region optimization" [level=2] [ref=e141] [cursor=pointer]
+      - treeitem "How-to guides" [level=1] [ref=e142]:
+        - generic [ref=e143] [cursor=pointer]: How-to guides
+      - treeitem "Reference" [level=1] [ref=e144]:
+        - generic [ref=e145] [cursor=pointer]: Reference
+      - treeitem "Resources" [level=1] [ref=e146]:
+        - generic [ref=e147] [cursor=pointer]: Resources
+      - treeitem "Samples" [level=1] [ref=e148]:
+        - generic [ref=e149] [cursor=pointer]: Samples
+    - button "Download PDF" [ref=e151] [cursor=pointer]:
+      - generic [ref=e153]: 
+      - generic [ref=e154]: Download PDF
+  - main [ref=e155]:
+    - generic: Ｏ ，
+    - generic [ref=e156]:
+      - generic [ref=e157]:
+        - generic [ref=e159]:
+          - text: 
+          - group "Breadcrumbs" [ref=e160]:
+            - navigation "Breadcrumb" [ref=e161]:
+              - list [ref=e162]:
+                - listitem [ref=e163]:
+                  - link "Learn" [ref=e164] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/
+                - listitem [ref=e165]:
+                  - link "Azure" [ref=e166] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/azure/
+                - listitem [ref=e167]:
+                  - link "CM+B" [ref=e168] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/azure/cost-management-billing
+                - listitem [ref=e169]:
+                  - link "Billing and subscriptions" [ref=e170] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/
+          - generic [ref=e171]:
+            - text: 󿄐
+            - button "Ask Learn" [ref=e172] [cursor=pointer]:
+              - generic [ref=e174]: 󿄐
+              - generic [ref=e175]: Ask Learn
+            - text: 󿄐
+            - group [ref=e176]:
+              - generic "More actions" [ref=e177] [cursor=pointer]:
+                - generic [ref=e179]: 
+        - text: ﾁ
+        - heading "Get started with your Enterprise Agreement billing account" [level=1] [ref=e181]
+        - generic: 
+        - generic [ref=e183]:
+          - generic [ref=e185]: ﾃ
+          - button "Summarize this article for me" [ref=e186] [cursor=pointer]:
+            - generic [ref=e187]: Summarize this article for me
+        - navigation "In this article" [ref=e188]:
+          - heading "In this article" [level=2] [ref=e189]
+          - list [ref=e190]:
+            - listitem [ref=e191]:
+              - link "Understanding EA user roles and introduction to user hierarchy" [ref=e192] [cursor=pointer]:
+                - /url: "#understanding-ea-user-roles-and-introduction-to-user-hierarchy"
+            - listitem [ref=e193]:
+              - link "Activate your enrollment, create a subscription, and other administrative tasks" [ref=e194] [cursor=pointer]:
+                - /url: "#activate-your-enrollment-create-a-subscription-and-other-administrative-tasks"
+            - listitem [ref=e195]:
+              - link "View your enterprise department and account lists" [ref=e196] [cursor=pointer]:
+                - /url: "#view-your-enterprise-department-and-account-lists"
+            - listitem [ref=e197]:
+              - link "View usage summary and download reports" [ref=e198] [cursor=pointer]:
+                - /url: "#view-usage-summary-and-download-reports"
+          - button "Show 5 more" [ref=e199] [cursor=pointer]:
+            - generic [ref=e200]: Show 5 more
+        - generic [ref=e201]:
+          - generic [ref=e202]:
+            - paragraph [ref=e203]:
+              - generic [ref=e205]: ７
+              - text: Note
+            - paragraph [ref=e206]:
+              - text: On February 15, 2024, the
+              - link "EA portal" [ref=e207] [cursor=pointer]:
+                - /url: https://ea.azure.com
+              - text: retired. It's now read only. All EA customers and partners use Cost Management + Billing in the Azure portal to manage their enrollments.
+          - paragraph [ref=e208]:
+            - text: This article helps direct and indirect Azure Enterprise Agreement (Azure EA) customers with their billing administration on the
+            - link "Azure portal" [ref=e209] [cursor=pointer]:
+              - /url: https://portal.azure.com
+            - text: ". Get basic information about:"
+          - list [ref=e210]:
+            - listitem [ref=e211]: Roles used to manage the Enterprise billing account in the Azure portal
+            - listitem [ref=e212]: Subscription creation
+            - listitem [ref=e213]: Cost analysis in the Azure portal
+          - paragraph [ref=e214]:
+            - text: We have several videos that walk you through getting started with the Azure portal for Enterprise Agreements. Check out the series at
+            - link "Enterprise Customer Billing Experience in the Azure portal" [ref=e215] [cursor=pointer]:
+              - /url: https://www.youtube.com/playlist?list=PLeZrVF6SXmsoHSnAgrDDzL0W5j8KevFIm
+            - text: .
+          - paragraph [ref=e216]: Here's the first video.
+          - iframe [ref=e218]:
+            - generic [active] [ref=f21e1]:
+              - generic "YouTube Video Player" [ref=f21e3]
+              - generic [ref=f21e5]:
+                - generic:
+                  - generic:
+                    - button "Play video" [ref=f21e10] [cursor=pointer]
+                    - button "Hide player controls" [ref=f21e12] [cursor=pointer]
+                    - generic [ref=f21e14]:
+                      - generic [ref=f21e19]:
+                        - generic [ref=f21e20]:
+                          - link "Onboarding and setting up billing account in the Azure portal" [ref=f21e21] [cursor=pointer]:
+                            - /url: https://www.youtube.com/watch?v=sfJyTZZ6RxQ
+                          - link "Enterprise Azure" [ref=f21e22] [cursor=pointer]:
+                            - /url: /channel/UCMQGYWHJgkyKGp6JsAMMFNw
+                            - generic [ref=f21e23]: Enterprise Azure
+                        - generic [ref=f21e24]:
+                          - button [ref=f21e25] [cursor=pointer]
+                          - generic [ref=f21e27]:
+                            - generic: Enterprise Azure
+                            - generic: 714 subscribers
+                      - generic [ref=f21e28]:
+                        - button "Copy link" [ref=f21e31] [cursor=pointer]:
+                          - generic [ref=f21e35]:
+                            - img
+                        - link "Watch on YouTube" [ref=f21e42] [cursor=pointer]:
+                          - /url: https://www.youtube.com/watch?v=sfJyTZZ6RxQ
+                          - generic [ref=f21e45]:
+                            - text: Watch on
+                            - img [ref=f21e47]:
+                              - generic [ref=f21e49]:
+                                - img
+          - generic [ref=e219]:
+            - 'link "Section titled: Understanding EA user roles and introduction to user hierarchy" [ref=e220] [cursor=pointer]':
+              - /url: "#understanding-ea-user-roles-and-introduction-to-user-hierarchy"
+              - text: 
+            - heading "Understanding EA user roles and introduction to user hierarchy" [level=2] [ref=e221]
+          - paragraph [ref=e222]: "To help manage your organization's usage and spend, Azure Enterprise Agreement (EA) administrators can assign the following distinct administrative roles:"
+          - list [ref=e223]:
+            - listitem [ref=e224]: Enterprise Administrator
+            - listitem [ref=e225]: Enterprise Administrator (read only)
+            - listitem [ref=e226]: Department Administrator
+            - listitem [ref=e227]: Department Administrator (read only)
+            - listitem [ref=e228]: Account Owner
+          - paragraph [ref=e229]:
+            - text: Each role has a varying degree of user limits and permissions. For more information, see
+            - link "Organization structure and permissions by role" [ref=e230] [cursor=pointer]:
+              - /url: understand-ea-roles#organization-structure-and-permissions-by-role
+            - text: .
+          - generic [ref=e231]:
+            - 'link "Section titled: Activate your enrollment, create a subscription, and other administrative tasks" [ref=e232] [cursor=pointer]':
+              - /url: "#activate-your-enrollment-create-a-subscription-and-other-administrative-tasks"
+              - text: 
+            - heading "Activate your enrollment, create a subscription, and other administrative tasks" [level=2] [ref=e233]
+          - paragraph [ref=e234]:
+            - text: For more information about activating your enrollment, creating a department or subscription, adding administrators and account owners, and other administrative tasks, see
+            - link "Azure EA billing administration" [ref=e235] [cursor=pointer]:
+              - /url: direct-ea-administration
+            - text: .
+          - paragraph [ref=e236]:
+            - text: If you'd like to know more about transferring an Enterprise subscription to a pay-as-you-go subscription, see
+            - link "Azure Enterprise transfers" [ref=e237] [cursor=pointer]:
+              - /url: ea-transfers
+            - text: .
+          - generic [ref=e238]:
+            - 'link "Section titled: View your enterprise department and account lists" [ref=e239] [cursor=pointer]':
+              - /url: "#view-your-enterprise-department-and-account-lists"
+              - text: 
+            - heading "View your enterprise department and account lists" [level=2] [ref=e240]
+          - paragraph [ref=e241]: If you'd like to view all the departments and accounts in your billing account, use the following steps.
+          - list [ref=e242]:
+            - listitem [ref=e243]:
+              - text: Sign in to the
+              - link "Azure portal" [ref=e244] [cursor=pointer]:
+                - /url: https://portal.azure.com
+              - text: .
+            - listitem [ref=e245]:
+              - text: Navigate to
+              - strong [ref=e246]: Cost Management + Billing
+              - text: .
+            - listitem [ref=e247]:
+              - text: In the left menu, select
+              - strong [ref=e248]: Billing scopes
+              - text: and then select a billing account scope.
+            - listitem [ref=e249]:
+              - text: In the navigation menu, select
+              - strong [ref=e250]: Department
+              - text: or
+              - strong [ref=e251]: Account
+              - text: to view its details.
+          - generic [ref=e252]:
+            - 'link "Section titled: View usage summary and download reports" [ref=e253] [cursor=pointer]':
+              - /url: "#view-usage-summary-and-download-reports"
+              - text: 
+            - heading "View usage summary and download reports" [level=2] [ref=e254]
+          - paragraph [ref=e255]:
+            - text: You view a summary of your usage data, Azure Prepayment consumed, and charges associated with other usage in the Azure portal. Charges are presented at the summary level across all accounts and subscriptions of the enrollment. To view a usage summary, price sheet, and download reports, see
+            - link "Review usage charges" [ref=e256] [cursor=pointer]:
+              - /url: direct-ea-azure-usage-charges-invoices#review-usage-charges
+            - text: .
+          - generic [ref=e257]:
+            - 'link "Section titled: View and download invoice" [ref=e258] [cursor=pointer]':
+              - /url: "#view-and-download-invoice"
+              - text: 
+            - heading "View and download invoice" [level=2] [ref=e259]
+          - paragraph [ref=e260]:
+            - text: As a direct EA customer, you can view and download your Azure EA invoice in the Azure portal. It's a self-serve capability and an EA admin of a direct EA enrollment has access to manage invoices. Your invoice is a representation of your bill and should be reviewed for accuracy. For more information, see
+            - link "Download or view your Azure billing invoice" [ref=e261] [cursor=pointer]:
+              - /url: direct-ea-azure-usage-charges-invoices#download-or-view-your-azure-billing-invoice
+            - text: .
+          - generic [ref=e262]:
+            - 'link "Section titled: Azure Prepayment and unbilled usage" [ref=e263] [cursor=pointer]':
+              - /url: "#azure-prepayment-and-unbilled-usage"
+              - text: 
+            - heading "Azure Prepayment and unbilled usage" [level=2] [ref=e264]
+          - paragraph [ref=e265]: Azure Prepayment, previously called monetary commitment, is an amount paid up front for Azure services. The Azure Prepayment is consumed as services are used. First-party Azure services are billed against the Azure Prepayment. However, some charges are billed separately, and Azure Marketplace services don't consume Azure Prepayment.
+          - paragraph [ref=e266]:
+            - text: For more information about paying overages with Azure Prepayment, see
+            - link "Pay your overage with your Azure Prepayment" [ref=e267] [cursor=pointer]:
+              - /url: direct-ea-administration#pay-your-overage-with-azure-prepayment
+            - text: .
+          - generic [ref=e268]:
+            - 'link "Section titled: View Microsoft Azure Consumption Commitment (MACC)" [ref=e269] [cursor=pointer]':
+              - /url: "#view-microsoft-azure-consumption-commitment-macc"
+              - text: 
+            - heading "View Microsoft Azure Consumption Commitment (MACC)" [level=2] [ref=e270]
+          - paragraph [ref=e271]:
+            - text: You view and track your Microsoft Azure Consumption Commitment (MACC) in the Azure portal. If your organization has a MACC for an EA billing account, you can check important aspects of your commitment, including start and end dates, remaining commitment, and eligible spend in the Azure portal. For more information, see
+            - link "MACC overview" [ref=e272] [cursor=pointer]:
+              - /url: ../benefits/macc/track-consumption-commitment
+            - text: .
+          - generic [ref=e273]:
+            - 'link "Section titled: Now that you''re familiar with the basics, here are some more links to help you get onboarded" [ref=e274] [cursor=pointer]':
+              - /url: "#now-that-youre-familiar-with-the-basics-here-are-some-more-links-to-help-you-get-onboarded"
+              - text: 
+            - heading "Now that you're familiar with the basics, here are some more links to help you get onboarded" [level=2] [ref=e275]
+          - paragraph [ref=e276]:
+            - link "Azure EA pricing" [ref=e277] [cursor=pointer]:
+              - /url: ea-pricing-overview
+            - text: provides details about how usage is calculated. It also explains how charges for various Azure services in the Enterprise Agreement, where the calculations are more complex.
+          - paragraph [ref=e278]:
+            - text: If you'd like to know about how Azure reservations for virtual machine (VM) reserved instances can help you save money with your enterprise enrollment, see
+            - link "Azure EA VM reserved instances" [ref=e279] [cursor=pointer]:
+              - /url: ea-portal-vm-reservations
+            - text: .
+          - paragraph [ref=e280]:
+            - link "Azure EA agreements and amendments" [ref=e281] [cursor=pointer]:
+              - /url: ea-portal-agreements
+            - text: describes how Azure EA agreements and amendments might affect your access, use, and payments for Azure services.
+          - paragraph [ref=e282]:
+            - link "Azure Marketplace" [ref=e283] [cursor=pointer]:
+              - /url: ea-azure-marketplace
+            - text: explains how EA customers and partners can view marketplace charges and enable Azure Marketplace purchases.
+          - paragraph [ref=e284]:
+            - text: For explanations about the common tasks that a partner EA administrator accomplishes in the Azure portal, see
+            - link "EA billing administration for partners in the Azure portal" [ref=e285] [cursor=pointer]:
+              - /url: ea-billing-administration-partners
+            - text: .
+          - generic [ref=e286]:
+            - 'link "Section titled: Related content" [ref=e287] [cursor=pointer]':
+              - /url: "#related-content"
+              - text: 
+            - heading "Related content" [level=2] [ref=e288]
+          - list [ref=e289]:
+            - listitem [ref=e290]:
+              - text: Read the
+              - link "Cost Management + Billing FAQ" [ref=e291] [cursor=pointer]:
+                - /url: ../cost-management-billing-faq
+              - text: for questions and answers about getting started with the EA billing administration.
+            - listitem [ref=e292]:
+              - text: Azure Enterprise administrators should read
+              - link "Azure EA billing administration" [ref=e293] [cursor=pointer]:
+                - /url: direct-ea-administration
+              - text: to learn about common administrative tasks.
+        - alert [ref=e294]
+        - status [ref=e295]
+        - generic [ref=e296]:
+          - separator [ref=e297]
+          - heading "Feedback" [level=2] [ref=e298]
+          - generic [ref=e299]:
+            - paragraph [ref=e300]: Was this page helpful?
+            - generic [ref=e301]:
+              - button "Yes" [ref=e302] [cursor=pointer]:
+                - generic [ref=e304]: 
+                - generic [ref=e305]: "Yes"
+              - button "No" [ref=e306] [cursor=pointer]:
+                - generic [ref=e308]: 
+                - generic [ref=e309]: "No"
+              - text: 
+      - generic [ref=e310]:
+        - separator [ref=e311]
+        - heading "Additional resources" [level=2] [ref=e312]
+        - article [ref=e314]:
+          - paragraph [ref=e315]:
+            - generic [ref=e317]: 
+            - text: Documentation
+          - list [ref=e319]:
+            - listitem [ref=e320]:
+              - paragraph [ref=e321]:
+                - link "EA Billing administration on the Azure portal - Microsoft Cost Management" [ref=e322] [cursor=pointer]:
+                  - /url: /en-us/azure/cost-management-billing/manage/direct-ea-administration?source=recommendations
+              - paragraph [ref=e323]: This article explains the common tasks that an enterprise administrator accomplishes in the Azure portal.
+            - listitem [ref=e324]:
+              - paragraph [ref=e325]:
+                - link "Azure EA agreements and amendments - Microsoft Cost Management" [ref=e326] [cursor=pointer]:
+                  - /url: /en-us/azure/cost-management-billing/manage/ea-portal-agreements?source=recommendations
+              - paragraph [ref=e327]: The article describes how Azure EA agreements and amendments might affect your access, use, and payments for Azure services.
+            - listitem [ref=e328]:
+              - paragraph [ref=e329]:
+                - link "Understand admin roles for Enterprise Agreements in Azure - Microsoft Cost Management" [ref=e330] [cursor=pointer]:
+                  - /url: /en-us/azure/cost-management-billing/manage/understand-ea-roles?source=recommendations
+              - paragraph [ref=e331]: Learn about the administrative roles available to manage Azure Enterprise Agreements (EA), including permissions and how to assign them.
+          - button "Show 5 more" [ref=e332] [cursor=pointer]:
+            - generic [ref=e333]: Show 5 more
+        - article [ref=e335]:
+          - paragraph [ref=e336]:
+            - generic [ref=e338]: 
+            - text: Training
+          - generic [ref=e339]:
+            - generic [ref=e340]:
+              - paragraph [ref=e341]: Learning path
+              - paragraph [ref=e342]:
+                - link "Control Azure spending and manage bills with Microsoft Cost Management + Billing - Training" [ref=e343] [cursor=pointer]:
+                  - /url: /en-us/training/paths/control-spending-manage-bills/?source=recommendations
+              - paragraph [ref=e344]: Learn how to monitor and control your Azure spending and optimize the use of Azure resources.
+            - generic [ref=e345]:
+              - paragraph [ref=e346]: Certification
+              - paragraph [ref=e347]:
+                - 'link "Microsoft Certified: Identity and Access Administrator Associate - Certifications" [ref=e348] [cursor=pointer]':
+                  - /url: /en-us/credentials/certifications/identity-and-access-administrator/?source=recommendations
+              - paragraph [ref=e349]: Demonstrate the features of Microsoft Entra ID to modernize identity solutions, implement hybrid solutions, and implement identity governance.
+      - generic [ref=e350]:
+        - separator [ref=e351]
+        - list [ref=e352]:
+          - listitem [ref=e353]:
+            - generic [ref=e355]: Last updated on 04/21/2026
+  - complementary "Additional resources":   
+  - text: 󿄐 Ｐ
+  - contentinfo [ref=e357]:
+    - generic [ref=e358]:
+      - link "Content language selector. Currently set to English (United States)." [ref=e359] [cursor=pointer]:
+        - /url: /en-us/locale?target=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Fcost-management-billing%2Fmanage%2Fea-direct-portal-get-started
+        - generic [ref=e361]: 
+        - generic [ref=e362]: English (United States)
+      - link "Your Privacy Choices" [ref=e364] [cursor=pointer]:
+        - /url: https://aka.ms/yourcaliforniaprivacychoices
+        - img [ref=e365]
+        - generic [ref=e370]: Your Privacy Choices
+      - button "Theme" [ref=e373] [cursor=pointer]:
+        - generic [ref=e375]: ０
+        - generic [ref=e376]: Theme
+        - generic [ref=e378]: Ｓ
+    - list [ref=e379]:
+      - listitem [ref=e380]:
+        - link "AI Disclaimer" [ref=e381] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/principles-for-ai-generated-content
+      - listitem [ref=e382]:
+        - link "Previous Versions" [ref=e383] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/previous-versions/
+      - listitem [ref=e384]:
+        - link "Blog" [ref=e385] [cursor=pointer]:
+          - /url: https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog
+      - listitem [ref=e386]:
+        - link "Contribute" [ref=e387] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/contribute
+      - listitem [ref=e388]:
+        - link "Privacy" [ref=e389] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+      - listitem [ref=e390]:
+        - link "Consumer Health Privacy" [ref=e391] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+      - listitem [ref=e392]:
+        - link "Terms of Use" [ref=e393] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/legal/termsofuse
+      - listitem [ref=e394]:
+        - link "Trademarks" [ref=e395] [cursor=pointer]:
+          - /url: https://www.microsoft.com/legal/intellectualproperty/Trademarks/
+      - listitem [ref=e396]: © Microsoft 2026

@@ -1,0 +1,31 @@
+[     782ms] [WARNING] [OneCloud-SSC] Inline JSON script #oc-cookie-consent-config not found; using defaults. @ https://azure.microsoft.com/acom/etc.clientlibs/onecloud/clientlibs/clientlib-serversideconsent.ACSHASHc3d0ffeff02f02b96c0d76c7468585af.min.js:242
+[    1814ms] [LOG] 1DS Initialized.. @ https://azure.microsoft.com/acom/etc.clientlibs/microsoft/components/structure/page/clientlibs/custom-oneds.ACSHASH2b7224aac4ea4007cb4436ebcdc8cec8.min.js:0
+[    2199ms] [LOG] MWF v2.8.1 @ https://azure.microsoft.com/acom/etc.clientlibs/onecloud/clientlibs/clientlib-mwf-new/main-light.ACSHASHfe9d5283cc0a38f995b64bf0f39192eb.min.js:13154
+[    2268ms] [LOG] gpc opt-in @ https://azure.microsoft.com/acom/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHd471cafc5d23f4577f5cf2676dcc276a.min.js:4
+[    2268ms] [LOG] Clarity consent conditions not met @ https://azure.microsoft.com/acom/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHd471cafc5d23f4577f5cf2676dcc276a.min.js:4
+[    2269ms] [LOG] No hero found. @ https://azure.microsoft.com/msonecloudapi/assets/msocbody.js:0
+[    2287ms] [INFO] [WC Visibility Fix] None of the target tags were found in the DOM. @ https://azure.microsoft.com/msonecloudapi/assets/msocbody.js:728
+[    2437ms] [LOG] WAA: using host site V2 Feature Evaluator SDK instance @ https://www.microsoft.com/webassistant/v1/uca.mjs:6
+[    2691ms] [LOG] User has given full consent for journey signals. @ https://azure.microsoft.com/msonecloudapi/assets/msochead.js:572
+[    2698ms] [LOG] Clarity loaded @ https://azure.microsoft.com/msonecloudapi/assets/msocbody.js:700
+[    2709ms] [LOG] Clarity consent granted @ https://azure.microsoft.com/acom/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHd471cafc5d23f4577f5cf2676dcc276a.min.js:4
+[    2709ms] [ERROR] Access to XMLHttpRequest at 'https://www.microsoft.com/en-US/videoplayer/resources/latest' from origin 'https://azure.microsoft.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://azure.microsoft.com/en-us/explore/global-infrastructure/government/:0
+[    2721ms] [WARNING] The keyword 'slider-vertical' specified to an 'appearance' property is not standardized. It will be removed in the future. Use <input type=range style="writing-mode: vertical-lr; direction: rtl"> instead. @ https://azure.microsoft.com/acom/etc.clientlibs/onecloud/components/content/onecloud-player/v1/onecloud-player/clientlibs/site.ACSHASH634e7c6b94a782ec4bf3cd0cc901d7f9.min.js:182
+[    2728ms] [WARNING] The keyword 'slider-vertical' specified to an 'appearance' property is not standardized. It will be removed in the future. Use <input type=range style="writing-mode: vertical-lr; direction: rtl"> instead. @ https://azure.microsoft.com/acom/etc.clientlibs/onecloud/components/content/onecloud-player/v1/onecloud-player/clientlibs/site.ACSHASH634e7c6b94a782ec4bf3cd0cc901d7f9.min.js:182
+[    2750ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.microsoft.com/en-US/videoplayer/resources/latest:0
+[    3428ms] [LOG] KIF-b7813b60-35d4-4b85-9604-b9e6c375d0e3: Launcher Rule Fired @ :1
+[    3428ms] [LOG] KIF-b7813b60-35d4-4b85-9604-b9e6c375d0e3: Loading pixels @ :1
+[    3428ms] [LOG] KIF-b7813b60-35d4-4b85-9604-b9e6c375d0e3: GCM pixel @ :1
+[    3429ms] [LOG] KIF-b7813b60-35d4-4b85-9604-b9e6c375d0e3: Reddit pixel @ :1
+[    3429ms] [LOG] KIF-b7813b60-35d4-4b85-9604-b9e6c375d0e3: TTD pixel @ :1
+[    3429ms] [LOG] KIF-b7813b60-35d4-4b85-9604-b9e6c375d0e3: Xandr Invest pixel @ :1
+[    3437ms] [LOG] new condition found @ https://assets.adobedtm.com/launch-ENc0cbffaf0f8248c3a934a56818d7737e.min.js:7
+[    3458ms] [LOG] KIF-46a086f0-ece0-4620-b963-b82fae81a037d: Launcher Rule Fired @ :1
+[    3458ms] [LOG] KIF-46a086f0-ece0-4620-b963-b82fae81a037d: LI pixel @ :1
+[    3458ms] [LOG] KIF-46a086f0-ece0-4620-b963-b82fae81a037d: FB pixel @ :1
+[    3458ms] [LOG] KIF-46a086f0-ece0-4620-b963-b82fae81a037d: Google pixel @ :1
+[    3459ms] [LOG] KIF-46a086f0-ece0-4620-b963-b82fae81a037d: Bing pixel @ :1
+[    3512ms] [LOG] KIF-ea8e367c-a1c7-4e88-ae6c-907d6b8b1ab1: Launcher Rule Fired @ :1
+[    6242ms] [ERROR] Failed to load ttMETA: Error: Timeout waiting for ttMETA
+    at poll (https://azure.microsoft.com/msonecloudapi/assets/msochead.js:573:5596) @ https://azure.microsoft.com/msonecloudapi/assets/msochead.js:572
+[    6524ms] [ERROR] Refused to execute script from 'https://signup.azure.com/epsilon/?dtm_cid=85524&dtm_cmagic=a2b968&dtm_fid=9870&dtm_promo_id=1&dtmc_loc=https%3A%2F%2Fazure.microsoft.com%2Fen-us%2Fexplore%2Fglobal-infrastructure%2Fgovernment%2F&cachebuster=495070104' because its MIME type ('') is not executable, and strict MIME type checking is enabled. @ https://azure.microsoft.com/en-us/explore/global-infrastructure/government/:0

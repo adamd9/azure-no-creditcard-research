@@ -1,0 +1,194 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to Main Content" [ref=e4] [cursor=pointer]:
+        - /url: "#main-content"
+      - generic [ref=e6]:
+        - navigation [ref=e8]:
+          - generic:
+            - banner [ref=e9]:
+              - link "Microsoft logo" [ref=e10] [cursor=pointer]:
+                - /url: https://www.microsoft.com
+                - img "Microsoft logo" [ref=e11]
+            - link "Sign in" [ref=e14] [cursor=pointer]:
+              - /url: /_login?authType=OpenIdConnect
+            - generic [ref=e15]:
+              - button "search icon" [ref=e16] [cursor=pointer]:
+                - img "search icon" [ref=e17]: 
+                - text: 
+              - text: 
+            - generic:
+              - list [ref=e18]:
+                - listitem [ref=e19]:
+                  - link "Partner" [ref=e20] [cursor=pointer]:
+                    - /url: https://partner.microsoft.com/en-us/
+                    - paragraph [ref=e21]: Partner
+                - listitem [ref=e22]:
+                  - button "Partnership" [ref=e23] [cursor=pointer]:
+                    - paragraph [ref=e24]:
+                      - text: Partnership
+                      - generic [ref=e25]: 
+                  - text:     
+                - listitem [ref=e26]:
+                  - button "Explore" [ref=e27] [cursor=pointer]:
+                    - paragraph [ref=e28]:
+                      - text: Explore
+                      - generic [ref=e29]: 
+                  - text:  
+                - listitem [ref=e30]:
+                  - button "Connect" [ref=e31] [cursor=pointer]:
+                    - paragraph [ref=e32]:
+                      - text: Connect
+                      - generic [ref=e33]: 
+                  - text:  
+                - text:  
+                - listitem [ref=e34]:
+                  - button "More " [ref=e35] [cursor=pointer]:
+                    - paragraph [ref=e36]:
+                      - text: More
+                      - generic [ref=e37]: 
+                  - text:              
+              - link "Partner Center" [ref=e38] [cursor=pointer]:
+                - /url: https://partner.microsoft.com/en-us/dashboard
+                - paragraph [ref=e39]: Partner Center
+          - text:   
+        - text: 
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - generic [ref=e44]: 
+          - heading [level=6]
+        - generic [ref=e45]:
+          - generic [ref=e46]:
+            - heading "Multiparty private offers available in Europe" [level=5] [ref=e47]:
+              - strong [ref=e48]: Multiparty private offers available in Europe
+            - paragraph [ref=e49]: Microsoft Marketplace is expanding the availability of multiparty private offers to 30 countries in Europe—making it easier for partners to work together across markets.
+          - link "Primary CTA" [ref=e51] [cursor=pointer]:
+            - /url: https://aka.ms/MPOEEAblog
+            - text: Get more details
+          - button "close" [ref=e52] [cursor=pointer]: ×
+    - main [ref=e53]:
+      - generic [ref=e56]:
+        - heading "We’re sorry. We can’t find the page you were looking for." [level=1] [ref=e57]
+        - generic [ref=e58]:
+          - paragraph [ref=e59]: Don’t worry—we still have what you need. Let us help you get back on track.
+          - link "Go to Microsoft AI Cloud Partner Program" [ref=e61] [cursor=pointer]:
+            - /url: https://partner.microsoft.com/en-us/
+            - text: Go to the home page
+            - generic [ref=e62]: 
+      - generic [ref=e64]:
+        - generic [ref=e65]:
+          - heading [level=2]
+          - paragraph
+        - generic [ref=e66]:
+          - searchbox "Search Box" [ref=e67]
+          - text: 
+          - button "search" [ref=e68] [cursor=pointer]: 
+      - generic [ref=e69]:
+        - generic:       
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - generic [ref=e73]:
+              - generic [ref=e74]: Follow Us
+              - link "Follow us on Facebook" [ref=e75] [cursor=pointer]:
+                - /url: https://www.facebook.com/mspartner
+                - generic [ref=e76]: 
+              - link "Follow us on Twitter" [ref=e77] [cursor=pointer]:
+                - /url: https://twitter.com/msPartner
+                - generic [ref=e78]: 
+              - link "Follow us on Linkedin" [ref=e79] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/3634496?trk=tyah&trkInfo=clickedVertical%3Ashowcase%2CclickedEntityId%3A3634496%2Cidx%3A4-1-8%2CtarId%3A1473815168719%2Ctas%3Amicrosoft%20partner%20net
+                - generic [ref=e80]: 
+              - link "Follow us on YouTube" [ref=e81] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/msPartner
+                - generic [ref=e82]: 
+            - generic [ref=e84]:
+              - generic [ref=e85]: Share
+              - link "Share on Facebook" [ref=e86] [cursor=pointer]:
+                - /url: https://www.facebook.com/sharer/sharer.php?u=https://partner.microsoft.com/en-US/notfound
+                - generic [ref=e87]: 
+              - link "Share on Twitter" [ref=e88] [cursor=pointer]:
+                - /url: https://twitter.com/share?url=https://partner.microsoft.com/en-US/notfound
+                - generic [ref=e89]: 
+              - link "Share on Linkedin" [ref=e90] [cursor=pointer]:
+                - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://partner.microsoft.com/en-US/notfound
+                - generic [ref=e91]: 
+          - generic [ref=e93]:
+            - generic:
+              - generic [ref=e94]: Was this page helpful?
+              - button "Was this page helpful? Yes" [ref=e95] [cursor=pointer]: "Yes"
+              - button "Was this page helpful? No" [ref=e96] [cursor=pointer]: "No"
+    - contentinfo [ref=e97]:
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - generic:
+            - generic [ref=e103]:
+              - generic [ref=e104]: Get started
+              - link "Become a partner" [ref=e106] [cursor=pointer]:
+                - /url: https://partner.microsoft.com/en-us/partnership
+              - link "Maximize your partnership" [ref=e108] [cursor=pointer]:
+                - /url: https://partner.microsoft.com/en-us/partnership/maximize-your-partnership
+              - link "Compare offerings" [ref=e110] [cursor=pointer]:
+                - /url: https://partner.microsoft.com/en-us/partnership/compare-programs
+              - link "Partner Center" [ref=e112] [cursor=pointer]:
+                - /url: https://partner.microsoft.com/en-us/dashboard
+              - link "Find a partner" [ref=e114] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/solution-providers/home
+            - generic [ref=e116]:
+              - generic [ref=e117]: Grow With Us
+              - link "ISV growth" [ref=e119] [cursor=pointer]:
+                - /url: https://partner.microsoft.com/en-us/partnership/software-development-company
+              - link "Cloud Solution Provider program" [ref=e121] [cursor=pointer]:
+                - /url: https://partner.microsoft.com/en-us/partnership/cloud-solution-provider
+              - link "New commerce and licensing" [ref=e123] [cursor=pointer]:
+                - /url: https://partner.microsoft.com/en-us/partnership/new-commerce
+              - link "Microsoft Marketplace" [ref=e125] [cursor=pointer]:
+                - /url: https://partner.microsoft.com/en-us/partnership/marketplace
+              - link "Solutions Partner designations" [ref=e127] [cursor=pointer]:
+                - /url: https://partner.microsoft.com/en-us/partnership/solutions-partner
+            - generic [ref=e129]:
+              - generic [ref=e130]: Resources
+              - link "Training" [ref=e132] [cursor=pointer]:
+                - /url: https://partner.microsoft.com/en-us/training
+              - link "Microsoft Learn" [ref=e134] [cursor=pointer]:
+                - /url: https://learn.microsoft.com/en-us/
+              - link "Microsoft Partner Community" [ref=e136] [cursor=pointer]:
+                - /url: https://www.microsoftpartnercommunity.com/
+              - link "Microsoft Partner blog" [ref=e138] [cursor=pointer]:
+                - /url: https://partner.microsoft.com/en-us/blog
+            - generic [ref=e140]:
+              - generic [ref=e141]: Support
+              - link "Get support" [ref=e143] [cursor=pointer]:
+                - /url: https://partner.microsoft.com/en-us/support/?stage=1
+              - link "Support plans" [ref=e145] [cursor=pointer]:
+                - /url: https://partner.microsoft.com/en-us/support/partnersupport
+              - link "Partner Center guidance" [ref=e147] [cursor=pointer]:
+                - /url: https://learn.microsoft.com/en-us/partner-center/
+        - generic [ref=e149]:
+          - generic:
+            - generic:
+              - generic [ref=e150]:
+                - link "United States (English) " [ref=e152] [cursor=pointer]:
+                  - /url: https://partner.microsoft.com/en-us/localeselection
+                  - text: United States (English)
+                  - generic [ref=e153]: 
+                - link "Your Privacy Choices California privacy choices" [ref=e155] [cursor=pointer]:
+                  - /url: http://aka.ms/YourCaliforniaPrivacyChoices
+                  - text: Your Privacy Choices
+                  - img "California privacy choices" [ref=e156]
+                - link "Consumer Health Privacy none" [ref=e158] [cursor=pointer]:
+                  - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+                  - text: Consumer Health Privacy
+                  - img "none" [ref=e159]
+              - generic [ref=e163]:
+                - link "Contact us" [ref=e165] [cursor=pointer]:
+                  - /url: https://support.microsoft.com/en-us/contactus
+                - link "Privacy & cookies" [ref=e167] [cursor=pointer]:
+                  - /url: http://go.microsoft.com/fwlink/?LinkId=521839
+                - link "Terms of use" [ref=e169] [cursor=pointer]:
+                  - /url: https://www.microsoft.com/en-us/legal/terms-of-use
+                - link "Trademarks" [ref=e171] [cursor=pointer]:
+                  - /url: https://www.microsoft.com/trademarks
+                - link "Partner Code of Conduct" [ref=e173] [cursor=pointer]:
+                  - /url: https://www.microsoft.com/en-us/legal/compliance/anticorruption/reppolicy.aspx
+                - generic [ref=e174]: © 2026 Microsoft
+  - status [ref=e175]

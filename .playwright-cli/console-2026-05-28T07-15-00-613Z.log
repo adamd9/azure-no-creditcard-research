@@ -1,0 +1,23 @@
+[    1902ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://learn.microsoft.com/api/recommendations/cbc18161-3b50-bfb9-aea7-dd9236291f8f/batch:0
+[    1991ms] Vt: Unexpected response status 404:  from "https://learn.microsoft.com/api/recommendations/cbc18161-3b50-bfb9-aea7-dd9236291f8f/batch". Headers: {
+  "access-control-allow-origin": "https://learn.microsoft.com",
+  "akamai-cache-status": "Miss from child, Miss from parent",
+  "cache-control": "public, max-age=43200",
+  "content-length": "246",
+  "content-type": "application/json",
+  "date": "Thu, 28 May 2026 07:15:02 GMT",
+  "expires": "Thu, 28 May 2026 19:15:02 GMT",
+  "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.01,\"failure_fraction\":1.0}",
+  "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://mdec.nelreports.net/api/report?cat=mdocs\"}]}",
+  "request-context": "appId=cid-v1:8da7faac-355b-4ce1-beec-f624ec5c6263",
+  "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+  "vary": "Origin",
+  "x-azure-ref": "20260528T071502Z-r1696c7c985nl8k8hC1SYDxhqs00000008k0000000007x9d",
+  "x-content-type-options": "nosniff",
+  "x-ms-operation-id": "d815ceac4fbf8679c2faa183ddfe5280"
+}
+    at aKe (https://learn.microsoft.com/static/assets/0.4.03433.7881-f368a308/scripts/en-us/index-docs.js:10764:16261)
+    at async Promise.all (index 1)
+    at async bPe (https://learn.microsoft.com/static/assets/0.4.03433.7881-f368a308/scripts/en-us/index-docs.js:10815:33)
+[    7171ms] [WARNING] The resource https://learn.microsoft.com/en-us/media/ask-learn/check-for-accuracy-base.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/program-faq#azure-dev-tools-for-teaching:0
+[    7171ms] [WARNING] The resource https://learn.microsoft.com/en-us/media/ask-learn/meet-ask-learn-base.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/program-faq#azure-dev-tools-for-teaching:0

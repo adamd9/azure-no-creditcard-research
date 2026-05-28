@@ -1,0 +1,797 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to main content" [ref=e4] [cursor=pointer]:
+        - /url: "#main"
+      - link "Skip to Ask Learn chat experience" [ref=e5] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - heading "Microsoft Build 2026" [level=2] [ref=e10]
+            - paragraph [ref=e11]: June 2-3, 2026
+          - link "Learn more" [ref=e12] [cursor=pointer]:
+            - /url: https://aka.ms/MSBuild_FY26_BN_MSLearn_Hero
+            - generic [ref=e13]: Learn more
+            - generic [ref=e15]: Ｔ
+        - button "Dismiss alert" [ref=e16] [cursor=pointer]:
+          - generic [ref=e17]: Dismiss alert
+      - generic [ref=e18]:
+        - text: Ｏ Ｐ 
+        - generic [ref=e19]:
+          - link "Microsoft" [ref=e20] [cursor=pointer]:
+            - /url: https://www.microsoft.com
+            - img [ref=e21]
+          - link "Learn" [ref=e27] [cursor=pointer]:
+            - /url: /en-us/
+            - generic [ref=e28]: Learn
+          - generic [ref=e29]:
+            - navigation "Global" [ref=e31]:
+              - text: Ｒ
+              - list [ref=e32]:
+                - listitem [ref=e33]:
+                  - button "Documentation" [ref=e35] [cursor=pointer]:
+                    - generic [ref=e36]: Documentation
+                    - generic [ref=e38]: Ｓ
+                - listitem [ref=e39]:
+                  - button "Training & Labs" [ref=e41] [cursor=pointer]:
+                    - generic [ref=e42]: Training & Labs
+                    - generic [ref=e44]: Ｓ
+                - listitem [ref=e45]:
+                  - button "Q&A" [ref=e47] [cursor=pointer]:
+                    - generic [ref=e48]: Q&A
+                    - generic [ref=e50]: Ｓ
+                - listitem [ref=e51]:
+                  - button "Topics" [ref=e53] [cursor=pointer]:
+                    - generic [ref=e54]: Topics
+                    - generic [ref=e56]: Ｓ
+              - text: Ｔ
+            - generic [ref=e57]:
+              - text: Ｐ
+              - button "Open search" [ref=e58] [cursor=pointer]:
+                - generic [ref=e60]: 
+          - link "Sign in" [ref=e61] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e63]:
+          - link "Azure" [ref=e64] [cursor=pointer]:
+            - /url: /en-us/azure/
+            - generic [ref=e65]: Azure
+          - navigation "Site" [ref=e66]:
+            - list [ref=e67]:
+              - listitem [ref=e68]:
+                - button "Products" [ref=e69] [cursor=pointer]:
+                  - generic [ref=e70]: Products
+                  - generic [ref=e72]: Ｓ
+                - text: Ｔ Ｔ
+              - listitem [ref=e73]:
+                - button "Architecture" [ref=e74] [cursor=pointer]:
+                  - generic [ref=e75]: Architecture
+                  - generic [ref=e77]: Ｓ
+              - listitem [ref=e78]:
+                - link "Migration" [ref=e79] [cursor=pointer]:
+                  - /url: /en-us/azure/migration/
+                  - generic [ref=e80]: Migration
+              - listitem [ref=e81]:
+                - button "Develop" [ref=e82] [cursor=pointer]:
+                  - generic [ref=e83]: Develop
+                  - generic [ref=e85]: Ｓ
+              - listitem [ref=e86]:
+                - button "Learn Azure" [ref=e87] [cursor=pointer]:
+                  - generic [ref=e88]: Learn Azure
+                  - generic [ref=e90]: Ｓ
+                - text: Ｔ
+              - listitem [ref=e91]:
+                - link "Troubleshooting" [ref=e92] [cursor=pointer]:
+                  - /url: /en-us/troubleshoot/azure/
+                  - generic [ref=e93]: Troubleshooting
+              - text: Ｓ
+              - listitem [ref=e94]:
+                - button "More" [ref=e95] [cursor=pointer]:
+                  - generic [ref=e96]: More
+                  - generic [ref=e98]: Ｓ
+                - text: Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ
+          - generic [ref=e99]:
+            - link "Portal" [ref=e100] [cursor=pointer]:
+              - /url: https://portal.azure.com
+            - link "Get started with Azure" [ref=e101] [cursor=pointer]:
+              - /url: https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn_nav_cbc18161-3b50-bfb9-aea7-dd9236291f8f
+  - navigation "Primary" [ref=e105]:
+    - button "Collapse" [expanded] [ref=e107] [cursor=pointer]:
+      - generic [ref=e109]: ﾝ
+    - search "Search" [ref=e110]:
+      - generic [ref=e111]: Search
+      - generic [ref=e113]:
+        - combobox "Search" [ref=e114]
+        - generic:
+          - generic: 󿄓
+    - tree "Table of contents" [ref=e115]:
+      - treeitem "Azure Education Hub documentation" [level=1] [ref=e116] [cursor=pointer]
+      - treeitem "Overview" [level=1] [ref=e117]:
+        - generic [ref=e118] [cursor=pointer]: Overview
+      - treeitem "Quickstarts" [level=1] [ref=e119]:
+        - generic [ref=e120] [cursor=pointer]: Quickstarts
+      - treeitem "How-to guides" [level=1] [ref=e121]:
+        - generic [ref=e122] [cursor=pointer]: How-to guides
+      - treeitem "Troubleshooting" [level=1] [ref=e123]:
+        - generic [ref=e124] [cursor=pointer]: Troubleshooting
+    - button "Download PDF" [ref=e126] [cursor=pointer]:
+      - generic [ref=e128]: 
+      - generic [ref=e129]: Download PDF
+  - main [ref=e130]:
+    - generic: Ｏ ，
+    - generic [ref=e131]:
+      - generic [ref=e132]:
+        - generic [ref=e134]:
+          - text: 
+          - group "Breadcrumbs" [ref=e135]:
+            - navigation "Breadcrumb" [ref=e136]:
+              - list [ref=e137]:
+                - listitem [ref=e138]:
+                  - link "Learn" [ref=e139] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/
+                - listitem [ref=e140]:
+                  - link "Azure" [ref=e141] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/azure/
+          - generic [ref=e142]:
+            - text: 󿄐
+            - button "Ask Learn" [ref=e143] [cursor=pointer]:
+              - generic [ref=e145]: 󿄐
+              - generic [ref=e146]: Ask Learn
+            - text: 󿄐
+            - group [ref=e147]:
+              - generic "More actions" [ref=e148] [cursor=pointer]:
+                - generic [ref=e150]: 
+        - text: ﾁ
+        - heading "Frequently asked questions about the Azure Education Hub" [level=1] [ref=e152]
+        - generic: 
+        - navigation "In this article" [ref=e153]:
+          - heading "In this article" [level=2] [ref=e154]
+          - list [ref=e155]:
+            - listitem [ref=e156]:
+              - link "Azure for Students" [ref=e157] [cursor=pointer]:
+                - /url: "#azure-for-students"
+            - listitem [ref=e158]:
+              - link "Azure for Students Starter" [ref=e159] [cursor=pointer]:
+                - /url: "#azure-for-students-starter"
+            - listitem [ref=e160]:
+              - link "Azure Academic Grant" [ref=e161] [cursor=pointer]:
+                - /url: "#azure-academic-grant"
+            - listitem [ref=e162]:
+              - link "Azure Dev Tools for Teaching" [ref=e163] [cursor=pointer]:
+                - /url: "#azure-dev-tools-for-teaching"
+        - article [ref=e165]:
+          - paragraph [ref=e167]: This article addresses frequent questions about Azure for Students, Azure for Students Starter, and Azure Dev Tools for Teaching.
+          - generic [ref=e168]:
+            - generic [ref=e169]:
+              - 'link "Section titled: Azure for Students" [ref=e170] [cursor=pointer]':
+                - /url: "#azure-for-students"
+                - text: 
+              - heading "Azure for Students" [level=2] [ref=e171]
+            - generic [ref=e172]:
+              - 'link "Section titled: What happens after I use my $100 credit or when I''m at the end of 12 months?" [ref=e173] [cursor=pointer]':
+                - /url: "#what-happens-after-i-use-my--100-credit-or-when-i-m-at-the-end-of-12-months-"
+                - text: 
+              - heading "What happens after I use my $100 credit or when I'm at the end of 12 months?" [level=3] [ref=e174]
+            - generic [ref=e175]:
+              - paragraph [ref=e176]:
+                - text: If you exhaust your available credit before 12 months and you want to continue to use Azure, you can upgrade to a
+                - link "pay-as-you-go subscription" [ref=e177] [cursor=pointer]:
+                  - /url: ../../cost-management-billing/manage/upgrade-azure-subscription
+                - text: in the
+                - link "Azure portal" [ref=e178] [cursor=pointer]:
+                  - /url: https://portal.azure.com/
+                - text: . If you don't upgrade, your Azure subscription is canceled.
+              - paragraph [ref=e179]:
+                - text: If you're at the end of 12 months, you can renew your subscription by signing up again for the offer. For more information, see the
+                - link "terms and conditions for the Azure for Students offer" [ref=e180] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/offers/ms-azr-0170p/
+                - text: .
+            - generic [ref=e181]:
+              - 'link "Section titled: Who is eligible for Azure for Students?" [ref=e182] [cursor=pointer]':
+                - /url: "#who-is-eligible-for-azure-for-students-"
+                - text: 
+              - heading "Who is eligible for Azure for Students?" [level=3] [ref=e183]
+            - generic [ref=e184]:
+              - paragraph [ref=e185]: "Azure for Students is available only to students who meet the following requirements:"
+              - list [ref=e186]:
+                - listitem [ref=e187]: You must affirm that you attend an accredited, degree-granting, two- to four-year university educational institution where you're a full-time student.
+                - listitem [ref=e188]: You must verify your academic status through your organization's email address.
+              - paragraph [ref=e189]: This offer isn't available for use in a massive open online course (MOOC) or in other professional trainings from for-profit organizations.
+              - paragraph [ref=e190]: This offer is limited to one Azure for Student subscription per eligible customer. It's nontransferable and can't be combined with any other offer, unless otherwise permitted by Microsoft.
+              - paragraph [ref=e191]:
+                - text: For more information, see the
+                - link "terms and conditions for the Azure for Students offer" [ref=e192] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/offers/ms-azr-0170p/
+                - text: .
+            - generic [ref=e193]:
+              - 'link "Section titled: What Microsoft products are included in Azure for Students?" [ref=e194] [cursor=pointer]':
+                - /url: "#what-microsoft-products-are-included-in-azure-for-students-"
+                - text: 
+              - heading "What Microsoft products are included in Azure for Students?" [level=3] [ref=e195]
+            - generic [ref=e197]:
+              - paragraph [ref=e199]:
+                - text: Agents for Visual Studio
+                - text: Azure DevOps Server
+                - text: Hyper-V
+                - text: R Client
+                - text: R Server
+                - text: Remote Tools for Visual Studio
+                - text: Skype for Business Server
+                - text: SQL Server Developer
+              - paragraph [ref=e201]:
+                - text: SQL Server Mobile Report Publisher
+                - text: SQL Server Standard
+                - text: System Center
+                - text: Visio Professional
+                - text: Visual Studio Code
+                - text: Visual Studio Community
+                - text: Visual Studio for Mac
+                - text: Windows Server
+            - generic [ref=e202]:
+              - 'link "Section titled: Can I deploy Windows 10 and Windows 11 virtual machines with my Azure for Students subscription?" [ref=e203] [cursor=pointer]':
+                - /url: "#can-i-deploy-windows-10-and-windows-11-virtual-machines-with-my-azure-for-students-subscription-"
+                - text: 
+              - heading "Can I deploy Windows 10 and Windows 11 virtual machines with my Azure for Students subscription?" [level=3] [ref=e204]
+            - paragraph [ref=e206]: Yes. As a benefit of your Azure for Students subscription, you can use Windows 10 and 11 virtual machines without the need for a Windows 11 Enterprise license.
+            - generic [ref=e207]:
+              - 'link "Section titled: Can I get Azure for Students again next year?" [ref=e208] [cursor=pointer]':
+                - /url: "#can-i-get-azure-for-students-again-next-year-"
+                - text: 
+              - heading "Can I get Azure for Students again next year?" [level=3] [ref=e209]
+            - paragraph [ref=e211]:
+              - text: Yes. You can renew your Azure for Students subscription after one year. Just before your anniversary, we send you emails that remind you to renew. To renew, sign up for the offer on the
+              - link "Azure for Students website" [ref=e212] [cursor=pointer]:
+                - /url: https://aka.ms/azure4students
+              - text: .
+            - generic [ref=e213]:
+              - 'link "Section titled: Why did I receive an invoice from Microsoft?" [ref=e214] [cursor=pointer]':
+                - /url: "#why-did-i-receive-an-invoice-from-microsoft-"
+                - text: 
+              - heading "Why did I receive an invoice from Microsoft?" [level=3] [ref=e215]
+            - paragraph [ref=e217]:
+              - text: You might receive an invoice from Microsoft that details your usage of Azure for Students in the previous month. Don't worry, because you don't have to pay for that usage. It's all covered by the credit in Azure for Students. To learn more about invoices and how they work, see the
+              - link "article about billing accounts" [ref=e218] [cursor=pointer]:
+                - /url: ../../cost-management-billing/understand/mca-overview
+              - text: .
+            - generic [ref=e219]:
+              - 'link "Section titled: What are subscriptions, and how do they relate to Azure for Students?" [ref=e220] [cursor=pointer]':
+                - /url: "#what-are-subscriptions--and-how-do-they-relate-to-azure-for-students-"
+                - text: 
+              - heading "What are subscriptions, and how do they relate to Azure for Students?" [level=3] [ref=e221]
+            - generic [ref=e222]:
+              - paragraph [ref=e223]: Subscriptions provide access to Azure services. Azure for Students gives you $100 credit for 12 months. The offer includes access to more than 25 free services, including compute, network, storage, and databases.
+              - paragraph [ref=e224]: Any charges that you incur during this period are deducted from the credit. To continue using Azure services after you exhaust your $100 credit, you must either renew (if you're 12 months in) or upgrade to a pay-as-you-go subscription.
+            - generic [ref=e225]:
+              - 'link "Section titled: What happens with my Azure services if I don''t upgrade?" [ref=e226] [cursor=pointer]':
+                - /url: "#what-happens-with-my-azure-services-if-i-don-t-upgrade-"
+                - text: 
+              - heading "What happens with my Azure services if I don't upgrade?" [level=3] [ref=e227]
+            - paragraph [ref=e229]: If you decide not to upgrade at the end of 12 months or after you exhaust your $100 credit (whichever occurs first), any products that you deployed are decommissioned and you won't be able to access them. You have 90 days from the end of your free subscription to upgrade to a pay-as-you-go subscription.
+            - generic [ref=e230]:
+              - 'link "Section titled: How do I know how much of the $100 credit I have left?" [ref=e231] [cursor=pointer]':
+                - /url: "#how-do-i-know-how-much-of-the--100-credit-i-have-left-"
+                - text: 
+              - heading "How do I know how much of the $100 credit I have left?" [level=3] [ref=e232]
+            - paragraph [ref=e234]:
+              - text: You can see your remaining credit in the
+              - link "Azure Sponsorships portal" [ref=e235] [cursor=pointer]:
+                - /url: https://www.microsoftazuresponsorships.com/
+              - text: .
+            - generic [ref=e236]:
+              - 'link "Section titled: How do I download the software developer tools?" [ref=e237] [cursor=pointer]':
+                - /url: "#how-do-i-download-the-software-developer-tools-"
+                - text: 
+              - heading "How do I download the software developer tools?" [level=3] [ref=e238]
+            - paragraph [ref=e240]:
+              - text: Your Azure for Students subscription gives you access to certain software developer tools, as long as the subscription is current and active. You can download these tools for free. To download them, go to the
+              - link "Azure Education Hub" [ref=e241] [cursor=pointer]:
+                - /url: https://portal.azure.com/#blade/Microsoft_Azure_Education/EducationMenuBlade/software
+              - text: .
+            - generic [ref=e242]:
+              - 'link "Section titled: What is Microsoft Learn training?" [ref=e243] [cursor=pointer]':
+                - /url: "#what-is-microsoft-learn-training-"
+                - text: 
+              - heading "What is Microsoft Learn training?" [level=3] [ref=e244]
+            - paragraph [ref=e246]:
+              - link "Microsoft Learn training" [ref=e247] [cursor=pointer]:
+                - /url: /en-us/training/
+              - text: is a free online learning platform that helps you learn Azure technologies at your own pace. Learning paths contain modules that start with the basics and then move to advanced methods that address real-world challenges.
+            - generic [ref=e248]:
+              - 'link "Section titled: Can I use Azure for Students for production or only for development?" [ref=e249] [cursor=pointer]':
+                - /url: "#can-i-use-azure-for-students-for-production-or-only-for-development-"
+                - text: 
+              - heading "Can I use Azure for Students for production or only for development?" [level=3] [ref=e250]
+            - paragraph [ref=e252]: Azure for Students provides access to all Azure products expressly for the support of education or teaching, noncommercial research, or efforts to design, develop, test, and demonstrate software applications for these purposes.
+            - generic [ref=e253]:
+              - 'link "Section titled: Can I apply any of my $100 credit to Azure Marketplace offers?" [ref=e254] [cursor=pointer]':
+                - /url: "#can-i-apply-any-of-my--100-credit-to-azure-marketplace-offers-"
+                - text: 
+              - heading "Can I apply any of my $100 credit to Azure Marketplace offers?" [level=3] [ref=e255]
+            - paragraph [ref=e257]: No, you can't apply your credit to Azure Marketplace offers. However, many Azure Marketplace partners offer free trials or free-tier plans for their solutions.
+            - generic [ref=e258]:
+              - 'link "Section titled: Azure for Students Starter" [ref=e259] [cursor=pointer]':
+                - /url: "#azure-for-students-starter"
+                - text: 
+              - heading "Azure for Students Starter" [level=2] [ref=e260]
+            - generic [ref=e261]:
+              - 'link "Section titled: What is Azure for Students Starter?" [ref=e262] [cursor=pointer]':
+                - /url: "#what-is-azure-for-students-starter-"
+                - text: 
+              - heading "What is Azure for Students Starter?" [level=3] [ref=e263]
+            - generic [ref=e264]:
+              - paragraph [ref=e265]: "Azure for Students Starter gets you started with the Azure products that you need to develop software in the cloud. There's no cost to you. This benefit gives you access to a free tier of the following services:"
+              - list [ref=e266]:
+                - listitem [ref=e267]: Azure App Service
+                - listitem [ref=e268]: Azure Functions
+                - listitem [ref=e269]: Azure Notification Hubs
+                - listitem [ref=e270]: Azure Database for MySQL
+                - listitem [ref=e271]: Application Insights feature of Azure Monitor
+                - listitem [ref=e272]: Azure DevOps Services (formerly Visual Studio Team Services)
+              - paragraph [ref=e273]:
+                - text: Azure for Students Starter is available to verified students without commitment or time limit. For more information, see the
+                - link "terms and conditions for the Azure for Students Starter offer" [ref=e274] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/offers/ms-azr-0144p/
+                - text: .
+            - generic [ref=e275]:
+              - 'link "Section titled: Who is eligible for Azure for Students Starter?" [ref=e276] [cursor=pointer]':
+                - /url: "#who-is-eligible-for-azure-for-students-starter-"
+                - text: 
+              - heading "Who is eligible for Azure for Students Starter?" [level=3] [ref=e277]
+            - generic [ref=e278]:
+              - paragraph [ref=e279]: "Azure for Students Starter is available only to students who meet the following requirements:"
+              - list [ref=e280]:
+                - listitem [ref=e281]: You must affirm that you're age 13 or older if you reside in the United States.
+                - listitem [ref=e282]: You must affirm that you're age 16 or older if you reside in a country/region other than the United States.
+                - listitem [ref=e283]: You must verify your academic status through your organization's email address. You can also use Shibboleth if your organization supports it.
+              - paragraph [ref=e284]: This offer isn't available for use in a massive open online course (MOOC) or in other professional trainings from for-profit organizations.
+              - paragraph [ref=e285]: This offer is limited to one Azure for Students Starter subscription per eligible customer. It's nontransferable and can't be combined with any other offer, unless otherwise permitted by Microsoft.
+            - generic [ref=e286]:
+              - 'link "Section titled: Will I have to pay something at some point?" [ref=e287] [cursor=pointer]':
+                - /url: "#will-i-have-to-pay-something-at-some-point-"
+                - text: 
+              - heading "Will I have to pay something at some point?" [level=3] [ref=e288]
+            - paragraph [ref=e290]: A credit card isn't required for the Azure for Students Starter offer. The offer gives you access to a limited set of Azure services. But, at any time, you can upgrade to a pay-as-you-go subscription to get access to all Azure services.
+            - generic [ref=e291]:
+              - 'link "Section titled: How do I download the software developer tools?" [ref=e292] [cursor=pointer]':
+                - /url: "#how-do-i-download-the-software-developer-tools-"
+                - text: 
+              - heading "How do I download the software developer tools?" [level=3] [ref=e293]
+            - paragraph [ref=e295]:
+              - text: Your Azure for Students Starter subscription gives you access to certain software developer tools, as long as the subscription is current and active. You can download these tools for free. To download them, go to the
+              - link "Azure Education Hub" [ref=e296] [cursor=pointer]:
+                - /url: https://portal.azure.com/#blade/Microsoft_Azure_Education/EducationMenuBlade/software
+              - text: .
+            - generic [ref=e297]:
+              - 'link "Section titled: What is Microsoft Learn training?" [ref=e298] [cursor=pointer]':
+                - /url: "#what-is-microsoft-learn-training-"
+                - text: 
+              - heading "What is Microsoft Learn training?" [level=3] [ref=e299]
+            - paragraph [ref=e301]:
+              - link "Microsoft Learn training" [ref=e302] [cursor=pointer]:
+                - /url: /en-us/training/
+              - text: is a free online learning platform that helps you learn Azure technologies at your own pace. Learning paths contain modules that start with the basics and then move to advanced methods that address real-world challenges.
+            - generic [ref=e303]:
+              - 'link "Section titled: Azure Academic Grant" [ref=e304] [cursor=pointer]':
+                - /url: "#azure-academic-grant"
+                - text: 
+              - heading "Azure Academic Grant" [level=2] [ref=e305]
+            - generic [ref=e306]:
+              - 'link "Section titled: How do I start using my Azure course credits?" [ref=e307] [cursor=pointer]':
+                - /url: "#how-do-i-start-using-my-azure-course-credits-"
+                - text: 
+              - heading "How do I start using my Azure course credits?" [level=3] [ref=e308]
+            - generic [ref=e309]:
+              - paragraph [ref=e310]:
+                - text: You can access your Azure course credits by creating a new Azure Academic Grant subscription. Select the
+                - strong [ref=e311]: Activate
+                - text: button in the sponsorship approval email.
+              - paragraph [ref=e312]:
+                - text: You can also convert an existing subscription to the Azure Sponsorship offer to access your credits. To convert your subscription, contact
+                - link "Azure support" [ref=e313] [cursor=pointer]:
+                  - /url: https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview
+                - text: .
+            - generic [ref=e314]:
+              - 'link "Section titled: Can I associate my course credits with an existing subscription?" [ref=e315] [cursor=pointer]':
+                - /url: "#can-i-associate-my-course-credits-with-an-existing-subscription-"
+                - text: 
+              - heading "Can I associate my course credits with an existing subscription?" [level=3] [ref=e316]
+            - paragraph [ref=e318]:
+              - text: You can associate your course credits with an existing subscription on the account that's entitled to the offer. To associate your course credits, contact
+              - link "Azure support" [ref=e319] [cursor=pointer]:
+                - /url: https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview
+              - text: .
+            - generic [ref=e320]:
+              - 'link "Section titled: Why do I see a $0 balance in the Azure portal?" [ref=e321] [cursor=pointer]':
+                - /url: "#why-do-i-see-a--0-balance-in-the-azure-portal-"
+                - text: 
+              - heading "Why do I see a $0 balance in the Azure portal?" [level=3] [ref=e322]
+            - generic [ref=e323]:
+              - paragraph [ref=e324]:
+                - text: When you go to your subscription details in the
+                - link "Azure portal" [ref=e325] [cursor=pointer]:
+                  - /url: https://portal.azure.com/
+                - text: ", you see $0.00. The offer places a 100% discount on all services. The portal shows what you're charged during your monthly usage period, which should be $0.00."
+              - paragraph [ref=e326]:
+                - text: To view your balance and sponsorship information, go to the
+                - link "Azure Sponsorships portal" [ref=e327] [cursor=pointer]:
+                  - /url: https://www.microsoftazuresponsorships.com/balance
+                - text: and sign in to your account.
+            - generic [ref=e328]:
+              - 'link "Section titled: Can I apply my course credits to an existing Enterprise Agreement?" [ref=e329] [cursor=pointer]':
+                - /url: "#can-i-apply-my-course-credits-to-an-existing-enterprise-agreement-"
+                - text: 
+              - heading "Can I apply my course credits to an existing Enterprise Agreement?" [level=3] [ref=e330]
+            - generic [ref=e331]:
+              - paragraph [ref=e332]: You can't associate your course credits with any subscription that's on an account under an Enterprise Agreement (EA). To apply course credits, you must create a new account that's outside the EA, which we can then entitle. After the sponsorship period ends, you can associate that subscription with the EA.
+              - generic [ref=e333]:
+                - paragraph [ref=e334]:
+                  - generic [ref=e336]: ２
+                  - text: Warning
+                - paragraph [ref=e337]:
+                  - text: If you associate the account with your EA before the end of the sponsorship, all sponsorship funds are terminated. For more information, see the
+                  - link "terms and conditions of the Azure Sponsorship offer" [ref=e338] [cursor=pointer]:
+                    - /url: https://azure.microsoft.com/offers/ms-azr-0143p/
+                  - text: .
+            - generic [ref=e339]:
+              - 'link "Section titled: Can I apply my course credits to my Cloud Solution Provider subscription?" [ref=e340] [cursor=pointer]':
+                - /url: "#can-i-apply-my-course-credits-to-my-cloud-solution-provider-subscription-"
+                - text: 
+              - heading "Can I apply my course credits to my Cloud Solution Provider subscription?" [level=3] [ref=e341]
+            - paragraph [ref=e343]: No, you can't associate your course credits with any Cloud Solution Provider (CSP) subscription.
+            - generic [ref=e344]:
+              - 'link "Section titled: Can I move my course credits to another account?" [ref=e345] [cursor=pointer]':
+                - /url: "#can-i-move-my-course-credits-to-another-account-"
+                - text: 
+              - heading "Can I move my course credits to another account?" [level=3] [ref=e346]
+            - paragraph [ref=e348]:
+              - text: Yes, you can move an entitlement of course credits to another account. To do so, contact
+              - link "Azure support" [ref=e349] [cursor=pointer]:
+                - /url: https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview
+              - text: .
+            - generic [ref=e350]:
+              - 'link "Section titled: Do course credits cover partner applications on Azure Marketplace?" [ref=e351] [cursor=pointer]':
+                - /url: "#do-course-credits-cover-partner-applications-on-azure-marketplace-"
+                - text: 
+              - heading "Do course credits cover partner applications on Azure Marketplace?" [level=3] [ref=e352]
+            - generic [ref=e353]:
+              - paragraph [ref=e354]:
+                - text: No, course credits don't cover applications from Microsoft partners on
+                - link "Azure Marketplace" [ref=e355] [cursor=pointer]:
+                  - /url: https://azuremarketplace.microsoft.com/marketplace/
+                - text: . Those applications are charged to the credit card on the account.
+              - paragraph [ref=e356]:
+                - text: For more information, see the
+                - link "terms and conditions of the Azure Sponsorship offer" [ref=e357] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/offers/ms-azr-0143p/
+                - text: .
+            - generic [ref=e358]:
+              - 'link "Section titled: Can I pay off a previous balance with my course credits?" [ref=e359] [cursor=pointer]':
+                - /url: "#can-i-pay-off-a-previous-balance-with-my-course-credits-"
+                - text: 
+              - heading "Can I pay off a previous balance with my course credits?" [level=3] [ref=e360]
+            - paragraph [ref=e362]: Azure course credits cover usage only from the time that you activate the Azure Sponsorship offer. You're responsible for all charges that you accrued before your offer start date.
+            - generic [ref=e363]:
+              - 'link "Section titled: How do I know if my subscription is on the Azure course credit offer?" [ref=e364] [cursor=pointer]':
+                - /url: "#how-do-i-know-if-my-subscription-is-on-the-azure-course-credit-offer-"
+                - text: 
+              - heading "How do I know if my subscription is on the Azure course credit offer?" [level=3] [ref=e365]
+            - list [ref=e367]:
+              - listitem [ref=e368]:
+                - text: In the
+                - link "Azure portal" [ref=e369] [cursor=pointer]:
+                  - /url: https://portal.azure.com/
+                - text: ", go to"
+                - strong [ref=e370]: Subscriptions
+                - text: .
+              - listitem [ref=e371]:
+                - text: In a specific subscription, check for
+                - strong [ref=e372]: Offer Name
+                - text: as one of the properties. If the
+                - strong [ref=e373]: Offer Name
+                - text: value says
+                - strong [ref=e374]: Azure Sponsorship
+                - text: ", the subscription is connected to your course credits. If"
+                - strong [ref=e375]: Azure Sponsorship
+                - text: doesn't appear, contact
+                - link "Azure support" [ref=e376] [cursor=pointer]:
+                  - /url: https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview
+                - text: to get it converted.
+            - generic [ref=e377]:
+              - 'link "Section titled: Azure Dev Tools for Teaching" [ref=e378] [cursor=pointer]':
+                - /url: "#azure-dev-tools-for-teaching"
+                - text: 
+              - heading "Azure Dev Tools for Teaching" [level=2] [ref=e379]
+            - generic [ref=e380]:
+              - 'link "Section titled: Who is eligible to purchase Azure Dev Tools for Teaching?" [ref=e381] [cursor=pointer]':
+                - /url: "#who-is-eligible-to-purchase-azure-dev-tools-for-teaching-"
+                - text: 
+              - heading "Who is eligible to purchase Azure Dev Tools for Teaching?" [level=3] [ref=e382]
+            - generic [ref=e383]:
+              - paragraph [ref=e384]: Only academic institutions that have purchased a Volume Licensing agreement with Microsoft can enroll in Azure Dev Tools for Teaching.
+              - paragraph [ref=e385]:
+                - text: If you're currently an Azure Dev Tools for Teaching customer without a Volume Licensing agreement, you can continue to renew your subscription. For more information, see the
+                - link "Volume Licensing information for academic institutions" [ref=e386] [cursor=pointer]:
+                  - /url: https://aka.ms/ees
+                - text: .
+            - generic [ref=e387]:
+              - 'link "Section titled: What products are included in the Azure Dev Tools for Teaching subscription?" [ref=e388] [cursor=pointer]':
+                - /url: "#what-products-are-included-in-the-azure-dev-tools-for-teaching-subscription-"
+                - text: 
+              - heading "What products are included in the Azure Dev Tools for Teaching subscription?" [level=3] [ref=e389]
+            - generic [ref=e391]:
+              - paragraph [ref=e393]:
+                - text: Access
+                - text: Agents for Visual Studio
+                - text: Azure DevOps Server
+                - text: Hyper-V
+                - text: Project Professional
+                - text: R Client
+                - text: R Server
+                - text: Remote Tools for Visual Studio
+                - text: SharePoint Server
+                - text: Skype for Business Server
+                - text: SQL Server Developer
+              - paragraph [ref=e395]:
+                - text: SQL Server Mobile Report Publisher
+                - text: SQL Server Standard
+                - text: System Center
+                - text: Visio Professional
+                - text: Visual Studio Code
+                - text: Visual Studio Community
+                - text: Visual Studio Enterprise
+                - text: Visual Studio for Mac
+                - text: Windows 10
+                - text: Windows 11 for Education
+                - text: Windows Server
+            - generic [ref=e396]:
+              - 'link "Section titled: How do I download the software developer tools?" [ref=e397] [cursor=pointer]':
+                - /url: "#how-do-i-download-the-software-developer-tools-"
+                - text: 
+              - heading "How do I download the software developer tools?" [level=3] [ref=e398]
+            - paragraph [ref=e400]:
+              - text: Your Azure Dev Tools for Teaching subscription gives you access to certain software developer tools, as long as the subscription is current and active. You can download these tools for free. To download them, go to the
+              - link "Azure Education Hub" [ref=e401] [cursor=pointer]:
+                - /url: https://portal.azure.com/#blade/Microsoft_Azure_Education/EducationMenuBlade/software
+              - text: .
+            - generic [ref=e402]:
+              - 'link "Section titled: How do I distribute software to students?" [ref=e403] [cursor=pointer]':
+                - /url: "#how-do-i-distribute-software-to-students-"
+                - text: 
+              - heading "How do I distribute software to students?" [level=3] [ref=e404]
+            - paragraph [ref=e406]:
+              - text: Because you're an Azure Dev Tools for Teaching subscriber, your students access the available software in the
+              - link "Education Hub Store" [ref=e407] [cursor=pointer]:
+                - /url: https://azureforeducation.microsoft.com/devtools
+              - text: ", which is part of the"
+              - link "Azure portal" [ref=e408] [cursor=pointer]:
+                - /url: https://portal.azure.com/
+              - text: . Students must sign in to the
+              - link "Azure portal" [ref=e409] [cursor=pointer]:
+                - /url: https://portal.azure.com/
+              - text: with their school (or Azure Dev Tools for Teaching) credentials.
+            - generic [ref=e410]:
+              - 'link "Section titled: Is Azure Dev Tools for Teaching available internationally?" [ref=e411] [cursor=pointer]':
+                - /url: "#is-azure-dev-tools-for-teaching-available-internationally-"
+                - text: 
+              - heading "Is Azure Dev Tools for Teaching available internationally?" [level=3] [ref=e412]
+            - paragraph [ref=e414]: Yes. It's available in more than 140 countries/regions where Azure is commercially available.
+            - generic [ref=e415]:
+              - 'link "Section titled: Which languages are available in the software?" [ref=e416] [cursor=pointer]':
+                - /url: "#which-languages-are-available-in-the-software-"
+                - text: 
+              - heading "Which languages are available in the software?" [level=3] [ref=e417]
+            - paragraph [ref=e419]: "The Education Hub Store is available in the following languages: Arabic, Chinese Simplified, Chinese Traditional, Danish, Dutch, English, French, German, Hebrew, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, and Turkish."
+            - generic [ref=e420]:
+              - 'link "Section titled: If students download software through the Azure Dev Tools for Teaching program, do they get unlimited use of the software?" [ref=e421] [cursor=pointer]':
+                - /url: "#if-students-download-software-through-the-azure-dev-tools-for-teaching-program--do-they-get-unlimited-use-of-the-software-"
+                - text: 
+              - heading "If students download software through the Azure Dev Tools for Teaching program, do they get unlimited use of the software?" [level=3] [ref=e422]
+            - paragraph [ref=e424]: Yes. Students receive unlimited software usage to further their learning and research efforts.
+            - generic [ref=e425]:
+              - 'link "Section titled: If students create viable apps and products by using Azure Dev Tools for Teaching software, can they sell them commercially?" [ref=e426] [cursor=pointer]':
+                - /url: "#if-students-create-viable-apps-and-products-by-using-azure-dev-tools-for-teaching-software--can-they-sell-them-commercially-"
+                - text: 
+              - heading "If students create viable apps and products by using Azure Dev Tools for Teaching software, can they sell them commercially?" [level=3] [ref=e427]
+            - paragraph [ref=e429]: In general, no. Students can't sell apps and products that they make by using Azure Dev Tools for Teaching. However, students can create games and applications to sell in the Windows Store.
+            - generic [ref=e430]:
+              - 'link "Section titled: Do I have unlimited use of the software through the Azure Dev Tools for Teaching program?" [ref=e431] [cursor=pointer]':
+                - /url: "#do-i-have-unlimited-use-of-the-software-through-the-azure-dev-tools-for-teaching-program-"
+                - text: 
+              - heading "Do I have unlimited use of the software through the Azure Dev Tools for Teaching program?" [level=3] [ref=e432]
+            - paragraph [ref=e434]: Yes. A faculty member who is enrolled in an approved course is eligible to install Azure Dev Tools for Teaching software on a personal computer for noncommercial use.
+            - generic [ref=e435]:
+              - 'link "Section titled: How do I access my Visual Studio Enterprise benefit?" [ref=e436] [cursor=pointer]':
+                - /url: "#how-do-i-access-my-visual-studio-enterprise-benefit-"
+                - text: 
+              - heading "How do I access my Visual Studio Enterprise benefit?" [level=3] [ref=e437]
+            - paragraph [ref=e439]:
+              - text: As an administrator of the Azure Dev Tools for Teaching subscription, you can access your Visual Studio Enterprise subscription by requesting access through the
+              - link "Azure Dev Tools for Teaching management portal" [ref=e440] [cursor=pointer]:
+                - /url: https://azureforeducation.microsoft.com/account/Subscriptions
+              - text: . After you're approved, you can sign in to the
+              - link "Visual Studio portal" [ref=e441] [cursor=pointer]:
+                - /url: https://my.visualstudio.com/
+              - text: and redeem more benefits.
+            - generic [ref=e442]:
+              - 'link "Section titled: Does Azure Dev Tools for Teaching include Microsoft Office?" [ref=e443] [cursor=pointer]':
+                - /url: "#does-azure-dev-tools-for-teaching-include-microsoft-office-"
+                - text: 
+              - heading "Does Azure Dev Tools for Teaching include Microsoft Office?" [level=3] [ref=e444]
+            - paragraph [ref=e446]: No. The focus of Azure Dev Tools for Teaching is to provide departments, faculty, and students with the necessary tools to expand their study of software development and testing. We provide technologies such as Windows Server, Visual Studio .NET, SQL Server, and the Platform SDK.
+            - generic [ref=e447]:
+              - 'link "Section titled: Does Azure Dev Tools for Teaching include Azure credit?" [ref=e448] [cursor=pointer]':
+                - /url: "#does-azure-dev-tools-for-teaching-include-azure-credit-"
+                - text: 
+              - heading "Does Azure Dev Tools for Teaching include Azure credit?" [level=3] [ref=e449]
+            - paragraph [ref=e451]:
+              - text: No, your Azure Dev Tools for Teaching subscription doesn't include Azure credit. But you can sign up for Azure for Students, which gives you $100 worth of Azure credit that you can use to pay for Azure services. For more information, go to the
+              - link "Azure for Students home page" [ref=e452] [cursor=pointer]:
+                - /url: https://aka.ms/student
+              - text: .
+            - generic [ref=e453]:
+              - 'link "Section titled: Do students need an Office 365 or Active Directory account to access Azure Dev Tools for Teaching?" [ref=e454] [cursor=pointer]':
+                - /url: "#do-students-need-an-office-365-or-active-directory-account-to-access-azure-dev-tools-for-teaching-"
+                - text: 
+              - heading "Do students need an Office 365 or Active Directory account to access Azure Dev Tools for Teaching?" [level=3] [ref=e455]
+            - paragraph [ref=e457]:
+              - text: No. Students don't need an Office 365 account. If students have access to your Active Directory account, they use the same credentials to sign in to the software. If students don't use Active Directory, they must create a
+              - link "Microsoft account" [ref=e458] [cursor=pointer]:
+                - /url: https://account.microsoft.com/account
+              - text: (if they don't already have one) by using the same email address that you give them.
+            - generic [ref=e459]:
+              - 'link "Section titled: Why aren''t my credentials recognized when I sign in to Azure Dev Tools for Teaching?" [ref=e460] [cursor=pointer]':
+                - /url: "#why-aren-t-my-credentials-recognized-when-i-sign-in-to-azure-dev-tools-for-teaching-"
+                - text: 
+              - heading "Why aren't my credentials recognized when I sign in to Azure Dev Tools for Teaching?" [level=3] [ref=e461]
+            - generic [ref=e462]:
+              - paragraph [ref=e463]: Make sure that you're using your school credentials to sign in to Azure Dev Tools for Teaching. It might help to open a private browsing session.
+              - paragraph [ref=e464]:
+                - text: If you still can't sign in, contact your subscription admin. To find your subscription admin,
+                - link "contact us" [ref=e465] [cursor=pointer]:
+                  - /url: https://azureforeducation.microsoft.com/institutions/Contact
+                - text: .
+            - generic [ref=e466]:
+              - 'link "Section titled: How do I find my subscriber ID?" [ref=e467] [cursor=pointer]':
+                - /url: "#how-do-i-find-my-subscriber-id-"
+                - text: 
+              - heading "How do I find my subscriber ID?" [level=3] [ref=e468]
+            - generic [ref=e469]:
+              - list [ref=e470]:
+                - listitem [ref=e471]:
+                  - strong [ref=e472]: When you first enroll in the program
+                  - text: ": Your subscriber ID is in the welcome email that you receive for your subscription."
+                - listitem [ref=e473]:
+                  - strong [ref=e474]: If you renewed your subscription
+                  - text: ": Your subscriber ID is in the renewal email that the subscription admin received."
+              - paragraph [ref=e475]:
+                - text: Your subscriber ID is also in the Visual Studio subscription portal. After you sign in, go to the
+                - strong [ref=e476]: My Account
+                - text: page and look under
+                - strong [ref=e477]: My Subscription
+                - text: .
+              - paragraph [ref=e478]:
+                - text: If you need help with finding your subscriber ID,
+                - link "contact us" [ref=e479] [cursor=pointer]:
+                  - /url: https://azureforeducation.microsoft.com/institutions/Contact
+                - text: .
+            - generic [ref=e480]:
+              - 'link "Section titled: Am I automatically enrolled in Azure Dev Tools for Teaching if I receive it as part of an academic Volume Licensing agreement?" [ref=e481] [cursor=pointer]':
+                - /url: "#am-i-automatically-enrolled-in-azure-dev-tools-for-teaching-if-i-receive-it-as-part-of-an-academic-volume-licensing-agreement-"
+                - text: 
+              - heading "Am I automatically enrolled in Azure Dev Tools for Teaching if I receive it as part of an academic Volume Licensing agreement?" [level=3] [ref=e482]
+            - generic [ref=e483]:
+              - paragraph [ref=e484]: "No, Microsoft doesn't automatically enroll you if you have an academic Volume Licensing agreement. The agreement includes:"
+              - list [ref=e485]:
+                - listitem [ref=e486]: Enrollment for Education Solutions
+                - listitem [ref=e487]: Open Value Subscription Agreement for Education Solutions
+                - listitem [ref=e488]: Campus Agreement
+                - listitem [ref=e489]: School Agreement
+              - paragraph [ref=e490]: You must enroll in Azure Dev Tools for Teaching by using the appropriate promotional code from the subscription welcome email that you receive for your academic volume license.
+              - paragraph [ref=e491]: You must also renew your subscription when it expires. It doesn't renew automatically.
+              - paragraph [ref=e492]:
+                - text: If you can't find your promotional code,
+                - link "contact us" [ref=e493] [cursor=pointer]:
+                  - /url: https://azureforeducation.microsoft.com/institutions/Contact
+                - text: .
+            - generic [ref=e494]:
+              - 'link "Section titled: How and when do I renew an Azure Dev Tools for Teaching subscription?" [ref=e495] [cursor=pointer]':
+                - /url: "#how-and-when-do-i-renew-an-azure-dev-tools-for-teaching-subscription-"
+                - text: 
+              - heading "How and when do I renew an Azure Dev Tools for Teaching subscription?" [level=3] [ref=e496]
+            - generic [ref=e497]:
+              - paragraph [ref=e498]:
+                - text: Sixty days before your membership expires, you start receiving email reminders to renew your subscription. If you don't receive these reminder emails and are concerned that your subscription is about to expire,
+                - link "contact us" [ref=e499] [cursor=pointer]:
+                  - /url: https://azureforeducation.microsoft.com/institutions/Contact
+                - text: .
+              - paragraph [ref=e500]:
+                - text: To check the expiration date of your subscription, go to the
+                - link "Azure Dev Tools for Teaching management portal" [ref=e501] [cursor=pointer]:
+                  - /url: https://azureforeducation.microsoft.com/account/Subscriptions
+                - text: and look under
+                - strong [ref=e502]: Subscriptions
+                - text: .
+            - generic [ref=e503]:
+              - 'link "Section titled: What if I need more help?" [ref=e504] [cursor=pointer]':
+                - /url: "#what-if-i-need-more-help-"
+                - text: 
+              - heading "What if I need more help?" [level=3] [ref=e505]
+            - paragraph [ref=e507]:
+              - text: Contact us by going to the
+              - link "subscription support page" [ref=e508] [cursor=pointer]:
+                - /url: https://azureforeducation.microsoft.com/institutions/Contact
+              - text: and locating your region.
+            - generic [ref=e509]:
+              - 'link "Section titled: Where is the Azure Dev Tools for Teaching policy for privacy and cookies?" [ref=e510] [cursor=pointer]':
+                - /url: "#where-is-the-azure-dev-tools-for-teaching-policy-for-privacy-and-cookies-"
+                - text: 
+              - heading "Where is the Azure Dev Tools for Teaching policy for privacy and cookies?" [level=3] [ref=e511]
+            - generic [ref=e512]:
+              - paragraph [ref=e513]:
+                - text: The
+                - link "Microsoft Privacy Statement" [ref=e514] [cursor=pointer]:
+                  - /url: https://privacy.microsoft.com/PrivacyStatement
+                - text: describes the personal data that Microsoft collects, how it processes that data, and why it shares that data.
+              - paragraph [ref=e515]: This privacy statement covers a range of Microsoft products, including apps, devices, servers, services, software, and websites. It also provides product-specific information and details the policy for using cookies.
+        - alert [ref=e516]
+        - status [ref=e517]
+        - generic [ref=e518]:
+          - separator [ref=e519]
+          - heading "Feedback" [level=2] [ref=e520]
+          - generic [ref=e521]:
+            - paragraph [ref=e522]: Was this page helpful?
+            - generic [ref=e523]:
+              - button "Yes" [ref=e524] [cursor=pointer]:
+                - generic [ref=e526]: 
+                - generic [ref=e527]: "Yes"
+              - button "No" [ref=e528] [cursor=pointer]:
+                - generic [ref=e530]: 
+                - generic [ref=e531]: "No"
+              - text: 
+      - generic [ref=e532]:
+        - separator [ref=e533]
+        - list [ref=e534]:
+          - listitem [ref=e535]:
+            - generic [ref=e537]: Last updated on 03/25/2026
+  - complementary "Additional resources":   
+  - text: 󿄐 Ｐ
+  - contentinfo [ref=e539]:
+    - generic [ref=e540]:
+      - link "Content language selector. Currently set to English (United States)." [ref=e541] [cursor=pointer]:
+        - /url: /en-us/locale?target=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Feducation-hub%2Fazure-dev-tools-teaching%2Fprogram-faq%23azure-dev-tools-for-teaching
+        - generic [ref=e543]: 
+        - generic [ref=e544]: English (United States)
+      - link "Your Privacy Choices" [ref=e546] [cursor=pointer]:
+        - /url: https://aka.ms/yourcaliforniaprivacychoices
+        - img [ref=e547]
+        - generic [ref=e552]: Your Privacy Choices
+      - button "Theme" [ref=e555] [cursor=pointer]:
+        - generic [ref=e557]: ０
+        - generic [ref=e558]: Theme
+        - generic [ref=e560]: Ｓ
+    - list [ref=e561]:
+      - listitem [ref=e562]:
+        - link "AI Disclaimer" [ref=e563] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/principles-for-ai-generated-content
+      - listitem [ref=e564]:
+        - link "Previous Versions" [ref=e565] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/previous-versions/
+      - listitem [ref=e566]:
+        - link "Blog" [ref=e567] [cursor=pointer]:
+          - /url: https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog
+      - listitem [ref=e568]:
+        - link "Contribute" [ref=e569] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/contribute
+      - listitem [ref=e570]:
+        - link "Privacy" [ref=e571] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+      - listitem [ref=e572]:
+        - link "Consumer Health Privacy" [ref=e573] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+      - listitem [ref=e574]:
+        - link "Terms of Use" [ref=e575] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/legal/termsofuse
+      - listitem [ref=e576]:
+        - link "Trademarks" [ref=e577] [cursor=pointer]:
+          - /url: https://www.microsoft.com/legal/intellectualproperty/Trademarks/
+      - listitem [ref=e578]: © Microsoft 2026

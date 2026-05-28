@@ -1,0 +1,5 @@
+[     887ms] [LOG] replac script @ https://partner.microsoft.com/en-US/notfound?item=%2fsolutions&user=extranet%5cAnonymous&site=partner.microsoft.com:156
+[    1094ms] [LOG] Copy-paste the following line into Sitecore CDP > Guests > Search field: @ https://partner.microsoft.com/javascript/CDP.js:97
+[    1095ms] [LOG] 30a2d019-3cbe-462e-b7df-e6cb7bdb4ee1 @ https://partner.microsoft.com/javascript/CDP.js:98
+[    4130ms] [LOG] remove lang unload @ https://partner.microsoft.com/en-US/notfound?item=%2fsolutions&user=extranet%5cAnonymous&site=partner.microsoft.com:126
+[    4130ms] [LOG] remove lang-- done @ https://partner.microsoft.com/en-US/notfound?item=%2fsolutions&user=extranet%5cAnonymous&site=partner.microsoft.com:128

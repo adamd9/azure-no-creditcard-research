@@ -1,0 +1,739 @@
+- generic [ref=e4]:
+  - generic [ref=e8]:
+    - link "Skip to main content" [ref=e9] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - banner [ref=e10]:
+      - generic [ref=e12]:
+        - text:  
+        - link "Microsoft" [ref=e13] [cursor=pointer]:
+          - /url: https://www.microsoft.com
+          - img [ref=e14]
+          - generic [ref=e15]: Microsoft
+        - text:  
+        - link "Azure" [ref=e17] [cursor=pointer]:
+          - /url: https://azure.microsoft.com/en-us
+          - generic [ref=e18]: Azure
+        - navigation "Contextual menu" [ref=e19]:
+          - list [ref=e20]:
+            - listitem [ref=e21]:
+              - link "Explore" [ref=e22] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/explore/
+            - listitem [ref=e23]:
+              - button "Products " [ref=e25] [cursor=pointer]
+            - listitem [ref=e26]:
+              - button "Solutions " [ref=e28] [cursor=pointer]
+            - listitem [ref=e29]:
+              - button "Pricing " [ref=e31] [cursor=pointer]
+            - listitem [ref=e32]:
+              - button "Partners " [ref=e34] [cursor=pointer]
+            - listitem [ref=e35]:
+              - button "Resources " [ref=e37] [cursor=pointer]
+            - text: 
+        - generic [ref=e38]:
+          - search [ref=e39]:
+            - button "Search Azure" [ref=e41] [cursor=pointer]: 
+          - navigation "All Microsoft menu" [ref=e43]:
+            - list:  
+  - main [ref=e45]:
+    - generic [ref=e48]:
+      - generic [ref=e56]:
+        - generic [ref=e59]:
+          - heading "Build in the cloud with Azure for Students for free" [level=1] [ref=e62]
+          - generic [ref=e63]: Use your school email to sign up and renew yearly while you’re a student.
+          - generic [ref=e65]:
+            - 'link "Start free: Microsoft Azure" [ref=e66] [cursor=pointer]':
+              - /url: https://go.microsoft.com/fwlink/?linkid=2062405&clcid=0x409&hasfullconsent=true
+              - generic [ref=e67]: Start free
+            - 'link "Not a student? Get started with Azure : Make AI work for you - start free with an Azure account" [ref=e68] [cursor=pointer]':
+              - /url: https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=students&hasfullconsent=true
+              - generic [ref=e69]: Not a student? Get started with Azure
+        - img "Three people discussing with each other and smiling" [ref=e74]
+      - generic [ref=e75]:
+        - navigation "In Page Navigation" [ref=e77]:
+          - list "OVERVIEW" [ref=e79]:
+            - listitem [ref=e80]:
+              - link "Overview" [ref=e81] [cursor=pointer]:
+                - /url: "#Overview"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Overview
+            - listitem [ref=e82]:
+              - link "Compare accounts" [ref=e83] [cursor=pointer]:
+                - /url: "#Compare-accounts"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Compare accounts
+            - listitem [ref=e84]:
+              - link "Free services" [ref=e85] [cursor=pointer]:
+                - /url: "#Free-services"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Free services
+            - listitem [ref=e86]:
+              - link "AI products" [ref=e87] [cursor=pointer]:
+                - /url: "#AI-products"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: AI products
+            - listitem [ref=e88]:
+              - link "Resources" [ref=e89] [cursor=pointer]:
+                - /url: "#Resources"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Resources
+            - listitem [ref=e90]:
+              - link "FAQ" [ref=e91] [cursor=pointer]:
+                - /url: "#FAQ"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: FAQ
+            - listitem [ref=e92]:
+              - link "Other account types" [ref=e93] [cursor=pointer]:
+                - /url: "#Other-account-types"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Other account types
+        - generic [ref=e94]:
+          - generic [ref=e98]:
+            - generic [ref=e104]:
+              - generic [ref=e105]: OVERVIEW
+              - heading "Discover what you can create with Azure" [level=2] [ref=e108]
+            - generic [ref=e111]:
+              - generic [ref=e115]:
+                - heading "Accelerate learning with Azure tools" [level=3] [ref=e124]:
+                  - generic [ref=e125]: Accelerate learning with Azure tools
+                - generic [ref=e127]: Gain access to industry-leading technology like Azure OpenAI along with extensive resources curated for student developers to accelerate your learning.
+              - generic [ref=e131]:
+                - heading "Apply AI and cloud skills in real-world projects" [level=3] [ref=e140]:
+                  - generic [ref=e141]: Apply AI and cloud skills in real-world projects
+                - generic [ref=e143]: Engage in interactive exploration and immediate, real-world application development, data science, and cloud computing—at any level.
+              - generic [ref=e147]:
+                - heading "No credit card required" [level=3] [ref=e156]:
+                  - generic [ref=e157]: No credit card required
+                - generic [ref=e159]: Renew your subscription annually and continue to get free access to Azure as long as you're a student.
+          - generic [ref=e161]:
+            - generic [ref=e167]:
+              - generic [ref=e168]: ACCOUNT TYPES
+              - heading "Choose the Azure account that’s right for you" [level=2] [ref=e171]
+              - generic [ref=e172]: Try Azure for Students or Azure for Students Starter—no credit card required.
+            - generic [ref=e175]:
+              - generic [ref=e178]:
+                - generic [ref=e180]:
+                  - heading "Azure for Students" [level=3] [ref=e184]:
+                    - generic [ref=e185]: Azure for Students
+                  - list [ref=e188]:
+                    - listitem [ref=e189]: Available only to full-time university students*
+                    - listitem [ref=e190]: No credit card required
+                    - listitem [ref=e191]: Free monthly amounts of 20+ popular services for 12 months (new Azure customers only)
+                    - listitem [ref=e192]: Free monthly amounts of 65+ always-free services
+                    - listitem [ref=e193]: Access to full catalog of services up to free amounts and $100 credit
+                    - listitem [ref=e194]: Gain access to industry-leading technology like Azure OpenAI along with extensive resources curated for student developers to accelerate your learning
+                    - listitem [ref=e195]: Engage in interactive exploration and immediate real-world application in development, data science, and cloud computing – at any level
+                    - listitem [ref=e196]: Renew your subscription annually and continue to get free access to Azure as long as you're a student
+                - generic [ref=e198]:
+                  - heading "$ 100 credit" [level=3] [ref=e203]:
+                    - generic [ref=e204]: $ 100 credit
+                  - generic [ref=e205]:
+                    - generic [ref=e206]: to use on Azure services within 12 months
+                    - 'link "Sign up: Microsoft azure" [ref=e210] [cursor=pointer]':
+                      - /url: https://go.microsoft.com/fwlink/?linkid=2062405&clcid=0x409&hasfullconsent=true
+                      - generic [ref=e211]: Sign up
+              - generic [ref=e214]:
+                - generic [ref=e216]:
+                  - heading "Azure for Startups" [level=3] [ref=e220]:
+                    - generic [ref=e221]: Azure for Startups
+                  - list [ref=e224]:
+                    - listitem [ref=e225]: Available only to new Azure customers
+                    - listitem [ref=e226]: $1,000 in Azure credits instantly—no application required
+                    - listitem [ref=e227]: Unlock up to $5,000 in total credits with business verification
+                    - listitem [ref=e228]: Credits valid for 90 days (initial) and 180 days (post-verification)
+                    - listitem [ref=e229]: Access to full Azure catalog up to credit limits
+                    - listitem [ref=e230]: Spending protection—credit card required only for identity verification and services beyond credit*
+                    - listitem [ref=e231]: No upfront commitment—cancel anytime. Move to pay-as-you-go pricing after credits expire or are fully used
+                - generic [ref=e233]:
+                  - heading "Up to $5,000 in Azure credits" [level=3] [ref=e238]:
+                    - generic [ref=e239]: Up to $5,000 in Azure credits
+                  - generic [ref=e240]:
+                    - generic [ref=e241]: $1,000 available immediately, plus up to $4,000 more after verification
+                    - 'link "Get started: Azure for Startups" [ref=e245] [cursor=pointer]':
+                      - /url: https://go.microsoft.com/fwlink/?linkid=2312920&clcid=0x409&hasfullconsent=true
+                      - generic [ref=e246]: Get started
+          - generic [ref=e250]:
+            - generic [ref=e256]:
+              - generic [ref=e257]: FREE SERVICES
+              - heading "Create more with access to free products" [level=2] [ref=e260]
+              - generic [ref=e261]: Build and create with a host of free products, up to the specified monthly amounts. Some are always free to all Azure customers, and some are free for 12 months to new customers only.
+            - generic [ref=e263]:
+              - generic [ref=e265]:
+                - generic [ref=e267]:
+                  - tablist [ref=e270]:
+                    - tab "Popular services" [selected] [ref=e271] [cursor=pointer]
+                    - tab "AI and machine learning" [ref=e272] [cursor=pointer]
+                    - tab "Hybrid and multicloud" [ref=e273] [cursor=pointer]
+                    - tab "Compute" [ref=e274] [cursor=pointer]
+                    - tab "Containers" [ref=e275] [cursor=pointer]
+                    - tab "Databases" [ref=e276] [cursor=pointer]
+                    - tab "IoT" [ref=e277] [cursor=pointer]
+                    - tab "Management and governance" [ref=e278] [cursor=pointer]
+                  - text:  
+                - generic [ref=e281]:
+                  - tabpanel [ref=e282]:
+                    - generic [ref=e286]:
+                      - generic [ref=e289]:
+                        - generic [ref=e294]:
+                          - generic [ref=e295]:
+                            - generic [ref=e296]: Always
+                            - heading "Azure DevOps" [level=3] [ref=e299]:
+                              - generic [ref=e300]: Azure DevOps
+                          - generic [ref=e301]: 5 users with unlimited private Git repos
+                        - link "Learn more about Azure DevOps" [ref=e304] [cursor=pointer]:
+                          - /url: https://azure.microsoft.com/en-us/products/devops/
+                          - generic [ref=e305]: Learn more
+                      - generic [ref=e308]:
+                        - generic [ref=e313]:
+                          - generic [ref=e314]:
+                            - generic [ref=e315]: Always
+                            - heading "Azure Speech in Foundry Tools" [level=3] [ref=e318]:
+                              - generic [ref=e319]: Azure Speech in Foundry Tools
+                          - generic [ref=e320]: 0.5 million neural characters per month
+                        - link "Learn more about Azure AI Speech" [ref=e323] [cursor=pointer]:
+                          - /url: https://azure.microsoft.com/en-us/products/ai-services/ai-speech/
+                          - generic [ref=e324]: Learn more
+                      - generic [ref=e327]:
+                        - generic [ref=e332]:
+                          - generic [ref=e333]:
+                            - generic [ref=e334]: 12 months
+                            - heading "Azure Container Registry" [level=3] [ref=e337]:
+                              - generic [ref=e338]: Azure Container Registry
+                          - generic [ref=e339]: 1 Standard tier registry with 100 GB storage and 10 webhooks
+                        - link "Learn more about Azure Container Registry" [ref=e342] [cursor=pointer]:
+                          - /url: https://azure.microsoft.com/en-us/products/container-registry/
+                          - generic [ref=e343]: Learn more
+                      - generic [ref=e346]:
+                        - generic [ref=e351]:
+                          - generic [ref=e352]:
+                            - generic [ref=e353]: 12 months
+                            - heading "Azure Virtual Machines for Linux or Windows" [level=3] [ref=e356]:
+                              - generic [ref=e357]: Azure Virtual Machines for Linux or Windows
+                          - generic [ref=e358]: 750 hours each of B1s, B2pts v2 (Arm-based), and B2ats v2 (AMD-based) burstable VMs
+                        - link "Learn more about Azure Virtual Machines" [ref=e361] [cursor=pointer]:
+                          - /url: https://azure.microsoft.com/en-us/products/virtual-machines
+                          - generic [ref=e362]: Learn more
+                      - generic [ref=e365]:
+                        - generic [ref=e370]:
+                          - generic [ref=e371]:
+                            - generic [ref=e372]: Always
+                            - heading "Azure Data Catalog" [level=3] [ref=e375]:
+                              - generic [ref=e376]: Azure Data Catalog
+                          - generic [ref=e377]: Unlimited users
+                        - link "Learn more about Azure Data Catalog" [ref=e380] [cursor=pointer]:
+                          - /url: https://azure.microsoft.com/en-us/products/data-catalog/
+                          - generic [ref=e381]: Learn more
+                      - generic [ref=e384]:
+                        - generic [ref=e389]:
+                          - generic [ref=e390]:
+                            - generic [ref=e391]: Always
+                            - heading "Azure Data Factory" [level=3] [ref=e394]:
+                              - generic [ref=e395]: Azure Data Factory
+                          - generic [ref=e396]: 5 low-frequency activities
+                        - link "Learn more about Azure Data Factory" [ref=e399] [cursor=pointer]:
+                          - /url: https://azure.microsoft.com/en-us/products/data-factory
+                          - generic [ref=e400]: Learn more
+                      - generic [ref=e403]:
+                        - generic [ref=e408]:
+                          - generic [ref=e409]:
+                            - generic [ref=e410]: Always
+                            - heading "Azure SQL Database" [level=3] [ref=e413]:
+                              - generic [ref=e414]: Azure SQL Database
+                          - generic [ref=e415]: 100,000 vCore seconds of SQL database serverless usage per month with 32 GB of storage
+                        - link "Learn more about Azure SQL Database" [ref=e418] [cursor=pointer]:
+                          - /url: https://azure.microsoft.com/en-us/products/azure-sql/database
+                          - generic [ref=e419]: Learn more
+                      - generic [ref=e422]:
+                        - generic [ref=e427]:
+                          - generic [ref=e428]:
+                            - generic [ref=e429]: Always
+                            - heading "Azure Document Intelligence in Foundry Tools" [level=3] [ref=e432]:
+                              - generic [ref=e433]: Azure Document Intelligence in Foundry Tools
+                          - generic [ref=e434]: 500 pages S0 tier
+                        - link "Learn more about Azure AI Document Intelligence" [ref=e437] [cursor=pointer]:
+                          - /url: https://azure.microsoft.com/en-us/products/ai-services/ai-document-intelligence
+                          - generic [ref=e438]: Learn more
+                  - link "Back to tabs" [ref=e439] [cursor=pointer]:
+                    - /url: "#Free-services1_tab0-tab"
+              - link "See all free services:Explore free Azure services" [ref=e441] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/pricing/free-services/
+                - generic [ref=e443]: 
+                - generic [ref=e444]: See all free services
+          - generic [ref=e445]:
+            - generic [ref=e452]:
+              - generic [ref=e453]: AI products
+              - heading "Everything you need to build high-quality generative AI at scale" [level=2] [ref=e456]
+              - generic [ref=e457]: Use your Azure student account to access powerful AI tools for free and start building today.
+            - region "carousel" [ref=e462]:
+              - generic [ref=e463]: Showing 1-3 of 6 slides
+              - generic [ref=e464]:
+                - button "Previous Slide" [disabled] [ref=e465]:
+                  - generic [ref=e466]: Previous Slide
+                  - generic [ref=e467]: 
+                - button "Next Slide" [ref=e468] [cursor=pointer]:
+                  - generic [ref=e469]: Next Slide
+                  - generic [ref=e470]: 
+              - generic [ref=e472]:
+                - group "1 of 6" [ref=e473]:
+                  - generic [ref=e475]:
+                    - generic [ref=e480]:
+                      - heading "Azure OpenAI" [level=3] [ref=e484]:
+                        - generic [ref=e485]: Azure OpenAI
+                      - generic [ref=e486]: Bring reasoning and multimodal versatility to your generative AI experiences with secure, scalable access to the latest OpenAI models, including the o1 and GPT-4 series.
+                    - link "Learn more about Azure OpenAI in Foundry Models" [ref=e489] [cursor=pointer]:
+                      - /url: https://azure.microsoft.com/en-us/products/ai-services/openai-service/
+                      - generic [ref=e490]: Learn more
+                - group "2 of 6" [ref=e491]:
+                  - generic [ref=e493]:
+                    - generic [ref=e498]:
+                      - heading "Microsoft Foundry" [level=3] [ref=e502]:
+                        - generic [ref=e503]: Microsoft Foundry
+                      - generic [ref=e504]: Develop and deploy generative AI apps and APIs responsibly with a comprehensive platform.
+                    - link "Learn more about Azure AI Foundry" [ref=e507] [cursor=pointer]:
+                      - /url: https://azure.microsoft.com/en-us/products/ai-foundry/
+                      - generic [ref=e508]: Learn more
+                - group "3 of 6" [ref=e509]:
+                  - generic [ref=e511]:
+                    - generic [ref=e516]:
+                      - heading "Azure AI Search" [level=3] [ref=e520]:
+                        - generic [ref=e521]: Azure AI Search
+                      - generic [ref=e522]: Easily find the information you need when you need it with a state-of-the art retrieval system that uncovers hidden patterns with unparalleled precision.
+                    - link "Learn more about Azure AI Search" [ref=e525] [cursor=pointer]:
+                      - /url: https://azure.microsoft.com/en-us/products/ai-services/ai-search/
+                      - generic [ref=e526]: Learn more
+                - group [ref=e527]:
+                  - generic [ref=e529]:
+                    - generic [ref=e534]:
+                      - heading [level=3] [ref=e538]:
+                        - generic [ref=e539]: Content Safety in Foundry Control Plane
+                      - generic [ref=e540]: Maintain a more secure digital presence with safeguards that automatically help mitigate harmful content, protect users, and enhance trust.
+                    - link [ref=e543] [cursor=pointer]:
+                      - /url: https://go.microsoft.com/fwlink/?linkid=2348516&clcid=0x409
+                      - generic [ref=e544]: Learn more
+                - group [ref=e545]:
+                  - generic [ref=e547]:
+                    - generic [ref=e552]:
+                      - heading [level=3] [ref=e556]:
+                        - generic [ref=e557]: Phi open models
+                      - generic [ref=e558]: Get powerful small language models (SLMs) with groundbreaking performance at low cost and low latency.
+                    - link [ref=e561] [cursor=pointer]:
+                      - /url: https://azure.microsoft.com/en-us/products/phi/
+                      - generic [ref=e562]: Learn more
+                - group [ref=e563]:
+                  - generic [ref=e565]:
+                    - generic [ref=e570]:
+                      - heading [level=3] [ref=e574]:
+                        - generic [ref=e575]: Foundry models
+                      - generic [ref=e576]: Experiment with and deploy more than 1,700 foundation models from creators such as Microsoft, OpenAI, Hugging Face, Meta, and Cohere.
+                    - link [ref=e579] [cursor=pointer]:
+                      - /url: https://azure.microsoft.com/en-us/products/ai-model-catalog/
+                      - generic [ref=e580]: Learn more
+              - link "Back to carousel navigation controls" [ref=e582] [cursor=pointer]:
+                - /url: javascript:void(0);
+          - generic [ref=e583]:
+            - generic [ref=e592]:
+              - generic [ref=e593]: Resources
+              - heading "Build your skills for free before you build in Azure" [level=2] [ref=e596]
+            - region "Resources" [ref=e601]:
+              - generic [ref=e602]: Showing 1-2 of 6 slides
+              - generic [ref=e603]:
+                - button "Previous Slide" [disabled] [ref=e604]:
+                  - generic [ref=e605]: Previous Slide
+                  - generic [ref=e606]: 
+                - button "Next Slide" [ref=e607] [cursor=pointer]:
+                  - generic [ref=e608]: Next Slide
+                  - generic [ref=e609]: 
+              - generic [ref=e611]:
+                - group "1 of 6" [ref=e612]:
+                  - generic [ref=e613]:
+                    - generic [ref=e615]:
+                      - generic:
+                        - img "Two people talking to each other while looking at the screen."
+                    - generic [ref=e616]:
+                      - generic [ref=e617]:
+                        - heading "Fundamental AI Concepts" [level=3] [ref=e622]:
+                          - generic [ref=e623]: Fundamental AI Concepts
+                        - generic [ref=e625]: Understand what all the artificial intelligence buzz is about with a module that introduces you to the world of AI.
+                      - 'link "Start learning : Introduction to AI concepts" [ref=e628] [cursor=pointer]':
+                        - /url: https://go.microsoft.com/fwlink/?linkid=2235934&clcid=0x409
+                        - generic [ref=e630]: 
+                        - generic [ref=e631]: Start learning
+                - group "2 of 6" [ref=e632]:
+                  - generic [ref=e633]:
+                    - generic [ref=e635]:
+                      - generic:
+                        - img "A woman working on her laptop"
+                    - generic [ref=e636]:
+                      - generic [ref=e638]:
+                        - heading "Get started with Foundry Tools" [level=3] [ref=e642]:
+                          - generic [ref=e643]: Get started with Foundry Tools
+                        - generic [ref=e644]: Learn how to provision, secure, monitor, and deploy Foundry Tools resources and use them to build intelligent solutions.
+                      - 'link "Start learning : Develop generative AI apps in Azure" [ref=e647] [cursor=pointer]':
+                        - /url: https://go.microsoft.com/fwlink/?linkid=2337659&clcid=0x409
+                        - generic [ref=e649]: 
+                        - generic [ref=e650]: Start learning
+                - group [ref=e651]:
+                  - generic [ref=e655]:
+                    - generic [ref=e657]:
+                      - heading [level=3] [ref=e661]:
+                        - generic [ref=e662]: Develop generative AI apps in Microsoft Foundry
+                      - generic [ref=e663]: Understand how to select, deploy, and test various language models, and to improve performance.
+                    - link [ref=e666] [cursor=pointer]:
+                      - /url: https://go.microsoft.com/fwlink/?linkid=2337660&clcid=0x409
+                      - generic [ref=e668]: 
+                      - generic [ref=e669]: Start learning
+                - group [ref=e670]:
+                  - generic [ref=e674]:
+                    - generic [ref=e676]:
+                      - heading [level=3] [ref=e680]:
+                        - generic [ref=e681]: Host a web app with Azure App Service
+                      - generic [ref=e682]: Learn how to build and host a web app. Use the programming language of your choice with no need to manage infrastructure.
+                    - link [ref=e685] [cursor=pointer]:
+                      - /url: https://go.microsoft.com/fwlink/?linkid=2236301&clcid=0x409
+                      - generic [ref=e687]: 
+                      - generic [ref=e688]: Start learning
+                - group [ref=e689]:
+                  - generic [ref=e693]:
+                    - generic [ref=e694]:
+                      - heading [level=3] [ref=e699]:
+                        - generic [ref=e700]: "Azure Data Fundamentals: Explore relational data"
+                      - generic [ref=e702]: Learn how to manage relational databases, enabling you to build new applications or migrate existing ones to the cloud.
+                    - link [ref=e705] [cursor=pointer]:
+                      - /url: https://go.microsoft.com/fwlink/?linkid=2337763&clcid=0x409
+                      - generic [ref=e707]: 
+                      - generic [ref=e708]: Start learning
+                - group [ref=e709]:
+                  - generic [ref=e713]:
+                    - generic [ref=e714]:
+                      - heading [level=3] [ref=e719]:
+                        - generic [ref=e720]: Deploy cloud-native apps using Azure Container Apps
+                      - generic [ref=e722]: Develop the skills necessary to configure a secure deployment solution for cloud-native apps. Learn how to build, deploy, scale, and manage containerized cloud-native apps.
+                    - link [ref=e725] [cursor=pointer]:
+                      - /url: https://go.microsoft.com/fwlink/?linkid=2320331&clcid=0x409
+                      - generic [ref=e727]: 
+                      - generic [ref=e728]: See module
+              - link "Back to carousel navigation controls" [ref=e730] [cursor=pointer]:
+                - /url: javascript:void(0);
+          - generic [ref=e732]:
+            - generic [ref=e739]: FAQ
+            - generic [ref=e742]:
+              - generic [ref=e743]:
+                - heading "Frequently asked questions" [level=2] [ref=e745]
+                - group [ref=e746]:
+                  - generic [ref=e747]:
+                    - button "Expand all" [ref=e748] [cursor=pointer]:
+                      - generic [ref=e750]: Expand all
+                    - button "Collapse all" [disabled] [pressed] [ref=e751]:
+                      - generic [ref=e753]: Collapse all
+              - list [ref=e754]:
+                - listitem [ref=e755]:
+                  - button "01/ What happens once I use my $100 free credit? " [ref=e758] [cursor=pointer]:
+                    - generic [ref=e762]: 01/
+                    - heading "What happens once I use my $100 free credit?" [level=3] [ref=e766]:
+                      - generic [ref=e767]: What happens once I use my $100 free credit?
+                    - text: 
+                - listitem [ref=e768]:
+                  - button "02/ Can I apply my $100 credit toward Azure Marketplace offers? " [ref=e771] [cursor=pointer]:
+                    - generic [ref=e775]: 02/
+                    - heading "Can I apply my $100 credit toward Azure Marketplace offers?" [level=3] [ref=e779]:
+                      - generic [ref=e780]: Can I apply my $100 credit toward Azure Marketplace offers?
+                    - text: 
+                - listitem [ref=e781]:
+                  - button "03/ How many Azure for Students accounts am I allowed to sign up for? " [ref=e784] [cursor=pointer]:
+                    - generic [ref=e788]: 03/
+                    - heading "How many Azure for Students accounts am I allowed to sign up for?" [level=3] [ref=e792]:
+                      - generic [ref=e793]: How many Azure for Students accounts am I allowed to sign up for?
+                    - text: 
+                - listitem [ref=e794]:
+                  - button "04/ How do I get my free developer tools? " [ref=e797] [cursor=pointer]:
+                    - generic [ref=e801]: 04/
+                    - heading "How do I get my free developer tools?" [level=3] [ref=e805]:
+                      - generic [ref=e806]: How do I get my free developer tools?
+                    - text: 
+                - listitem [ref=e807]:
+                  - button "05/ How do I activate and use my Azure student account? " [ref=e810] [cursor=pointer]:
+                    - generic [ref=e814]: 05/
+                    - heading "How do I activate and use my Azure student account?" [level=3] [ref=e818]:
+                      - generic [ref=e819]: How do I activate and use my Azure student account?
+                    - text: 
+                - listitem [ref=e820]:
+                  - button "06/ What does Azure for Students include? " [ref=e823] [cursor=pointer]:
+                    - generic [ref=e827]: 06/
+                    - heading "What does Azure for Students include?" [level=3] [ref=e831]:
+                      - generic [ref=e832]: What does Azure for Students include?
+                    - text: 
+                - listitem [ref=e833]:
+                  - button "07/ How much is Azure for Students? " [ref=e836] [cursor=pointer]:
+                    - generic [ref=e840]: 07/
+                    - heading "How much is Azure for Students?" [level=3] [ref=e844]:
+                      - generic [ref=e845]: How much is Azure for Students?
+                    - text: 
+                - listitem [ref=e846]:
+                  - button "08/ Can I learn Azure on my own? " [ref=e849] [cursor=pointer]:
+                    - generic [ref=e853]: 08/
+                    - heading "Can I learn Azure on my own?" [level=3] [ref=e857]:
+                      - generic [ref=e858]: Can I learn Azure on my own?
+                    - text: 
+          - generic [ref=e869]:
+            - img "A woman sitting beside screens and smiling" [ref=e873]
+            - generic [ref=e874]:
+              - generic [ref=e880]: Other account options
+              - generic [ref=e881]:
+                - heading "Not a student? Choose the Azure account that’s right for you" [level=3] [ref=e886]
+                - generic [ref=e888]: Pay as you go or try Azure free for up to 30 days.
+              - 'link "Get started with Azure : Make AI work for you - start free with an Azure account" [ref=e891] [cursor=pointer]':
+                - /url: https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=students&hasfullconsent=true
+                - generic [ref=e892]: Get started with Azure
+      - generic [ref=e912]:
+        - link "Explore Azure Portal - Build, deploy, and optimize resources centrally for your Azure account from cloud to edge with an intelligent and intuitive portal for fast and efficient operations." [ref=e915] [cursor=pointer]:
+          - /url: https://azure.microsoft.com/en-us/get-started/azure-portal
+          - text: Explore Azure Portal
+        - region "Social media to follow" [ref=e917]:
+          - list [ref=e918]:
+            - listitem [ref=e919]:
+              - link "follow Microsoft Azure on twitter" [ref=e920] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/?linkid=2275431
+                - img "X" [ref=e921]
+            - listitem [ref=e922]:
+              - link "follow Microsoft developer on Instagram" [ref=e923] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/?linkid=2301856
+                - img "Instagram" [ref=e924]
+            - listitem [ref=e925]:
+              - link "follow Microsoft Azure on LinkedIn" [ref=e926] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/?linkid=2268687
+                - img "LinkedIn" [ref=e927]
+            - listitem [ref=e928]:
+              - link "follow Microsoft Azure on YouTube" [ref=e929] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/?linkid=2239941
+                - img "YouTube" [ref=e930]
+  - contentinfo [ref=e935]:
+    - navigation "Footer Resource links" [ref=e936]:
+      - generic [ref=e937]:
+        - generic [ref=e938]:
+          - heading "Explore Azure" [level=2] [ref=e939]
+          - list [ref=e940]:
+            - listitem [ref=e941]:
+              - link "What is Azure? Explore Azure" [ref=e942] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/
+                - text: What is Azure?
+            - listitem [ref=e943]:
+              - link "Get started with Azure Explore Azure" [ref=e944] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/get-started/
+                - text: Get started with Azure
+            - listitem [ref=e945]:
+              - link "Global infrastructure Explore Azure" [ref=e946] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/explore/global-infrastructure/
+                - text: Global infrastructure
+            - listitem [ref=e947]:
+              - link "Datacenter regions Explore Azure" [ref=e948] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/explore/global-infrastructure/geographies/
+                - text: Datacenter regions
+            - listitem [ref=e949]:
+              - link "Trust your cloud Explore Azure" [ref=e950] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/explore/trusted-cloud/
+                - text: Trust your cloud
+            - listitem [ref=e951]:
+              - link "Azure Essentials Explore Azure" [ref=e952] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/solutions/azure-essentials
+                - text: Azure Essentials
+            - listitem [ref=e953]:
+              - link "Customer stories Explore Azure" [ref=e954] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/customers/search?filters=product%3Aazure
+                - text: Customer stories
+        - generic [ref=e955]:
+          - heading "Products and pricing" [level=2] [ref=e956]
+          - list [ref=e957]:
+            - listitem [ref=e958]:
+              - link "Products Products and pricing" [ref=e959] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/products/
+                - text: Products
+            - listitem [ref=e960]:
+              - link "Azure pricing Products and pricing" [ref=e961] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/pricing/
+                - text: Azure pricing
+            - listitem [ref=e962]:
+              - link "Free Azure services Products and pricing" [ref=e963] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/pricing/free-services/
+                - text: Free Azure services
+            - listitem [ref=e964]:
+              - link "Flexible purchase options Products and pricing" [ref=e965] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/pricing/purchase-options/
+                - text: Flexible purchase options
+            - listitem [ref=e966]:
+              - link "FinOps on Azure Products and pricing" [ref=e967] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/solutions/finops/
+                - text: FinOps on Azure
+            - listitem [ref=e968]:
+              - link "Maximize ROI from AI Products and pricing" [ref=e969] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/solutions/maximize-roi-from-ai
+                - text: Maximize ROI from AI
+        - generic [ref=e970]:
+          - heading "Solutions and support" [level=2] [ref=e971]
+          - list [ref=e972]:
+            - listitem [ref=e973]:
+              - link "Solutions Solutions and support" [ref=e974] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/solutions/
+                - text: Solutions
+            - listitem [ref=e975]:
+              - link "Resources for accelerating growth Solutions and support" [ref=e976] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/solutions/turn-your-vision-into-impact-with-azure/
+                - text: Resources for accelerating growth
+            - listitem [ref=e977]:
+              - link "Solution architectures Solutions and support" [ref=e978] [cursor=pointer]:
+                - /url: https://learn.microsoft.com/azure/architecture/browse/
+                - text: Solution architectures
+            - listitem [ref=e979]:
+              - link "Support Solutions and support" [ref=e980] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/support/
+                - text: Support
+            - listitem [ref=e981]:
+              - link "Azure demo and live Q&A Solutions and support" [ref=e982] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/get-started/welcome-to-azure/
+                - text: Azure demo and live Q&A
+      - generic [ref=e983]:
+        - generic [ref=e984]:
+          - heading "Partners" [level=2] [ref=e985]
+          - list [ref=e986]:
+            - listitem [ref=e987]:
+              - link "Software Development Companies Partners" [ref=e988] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/software-development-companies
+                - text: Software Development Companies
+            - listitem [ref=e989]:
+              - link "Microsoft Marketplace Partners" [ref=e990] [cursor=pointer]:
+                - /url: https://marketplace.microsoft.com/en-us/
+                - text: Microsoft Marketplace
+            - listitem [ref=e991]:
+              - link "Find a partner Partners" [ref=e992] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/partners/
+                - text: Find a partner
+        - generic [ref=e993]:
+          - heading "Resources" [level=2] [ref=e994]
+          - list [ref=e995]:
+            - listitem [ref=e996]:
+              - link "Documentation Resources" [ref=e997] [cursor=pointer]:
+                - /url: https://learn.microsoft.com/en-us/azure/
+                - text: Documentation
+            - listitem [ref=e998]:
+              - link "Blog Resources" [ref=e999] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/blog/
+                - text: Blog
+            - listitem [ref=e1000]:
+              - link "Developer resources Resources" [ref=e1001] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/resources/developers/
+                - text: Developer resources
+            - listitem [ref=e1002]:
+              - link "Students Resources" [ref=e1003] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/resources/students/
+                - text: Students
+            - listitem [ref=e1004]:
+              - link "Events and Webinars Resources" [ref=e1005] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/resources/events/
+                - text: Events and Webinars
+            - listitem [ref=e1006]:
+              - link "Analyst reports, white papers, and e-books Resources" [ref=e1007] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/resources/research/
+                - text: Analyst reports, white papers, and e-books
+            - listitem [ref=e1008]:
+              - link "Videos Resources" [ref=e1009] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/resources/videos
+                - text: Videos
+        - generic [ref=e1010]:
+          - heading "Cloud computing" [level=2] [ref=e1011]
+          - list [ref=e1012]:
+            - listitem [ref=e1013]:
+              - link "What is cloud computing? Cloud computing" [ref=e1014] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing/
+                - text: What is cloud computing?
+            - listitem [ref=e1015]:
+              - link "What is multicloud? Cloud computing" [ref=e1016] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-multi-cloud
+                - text: What is multicloud?
+            - listitem [ref=e1017]:
+              - link "What is machine learning? Cloud computing" [ref=e1018] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-machine-learning-platform
+                - text: What is machine learning?
+            - listitem [ref=e1019]:
+              - link "What is deep learning? Cloud computing" [ref=e1020] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-deep-learning
+                - text: What is deep learning?
+            - listitem [ref=e1021]:
+              - link "What is AIaaS? Cloud computing" [ref=e1022] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-aiaas
+                - text: What is AIaaS?
+            - listitem [ref=e1023]:
+              - link "What are LLMs? Cloud computing" [ref=e1024] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-large-language-models-llms
+                - text: What are LLMs?
+            - listitem [ref=e1025]:
+              - link "What is a container? Cloud computing" [ref=e1026] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-container
+                - text: What is a container?
+            - listitem [ref=e1027]:
+              - link "What is RAG? Cloud computing" [ref=e1028] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-retrieval-augmented-generation-rag
+                - text: What is RAG?
+    - generic [ref=e1029]:
+      - link "Content Language Selector. Currently set to English (United States)" [ref=e1030] [cursor=pointer]:
+        - /url: https://azure.microsoft.com/en-us/locale
+        - text:  English (United States)
+      - link "Your Privacy Choices Opt-Out Icon Your Privacy Choices" [ref=e1031] [cursor=pointer]:
+        - /url: https://aka.ms/yourcaliforniaprivacychoices
+        - img "Your Privacy Choices Opt-Out Icon" [ref=e1032]
+        - generic [ref=e1037]: Your Privacy Choices
+      - link "Consumer Health Privacy" [ref=e1038] [cursor=pointer]:
+        - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+        - generic [ref=e1039]: Consumer Health Privacy
+      - navigation "Microsoft corporate links" [ref=e1040]:
+        - list [ref=e1041]:
+          - listitem [ref=e1042]:
+            - link "Sitemap" [ref=e1043] [cursor=pointer]:
+              - /url: https://www.microsoft.com/en-us/sitemap1.aspx
+          - listitem [ref=e1044]:
+            - link "Contact Microsoft" [ref=e1045] [cursor=pointer]:
+              - /url: https://support.microsoft.com/contactus
+          - listitem [ref=e1046]:
+            - link "Privacy" [ref=e1047] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+          - listitem [ref=e1048]:
+            - link "Terms of use" [ref=e1049] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?LinkID=206977
+          - listitem [ref=e1050]:
+            - link "Trademarks" [ref=e1051] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?linkid=2196228
+          - listitem [ref=e1052]:
+            - link "Safety & eco" [ref=e1053] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?linkid=2196227
+          - listitem [ref=e1054]:
+            - link "Recycling" [ref=e1055] [cursor=pointer]:
+              - /url: https://www.microsoft.com/en-us/legal/compliance/recycling
+          - listitem [ref=e1056]:
+            - link "About our ads" [ref=e1057] [cursor=pointer]:
+              - /url: https://choice.microsoft.com
+          - listitem [ref=e1058]: © Microsoft 2026

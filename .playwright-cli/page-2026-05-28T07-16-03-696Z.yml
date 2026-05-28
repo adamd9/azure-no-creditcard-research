@@ -1,0 +1,393 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - button "Skip to content" [ref=e3] [cursor=pointer]:
+      - generic [ref=e5]: Skip to content
+    - button "Accessibility Feedback" [ref=e6] [cursor=pointer]:
+      - generic [ref=e8]: Accessibility Feedback
+    - generic [ref=e9]:
+      - link "Back to Bing search" [ref=e10] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Back to Bing search" [level=1] [ref=e11]
+      - search [ref=e12]:
+        - button "Search" [ref=e15] [cursor=pointer]
+        - searchbox "Enter your search here - Search suggestions will show as you type" [ref=e16]: microsoft azure for startups founders hub credit card required 2025
+        - button "Search using an image" [ref=e22] [cursor=pointer]
+    - complementary "Account Rewards and Preferences" [ref=e24]:
+      - button "Microsoft Rewards" [ref=e25] [cursor=pointer]:
+        - generic [ref=e27]:
+          - generic [ref=e28]: Rewards
+          - img [ref=e30]
+      - link "Sign in" [ref=e42] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - generic "Sign in" [ref=e43]
+    - navigation "Search Filter" [ref=e44]:
+      - list [ref=e45]:
+        - listitem [ref=e46]:
+          - link "All" [ref=e47] [cursor=pointer]:
+            - /url: /?scope=web&FORM=HDRSC1
+        - listitem [ref=e48]:
+          - link "Search" [ref=e49] [cursor=pointer]:
+            - /url: /copilotsearch?q=microsoft+azure+for+startups+founders+hub+credit+card+required+2025&FORM=CSSCOP
+            - img [ref=e50]
+            - text: Search
+        - listitem [ref=e52]:
+          - link "Videos" [ref=e53] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=0cdce965396bcf88c0ed9ca690f51f7b688bbbfb4ff0fdcc6d18c5d9500849dbJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9zZWFyY2g_cT1taWNyb3NvZnQrYXp1cmUrZm9yK3N0YXJ0dXBzK2ZvdW5kZXJzK2h1YitjcmVkaXQrY2FyZCtyZXF1aXJlZCsyMDI1JkZPUk09SERSU0M0&ntb=1
+        - listitem [ref=e54]:
+          - link "Images" [ref=e55] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=b9bcfb58de7a6dab66da6530c21f7de2c91d6df2dfa8830cec133a7352252139JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L2ltYWdlcy9zZWFyY2g_cT1taWNyb3NvZnQrYXp1cmUrZm9yK3N0YXJ0dXBzK2ZvdW5kZXJzK2h1YitjcmVkaXQrY2FyZCtyZXF1aXJlZCsyMDI1JkZPUk09SERSU0Mz&ntb=1
+        - listitem [ref=e56]:
+          - link "Maps" [ref=e57] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=ebbc462663459257f38e68980853c38db43a86d87b442abb100beb3974a69856JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L21hcHM_cT1taWNyb3NvZnQrYXp1cmUrZm9yK3N0YXJ0dXBzK2ZvdW5kZXJzK2h1YitjcmVkaXQrY2FyZCtyZXF1aXJlZCsyMDI1JkZPUk09SERSU0M2&ntb=1
+        - listitem [ref=e58]:
+          - link "News" [ref=e59] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=2c2a8bf4237b109571645297c356893d5a343ec9a7ccfcd0401791af567e38baJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L25ld3Mvc2VhcmNoP3E9bWljcm9zb2Z0K2F6dXJlK2ZvcitzdGFydHVwcytmb3VuZGVycytodWIrY3JlZGl0K2NhcmQrcmVxdWlyZWQrMjAyNSZGT1JNPUhEUlNDNw&ntb=1
+        - listitem [ref=e60]:
+          - link "Copilot" [ref=e61] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=2d07920ce02255faa39447c1c437ae7fb82641839279774e04f3302e0aef69a5JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L2NoYXQ_cHJvbXB0PW1pY3Jvc29mdCthenVyZStmb3Irc3RhcnR1cHMrZm91bmRlcnMraHViK2NyZWRpdCtjYXJkK3JlcXVpcmVkKzIwMjUmc2VuZHF1ZXJ5PTEmRk9STT1TQ0NPRFg&ntb=1
+        - listitem [ref=e62]:
+          - button "More" [ref=e63] [cursor=pointer]:
+            - img [ref=e65]
+            - text: More
+  - main "Search Results" [ref=e68]:
+    - generic [ref=e70]: About 38 results
+    - generic [ref=e81]:
+      - list [ref=e82]:
+        - listitem [ref=e83]:
+          - list [ref=e84]:
+            - listitem [ref=e85]:
+              - generic [ref=e86]:
+                - generic [ref=e87] [cursor=pointer]:
+                  - generic [ref=e92]: Microsoft
+                  - generic [ref=e93]:
+                    - generic [ref=e94]: https://azure.microsoft.com › Cloud › Platform
+                    - button "About our ads" [ref=e95]:
+                      - img "About our ads" [ref=e97]
+                - heading "MSFT Azure Site | Create Your Account" [level=2] [ref=e98]:
+                  - link "MSFT Azure Site | Create Your Account" [ref=e99] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclick?ld=e89Myva4HxUN9k3dOx0-QmAjVUCUwNLWAAULlfG70v2fYtVN359iuajskcUISfOTcDgSJFXtkHzPXIMVTTxpu3irPrijhduMxtqzrRGRwJ9XqPAO0iax5z3VcRosAiUT66DHvH-wIL_4Y7eawmfN0trnRxs3pSRlGcNnvkxfPUEB_cG2i2zS91NTKaWpcI5rEYHvjqEewChx_Qtu6GstlEZqqPzn8&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tYXUlMmZwcmljaW5nJTJmcHVyY2hhc2Utb3B0aW9ucyUyZmF6dXJlLWFjY291bnQlMmZzZWFyY2glMmYlM2ZlZl9pZCUzZF9rXzMyMzRmM2NkZDBkNjE5ZDJhOTNjOTlkYTNiNjc0NTAxX2tfJTI2T0NJRCUzZEFJRGNtbXhicmNxczc2X1NFTV9fa18zMjM0ZjNjZGQwZDYxOWQyYTkzYzk5ZGEzYjY3NDUwMV9rXyUyNm1zY2xraWQlM2QzMjM0ZjNjZGQwZDYxOWQyYTkzYzk5ZGEzYjY3NDUwMQ&rlid=3234f3cdd0d619d2a93c99da3b674501&ntb=1
+                - generic [ref=e100]:
+                  - generic [ref=e101]:
+                    - generic [ref=e104]: Sponsored
+                    - text: Get 1 Year of Free Services Including Storage, Database & Networking. Products and Cloud Services Designed To Help Bring New Ideas To Life.
+                  - paragraph [ref=e105]: Build Your Idea · Try Products Free · 65+ Products For Free · Learn By Doing
+                - generic [ref=e106]:
+                  - list [ref=e107]:
+                    - listitem [ref=e108]:
+                      - link "Pricing Calculator" [ref=e110] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e86AfVMt4n4bLaxDTbDEiDrjVUCUwUsBFRrLvvMfUkkj392ISi_L6uczqlf9bz9UCUVsYep09YirdBPzU_8bM4veZ8dPET3FJU0a4UBRIO-Xz-ufjB-Y5DXCy3eyhXc7SxLbaz3GG-pPi4d_kwvbumsoGBgObYP5C-Uh7sdA-1fNSRKhyTSzQr6Zn57R--k7Nnc4hYka2jVcJpyVMcXTqLjq_zCqU&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tYXUlMmZwcmljaW5nJTJmY2FsY3VsYXRvciUyZiUzZmVmX2lkJTNkX2tfMjkyZmY5ZWI0Y2RhMTk5ZTk2NjY5M2ZjYTc2YjVlMWJfa18lMjZPQ0lEJTNkQUlEY21teGJyY3FzNzZfU0VNX19rXzI5MmZmOWViNGNkYTE5OWU5NjY2OTNmY2E3NmI1ZTFiX2tfJTI2bXNjbGtpZCUzZDI5MmZmOWViNGNkYTE5OWU5NjY2OTNmY2E3NmI1ZTFi&rlid=292ff9eb4cda199e966693fca76b5e1b&ntb=1
+                    - listitem [ref=e111]:
+                      - link "Azure for Open Source" [ref=e113] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8XFeXHEbV0LQ0t9aoQ9fvijVUCUylwo17PPFDAHnNndbGmOxMITHRlbizfnbVrtwUU-IeJB4_2Kn087wd61QIWpLrwZ7Fsu3efwYDqOi8LeEsvl388pN6Vs6RqcX5C43S9zFWpoaptjv1fOy7bph7d7WlyL1Uh5IwraJ49SPzMYs4FsRLhPbTB2kwjrZ5xG0MfWGyAhrd8hvhOClRCTl0ShHDRro&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tYXUlMmZzb2x1dGlvbnMlMmZvcGVuLXNvdXJjZSUyZiUzZmVmX2lkJTNkX2tfMWY2NDcxNGU0MGJhMWZiZDg4YTgxYjU5YWIwYjNkMDdfa18lMjZPQ0lEJTNkQUlEY21teGJyY3FzNzZfU0VNX19rXzFmNjQ3MTRlNDBiYTFmYmQ4OGE4MWI1OWFiMGIzZDA3X2tfJTI2bXNjbGtpZCUzZDFmNjQ3MTRlNDBiYTFmYmQ4OGE4MWI1OWFiMGIzZDA3&rlid=1f64714e40ba1fbd88a81b59ab0b3d07&ntb=1
+                    - listitem [ref=e114]:
+                      - link "Read Case Studies" [ref=e116] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8qrPOXzI0RwzZD-Niay9_uTVUCUyL56IqDS8N1KbBtSbOGW9lkxc5lnCaUdGmm1Sb8un-8DHHJhL_V37DojmsK1YbLWqwOW4sDn1UjzPI_UaoEAh58isWVtPM11jPx0ZlTmiiGUeepsIWRXtIzcaiwikyE73DX8uKCfPJbb9ypcRkNU1sbo66GEVZ1ARg6fKZRbUjq7jNmtslWTj1zH68jayC5Gw&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tYXUlMmZyZXNvdXJjZXMlMmZjdXN0b21lci1zdG9yaWVzJTJmJTNmZWZfaWQlM2Rfa19hOGQyMjM0Yzc5ZmUxOGRiMjg1ODQ5NWI5MjRmOWQyNF9rXyUyNk9DSUQlM2RBSURjbW14YnJjcXM3Nl9TRU1fX2tfYThkMjIzNGM3OWZlMThkYjI4NTg0OTViOTI0ZjlkMjRfa18lMjZtc2Nsa2lkJTNkYThkMjIzNGM3OWZlMThkYjI4NTg0OTViOTI0ZjlkMjQ&rlid=a8d2234c79fe18db2858495b924f9d24&ntb=1
+                  - list [ref=e117]:
+                    - listitem [ref=e118]:
+                      - link "What is Azure?" [ref=e120] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8aW_uGcf0vLj7XHztuxg6UDVUCUxII7yhDdA_THYpDtvrq6T7Dcmq6W56NdJLePn07nHeFlgLDzUsbcx_HP1FzdxCr61Jjef_B_8UUZ6qZBFbD7-1BsWh8n1JVMyN4YFBoLg7tV7pFWd2PGivnX2D-eQzDp46YsbvqzJsWB1eFF1CkXITR0wxDTu_jDplr8VarfhQBBYKRDHYCSjLiMjuQr1DbyE&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tYXUlMmZyZXNvdXJjZXMlMmZjbG91ZC1jb21wdXRpbmctZGljdGlvbmFyeSUyZndoYXQtaXMtYXp1cmUlMmYlM2ZlZl9pZCUzZF9rXzE2YmI3YjhlMjc5ZjFhMDU4MmVhMTE5OWNjMmU4ZDVkX2tfJTI2T0NJRCUzZEFJRGNtbXhicmNxczc2X1NFTV9fa18xNmJiN2I4ZTI3OWYxYTA1ODJlYTExOTljYzJlOGQ1ZF9rXyUyNm1zY2xraWQlM2QxNmJiN2I4ZTI3OWYxYTA1ODJlYTExOTljYzJlOGQ1ZA&rlid=16bb7b8e279f1a0582ea1199cc2e8d5d&ntb=1
+                    - listitem [ref=e121]:
+                      - link "Azure Data Services" [ref=e123] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8ZT3j6S0wjC6OSNfPfZNWlTVUCUzP4iI-b0ILTFY_dNl2NrIw6IQSRDOLN07-DMbuipsEPzbhhPKVKqAfRIOTtqqNgLAKQ_EvGZJlEzSx_7WNbESXzdOph9EkBc_32uzzFynn4Eong04lnDQclpvVFvqH8eWja8l0mBEQAUsCqqgVB7b6MxkoHc64gvm0-UV1oujoXD2u5OzNWRiBtkl3ve7NR6I&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tYXUlMmZzb2x1dGlvbnMlMmZkYXRhYmFzZXMlMmYlM2ZlZl9pZCUzZF9rXzY2NjgyNmRiNTJmYzFmNzlmMDZiNGNjY2I5NGRmNTJjX2tfJTI2T0NJRCUzZEFJRGNtbXhicmNxczc2X1NFTV9fa182NjY4MjZkYjUyZmMxZjc5ZjA2YjRjY2NiOTRkZjUyY19rXyUyNm1zY2xraWQlM2Q2NjY4MjZkYjUyZmMxZjc5ZjA2YjRjY2NiOTRkZjUyYw&rlid=666826db52fc1f79f06b4cccb94df52c&ntb=1
+                    - listitem [ref=e124]:
+                      - link "Azure for SaaS Apps" [ref=e126] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8xj0bY9Ag-Y5h-jeVBiZbETVUCUx8YEQY2aOgAHpidbM-5fQ3yUsqEM3B3wKLzhrldBOcwBWgVZZLMtPTfB81iqO0wzgGT_5xTDBPf8Yuyk4DbYIaOhQNueqeho90Qr8MVOj5-7W5ncdtMsU1VjmeZtTQzxtaRTYJDBkYkMv7dAm8PuaoQ6_V0kbFdYqDevaEFTSQf8T2c2MmD4wpbDkbscqImFs&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tYXUlMmZwYXJ0bmVycyUyZnB1Ymxpc2gteW91ci1hcHAlMmYlM2ZlZl9pZCUzZF9rXzllZTYxYzgxMDFjOTFmMTYyYmRmNzY5NmVhNzgzNTQzX2tfJTI2T0NJRCUzZEFJRGNtbXhicmNxczc2X1NFTV9fa185ZWU2MWM4MTAxYzkxZjE2MmJkZjc2OTZlYTc4MzU0M19rXyUyNm1zY2xraWQlM2Q5ZWU2MWM4MTAxYzkxZjE2MmJkZjc2OTZlYTc4MzU0Mw&rlid=9ee61c8101c91f162bdf7696ea783543&ntb=1
+      - list [ref=e127]:
+        - listitem [ref=e128]:
+          - generic [ref=e132]:
+            - generic [ref=e134]:
+              - button "Like" [ref=e135]:
+                - img [ref=e136]
+              - button "Dislike" [ref=e138]:
+                - img [ref=e139]
+            - tooltip "AI disclaimer" [ref=e141]:
+              - img [ref=e142]
+        - listitem [ref=e166]:
+          - link "microsoft.com" [ref=e168] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=8002825b8acb41856857de90e624c3dade3082c74afc38108c70a5d54d7c2696JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9wb3J0YWwuc3RhcnR1cHMubWljcm9zb2Z0LmNvbS8&ntb=1
+            - generic [ref=e173]:
+              - generic [ref=e174]: microsoft.com
+              - generic [ref=e177]: https://portal.startups.microsoft.com
+          - heading "Microsoft for Startups" [level=2] [ref=e178]:
+            - link "Microsoft for Startups" [ref=e179] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=8002825b8acb41856857de90e624c3dade3082c74afc38108c70a5d54d7c2696JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9wb3J0YWwuc3RhcnR1cHMubWljcm9zb2Z0LmNvbS8&ntb=1
+          - paragraph [ref=e181]: Startups affiliated with the Microsoft for Startups Investor Network get up to $150,000 USD in credits and are eligible for a higher level of support. Startups …
+          - generic [ref=e182]:
+            - list [ref=e183]:
+              - listitem [ref=e184]:
+                - link "Apply With Your Code" [ref=e185] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=320f64446576a52d326a5fb4b92c62bcf092eaf1333d9b0503043f9580a0f8b4JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9wb3J0YWwuc3RhcnR1cHMubWljcm9zb2Z0LmNvbS9yZWZlcnJhbA&ntb=1
+                - paragraph [ref=e186]: Microsoft for Startups is a platform that provides founders with resources to help …
+              - listitem [ref=e187]:
+                - link "Blog" [ref=e188] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=5133a9bba1ee9010fa5e215d36ec9e556264aeab2fbfc200856fb410aa0fde3cJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi1VUy9zdGFydHVwcy9ibG9nLz9tc29ja2lkPTJhOTQ1NTEwNTY3YjY0NjMyZTUxNDI3NzU3MmY2NTNi&ntb=1
+                - paragraph [ref=e189]: Learn from founders who’ve been there before. Accelerate your startup with …
+              - listitem [ref=e190]:
+                - link "Build With AI" [ref=e191] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=c4807f88a7b798023e620550f9dff34e573883f16d8a40ac5e2b40d7e53de78fJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zdGFydHVwcy9haT9tc29ja2lkPTJhOTQ1NTEwNTY3YjY0NjMyZTUxNDI3NzU3MmY2NTNi&ntb=1
+                - paragraph [ref=e192]: Unlock free AI tools, credits, and guidance to build, launch, and scale your startup. …
+              - listitem [ref=e193]:
+                - link "Trademarks" [ref=e194] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=71579e90e49a904a11feac836eecdb117beb8d88a0fcc11efbd06281a2a18be4JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9sZWdhbC9pbnRlbGxlY3R1YWxwcm9wZXJ0eS90cmFkZW1hcmtzP21zb2NraWQ9MmE5NDU1MTA1NjdiNjQ2MzJlNTE0Mjc3NTcyZjY1M2I&ntb=1
+                - paragraph [ref=e195]: Follow these trademark and brand guidelines when referring to Microsoft …
+            - list [ref=e196]:
+              - listitem [ref=e197]:
+                - link "Portal Sign In" [ref=e198] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=3400a493b76b4b383ef0d4211ab47a0e45cad5e92df4e7658cd49d06283432c2JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9wb3J0YWwuc3RhcnR1cHMubWljcm9zb2Z0LmNvbS9sb2dpbg&ntb=1
+                - paragraph [ref=e199]: Microsoft for Startups is a platform that provides founders with resources to help …
+              - listitem [ref=e200]:
+                - link "Founder Stories" [ref=e201] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=44d1e908c46d7f20cc409def2930b3bf2e3a7d11b2361b0b0a6184fb9fa060a0JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zdGFydHVwcy9mb3VuZGVyLXN0b3JpZXM_bXNvY2tpZD0yYTk0NTUxMDU2N2I2NDYzMmU1MTQyNzc1NzJmNjUzYg&ntb=1
+                - paragraph [ref=e202]: The Azure Technical Advisory (ATA) benefit helped us with key technology insights, …
+              - listitem [ref=e203]:
+                - link "Specialty Programs" [ref=e204] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=a10ee0277298ca15da0e7d8758f27f3b06a5bbb2ebf24c1da3421d7c557089dbJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zdGFydHVwcy9wZWdhc3VzP21zb2NraWQ9MmE5NDU1MTA1NjdiNjQ2MzJlNTE0Mjc3NTcyZjY1M2I&ntb=1
+                - paragraph [ref=e205]: We provide entrepreneurs and founders of startups with the cloud resources and …
+          - link "See results only from portal.startups.microsoft.com" [ref=e206] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=e402de33d443eccf7f60f7c047bd988c06cdcb590677da59f1fe15a70a3ba97aJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPXNpdGU6cG9ydGFsLnN0YXJ0dXBzLm1pY3Jvc29mdC5jb20rbWljcm9zb2Z0K2F6dXJlK2ZvcitzdGFydHVwcytmb3VuZGVycytodWIrY3JlZGl0K2NhcmQrcmVxdWlyZWQrMjAyNSZmb3JtPURMSU5LUg&ntb=1
+            - generic [ref=e209]: See results only from portal.startups.microsoft.com
+        - listitem [ref=e212]:
+          - link "guptadeepak.com" [ref=e214] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=17a6c517c993cd53f60292690c8531be1ecce16eb23e90a01752cf870785c799JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9ndXB0YWRlZXBhay5jb20vc3RhcnR1cC1vZmZlcnMvcHJvZ3JhbXMvbWljcm9zb2Z0LWZvdW5kZXJzLWh1Yg&ntb=1
+            - generic [ref=e219]:
+              - generic [ref=e220]: guptadeepak.com
+              - generic [ref=e223]: https://guptadeepak.com › startup-offers › programs › microsoft-founders-hub
+          - heading "Microsoft for Startups Founders Hub, Up to $150,000 Azure credits ..." [level=2] [ref=e224]:
+            - link "Microsoft for Startups Founders Hub, Up to $150,000 Azure credits ..." [ref=e225] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=17a6c517c993cd53f60292690c8531be1ecce16eb23e90a01752cf870785c799JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9ndXB0YWRlZXBhay5jb20vc3RhcnR1cC1vZmZlcnMvcHJvZ3JhbXMvbWljcm9zb2Z0LWZvdW5kZXJzLWh1Yg&ntb=1
+          - paragraph [ref=e227]: Microsoft for Startups Founders Hub The easiest-to-qualify major cloud program, up to $150K Azure credits (investor-referred), no VC required for entry tiers.
+        - listitem [ref=e228]:
+          - generic [ref=e230]:
+            - generic [ref=e232]:
+              - heading "Videos of Microsoft Azure for Startups Founders Hub Credit Card Req…" [level=2] [ref=e234]:
+                - link "Videos of Microsoft Azure for Startups Founders Hub Credit Card Req…" [ref=e235] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=77aca42e36bb314ffd9e623ed3d09f807cce2eee7d3d4030af77b45ddc872638JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9zZWFyY2g_cT1NaWNyb3NvZnQrQXp1cmUrZm9yK3N0YXJ0dXBzK2ZvdW5kZXJzK2h1YitjcmVkaXQrY2FyZCtyZXF1aXJlZCsyMDI1JnFwdnQ9bWljcm9zb2Z0K2F6dXJlK2ZvcitzdGFydHVwcytmb3VuZGVycytodWIrY3JlZGl0K2NhcmQrcmVxdWlyZWQrMjAyNSZGT1JNPVZEUkU&ntb=1
+              - generic [ref=e237]:
+                - 'link "💸 Get Azure for FREE (No Credit Card Required!) ☁️ from YouTube · Duration: 1 minutes 14 seconds · 4.5K views · uploaded on 3 months ago · uploaded by Tech Tutorials with Piyush · Click to play. · Stop letting a \"missing credit card\" stall your cloud career! 🛑 Many students and aspiring engineers think they can’t practice on real cloud infrastructure because they don’t have a card to sign up for a free trial. That is a myth! Whether you want to spin up VMs, build a Kubernetes cluster, or experiment with AI services, there are ..." [ref=e240] [cursor=pointer]':
+                  - /url: https://www.bing.com/ck/a?!&&p=750db18d5f5b2410ec0d79f095277b6dfa5fe4365f0374e50930c279de58c3f0JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bWljcm9zb2Z0K2F6dXJlK2ZvcitzdGFydHVwcytmb3VuZGVycytodWIrY3JlZGl0K2NhcmQrcmVxdWlyZWQrMjAyNSZtaWQ9N0E2NTYzNzdDMkZBMjkxOEVEQjU3QTY1NjM3N0MyRkEyOTE4RURCNSZjaHVybD1odHRwcyUzYSUyZiUyZnd3dy55b3V0dWJlLmNvbSUyZmNoYW5uZWwlMmZVQ2g3ZHlaTU9Ic3BPU25EWVROZnlNU0EmbW1zY249c3R2byZGT1JNPVZJUkU&ntb=1
+                  - generic [ref=e241]:
+                    - generic [ref=e242]:
+                      - img "💸 Get Azure for FREE (No Credit Card Required!) ☁️" [ref=e244]
+                      - generic [ref=e250]: 1:14
+                    - generic [ref=e251]:
+                      - generic "💸 Get Azure for FREE (No Credit Card Required!) ☁️" [ref=e252]:
+                        - text: 💸 Get
+                        - strong [ref=e253]: Azure
+                        - strong [ref=e254]: for
+                        - text: FREE (No
+                        - strong [ref=e255]: Credit
+                        - strong [ref=e256]: Card
+                        - strong [ref=e257]: Required
+                        - text: "!) ☁️"
+                      - generic [ref=e258]:
+                        - generic [ref=e259]:
+                          - img "Video source site" [ref=e260]
+                          - text: YouTube · Tech Tutorials with Piyush
+                        - generic [ref=e261]: 4.5K views · 3 months ago
+                - 'link "FREE $100 Azure Credit in 2025 (No Credit Card Required) from YouTube · Duration: 18 minutes 7 seconds · 1.8K views · uploaded on 7 months ago · uploaded by Enterprise IT Mastery · Click to play. · Unlock $100 in FREE Microsoft Azure credits today! If you''re a student, Microsoft offers an incredible opportunity to get hands-on experience with enterprise-grade cloud computing without needing a credit card. In this complete step-by-step guide, we walk through the entire Azure for Students sign-up and verification process. We''ll cover ..." [ref=e264] [cursor=pointer]':
+                  - /url: https://www.bing.com/ck/a?!&&p=a5d1f37b4672a1d80d87d94293978081b7c33c8af92d0717ab3e2d4b67268c85JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bWljcm9zb2Z0K2F6dXJlK2ZvcitzdGFydHVwcytmb3VuZGVycytodWIrY3JlZGl0K2NhcmQrcmVxdWlyZWQrMjAyNSZtaWQ9RDAyRTRGNURGRTkyRjU0OTJGNUNEMDJFNEY1REZFOTJGNTQ5MkY1QyZjaHVybD1odHRwcyUzYSUyZiUyZnd3dy55b3V0dWJlLmNvbSUyZmNoYW5uZWwlMmZVQ1NpUE9hM1Zvd3dpNDJ0MUJ5c2V4bVEmRk9STT1WSVJF&ntb=1
+                  - generic [ref=e265]:
+                    - generic [ref=e266]:
+                      - img "FREE $100 Azure Credit in 2025 (No Credit Card Required)" [ref=e268]
+                      - generic [ref=e274]: 18:07
+                    - generic [ref=e275]:
+                      - generic "FREE $100 Azure Credit in 2025 (No Credit Card Required)" [ref=e276]:
+                        - text: FREE $100
+                        - strong [ref=e277]: Azure
+                        - strong [ref=e278]: Credit
+                        - text: in
+                        - strong [ref=e279]: "2025"
+                        - text: (No
+                        - strong [ref=e280]: Credit
+                        - strong [ref=e281]: Card
+                        - strong [ref=e282]: Required
+                        - text: )
+                      - generic [ref=e283]:
+                        - generic [ref=e284]:
+                          - img "Video source site" [ref=e285]
+                          - text: YouTube · Enterprise IT Mastery
+                        - generic [ref=e286]: 1.8K views · 7 months ago
+                - 'link "Microsoft for Startups Founders Hub Step-by-Step Guide | How to apply for MS Startups | Abdul Rehman from YouTube · Duration: 29 minutes 10 seconds · 4.3K views · uploaded on Jan 13, 2024 · uploaded by Abdul Rehman · Click to play. · Microsoft for Startups Founders Hub Step-by-Step Guide | How to apply for MS Startups | Abdul Rehman MS for Startups Link: https://foundershub.startups.microsoft.com/signup?wt.mc_id=studentamb_267048 My Project Intro Video for MS Startups Program: https://youtu.be/rE_i_WTGVKE?wt.mc_id=studentamb_267048 Get a bundle of Free Benefits like: Stripe ..." [ref=e289] [cursor=pointer]':
+                  - /url: https://www.bing.com/ck/a?!&&p=be2c9715f6606065758eea5f0e60e82506fc9b53ea2b8e670bfd820e8c30a724JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bWljcm9zb2Z0K2F6dXJlK2ZvcitzdGFydHVwcytmb3VuZGVycytodWIrY3JlZGl0K2NhcmQrcmVxdWlyZWQrMjAyNSZtaWQ9MTlCQUQwM0UzMzk4RkE2MEFFOEUxOUJBRDAzRTMzOThGQTYwQUU4RSZjaHVybD1odHRwcyUzYSUyZiUyZnd3dy55b3V0dWJlLmNvbSUyZmNoYW5uZWwlMmZVQzBVLUNqbXJpbkM2STNHYjFkT2swV0EmRk9STT1WSVJF&ntb=1
+                  - generic [ref=e290]:
+                    - generic [ref=e291]:
+                      - img "Microsoft for Startups Founders Hub Step-by-Step Guide | How to apply for MS Startups | Abdul Rehman" [ref=e293]
+                      - generic [ref=e299]: 29:10
+                    - generic [ref=e300]:
+                      - generic "Microsoft for Startups Founders Hub Step-by-Step Guide | How to apply for MS Startups | Abdul Rehman" [ref=e301]:
+                        - strong [ref=e302]: Microsoft
+                        - strong [ref=e303]: for
+                        - strong [ref=e304]: Startups
+                        - strong [ref=e305]: Founders
+                        - strong [ref=e306]: Hub
+                        - text: Step-by-Step Guide | How to apply
+                        - strong [ref=e307]: for
+                        - text: MS
+                        - strong [ref=e308]: Startups
+                        - text: "| Abdul Rehman"
+                      - generic [ref=e309]:
+                        - generic [ref=e310]:
+                          - img "Video source site" [ref=e311]
+                          - text: YouTube · Abdul Rehman
+                        - generic [ref=e312]: 4.3K views · Jan 13, 2024
+            - button "See more" [ref=e315]:
+              - generic [ref=e316]: See more
+              - img [ref=e318]
+        - listitem [ref=e321]:
+          - link "The Register" [ref=e323] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=3751cc30c74b3e16649344b61d42036254ee98f71e6701d4ac8e531acccb1cdeJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL29mZi1wcmVtLzIwMjUvMDcvMDEvbWljcm9zb2Z0LWNoYW5nZXMtY29uZGl0aW9ucy1mb3ItYXp1cmUtc3RhcnR1cC1jcmVkaXRzLzEwMTM5OA&ntb=1
+            - generic [ref=e328]:
+              - generic [ref=e329]: The Register
+              - generic [ref=e332]: https://www.theregister.com › off-prem › microsoft-changes...
+          - heading "Microsoft changes conditions for Azure startup credits" [level=2] [ref=e333]:
+            - link "Microsoft changes conditions for Azure startup credits":
+              - /url: https://www.bing.com/ck/a?!&&p=3751cc30c74b3e16649344b61d42036254ee98f71e6701d4ac8e531acccb1cdeJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL29mZi1wcmVtLzIwMjUvMDcvMDEvbWljcm9zb2Z0LWNoYW5nZXMtY29uZGl0aW9ucy1mb3ItYXp1cmUtc3RhcnR1cC1jcmVkaXRzLzEwMTM5OA&ntb=1
+          - paragraph [ref=e335]: Jul 1, 2025 · Microsoft has retired its program that granted incorporated AI startups with a validated business plan up to $150,000 in Azure credits and …
+        - listitem [ref=e336]:
+          - list [ref=e337]:
+            - listitem [ref=e338]:
+              - generic [ref=e339]:
+                - generic [ref=e340] [cursor=pointer]:
+                  - generic [ref=e345]: Microsoft
+                  - generic [ref=e346]:
+                    - generic [ref=e347]: https://azure.microsoft.com › Cloud › Platform
+                    - button "About our ads" [ref=e348]:
+                      - img "About our ads" [ref=e350]
+                - heading "MSFT Azure Site | Get a USD 200 Free Credit | Explore Services" [level=2] [ref=e351]:
+                  - link "MSFT Azure Site | Get a USD 200 Free Credit | Explore Services" [ref=e352] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclick?ld=e8527GyhuzTytaRj6BKm6ajTVUCUzw00qySX-hHtypJLiKUdwpPoU4jXAk9FUECtGdQPsQyRw5pqpjC4hGiNdjfMVnVhXnvVlGmdTiIK_31-Jr5dBy7ffmHVlJkELDs9f6uF-tYJd97XKf0ywI2A9KrXi5ans3gqZJ30oTJpRqS4icgAVOYcT7myUQ9cFRF8Gi9fKsE1aGc0_zehQxFMxvlEsVy1Q&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tYXUlMmZwcmljaW5nJTJmcHVyY2hhc2Utb3B0aW9ucyUyZmF6dXJlLWFjY291bnQlMmZzZWFyY2glMmYlM2ZlZl9pZCUzZF9rXzA2YTc5NjkyODVjODEwNzJhYzZmZmM4NTZlNzk1ODA5X2tfJTI2T0NJRCUzZEFJRGNtbXhicmNxczc2X1NFTV9fa18wNmE3OTY5Mjg1YzgxMDcyYWM2ZmZjODU2ZTc5NTgwOV9rXyUyNm1zY2xraWQlM2QwNmE3OTY5Mjg1YzgxMDcyYWM2ZmZjODU2ZTc5NTgwOQ&rlid=06a7969285c81072ac6ffc856e795809&ntb=1
+                - generic [ref=e353]:
+                  - generic [ref=e354]:
+                    - generic [ref=e357]: Sponsored
+                    - text: Simple & Reliable Cloud-Integrated Backup As a Service. Products and Cloud Services Designed To Help Bring New Ideas To Life.
+                  - paragraph [ref=e358]: Build Your Idea · Try Products Free · 65+ Products For Free · Learn By Doing
+                  - generic [ref=e359]: "Types: Cloud Services, App Service, Container Service, SQL Database, Azure Cosmos DB"
+                - generic [ref=e360]:
+                  - list [ref=e361]:
+                    - listitem [ref=e362]:
+                      - link "Pricing Calculator" [ref=e364] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e86fMPLacSKzDlE8M1dIZFoDVUCUw6OmN71EOBwbcowWT93K5vjOD6D7URPhd3rxWoOXpHhQaBqIUXNlU48qY_llO9lOsEtWMazzjDJPoQImeBk85OLn8qNxduU-KzjekhhmOaT5znUMymPZ_5yXx1HPk_Z6-kS_khxaAVJMOv4jjFIY_d-Ta4NY2_xQD53EGfm__v3JSYIAORkYzz5BrI1zJ2ynw&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tYXUlMmZwcmljaW5nJTJmY2FsY3VsYXRvciUyZiUzZmVmX2lkJTNkX2tfOGM1MGRjZmRhZTU0MWRkZDFhZWViNmVhNDVlNTRkYWZfa18lMjZPQ0lEJTNkQUlEY21teGJyY3FzNzZfU0VNX19rXzhjNTBkY2ZkYWU1NDFkZGQxYWVlYjZlYTQ1ZTU0ZGFmX2tfJTI2bXNjbGtpZCUzZDhjNTBkY2ZkYWU1NDFkZGQxYWVlYjZlYTQ1ZTU0ZGFm&rlid=8c50dcfdae541ddd1aeeb6ea45e54daf&ntb=1
+                    - listitem [ref=e365]:
+                      - link "Azure for Open Source" [ref=e367] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8LO-B1MPS2yeKvM6Tyg30TDVUCUxrbyD45AO0faowUeoNLd4BzRsViz1cVwID2tX85IZuvZV_t-DixOyhOuP74jWfqTo8O3Ii30rrYz2YzFT8nbiTCbEcMUg0Jq8TDkF2dVy79CqyvxOM2j0uirn1I2tvOA4afk7r8SVvCUObSE1Hi1TcIqEqnzdZS5KuFkjxD4ugW1zDZTWJRYTHR279KwNCo6A&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tYXUlMmZzb2x1dGlvbnMlMmZvcGVuLXNvdXJjZSUyZiUzZmVmX2lkJTNkX2tfMmViYTViM2YzMDU2MWY5ZmIxMjczMTI4ZGJlNzgwMjFfa18lMjZPQ0lEJTNkQUlEY21teGJyY3FzNzZfU0VNX19rXzJlYmE1YjNmMzA1NjFmOWZiMTI3MzEyOGRiZTc4MDIxX2tfJTI2bXNjbGtpZCUzZDJlYmE1YjNmMzA1NjFmOWZiMTI3MzEyOGRiZTc4MDIx&rlid=2eba5b3f30561f9fb1273128dbe78021&ntb=1
+                    - listitem [ref=e368]:
+                      - link "Read Case Studies" [ref=e370] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e80sMSOEITxLoatZylXcWmZDVUCUzYOVuqTSaXJNhXeXGYx2W4DdEtsKulmxDshtcHm8maaA8hEbYsaXA6hJowV3tz2ENJN7kwT_ccj5bLUuGn3KrLUFzyvw8cHRQyFPRyhQxpdPoPv2jLekyo5TJ2IBTpkKPbURVbH-FxZqpLOP-7_UV0Ekp2M5UW0iVp5oJ3VCiizpSLkbX549y3Xb7Kd14oFLs&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tYXUlMmZyZXNvdXJjZXMlMmZjdXN0b21lci1zdG9yaWVzJTJmJTNmZWZfaWQlM2Rfa18xYjc2NDkyZjQyMGMxMjMwYTQ3NjIzMzhhOWJkNzJlNV9rXyUyNk9DSUQlM2RBSURjbW14YnJjcXM3Nl9TRU1fX2tfMWI3NjQ5MmY0MjBjMTIzMGE0NzYyMzM4YTliZDcyZTVfa18lMjZtc2Nsa2lkJTNkMWI3NjQ5MmY0MjBjMTIzMGE0NzYyMzM4YTliZDcyZTU&rlid=1b76492f420c1230a4762338a9bd72e5&ntb=1
+                  - list [ref=e371]:
+                    - listitem [ref=e372]:
+                      - link "What is Azure?" [ref=e374] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8yKPIH6EJLmCX83A8sIMTNzVUCUyfOkmMlYZZpB0MkBPPJgrqcGGsiZryPKcwRDMUOM_jo_OK95b6LqY4n9C4tPbUmINkCXJIFA3UIlzcbAcw4bSF1riduZyq6__s28jTrSJ4rrCD8PdcH_FnBTVjQ1AM3rKpstV0n0uzmqMvzcU7eWiQcnPGqAUzzlSCTibZxg_UxYWZvwYJB6EzPP9FTzdWm0A&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tYXUlMmZyZXNvdXJjZXMlMmZjbG91ZC1jb21wdXRpbmctZGljdGlvbmFyeSUyZndoYXQtaXMtYXp1cmUlMmYlM2ZlZl9pZCUzZF9rX2M0MjY3ZTk3NDczMTEwMDY3NmVlMTQ4MGFjODBmNDBlX2tfJTI2T0NJRCUzZEFJRGNtbXhicmNxczc2X1NFTV9fa19jNDI2N2U5NzQ3MzExMDA2NzZlZTE0ODBhYzgwZjQwZV9rXyUyNm1zY2xraWQlM2RjNDI2N2U5NzQ3MzExMDA2NzZlZTE0ODBhYzgwZjQwZQ&rlid=c4267e974731100676ee1480ac80f40e&ntb=1
+                    - listitem [ref=e375]:
+                      - link "Azure Data Services" [ref=e377] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8VDeDt9zSGjGeKSShzzQXwTVUCUyQslxXpkuKry7tLDG13t_lTzcALXLwAw6t5WGNxB0xuj55hCHzar7Wqcrfa5yoTn224Qe3ikcLG3H2bc2xtxvRwZ1gMz6t_X7byVUdObg782zvyLaKyvdQycbnWp3o0TK_H6wlU3o6ffJUPH80W6gq2uKXhaAoH4MgwPnOdOkajDDX6N31dU0zHQf8ZPZqT2g&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tYXUlMmZzb2x1dGlvbnMlMmZkYXRhYmFzZXMlMmYlM2ZlZl9pZCUzZF9rXzcxNWFjOGM2YzdjYjEwMmJmY2M0YTJkMTJjN2EzMmJiX2tfJTI2T0NJRCUzZEFJRGNtbXhicmNxczc2X1NFTV9fa183MTVhYzhjNmM3Y2IxMDJiZmNjNGEyZDEyYzdhMzJiYl9rXyUyNm1zY2xraWQlM2Q3MTVhYzhjNmM3Y2IxMDJiZmNjNGEyZDEyYzdhMzJiYg&rlid=715ac8c6c7cb102bfcc4a2d12c7a32bb&ntb=1
+                    - listitem [ref=e378]:
+                      - link "Azure for SaaS Apps" [ref=e380] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8zSGh6j-9x6FuNfAqxEqcUTVUCUy2qXJivL1iLk-aGzcaoyDdeEALpvlZX4l-nqkStbtd2gPvyBVDc9MTjru7fgn3jY9tEGbJM4i0CB4FqaBaT04wOJiUk6lujOVkk8UTHMUtTJ3x5y1YMSQxS_oCBtm4-v2N4nCJIy79HFXTCLoAM1vtuUOarlfdo6nkmGNFF4qELXi-DbcmbnRWpDocOeH0xzE&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tYXUlMmZwYXJ0bmVycyUyZnB1Ymxpc2gteW91ci1hcHAlMmYlM2ZlZl9pZCUzZF9rX2IwNDFlOTc3NGI1MjFlZjMxMGZhODM2MGEwZTMxNTcxX2tfJTI2T0NJRCUzZEFJRGNtbXhicmNxczc2X1NFTV9fa19iMDQxZTk3NzRiNTIxZWYzMTBmYTgzNjBhMGUzMTU3MV9rXyUyNm1zY2xraWQlM2RiMDQxZTk3NzRiNTIxZWYzMTBmYTgzNjBhMGUzMTU3MQ&rlid=b041e9774b521ef310fa8360a0e31571&ntb=1
+            - listitem [ref=e381]:
+              - generic [ref=e382]:
+                - generic [ref=e383] [cursor=pointer]:
+                  - generic [ref=e388]: Freelancer
+                  - generic [ref=e389]:
+                    - generic [ref=e390]: https://www.freelancer.com › Azure
+                    - button "About our ads" [ref=e391]:
+                      - img "About our ads" [ref=e393]
+                - heading "Hire Azure Experts | Affordable & Reliable Experts" [level=2] [ref=e394]:
+                  - link "Hire Azure Experts | Affordable & Reliable Experts" [ref=e395] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclick?ld=e8A6krUXNutHst9_Wo0R_gnTVUCUxmBkzm3qjhZAkkeg_vb-i_dZTnHPfvxHpfUzgND3sQFUozR8OT1ip3K1ZqDE2y8Ar9Tc5mk3Th4WPKtQKGxFF9ls6HowBQO43uznIuEnzmhhNISUNC_pjE6vVLWO6coBZpQFR60xzYF7BfVtmXRhGf8HM-r35FtYJE6dIFpJs0HPQbnzPC7jnoPMx5xJXUwzs&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJlZWxhbmNlci5jb20lMmZjYW1wYWlnbiUyZjBCTkg3NTA0MTgwNjQ3MDE3NCUyZiUzZmNhbXBhaWduJTNkMjc0MzM0ODAyJTI2YWRncm91cCUzZDEyMDA2NjY4NDM4OTc5NDYlMjZrZXl3b3JkJTNkJTI1MkJhenVyZSUyNTIwJTI1MkJjb25zdWx0YW50cyUyNmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRnd3dy5mcmVlbGFuY2VyLmNvbSUyNTJGZmluZCUyNTJGYXp1cmUlMjZtc2Nsa2lkJTNkNTAxNDM4ZDllNzM0MTY5YmRkNjQ1MmNlMGM4NTg0NzYlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RGaXZlJTI1MjBFeWVzJTI1M0FFTiUyNTNBTkIlMjUyMEJNTSUyNnV0bV90ZXJtJTNkJTI1MkJhenVyZSUyNTIwJTI1MkJjb25zdWx0YW50cyUyNnV0bV9jb250ZW50JTNkV2Vic2l0ZXMlMmMlMjUyMElUJTI1MjAtJTI1MjBBenVyZSUyNTIwJTI1M0ElMjUyMEF6dXJlJTI1MjBDb25zdWx0YW50JTI1MjBTVA&rlid=501438d9e734169bdd6452ce0c858476&ntb=1
+                - generic [ref=e396]:
+                  - generic [ref=e397]:
+                    - generic [ref=e400]: Sponsored
+                    - text: Post a Job. Get Free Quotes. Hire Proven Azure Experts. Anytime, Anywhere! 95% Rehire Rate. Pay When 100% Happy. 17M+ Jobs Completed.
+                  - generic [ref=e401]:
+                    - strong [ref=e402]: "Site visitors:"
+                    - text: Over 10K in the past month
+                  - paragraph [ref=e403]: 24/7 Support · 95% Rehire Rate · 77M+ Trusted Users · 60 Second Quotes
+                - generic [ref=e404]:
+                  - list [ref=e405]:
+                    - listitem [ref=e406]:
+                      - link "How Freelancer Works" [ref=e408] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8sVZwz0ZMGMVBKn15VJKxWjVUCUz9taUgsLm9t-iRptlHYwIjxS8sdS4J6v7gL8YHeoHNU2pFPQMlR6pu_nBPQ02sk5upmeDD886Ttl5pd8y7JJnN6EFt1MZFdnX6szD22SVKvwF-Nr3OnHkM_VwsEoarpMgyukImDAx-y1I2QPyiI1B0_xXcUP9qKiwrk1Bk_1-u20GUkehSgYldfi2kVvu0fsc&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJlZWxhbmNlci5jb20lMmZpbmZvJTJmaG93LWl0LXdvcmtzLnBocCUzZm1zY2xraWQlM2Q3OWU3Y2ZjY2I4NzYxM2M0ZjUxMGE1ZGI1M2M3OWJlYyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEZpdmUlMjUyMEV5ZXMlMjUzQUVOJTI1M0FOQiUyNTIwQk1NJTI2dXRtX3Rlcm0lM2QlMjUyQmF6dXJlJTI1MjAlMjUyQmNvbnN1bHRhbnRzJTI2dXRtX2NvbnRlbnQlM2RXZWJzaXRlcyUyYyUyNTIwSVQlMjUyMC0lMjUyMEF6dXJlJTI1MjAlMjUzQSUyNTIwQXp1cmUlMjUyMENvbnN1bHRhbnQlMjUyMFNU&rlid=79e7cfccb87613c4f510a5db53c79bec&ntb=1
+                    - listitem [ref=e409]:
+                      - link "Our Team is Here to Help" [ref=e411] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8qBXa2PoyEKpZzVDr6Nz0SDVUCUxbNgoukv2lK1ejAKQU-RhbdAcrHjHwzB4cbQ1s9u6g3XRyXKb7fHlRtGtxmHQGoCeEIDUp96qLcfyafFr8TtqytKvycZPa57Uhk9fdh186Ww6M-vFXwCkeLMUtzgIYsRDd7JPLf-G1A-oh6OnlOgd50LNMMUP1FxmZ7XTLJ0qqKgAFPS2MpZWGK4AwcVFNqk4&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJlZWxhbmNlci5jb20lMmZyZWNydWl0ZXIlM2Ztc2Nsa2lkJTNkMmMwYzhjZWNiNTY2MTlkNjg1MjRlNmZiNWVkNzM4MWYlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RGaXZlJTI1MjBFeWVzJTI1M0FFTiUyNTNBTkIlMjUyMEJNTSUyNnV0bV90ZXJtJTNkJTI1MkJhenVyZSUyNTIwJTI1MkJjb25zdWx0YW50cyUyNnV0bV9jb250ZW50JTNkV2Vic2l0ZXMlMmMlMjUyMElUJTI1MjAtJTI1MjBBenVyZSUyNTIwJTI1M0ElMjUyMEF6dXJlJTI1MjBDb25zdWx0YW50JTI1MjBTVA&rlid=2c0c8cecb56619d68524e6fb5ed7381f&ntb=1
+                  - list [ref=e412]:
+                    - listitem [ref=e413]:
+                      - link "Sign Up Now - Free" [ref=e415] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8ni_vIdw5_QVLnJgVpyIYPTVUCUwArDJeMRt8I4EH6afvnKrQKvLJIY-QEXd5r9m40HI6Ec9HxE7JoKYFER8Va4J0B_SNpZyXdI5Zr0Uyy0wyHUYHUq8f8ceRAnkObl6nf5o1dj3me1YVdwA45WWAWlpk-d763wIvKqkduMrmtXiWjUfSofw4Mw3CQ2dbs1jSwfq5rQ_Ju8kDVHoK3pInBpI3bDo&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJlZWxhbmNlci5jb20lMmZzaWdudXAlM2Ztc2Nsa2lkJTNkZjQ2OGFmMjk2MGM1MTk3ZTQ5YjZjNTNlOGI3NGQyMGQlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RGaXZlJTI1MjBFeWVzJTI1M0FFTiUyNTNBTkIlMjUyMEJNTSUyNnV0bV90ZXJtJTNkJTI1MkJhenVyZSUyNTIwJTI1MkJjb25zdWx0YW50cyUyNnV0bV9jb250ZW50JTNkV2Vic2l0ZXMlMmMlMjUyMElUJTI1MjAtJTI1MjBBenVyZSUyNTIwJTI1M0ElMjUyMEF6dXJlJTI1MjBDb25zdWx0YW50JTI1MjBTVA&rlid=f468af2960c5197e49b6c53e8b74d20d&ntb=1
+                    - listitem [ref=e416]:
+                      - link "Post Your Project - Free" [ref=e418] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8LfsNRQKF6I71DCKeq2w62zVUCUxTDzAmAXdrC7xQbppuCi2mlXSu1lFp3GT37gzYYHOvxbzVvnNC3VFBmRiuqXfNWkJkREMy7TZlm_8wIMUB4fE6yi0lzFZ8t7Pj2ptyc5KdJwgwtZe4HDXWeoyGu02rRFzhu3ZxIVMoUUbh3NxUKNG6eMg6fC_k4_Z7C9XjSZPEep5dDObWJ3iNnLq0YY7lFKQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJlZWxhbmNlci5jb20lMmZwb3N0LXByb2plY3QlM2Ztc2Nsa2lkJTNkZTRjMjE0MDMwOTc0MWE0ZDYwNjU3ZTE0ZTJjNTMzNWYlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RGaXZlJTI1MjBFeWVzJTI1M0FFTiUyNTNBTkIlMjUyMEJNTSUyNnV0bV90ZXJtJTNkJTI1MkJhenVyZSUyNTIwJTI1MkJjb25zdWx0YW50cyUyNnV0bV9jb250ZW50JTNkV2Vic2l0ZXMlMmMlMjUyMElUJTI1MjAtJTI1MjBBenVyZSUyNTIwJTI1M0ElMjUyMEF6dXJlJTI1MjBDb25zdWx0YW50JTI1MjBTVA&rlid=e4c2140309741a4d60657e14e2c5335f&ntb=1
+        - listitem [ref=e419]:
+          - generic [ref=e420]:
+            - heading "Deep dive into microsoft azure for startups founders hub credit card re…" [level=2] [ref=e421]:
+              - text: Deep dive into
+              - strong [ref=e422]: microsoft azure for startups founders hub credit card re
+              - text: …
+            - list [ref=e423]:
+              - listitem [ref=e424]:
+                - link "Microsoft for startups sign in" [ref=e425] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=bab75ada32cd3a2ee15ecd81f20a5c42da2d767f222ce65e01f23bcc35404b1bJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtmb3Irc3RhcnR1cHMrc2lnbitpbiZGT1JNPVFTUkUx&ntb=1
+                  - generic [ref=e427]:
+                    - text: Microsoft for startups
+                    - strong [ref=e428]: sign in
+              - listitem [ref=e429]:
+                - link "Microsoft for startups investor code" [ref=e430] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=436e5f5d832743859ab36cbf111db4167074cb378a39febf30749741884aa341JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtmb3Irc3RhcnR1cHMraW52ZXN0b3IrY29kZSZGT1JNPVFTUkUy&ntb=1
+                  - generic [ref=e432]:
+                    - text: Microsoft for startups
+                    - strong [ref=e433]: investor code
+              - listitem [ref=e434]:
+                - link "Microsoft for startups investor network" [ref=e435] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=aacbbb086041ce3860b572301ce12cb0e93cc000ed3a0c6f3e3b1e5464a37cdfJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtmb3Irc3RhcnR1cHMraW52ZXN0b3IrbmV0d29yayZGT1JNPVFTUkUz&ntb=1
+                  - generic [ref=e437]:
+                    - text: Microsoft for startups
+                    - strong [ref=e438]: investor network
+              - listitem [ref=e439]:
+                - link "Microsoft for startups Azure credit" [ref=e440] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=8cf9a5d1e3973d041fed5332802ddd5a3b847b7636ad4c09775e9790faf0e14dJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtmb3Irc3RhcnR1cHMrQXp1cmUrY3JlZGl0JkZPUk09UVNSRTQ&ntb=1
+                  - generic [ref=e442]: Microsoft for startups Azure credit
+              - listitem [ref=e443]:
+                - link "Microsoft for startups credit card" [ref=e444] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=4f86172933896bbc488781125aaa7ca48edb7691fd44b3673015e8872084213fJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtmb3Irc3RhcnR1cHMrY3JlZGl0K2NhcmQmRk9STT1RU1JFNQ&ntb=1
+                  - generic [ref=e446]: Microsoft for startups credit card
+              - listitem [ref=e447]:
+                - link "Microsoft for startups Azure" [ref=e448] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=ea617b897362ac700162849a54b5b9a3bfefa77ad72e691a6ea10018efde05a5JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtmb3Irc3RhcnR1cHMrQXp1cmUmRk9STT1RU1JFNg&ntb=1
+                  - generic [ref=e450]: Microsoft for startups Azure
+              - listitem [ref=e451]:
+                - link "Microsoft founders hub" [ref=e452] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=3e024a2a6407fa357059cc2a46e7c99db68229b6fcdff757fac0d6c217df6bdfJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtmb3VuZGVycytodWImRk9STT1RU1JFNw&ntb=1
+                  - generic [ref=e454]: Microsoft founders hub
+              - listitem [ref=e455]:
+                - link "Microsoft for startups" [ref=e456] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=94d0a1accb09b4108cd818e952a8c1181ede38c278c25a6af87a324792fbfe80JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtmb3Irc3RhcnR1cHMmRk9STT1RU1JFOA&ntb=1
+                  - generic [ref=e458]: Microsoft for startups
+        - listitem [ref=e459]:
+          - link "Some results have been removed" [ref=e461] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=c74be6d8b314b5d3831ca78d934d0673988f7c5146531b8935d8d8dc7e6b52cfJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9NjE3MzUw&ntb=1
+        - listitem [ref=e462]:
+          - navigation "More results for microsoft azure for startups founders hub credit card required 2025":
+            - list:
+              - listitem [ref=e463]:
+                - generic "Page 1" [ref=e464]: "1"
+              - listitem [ref=e465]:
+                - link "Page 2" [ref=e466] [cursor=pointer]:
+                  - /url: /search?q=microsoft+azure+for+startups+founders+hub+credit+card+required+2025&FPIG=810A4D75BFF3444A826FC34FAB420915&first=4&FORM=PERE
+                  - text: "2"
+              - listitem [ref=e467]:
+                - link "Page 3" [ref=e468] [cursor=pointer]:
+                  - /url: /search?q=microsoft+azure+for+startups+founders+hub+credit+card+required+2025&FPIG=810A4D75BFF3444A826FC34FAB420915&first=14&FORM=PERE1
+                  - text: "3"
+              - listitem [ref=e469]:
+                - link "Next page" [ref=e470] [cursor=pointer]:
+                  - /url: /search?q=microsoft+azure+for+startups+founders+hub+credit+card+required+2025&FPIG=810A4D75BFF3444A826FC34FAB420915&first=4&FORM=PORE
+      - complementary "Additional Results"
+  - contentinfo [ref=e471]:
+    - generic [ref=e472]:
+      - list:
+        - listitem [ref=e473]:
+          - link "Privacy" [ref=e474] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=cae98553507f29bc0d571844060839b8ae37e66d3e6c82f590b8b5b06a960cc1JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSWQ9NTIxODM5&ntb=1
+        - listitem [ref=e475]:
+          - link "Terms" [ref=e476] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=d0b567fac0f38bf0e0805ff229263e7e182d84015d9353d005a8eb0923c4aba9JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9MjQ2MzM4&ntb=1

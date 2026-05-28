@@ -1,0 +1,335 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to main content" [ref=e4] [cursor=pointer]:
+        - /url: "#main"
+      - link "Skip to Ask Learn chat experience" [ref=e5] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - heading "Microsoft Build 2026" [level=2] [ref=e10]
+            - paragraph [ref=e11]: June 2-3, 2026
+          - link "Learn more" [ref=e12] [cursor=pointer]:
+            - /url: https://aka.ms/MSBuild_FY26_BN_MSLearn_Hero
+            - generic [ref=e13]: Learn more
+            - generic [ref=e15]: Ｔ
+        - button "Dismiss alert" [ref=e16] [cursor=pointer]:
+          - generic [ref=e17]: Dismiss alert
+      - generic [ref=e18]:
+        - text: Ｏ Ｐ 
+        - generic [ref=e19]:
+          - link "Microsoft" [ref=e20] [cursor=pointer]:
+            - /url: https://www.microsoft.com
+            - img [ref=e21]
+          - link "Learn" [ref=e27] [cursor=pointer]:
+            - /url: /en-us/
+            - generic [ref=e28]: Learn
+          - generic [ref=e29]:
+            - navigation "Global" [ref=e31]:
+              - text: Ｒ
+              - list [ref=e32]:
+                - listitem [ref=e33]:
+                  - button "Documentation" [ref=e35] [cursor=pointer]:
+                    - generic [ref=e36]: Documentation
+                    - generic [ref=e38]: Ｓ
+                - listitem [ref=e39]:
+                  - button "Training & Labs" [ref=e41] [cursor=pointer]:
+                    - generic [ref=e42]: Training & Labs
+                    - generic [ref=e44]: Ｓ
+                - listitem [ref=e45]:
+                  - button "Q&A" [ref=e47] [cursor=pointer]:
+                    - generic [ref=e48]: Q&A
+                    - generic [ref=e50]: Ｓ
+                - listitem [ref=e51]:
+                  - button "Topics" [ref=e53] [cursor=pointer]:
+                    - generic [ref=e54]: Topics
+                    - generic [ref=e56]: Ｓ
+              - text: Ｔ
+            - generic [ref=e57]:
+              - text: Ｐ
+              - button "Open search" [ref=e58] [cursor=pointer]:
+                - generic [ref=e60]: 
+          - link "Sign in" [ref=e61] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e63]:
+          - link "Azure" [ref=e64] [cursor=pointer]:
+            - /url: /en-us/azure/
+            - generic [ref=e65]: Azure
+          - navigation "Site" [ref=e66]:
+            - list [ref=e67]:
+              - listitem [ref=e68]:
+                - button "Products" [ref=e69] [cursor=pointer]:
+                  - generic [ref=e70]: Products
+                  - generic [ref=e72]: Ｓ
+                - text: Ｔ Ｔ
+              - listitem [ref=e73]:
+                - button "Architecture" [ref=e74] [cursor=pointer]:
+                  - generic [ref=e75]: Architecture
+                  - generic [ref=e77]: Ｓ
+              - listitem [ref=e78]:
+                - link "Migration" [ref=e79] [cursor=pointer]:
+                  - /url: /en-us/azure/migration/
+                  - generic [ref=e80]: Migration
+              - listitem [ref=e81]:
+                - button "Develop" [ref=e82] [cursor=pointer]:
+                  - generic [ref=e83]: Develop
+                  - generic [ref=e85]: Ｓ
+              - listitem [ref=e86]:
+                - button "Learn Azure" [ref=e87] [cursor=pointer]:
+                  - generic [ref=e88]: Learn Azure
+                  - generic [ref=e90]: Ｓ
+                - text: Ｔ
+              - listitem [ref=e91]:
+                - link "Troubleshooting" [ref=e92] [cursor=pointer]:
+                  - /url: /en-us/troubleshoot/azure/
+                  - generic [ref=e93]: Troubleshooting
+              - text: Ｓ
+              - listitem [ref=e94]:
+                - button "More" [ref=e95] [cursor=pointer]:
+                  - generic [ref=e96]: More
+                  - generic [ref=e98]: Ｓ
+                - text: Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ
+          - generic [ref=e99]:
+            - link "Portal" [ref=e100] [cursor=pointer]:
+              - /url: https://portal.azure.com
+            - link "Get started with Azure" [ref=e101] [cursor=pointer]:
+              - /url: https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn_nav_0f0e4e11-2d6d-3684-ca8d-f7dbdd04d4bd
+  - navigation "Primary" [ref=e105]:
+    - button "Collapse" [expanded] [ref=e107] [cursor=pointer]:
+      - generic [ref=e109]: ﾝ
+    - search "Search" [ref=e110]:
+      - generic [ref=e111]: Search
+      - generic [ref=e113]:
+        - combobox "Search" [ref=e114]
+        - generic:
+          - generic: 󿄓
+    - tree "Table of contents" [ref=e115]:
+      - treeitem "Billing and subscriptions documentation" [level=1] [ref=e116] [cursor=pointer]
+      - treeitem "Overview" [level=1] [ref=e117]:
+        - generic [ref=e118] [cursor=pointer]: Overview
+      - treeitem "Tutorials" [level=1] [ref=e119]:
+        - generic [ref=e120] [cursor=pointer]: Tutorials
+      - treeitem "Concepts" [level=1] [ref=e121]:
+        - generic [ref=e122] [cursor=pointer]: Concepts
+      - treeitem "How-to guides" [expanded] [level=1] [ref=e123]:
+        - generic [ref=e124] [cursor=pointer]: How-to guides
+        - group [ref=e125]:
+          - treeitem "Configure billing" [level=2] [ref=e126]:
+            - generic [ref=e127] [cursor=pointer]: Configure billing
+          - treeitem "Perform key billing administration tasks" [expanded] [level=2] [ref=e128]:
+            - generic [ref=e129] [cursor=pointer]: Perform key billing administration tasks
+            - group [ref=e130]:
+              - treeitem "Enable Azure Marketplace purchases" [level=3] [ref=e131] [cursor=pointer]
+              - treeitem "Initiate a Change of Channel Partner (COCP) request" [level=3] [ref=e132] [cursor=pointer]
+              - treeitem "Create subscriptions programmatically" [level=3] [ref=e133]:
+                - generic [ref=e134] [cursor=pointer]: Create subscriptions programmatically
+              - treeitem "Manage Enterprise Agreement subscriptions" [level=3] [ref=e135]:
+                - generic [ref=e136] [cursor=pointer]: Manage Enterprise Agreement subscriptions
+              - treeitem "Download cost and billing information" [level=3] [ref=e137]:
+                - generic [ref=e138] [cursor=pointer]: Download cost and billing information
+              - treeitem "Free account" [expanded] [level=3] [ref=e139]:
+                - generic [ref=e140] [cursor=pointer]: Free account
+                - group [ref=e141]:
+                  - treeitem "Create free services" [level=4] [ref=e142] [cursor=pointer]
+                  - treeitem "Avoid charges" [level=4] [ref=e143] [cursor=pointer]
+                  - treeitem "Check usage" [level=4] [ref=e144] [cursor=pointer]
+                  - treeitem "Upgrade free account" [level=4] [ref=e145] [cursor=pointer]
+                  - treeitem "Microsoft Entra ID Free" [level=4] [ref=e146] [cursor=pointer]
+          - treeitem "Manage payment methods" [level=2] [ref=e147]:
+            - generic [ref=e148] [cursor=pointer]: Manage payment methods
+          - treeitem "Manage billing benefits" [level=2] [ref=e149]:
+            - generic [ref=e150] [cursor=pointer]: Manage billing benefits
+          - treeitem "Troubleshoot billing" [level=2] [ref=e151]:
+            - generic [ref=e152] [cursor=pointer]: Troubleshoot billing
+          - treeitem "Troubleshoot subscriptions" [level=2] [ref=e153]:
+            - generic [ref=e154] [cursor=pointer]: Troubleshoot subscriptions
+      - treeitem "Reference" [level=1] [ref=e155]:
+        - generic [ref=e156] [cursor=pointer]: Reference
+      - treeitem "Resources" [level=1] [ref=e157]:
+        - generic [ref=e158] [cursor=pointer]: Resources
+      - treeitem "Samples" [level=1] [ref=e159]:
+        - generic [ref=e160] [cursor=pointer]: Samples
+    - button "Download PDF" [ref=e162] [cursor=pointer]:
+      - generic [ref=e164]: 
+      - generic [ref=e165]: Download PDF
+  - main [ref=e166]:
+    - generic: Ｏ ，
+    - generic [ref=e167]:
+      - generic [ref=e168]:
+        - generic [ref=e170]:
+          - text: 
+          - group "Breadcrumbs" [ref=e171]:
+            - navigation "Breadcrumb" [ref=e172]:
+              - list [ref=e173]:
+                - listitem [ref=e174]:
+                  - link "Learn" [ref=e175] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/
+                - listitem [ref=e176]:
+                  - link "Azure" [ref=e177] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/azure/
+                - listitem [ref=e178]:
+                  - link "CM+B" [ref=e179] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/azure/cost-management-billing
+                - listitem [ref=e180]:
+                  - link "Billing and subscriptions" [ref=e181] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/
+          - generic [ref=e182]:
+            - text: 󿄐
+            - button "Ask Learn" [ref=e183] [cursor=pointer]:
+              - generic [ref=e185]: 󿄐
+              - generic [ref=e186]: Ask Learn
+            - text: 󿄐
+            - group [ref=e187]:
+              - generic "More actions" [ref=e188] [cursor=pointer]:
+                - generic [ref=e190]: 
+        - text: ﾁ
+        - heading "Create services included with Azure free account" [level=1] [ref=e192]
+        - generic: 
+        - generic [ref=e194]:
+          - generic [ref=e196]: ﾃ
+          - button "Summarize this article for me" [ref=e197] [cursor=pointer]:
+            - generic [ref=e198]: Summarize this article for me
+        - navigation "In this article" [ref=e199]:
+          - heading "In this article" [level=2] [ref=e200]
+          - list [ref=e201]:
+            - listitem [ref=e202]:
+              - link "Create free services in the Azure portal" [ref=e203] [cursor=pointer]:
+                - /url: "#create-free-services-in-the-azure-portal"
+            - listitem [ref=e204]:
+              - link "Services can be created in any region" [ref=e205] [cursor=pointer]:
+                - /url: "#services-can-be-created-in-any-region"
+            - listitem [ref=e206]:
+              - link "Create multiple service instances in allowed limits" [ref=e207] [cursor=pointer]:
+                - /url: "#create-multiple-service-instances-in-allowed-limits"
+            - listitem [ref=e208]:
+              - link "Related content" [ref=e209] [cursor=pointer]:
+                - /url: "#related-content"
+        - generic [ref=e210]:
+          - paragraph [ref=e211]: During the first 30 days after you've created an Azure free account, you have $200 credit in your billing currency to use on any service, except for third-party Marketplace purchases. You can experiment with different tiers and types of Azure services using the free credit to try out Azure. If you use services or Azure resources that aren’t free during that time, charges are deducted against your credit.
+          - paragraph [ref=e212]:
+            - text: If you don’t use all of your credit by the end of the first 30 days, it's lost. After the first 30 days and up to 12 months after sign-up, you can only use a limited quantity of
+            - emphasis [ref=e213]: some services
+            - text: —not all Azure services are free. If you upgrade before 30 days and have remaining credit, you can use the rest of your credit with a pay-as-you-go subscription for the remaining days. For example, if you sign up for the free account on November 1 and upgrade on November 5, you have until November 30 to use your credit in the new pay-as-you-go subscription.
+          - paragraph [ref=e214]:
+            - text: Your Azure free account includes a
+            - emphasis [ref=e215]: specified quantity
+            - text: of free services for 12 months and a set of services that are always free. Only some tiers of services are available for free within certain quantities. For example, Azure has many virtual machines intended for different needs. The free account includes access to three types of VMs for free—the B1S, B2pts v2 (ARM-based), and B2ats v2 (AMD-based) burstable VMs that are usable for up to 750 hours per month. By staying in the free account limits, you can use the free services in various configurations. For more information about the Azure free account and the products that are available for free, see
+            - link "Azure free account FAQ" [ref=e216] [cursor=pointer]:
+              - /url: https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn_0f0e4e11-2d6d-3684-ca8d-f7dbdd04d4bd
+            - text: .
+          - generic [ref=e217]:
+            - 'link "Section titled: Create free services in the Azure portal" [ref=e218] [cursor=pointer]':
+              - /url: "#create-free-services-in-the-azure-portal"
+              - text: 
+            - heading "Create free services in the Azure portal" [level=2] [ref=e219]
+          - paragraph [ref=e220]:
+            - text: We recommend that use the
+            - link "Free service page" [ref=e221] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?linkid=859151
+            - text: in the Azure portal to create free services. Or you can sign in to the
+            - link "Azure portal" [ref=e222] [cursor=pointer]:
+              - /url: https://portal.azure.com
+            - text: ", and search for"
+            - strong [ref=e223]: free services
+            - text: . If you create resources outside of the Free services pages, free tiers or free resource configuration options aren’t always selected by default. To avoid charges, ensure that you create resources from the Free services page. And then when you create a resource, be sure to the select the tier that's free.
+          - paragraph [ref=e224]:
+            - link "Screenshot that shows free services page. " [ref=e226] [cursor=pointer]:
+              - /url: media/create-free-services/billing-freeservices-grid.png#lightbox
+              - img "Screenshot that shows free services page." [ref=e227]
+              - text: 
+          - generic [ref=e228]:
+            - 'link "Section titled: Services can be created in any region" [ref=e229] [cursor=pointer]':
+              - /url: "#services-can-be-created-in-any-region"
+              - text: 
+            - heading "Services can be created in any region" [level=2] [ref=e230]
+          - paragraph [ref=e231]: As long as you are within the limits, you can create services for free in any region where services are available. For example, you get 750 hours of a B1S Windows virtual machine free each month with the Azure free account. You can create the virtual machine in any region where B-series virtual machines are available. Azure doesn't charge you unless you exceed 750 hours. For example, a customer in the U.S. can provision a B1S Windows virtual machine in West Europe and use it for 750 hours for free.
+          - paragraph [ref=e232]:
+            - text: To learn about Azure service availability by region, see
+            - link "Products available by region" [ref=e233] [cursor=pointer]:
+              - /url: https://azure.microsoft.com/regions/services/
+            - text: .
+          - generic [ref=e234]:
+            - 'link "Section titled: Create multiple service instances in allowed limits" [ref=e235] [cursor=pointer]':
+              - /url: "#create-multiple-service-instances-in-allowed-limits"
+              - text: 
+            - heading "Create multiple service instances in allowed limits" [level=2] [ref=e236]
+          - paragraph [ref=e237]: You can create multiple instances of services for free if your total usage is within the usage limit. For example, you get 750 hours of a B1S Windows virtual machine free each month with your Azure free account. Use 750 hours in any combination you want. You can create 5 B1S Windows virtual machines and use them for 150 hours each.
+          - generic [ref=e238]:
+            - 'link "Section titled: Related content" [ref=e239] [cursor=pointer]':
+              - /url: "#related-content"
+              - text: 
+            - heading "Related content" [level=2] [ref=e240]
+          - list [ref=e241]:
+            - listitem [ref=e242]:
+              - text: Learn how to
+              - link "Check usage of free services included with your Azure free account" [ref=e243] [cursor=pointer]:
+                - /url: check-free-service-usage
+              - text: .
+            - listitem [ref=e244]:
+              - text: Learn how to
+              - link "Avoid getting charged for your Azure free account" [ref=e245] [cursor=pointer]:
+                - /url: avoid-charges-free-account
+              - text: .
+        - alert [ref=e246]
+        - status [ref=e247]
+        - generic [ref=e248]:
+          - separator [ref=e249]
+          - heading "Feedback" [level=2] [ref=e250]
+          - generic [ref=e251]:
+            - paragraph [ref=e252]: Was this page helpful?
+            - generic [ref=e253]:
+              - button "Yes" [ref=e254] [cursor=pointer]:
+                - generic [ref=e256]: 
+                - generic [ref=e257]: "Yes"
+              - button "No" [ref=e258] [cursor=pointer]:
+                - generic [ref=e260]: 
+                - generic [ref=e261]: "No"
+              - text: 
+      - generic [ref=e262]:
+        - separator [ref=e263]
+        - list [ref=e264]:
+          - listitem [ref=e265]:
+            - generic [ref=e267]: Last updated on 03/03/2026
+  - complementary "Additional resources":   
+  - text: 󿄐 Ｐ
+  - contentinfo [ref=e269]:
+    - generic [ref=e270]:
+      - link "Content language selector. Currently set to English (United States)." [ref=e271] [cursor=pointer]:
+        - /url: /en-us/locale?target=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Fcost-management-billing%2Fmanage%2Fcreate-free-services
+        - generic [ref=e273]: 
+        - generic [ref=e274]: English (United States)
+      - link "Your Privacy Choices" [ref=e276] [cursor=pointer]:
+        - /url: https://aka.ms/yourcaliforniaprivacychoices
+        - img [ref=e277]
+        - generic [ref=e282]: Your Privacy Choices
+      - button "Theme" [ref=e285] [cursor=pointer]:
+        - generic [ref=e287]: ０
+        - generic [ref=e288]: Theme
+        - generic [ref=e290]: Ｓ
+    - list [ref=e291]:
+      - listitem [ref=e292]:
+        - link "AI Disclaimer" [ref=e293] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/principles-for-ai-generated-content
+      - listitem [ref=e294]:
+        - link "Previous Versions" [ref=e295] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/previous-versions/
+      - listitem [ref=e296]:
+        - link "Blog" [ref=e297] [cursor=pointer]:
+          - /url: https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog
+      - listitem [ref=e298]:
+        - link "Contribute" [ref=e299] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/contribute
+      - listitem [ref=e300]:
+        - link "Privacy" [ref=e301] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+      - listitem [ref=e302]:
+        - link "Consumer Health Privacy" [ref=e303] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+      - listitem [ref=e304]:
+        - link "Terms of Use" [ref=e305] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/legal/termsofuse
+      - listitem [ref=e306]:
+        - link "Trademarks" [ref=e307] [cursor=pointer]:
+          - /url: https://www.microsoft.com/legal/intellectualproperty/Trademarks/
+      - listitem [ref=e308]: © Microsoft 2026

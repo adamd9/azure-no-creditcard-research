@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "hooks": {
+    "sessionEnd": [
+      {
+        "type": "command",
+        "bash": "./.github/hooks/callback.sh",
+        "env": {
+          "HOOK_TYPE": "sessionEnd"
+        },
+        "timeoutSec": 15
+      }
+    ],
+    "postToolUse": [
+      {
+        "type": "command",
+        "bash": "./.github/hooks/callback.sh",
+        "env": {
+          "HOOK_TYPE": "postToolUse"
+        },
+        "timeoutSec": 10
+      }
+    ],
+    "errorOccurred": [
+      {
+        "type": "command",
+        "bash": "./.github/hooks/callback.sh",
+        "env": {
+          "HOOK_TYPE": "errorOccurred"
+        },
+        "timeoutSec": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,1895 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#start-of-content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - link "GitHub.com" [ref=e7] [cursor=pointer]:
+        - /url: https://github.com
+      - generic [ref=e9]:
+        - link "Education homepage" [ref=e11] [cursor=pointer]:
+          - /url: /
+          - img [ref=e12]
+          - text: Education
+        - navigation "Global" [ref=e14]:
+          - list [ref=e15]:
+            - listitem [ref=e16]:
+              - button "Students" [ref=e19] [cursor=pointer]:
+                - generic [ref=e21]: Students
+                - generic:
+                  - img
+            - listitem [ref=e22]:
+              - button "Teachers" [ref=e25] [cursor=pointer]:
+                - generic [ref=e27]: Teachers
+                - generic:
+                  - img
+            - listitem [ref=e28]:
+              - link "Schools" [ref=e29] [cursor=pointer]:
+                - /url: /schools
+            - listitem [ref=e30]:
+              - link "Events" [ref=e31] [cursor=pointer]:
+                - /url: /events
+            - listitem [ref=e32]:
+              - link "Sign in" [ref=e33] [cursor=pointer]:
+                - /url: /sign_in
+                - generic [ref=e35]: Sign in
+    - main [ref=e37]:
+      - generic [ref=e39]:
+        - heading "GitHub Student Developer Pack" [level=1] [ref=e41]
+        - paragraph [ref=e42]: Learn to ship software like a pro. There's no substitute for hands-on experience. But for most students, real world tools can be cost-prohibitive. That's why we created the GitHub Student Developer Pack with some of our partners and friends.
+        - generic [ref=e43]:
+          - link "Sign up for Student Developer Pack" [ref=e44] [cursor=pointer]:
+            - /url: https://github.com/settings/education/benefits
+            - generic [ref=e46]: Sign up for Student Developer Pack
+          - generic [ref=e47]:
+            - paragraph [ref=e48]: Love the pack? Spread the word
+            - iframe [ref=e51]:
+              - link "Post" [ref=f10e4] [cursor=pointer]:
+                - /url: https://x.com/intent/tweet?original_referer=https%3A%2F%2Feducation.github.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&text=The%20best%20developer%20tools%2C%20free%20for%20students%3A&url=https%3A%2F%2Feducation.github.com%2Fpack&via=githubeducation
+                - generic [ref=f10e6]: Post
+      - generic [ref=e52]:
+        - heading "Experiences" [level=2] [ref=e53]
+        - paragraph [ref=e54]: Discover the best ways to use pack offers with Experiences. Experiences are curated bundles of pack partner products, GitHub tools, and other resources that are designed for you learn new skills and make the most out of the Student Developer Pack and your journey in GitHub Education.
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - img "Blue, purple and green GitHub Copilot logo" [ref=e57]
+            - group [ref=e58]:
+              - paragraph [ref=e59]: LaunchPad
+              - heading "Intro to Copilot" [level=3] [ref=e60]
+            - paragraph [ref=e61]: What is Copilot and how do you get started using it? Use this Experience as a Primer on Copilot. We share tutorials, guides and templates to learn how to use AI in your development process.
+            - paragraph [ref=e62]: Offers in this bundle
+            - list [ref=e63]:
+              - listitem "GitHub" [ref=e64]: GitHub
+              - listitem "GitHub Copilot" [ref=e66]: GitHub Copilot
+              - listitem "GitHub Codespaces" [ref=e68]: GitHub Codespaces
+              - listitem "Visual Studio Code" [ref=e70]: Visual Studio Code
+            - link "Learn more about Intro to Copilot" [ref=e72] [cursor=pointer]:
+              - /url: /experiences/intro_to_copilot
+              - text: Learn more about Intro to Copilot
+              - img [ref=e73]
+          - generic [ref=e75]:
+            - img "black and white mona" [ref=e76]
+            - group [ref=e77]:
+              - paragraph [ref=e78]: LaunchPad
+              - heading "Intro to GitHub" [level=3] [ref=e79]
+            - paragraph [ref=e80]: GitHub flow is a lightweight, branch-based workflow. In this Experience you'll learn the basics of the GitHub Flow including creating and making changes to branches within a repository, as well as creating and merging pull requests. The GitHub flow is useful for everyone, not just developers.
+            - paragraph [ref=e81]: Offers in this bundle
+            - list [ref=e82]:
+              - listitem "GitHub" [ref=e83]: GitHub
+            - link "Learn more about Intro to GitHub" [ref=e85] [cursor=pointer]:
+              - /url: /experiences/intro_to_github
+              - text: Learn more about Intro to GitHub
+              - img [ref=e86]
+          - generic [ref=e88]:
+            - img "credly certifications exam badge" [ref=e89]
+            - group [ref=e90]:
+              - paragraph [ref=e91]: Tools
+              - heading "GitHub Foundations Certification" [level=3] [ref=e92]
+            - paragraph [ref=e93]: Everything you need to get started preparing for and taking the GitHub Foundations Certification exam including FAQs, guides, prep courses, and more.
+            - paragraph [ref=e94]: Offers in this bundle
+            - list [ref=e95]:
+              - listitem "DataCamp" [ref=e96]: DataCamp
+              - listitem "GitHub" [ref=e98]: GitHub
+              - listitem "Microsoft Azure" [ref=e100]: Microsoft Azure
+            - link "Learn more about GitHub Foundations Certification" [ref=e102] [cursor=pointer]:
+              - /url: /experiences/foundations_certificate
+              - text: Learn more about GitHub Foundations Certification
+              - img [ref=e103]
+          - generic [ref=e105]:
+            - img "Multiple Mona octocats popping out of a box" [ref=e106]
+            - group [ref=e107]:
+              - paragraph [ref=e108]: Tools
+              - heading "Intro to Open Source" [level=3] [ref=e109]
+            - paragraph [ref=e110]: Everything you need to know to understand the origins of open source work, how to become a contributor, a maintainer or a sponsor of an open source project and how to propel open source work into a career. Start with the basics including intro guides, how to find good first issues and basic open source vocabulary. Then begin to explore some of the best tools and thought leadership that will help you discover new ways of contributing.
+            - paragraph [ref=e111]: Offers in this bundle
+            - list [ref=e112]:
+              - listitem "Travis CI" [ref=e113]: Travis CI
+              - listitem "GitHub" [ref=e115]: GitHub
+              - listitem "OpenSauced" [ref=e117]: OpenSauced
+              - listitem "GitHub Codespaces" [ref=e119]: GitHub Codespaces
+              - listitem [ref=e121]:
+                - button "+4" [ref=e122] [cursor=pointer]:
+                  - generic [ref=e124]: "+4"
+            - link "Learn more about Intro to Open Source" [ref=e125] [cursor=pointer]:
+              - /url: /experiences/intro_to_open_source
+              - text: Learn more about Intro to Open Source
+              - img [ref=e126]
+          - generic [ref=e128]:
+            - img "Mona the Octocat logo carrying books with a red hat and glasses on" [ref=e129]
+            - group [ref=e130]:
+              - paragraph [ref=e131]: Tools
+              - heading "AI Prompting & Technical Writing" [level=3] [ref=e132]
+            - paragraph [ref=e133]: This Experience offers the tools, top tips and resources you'll need to get started becoming a technical wizard with words.
+            - paragraph [ref=e134]: Offers in this bundle
+            - list [ref=e135]:
+              - listitem "GitHub" [ref=e136]: GitHub
+              - listitem "Microsoft Azure" [ref=e138]: Microsoft Azure
+              - listitem "Educative" [ref=e140]: Educative
+              - listitem "POEditor" [ref=e142]: POEditor
+              - listitem [ref=e144]:
+                - button "+2" [ref=e145] [cursor=pointer]:
+                  - generic [ref=e147]: "+2"
+            - link "Learn more about AI Prompting & Technical Writing" [ref=e148] [cursor=pointer]:
+              - /url: /experiences/ai_prompt_tech_writing
+              - text: Learn more about AI Prompting & Technical Writing
+              - img [ref=e149]
+          - generic [ref=e151]:
+            - img "A light purple desktop monitor with a GitHub logo on the screen" [ref=e152]
+            - group [ref=e153]:
+              - paragraph [ref=e154]: Tools
+              - heading "Intro to Web Dev" [level=3] [ref=e155]
+            - paragraph [ref=e156]: Everything you need to build your next website. Learn how to design and build your own website as you learn the basics of web development.
+            - paragraph [ref=e157]: Offers in this bundle
+            - list [ref=e158]:
+              - listitem "LambdaTest" [ref=e159]: LambdaTest
+              - listitem "Polypane" [ref=e161]: Polypane
+              - listitem "Bootstrap Studio" [ref=e163]: Bootstrap Studio
+              - listitem "DigitalOcean" [ref=e165]: DigitalOcean
+              - listitem [ref=e167]:
+                - button "+4" [ref=e168] [cursor=pointer]:
+                  - generic [ref=e170]: "+4"
+            - link "Learn more about Intro to Web Dev" [ref=e171] [cursor=pointer]:
+              - /url: /experiences/intro_to_web_dev
+              - text: Learn more about Intro to Web Dev
+              - img [ref=e172]
+          - generic [ref=e174]:
+            - img "Purple space galaxy swirl with a small octocat logo in the center" [ref=e175]
+            - group [ref=e176]:
+              - paragraph [ref=e177]: Tools
+              - heading "Data Science & Machine Learning" [level=3] [ref=e178]
+            - paragraph [ref=e179]: Flex your skills in data collection, cleaning, analysis, visualization, programming, and machine learning. The Data Science & Machine Learning experience gives you the tools to analyze, collaborate and harness the power of predictive data to build amazing projects.
+            - paragraph [ref=e180]: Offers in this bundle
+            - list [ref=e181]:
+              - listitem "Datadog" [ref=e182]: Datadog
+              - listitem "SQLGate" [ref=e184]: SQLGate
+              - listitem "GitHub Codespaces" [ref=e186]: GitHub Codespaces
+              - listitem "Deepnote" [ref=e188]: Deepnote
+              - listitem [ref=e190]:
+                - button "+2" [ref=e191] [cursor=pointer]:
+                  - generic [ref=e193]: "+2"
+            - link "Learn more about Data Science & Machine Learning" [ref=e194] [cursor=pointer]:
+              - /url: /experiences/ml_ds
+              - text: Learn more about Data Science & Machine Learning
+              - img [ref=e195]
+          - generic [ref=e197]:
+            - img "image of a purple mobile device with github education logo" [ref=e198]
+            - group [ref=e199]:
+              - paragraph [ref=e200]: Tools
+              - heading "Mobile App Development" [level=3] [ref=e201]
+            - paragraph [ref=e202]: Have an idea for a mobile app you'd like to bring to life? This Mobile App Development Experience gives you the tools, resources and inspiration to design, build, test and deploy your next mobile application.
+            - paragraph [ref=e203]: Offers in this bundle
+            - list [ref=e204]:
+              - listitem "Microsoft Azure" [ref=e205]: Microsoft Azure
+              - listitem "FrontendMasters" [ref=e207]: FrontendMasters
+              - listitem "LambdaTest" [ref=e209]: LambdaTest
+              - listitem "NativeScript" [ref=e211]: NativeScript
+              - listitem [ref=e213]:
+                - button "+2" [ref=e214] [cursor=pointer]:
+                  - generic [ref=e216]: "+2"
+            - link "Learn more about Mobile App Development" [ref=e217] [cursor=pointer]:
+              - /url: /experiences/mobile_app_development
+              - text: Learn more about Mobile App Development
+              - img [ref=e218]
+          - generic [ref=e220]:
+            - img "An open purple laptop with the github octocat logo on the screen" [ref=e221]
+            - group [ref=e222]:
+              - paragraph [ref=e223]: Tools
+              - heading "Virtual Event Kit" [level=3] [ref=e224]
+            - paragraph [ref=e225]: Everything you need for your virtual event. Design for engagement and we'll take care of the tools. The Virtual Event Kit gives students the resources to make running online events simple and accessible.
+            - paragraph [ref=e226]: Offers in this bundle
+            - list [ref=e227]:
+              - listitem "Namecheap" [ref=e228]: Namecheap
+              - listitem "Microsoft Azure" [ref=e230]: Microsoft Azure
+              - listitem "Name.com" [ref=e232]: Name.com
+            - link "Learn more about Virtual Event Kit" [ref=e234] [cursor=pointer]:
+              - /url: /experiences/virtual_event_kit
+              - text: Learn more about Virtual Event Kit
+              - img [ref=e235]
+          - generic [ref=e237]:
+            - img "profile README logo" [ref=e238]
+            - group [ref=e239]:
+              - paragraph [ref=e240]: LaunchPad
+              - heading "Profile README" [level=3] [ref=e241]
+            - paragraph [ref=e242]: Say ‘Hello world’ with a profile README that lets you introduce yourself to the GitHub community. You decide what information to include in your profile README, so you have full control over how you present yourself on GitHub. This experience walks you through a quick tutorial to create your profile README.
+            - paragraph [ref=e243]: Offers in this bundle
+            - list [ref=e244]:
+              - listitem "GitHub" [ref=e245]: GitHub
+            - link "Learn more about Profile README" [ref=e247] [cursor=pointer]:
+              - /url: /experiences/launchpad_profile_readme
+              - text: Learn more about Profile README
+              - img [ref=e248]
+          - generic [ref=e250]:
+            - img "Yellow Javascript logo" [ref=e251]
+            - group [ref=e252]:
+              - paragraph [ref=e253]: LaunchPad
+              - 'heading "Launchpad: Intro to Javascript" [level=3] [ref=e254]'
+            - paragraph [ref=e255]: This launchpad uses Scrimba’s uniquely interactive approach to let you simultaneously watch a simple javascript tutorial and edit code in real time. No prior knowledge is required to write your first lines of code.
+            - paragraph [ref=e256]: Offers in this bundle
+            - list [ref=e257]:
+              - listitem "Scrimba" [ref=e258]: Scrimba
+            - 'link "Learn more about Launchpad: Intro to Javascript" [ref=e260] [cursor=pointer]':
+              - /url: /experiences/launchpad_javascript
+              - text: "Learn more about Launchpad: Intro to Javascript"
+              - img [ref=e261]
+        - paragraph [ref=e263]:
+          - img [ref=e264]
+          - text: Additional benefits are not included in the Student Developer Pack, but are exclusively offered by GitHub and partners for this Experience.
+        - generic [ref=e266]:
+          - heading "All offers" [level=2] [ref=e267]
+          - generic "All offers" [ref=e268]:
+            - 'button "Filter by: All" [ref=e270] [cursor=pointer]':
+              - generic [ref=e272]: "Filter by: All"
+              - generic:
+                - img
+          - generic "All offers" [ref=e273]:
+            - 'button "Sort by: Most popular last week" [ref=e275] [cursor=pointer]':
+              - generic [ref=e277]: "Sort by: Most popular last week"
+              - generic:
+                - img
+        - generic [ref=e278]:
+          - generic [ref=e279]:
+            - heading "DigitalOcean" [level=3] [ref=e280]
+            - img "DigitalOcean" [ref=e282]
+            - heading "About DigitalOcean" [level=4] [ref=e283]
+            - paragraph [ref=e284]: Simple cloud hosting, built for developers
+            - heading "Offers" [level=4] [ref=e285]
+            - generic [ref=e287]:
+              - heading "Offer" [level=5] [ref=e288]
+              - paragraph [ref=e289]: Enjoy $200 in platform credit for 1 year!
+              - heading "Tags" [level=6] [ref=e290]
+              - list [ref=e291]:
+                - listitem [ref=e292]:
+                  - generic [ref=e293]: Cloud
+            - paragraph [ref=e294]:
+              - text: Get help at
+              - link "DigitalOcean support" [ref=e295] [cursor=pointer]:
+                - /url: https://www.digitalocean.com/company/contact/
+          - generic [ref=e296]:
+            - heading "GitHub Copilot" [level=3] [ref=e297]
+            - img "GitHub Copilot" [ref=e299]
+            - heading "About GitHub Copilot" [level=4] [ref=e300]
+            - paragraph [ref=e301]: Use GitHub Copilot to get autocomplete-style suggestions from an AI pair programmer as you code.
+            - heading "Offers" [level=4] [ref=e302]
+            - generic [ref=e304]:
+              - heading "Offer" [level=5] [ref=e305]
+              - paragraph [ref=e306]: Free access to Copilot Student while you're a student. To enable Copilot Student, go to your account settings and under Code, planning, and automation, select Copilot to sign up for free. Or click on the link below to claim the offer.
+              - heading "Tags" [level=6] [ref=e307]
+              - list [ref=e308]:
+                - listitem [ref=e309]:
+                  - generic [ref=e310]: Machine Learning & AI
+            - paragraph [ref=e311]:
+              - text: Get help at
+              - link "GitHub Copilot support" [ref=e312] [cursor=pointer]:
+                - /url: https://github.com/orgs/community/discussions/categories/copilot
+          - generic [ref=e313]:
+            - heading "Name.com" [level=3] [ref=e314]
+            - img "Name.com" [ref=e316]
+            - heading "About Name.com" [level=4] [ref=e317]
+            - paragraph [ref=e318]: Domains, Google Workspace, Titan, Wix, WordPress Hosting, and more.
+            - heading "Offers" [level=4] [ref=e319]
+            - generic [ref=e321]:
+              - heading "Offer" [level=5] [ref=e322]
+              - paragraph [ref=e323]: Build your project on a select free domain with over 25 domain extensions like .live, .studio, .software, .app, and .dev.
+              - heading "Tags" [level=6] [ref=e324]
+              - list [ref=e325]:
+                - listitem [ref=e326]:
+                  - generic [ref=e327]: Virtual Events
+                - listitem [ref=e328]:
+                  - generic [ref=e329]: Domains
+            - paragraph [ref=e330]:
+              - text: Get help at
+              - link "Name.com support" [ref=e331] [cursor=pointer]:
+                - /url: https://www.name.com/support-ticket
+          - generic [ref=e332]:
+            - heading "Namecheap" [level=3] [ref=e333]
+            - img "Namecheap" [ref=e335]
+            - heading "About Namecheap" [level=4] [ref=e336]
+            - paragraph [ref=e337]: Affordable registration, hosting, and domain management
+            - heading "Offers" [level=4] [ref=e338]
+            - generic [ref=e339]:
+              - generic [ref=e340]:
+                - 'heading "Offer #1" [level=5] [ref=e341]'
+                - paragraph [ref=e342]: 1 year domain name registration on the .me TLD.
+                - heading "Tags" [level=6] [ref=e343]
+                - list [ref=e344]:
+                  - listitem [ref=e345]:
+                    - generic [ref=e346]: Virtual Events
+              - generic [ref=e347]:
+                - 'heading "Offer #2" [level=5] [ref=e348]'
+                - paragraph [ref=e349]: 1 SSL certificate free for 1 year.
+                - heading "Tags" [level=6] [ref=e350]
+                - list [ref=e351]:
+                  - listitem [ref=e352]:
+                    - generic [ref=e353]: Domains
+                  - listitem [ref=e354]:
+                    - generic [ref=e355]: Virtual Events
+            - paragraph [ref=e356]:
+              - text: Get help at
+              - link "Namecheap support" [ref=e357] [cursor=pointer]:
+                - /url: https://www.namecheap.com/support.aspx
+          - generic [ref=e358]:
+            - heading "Microsoft Azure" [level=3] [ref=e359]
+            - img "Microsoft Azure" [ref=e361]
+            - heading "About Microsoft Azure" [level=4] [ref=e362]
+            - paragraph [ref=e363]: Access to Microsoft Azure cloud services and learning resources – no credit card required
+            - heading "Offers" [level=4] [ref=e364]
+            - generic [ref=e366]:
+              - heading "Offer" [level=5] [ref=e367]
+              - paragraph [ref=e368]: Free access to 25+ Microsoft Azure cloud services plus $100 in Azure credit. For students aged 18+.
+              - heading "Tags" [level=6] [ref=e369]
+              - list [ref=e370]:
+                - listitem [ref=e371]:
+                  - generic [ref=e372]: Cloud
+                - listitem [ref=e373]:
+                  - generic [ref=e374]: Virtual Events
+            - paragraph [ref=e375]:
+              - text: Get help at
+              - link "Microsoft Azure support" [ref=e376] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/support/options/
+          - generic [ref=e377]:
+            - heading "GitHub" [level=3] [ref=e378]
+            - img "GitHub" [ref=e380]
+            - heading "About GitHub" [level=4] [ref=e381]
+            - paragraph [ref=e382]: Powerful collaboration, code review, and code management
+            - heading "Offers" [level=4] [ref=e383]
+            - generic [ref=e385]:
+              - heading "Offer" [level=5] [ref=e386]
+              - paragraph [ref=e387]: Free GitHub Pro while you are a student.
+              - heading "Tags" [level=6] [ref=e388]
+              - list [ref=e389]:
+                - listitem [ref=e390]:
+                  - generic [ref=e391]: Developer tools
+            - paragraph [ref=e392]:
+              - text: Get help at
+              - link "GitHub support" [ref=e393] [cursor=pointer]:
+                - /url: https://github.com/contact
+          - generic [ref=e394]:
+            - heading "Microsoft 365" [level=3] [ref=e395]
+            - img "Microsoft 365" [ref=e397]
+            - heading "About Microsoft 365" [level=4] [ref=e398]
+            - paragraph [ref=e399]: Microsoft 365 brings Copilot, your AI assistant, into familiar apps, like Word, Excel, and PowerPoint, to help you learn faster, study smarter, and turn ideas into polished work—from class notes and group projects to resumes and job applications.
+            - heading "Offers" [level=4] [ref=e400]
+            - generic [ref=e402]:
+              - heading "Offer" [level=5] [ref=e403]
+              - paragraph [ref=e404]: Students can now get free or discounted access to our powerful productivity apps with AI built in, 1TB of cloud Storage, and and advanced security for your data and devices. Sign up today to unlock all your benefits.
+              - heading "Tags" [level=6] [ref=e405]
+              - list [ref=e406]:
+                - listitem [ref=e407]:
+                  - generic [ref=e408]: Learn
+                - listitem [ref=e409]:
+                  - generic [ref=e410]: Productivity
+            - paragraph [ref=e411]:
+              - text: Get help at
+              - link "Microsoft 365 support" [ref=e412] [cursor=pointer]:
+                - /url: https://support.microsoft.com/en-us
+          - generic [ref=e413]:
+            - heading ".TECH" [level=3] [ref=e414]
+            - img ".TECH" [ref=e416]
+            - heading "About .TECH" [level=4] [ref=e417]
+            - paragraph [ref=e418]: A powerful domain extension to convey that you belong to the technology industry.
+            - heading "Offers" [level=4] [ref=e419]
+            - generic [ref=e421]:
+              - heading "Offer" [level=5] [ref=e422]
+              - paragraph [ref=e423]: One standard .TECH domain free for 1 year.
+              - heading "Tags" [level=6] [ref=e424]
+              - list [ref=e425]:
+                - listitem [ref=e426]:
+                  - generic [ref=e427]: Domains
+            - paragraph [ref=e428]:
+              - text: Get help at
+              - link ".TECH support" [ref=e429] [cursor=pointer]:
+                - /url: mailto:techsquad@get.tech
+          - generic [ref=e430]:
+            - heading "Notion" [level=3] [ref=e431]
+            - img "Notion" [ref=e433]
+            - heading "About Notion" [level=4] [ref=e434]
+            - paragraph [ref=e435]: Notion is a single space where you can think, write, and plan. Capture thoughts, manage projects, or even run an entire company — and do it exactly the way you want.
+            - heading "Offers" [level=4] [ref=e436]
+            - generic [ref=e438]:
+              - heading "Offer" [level=5] [ref=e439]
+              - paragraph [ref=e440]: Everything in the Notion Education plan with additional AI responses. Notion Education plan offers everything in our Plus plan + increased sharing & collaboration capabilities and longer page history.
+              - heading "Tags" [level=6] [ref=e441]
+              - list [ref=e442]:
+                - listitem [ref=e443]:
+                  - generic [ref=e444]: Productivity
+            - paragraph [ref=e445]:
+              - text: Get help at
+              - link "Notion support" [ref=e446] [cursor=pointer]:
+                - /url: https://www.notion.so/help
+          - generic [ref=e447]:
+            - heading "Boot.dev" [level=3] [ref=e448]
+            - img "Boot.dev" [ref=e450]
+            - heading "About Boot.dev" [level=4] [ref=e451]
+            - paragraph [ref=e452]: The game-like learning platform for backend developers and devops engineers
+            - heading "Offers" [level=4] [ref=e453]
+            - generic [ref=e455]:
+              - heading "Offer" [level=5] [ref=e456]
+              - paragraph [ref=e457]: Master Python, Golang, TypeScript and more in our immersive programming curriculum. Learn Backend Development, DevOps, and Data Analysis with 3 months of free access to Boot.dev’s complete interactive membership.
+              - heading "Tags" [level=6] [ref=e458]
+              - list
+            - paragraph [ref=e459]:
+              - text: Get help at
+              - link "Boot.dev support" [ref=e460] [cursor=pointer]:
+                - /url: https://www.boot.dev/contact
+          - generic [ref=e461]:
+            - heading "Codedex" [level=3] [ref=e462]
+            - img "Codedex" [ref=e464]
+            - heading "About Codedex" [level=4] [ref=e465]
+            - paragraph [ref=e466]: Codédex is a brand new learn-to-code platform for Gen Z with courses in Python, HTML, CSS, JavaScript, React, Git & GitHub, Command Line, and more. Start your coding adventure today.
+            - heading "Offers" [level=4] [ref=e467]
+            - generic [ref=e469]:
+              - heading "Offer" [level=5] [ref=e470]
+              - paragraph [ref=e471]: Verified students receive 6 months of Codédex Club, a premium membership for free.
+              - heading "Tags" [level=6] [ref=e472]
+              - list [ref=e473]:
+                - listitem [ref=e474]:
+                  - generic [ref=e475]: Learn
+                - listitem [ref=e476]:
+                  - generic [ref=e477]: Developer tools
+                - listitem [ref=e478]:
+                  - generic [ref=e479]: Virtual Events
+            - paragraph [ref=e480]:
+              - text: Get help at
+              - link "Codedex support" [ref=e481] [cursor=pointer]:
+                - /url: https://codedex.notion.site/Welcome-to-the-Cod-dex-Help-Center-c8afe2966ea9490d9377bce826d22eb7
+          - generic [ref=e482]:
+            - heading "JetBrains" [level=3] [ref=e483]
+            - img "JetBrains" [ref=e485]
+            - heading "About JetBrains" [level=4] [ref=e486]
+            - paragraph [ref=e487]: "Professional desktop IDEs: IntelliJ IDEA, PyCharm, and more."
+            - heading "Offers" [level=4] [ref=e488]
+            - generic [ref=e490]:
+              - heading "Offer" [level=5] [ref=e491]
+              - paragraph [ref=e492]: A free subscription for students, to be renewed annually.
+              - heading "Tags" [level=6] [ref=e493]
+              - list [ref=e494]:
+                - listitem [ref=e495]:
+                  - generic [ref=e496]: Developer tools
+            - paragraph [ref=e497]:
+              - text: Get help at
+              - link "JetBrains support" [ref=e498] [cursor=pointer]:
+                - /url: https://intellij-support.jetbrains.com/hc/en-us
+          - generic [ref=e499]:
+            - heading "Heroku" [level=3] [ref=e500]
+            - img "Heroku" [ref=e502]
+            - heading "About Heroku" [level=4] [ref=e503]
+            - paragraph [ref=e504]: A flexible, easy-to-use platform to deploy, run, and manage your apps.
+            - heading "Offers" [level=4] [ref=e505]
+            - generic [ref=e507]:
+              - heading "Offer" [level=5] [ref=e508]
+              - paragraph [ref=e509]: Enjoy a credit of $13 USD per month for 24 months.
+              - heading "Tags" [level=6] [ref=e510]
+              - list [ref=e511]:
+                - listitem [ref=e512]:
+                  - generic [ref=e513]: Cloud
+                - listitem [ref=e514]:
+                  - generic [ref=e515]: Developer tools
+            - paragraph [ref=e516]:
+              - text: Get help at
+              - link "Heroku support" [ref=e517] [cursor=pointer]:
+                - /url: https://help.heroku.com
+          - generic [ref=e518]:
+            - heading "Visual Studio Code" [level=3] [ref=e519]
+            - img "Visual Studio Code" [ref=e521]
+            - heading "About Visual Studio Code" [level=4] [ref=e522]
+            - paragraph [ref=e523]: Microsoft's goal is to empower all students with the best resources and tools as they learn to code.
+            - heading "Offers" [level=4] [ref=e524]
+            - generic [ref=e526]:
+              - heading "Offer" [level=5] [ref=e527]
+              - paragraph [ref=e528]: These coding packs help you download everything you need to start coding in Java, Python, or .NET.
+              - heading "Tags" [level=6] [ref=e529]
+              - list [ref=e530]:
+                - listitem [ref=e531]:
+                  - generic [ref=e532]: Developer tools
+            - paragraph [ref=e533]:
+              - text: Get help at
+              - link "Visual Studio Code support" [ref=e534] [cursor=pointer]:
+                - /url: https://visualstudio.microsoft.com/support/
+          - generic [ref=e535]:
+            - heading "DataCamp" [level=3] [ref=e536]
+            - img "DataCamp" [ref=e538]
+            - heading "About DataCamp" [level=4] [ref=e539]
+            - paragraph [ref=e540]: DataCamp helps companies and individuals make better use of data. Our users build data fluency while learning from the world’s top data scientists.
+            - heading "Offers" [level=4] [ref=e541]
+            - generic [ref=e543]:
+              - heading "Offer" [level=5] [ref=e544]
+              - paragraph [ref=e545]: DataCamp has partnered with GitHub Education to offer three months of free access when you sign up for a DataCamp subscription with your GitHub student account.
+              - heading "Tags" [level=6] [ref=e546]
+              - list [ref=e547]:
+                - listitem [ref=e548]:
+                  - generic [ref=e549]: Learn
+            - paragraph [ref=e550]:
+              - text: Get help at
+              - link "DataCamp support" [ref=e551] [cursor=pointer]:
+                - /url: https://support.datacamp.com/hc/en-us
+          - generic [ref=e552]:
+            - heading "GitHub Codespaces" [level=3] [ref=e553]
+            - img "GitHub Codespaces" [ref=e555]
+            - heading "About GitHub Codespaces" [level=4] [ref=e556]
+            - paragraph [ref=e557]: Create a codespace to start developing in a secure, configurable, and dedicated development environment that works how and where you want it to.
+            - heading "Offers" [level=4] [ref=e558]
+            - generic [ref=e560]:
+              - heading "Offer" [level=5] [ref=e561]
+              - paragraph [ref=e562]: Free Pro level access to Codespaces to use anywhere in your account.
+              - heading "Tags" [level=6] [ref=e563]
+              - list
+            - paragraph [ref=e564]:
+              - text: Get help at
+              - link "GitHub Codespaces support" [ref=e565] [cursor=pointer]:
+                - /url: https://support.github.com/features/codespaces
+          - generic [ref=e566]:
+            - heading "Testmail" [level=3] [ref=e567]
+            - img "Testmail" [ref=e569]
+            - heading "About Testmail" [level=4] [ref=e570]
+            - paragraph [ref=e571]: Get unlimited email addresses and mailboxes for automating email tests with our powerful APIs.
+            - heading "Offers" [level=4] [ref=e572]
+            - generic [ref=e574]:
+              - heading "Offer" [level=5] [ref=e575]
+              - paragraph [ref=e576]: Free Essential plan while you're a student.
+              - heading "Tags" [level=6] [ref=e577]
+              - list [ref=e578]:
+                - listitem [ref=e579]:
+                  - generic [ref=e580]: Developer tools
+            - paragraph [ref=e581]:
+              - text: Get help at
+              - link "Testmail support" [ref=e582] [cursor=pointer]:
+                - /url: mailto:support@testmail.app
+          - generic [ref=e583]:
+            - heading "Educative" [level=3] [ref=e584]
+            - img "Educative" [ref=e586]
+            - heading "About Educative" [level=4] [ref=e587]
+            - paragraph [ref=e588]: Discover the best learning environment to learn and retain concepts effortlessly. Experience instant coding with browser-based Playgrounds, engage with interactive hands-on labs, and follow guided tutorials for seamless mastery.
+            - heading "Offers" [level=4] [ref=e589]
+            - generic [ref=e591]:
+              - heading "Offer" [level=5] [ref=e592]
+              - paragraph [ref=e593]: Dive into 6 months of free access to over 70 practical courses, covering hot topics like Web Development, Python, Java, and Machine Learning. Plus, students enjoy an awesome 30% discount on any subscription they pick!
+              - heading "Tags" [level=6] [ref=e594]
+              - list [ref=e595]:
+                - listitem [ref=e596]:
+                  - generic [ref=e597]: Learn
+            - paragraph [ref=e598]:
+              - text: Get help at
+              - link "Educative support" [ref=e599] [cursor=pointer]:
+                - /url: mailto:github-students@educative.io
+          - generic [ref=e600]:
+            - heading "MongoDB" [level=3] [ref=e601]
+            - img "MongoDB" [ref=e603]
+            - heading "About MongoDB" [level=4] [ref=e604]
+            - paragraph [ref=e605]: A general purpose, document-based, distributed database built for modern application developers and for the cloud era.
+            - heading "Offers" [level=4] [ref=e606]
+            - generic [ref=e608]:
+              - heading "Offer" [level=5] [ref=e609]
+              - paragraph [ref=e610]: $50 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification valued at $150.
+              - heading "Tags" [level=6] [ref=e611]
+              - list [ref=e612]:
+                - listitem [ref=e613]:
+                  - generic [ref=e614]: Infrastructure & APIs
+            - paragraph [ref=e615]:
+              - text: Get help at
+              - link "MongoDB support" [ref=e616] [cursor=pointer]:
+                - /url: https://www.mongodb.com/community/forums/c/academia/students/42
+          - generic [ref=e617]:
+            - heading "Termius" [level=3] [ref=e618]
+            - img "Termius" [ref=e620]
+            - heading "About Termius" [level=4] [ref=e621]
+            - paragraph [ref=e622]: SSH client that works on desktop and mobile. Termius securely syncs data across all your devices.
+            - heading "Offers" [level=4] [ref=e623]
+            - generic [ref=e625]:
+              - heading "Offer" [level=5] [ref=e626]
+              - paragraph [ref=e627]: Free access to all Termius Pro and Termius Team features, while you're a student.
+              - heading "Tags" [level=6] [ref=e628]
+              - list [ref=e629]:
+                - listitem [ref=e630]:
+                  - generic [ref=e631]: Developer tools
+                - listitem [ref=e632]:
+                  - generic [ref=e633]: Mobile
+            - paragraph [ref=e634]:
+              - text: Get help at
+              - link "Termius support" [ref=e635] [cursor=pointer]:
+                - /url: mailto:education@termius.com
+          - generic [ref=e636]:
+            - heading "Clerk" [level=3] [ref=e637]
+            - img "Clerk" [ref=e639]
+            - heading "About Clerk" [level=4] [ref=e640]
+            - paragraph [ref=e641]: Clerk provides authentication, user management, billing, and much more. Flexible APIs and prebuilt components allow you to launch SaaS billing apps and B2B auth quickly and securely.
+            - heading "Offers" [level=4] [ref=e642]
+            - generic [ref=e644]:
+              - heading "Offer" [level=5] [ref=e645]
+              - paragraph [ref=e646]: Free Pro plan while you're a student.
+              - heading "Tags" [level=6] [ref=e647]
+              - list [ref=e648]:
+                - listitem [ref=e649]:
+                  - generic [ref=e650]: Infrastructure & APIs
+                - listitem [ref=e651]:
+                  - generic [ref=e652]: Developer tools
+            - paragraph [ref=e653]:
+              - text: Get help at
+              - link "Clerk support" [ref=e654] [cursor=pointer]:
+                - /url: https://clerk.com/contact
+          - generic [ref=e655]:
+            - heading "Datadog" [level=3] [ref=e656]
+            - img "Datadog" [ref=e658]
+            - heading "About Datadog" [level=4] [ref=e659]
+            - paragraph [ref=e660]: Cloud-based infrastructure monitoring.
+            - heading "Offers" [level=4] [ref=e661]
+            - generic [ref=e663]:
+              - heading "Offer" [level=5] [ref=e664]
+              - paragraph [ref=e665]: Pro Account, including 10 servers. Free for 2 years.
+              - heading "Tags" [level=6] [ref=e666]
+              - list [ref=e667]:
+                - listitem [ref=e668]:
+                  - generic [ref=e669]: Security & analytics
+            - paragraph [ref=e670]:
+              - text: Get help at
+              - link "Datadog support" [ref=e671] [cursor=pointer]:
+                - /url: mailto:studentpack@datadoghq.com
+          - generic [ref=e672]:
+            - heading "GitHub Pages" [level=3] [ref=e673]
+            - img "GitHub Pages" [ref=e675]
+            - heading "About GitHub Pages" [level=4] [ref=e676]
+            - paragraph [ref=e677]: Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
+            - heading "Offers" [level=4] [ref=e678]
+            - generic [ref=e680]:
+              - heading "Offer" [level=5] [ref=e681]
+              - paragraph [ref=e682]: Get one site per GitHub account and organization, and unlimited project sites.
+              - heading "Tags" [level=6] [ref=e683]
+              - list [ref=e684]:
+                - listitem [ref=e685]:
+                  - generic [ref=e686]: Developer tools
+            - paragraph [ref=e687]:
+              - text: Get help at
+              - link "GitHub Pages support" [ref=e688] [cursor=pointer]:
+                - /url: https://support.github.com/contact
+          - generic [ref=e689]:
+            - heading "Camber" [level=3] [ref=e690]
+            - img "Camber" [ref=e692]
+            - heading "About Camber" [level=4] [ref=e693]
+            - paragraph [ref=e694]: AI-powered, cloud-based platform designed for scientific computing, simulations, and data analysis.
+            - heading "Offers" [level=4] [ref=e695]
+            - generic [ref=e697]:
+              - heading "Offer" [level=5] [ref=e698]
+              - paragraph [ref=e699]: Free Camber Student plan that includes 200 CPU hours, 75GB of storage, and 200 LLM messages per month, plus additional student benefits designed to supercharge your research.
+              - heading "Tags" [level=6] [ref=e700]
+              - list [ref=e701]:
+                - listitem [ref=e702]:
+                  - generic [ref=e703]: Cloud
+                - listitem [ref=e704]:
+                  - generic [ref=e705]: Learn
+            - paragraph [ref=e706]:
+              - text: Get help at
+              - link "Camber support" [ref=e707] [cursor=pointer]:
+                - /url: https://cambercloudcommunity.slack.com/join/shared_invite/zt-2nveiufw5-y~lolMoHcsvnsCtiq8XVTw#/shared-invite/email
+          - generic [ref=e708]:
+            - heading "FrontendMasters" [level=3] [ref=e709]
+            - img "FrontendMasters" [ref=e711]
+            - heading "About FrontendMasters" [level=4] [ref=e712]
+            - paragraph [ref=e713]: Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses.
+            - heading "Offers" [level=4] [ref=e714]
+            - generic [ref=e716]:
+              - heading "Offer" [level=5] [ref=e717]
+              - paragraph [ref=e718]: Free 6-months access to all courses and workshops.
+              - heading "Tags" [level=6] [ref=e719]
+              - list [ref=e720]:
+                - listitem [ref=e721]:
+                  - generic [ref=e722]: Learn
+            - paragraph [ref=e723]:
+              - text: Get help at
+              - link "FrontendMasters support" [ref=e724] [cursor=pointer]:
+                - /url: mailto:support@frontendmasters.com
+          - generic [ref=e725]:
+            - heading "Microsoft Azure (for ages 13-17)" [level=3] [ref=e726]
+            - img "Microsoft Azure (for ages 13-17)" [ref=e728]
+            - heading "About Microsoft Azure (for ages 13-17)" [level=4] [ref=e729]
+            - paragraph [ref=e730]: Access to Microsoft Azure cloud services and learning resources for students aged 13-17 – no credit card required
+            - heading "Offers" [level=4] [ref=e731]
+            - generic [ref=e733]:
+              - heading "Offer" [level=5] [ref=e734]
+              - paragraph [ref=e735]: For students age 13-17. Free access to Azure App Services, Azure Functions, Notification Hubs, MySQL database from MySQL in-app, Application Insights, Azure DevOps.
+              - heading "Tags" [level=6] [ref=e736]
+              - list [ref=e737]:
+                - listitem [ref=e738]:
+                  - generic [ref=e739]: Developer tools
+                - listitem [ref=e740]:
+                  - generic [ref=e741]: Cloud
+            - paragraph [ref=e742]:
+              - text: Get help at
+              - link "Microsoft Azure (for ages 13-17) support" [ref=e743] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/support/options/
+          - generic [ref=e744]:
+            - heading "Stripe" [level=3] [ref=e745]
+            - img "Stripe" [ref=e747]
+            - heading "About Stripe" [level=4] [ref=e748]
+            - paragraph [ref=e749]: Web and mobile payments, built for developers
+            - heading "Offers" [level=4] [ref=e750]
+            - generic [ref=e752]:
+              - heading "Offer" [level=5] [ref=e753]
+              - paragraph [ref=e754]: Waived transaction fees on first $1000 in revenue processed.
+              - heading "Tags" [level=6] [ref=e755]
+              - list [ref=e756]:
+                - listitem [ref=e757]:
+                  - generic [ref=e758]: Infrastructure & APIs
+            - paragraph [ref=e759]:
+              - text: Get help at
+              - link "Stripe support" [ref=e760] [cursor=pointer]:
+                - /url: https://support.stripe.com/
+          - generic [ref=e761]:
+            - heading "Microsoft Visual Studio Dev Essentials" [level=3] [ref=e762]
+            - img "Microsoft Visual Studio Dev Essentials" [ref=e764]
+            - heading "About Microsoft Visual Studio Dev Essentials" [level=4] [ref=e765]
+            - paragraph [ref=e766]: Free developer tools, cloud services and training from Microsoft.
+            - heading "Offers" [level=4] [ref=e767]
+            - generic [ref=e769]:
+              - heading "Offer" [level=5] [ref=e770]
+              - paragraph [ref=e771]: Visual Studio Community, Visual Studio Community for Mac, access to Pluralsight training, 1 free year of Azure services with $200 credit for the 1st month and more.
+              - heading "Tags" [level=6] [ref=e772]
+              - list [ref=e773]:
+                - listitem [ref=e774]:
+                  - generic [ref=e775]: Cloud
+                - listitem [ref=e776]:
+                  - generic [ref=e777]: Developer tools
+                - listitem [ref=e778]:
+                  - generic [ref=e779]: Learn
+            - paragraph [ref=e780]:
+              - text: Get help at
+              - link "Microsoft Visual Studio Dev Essentials support" [ref=e781] [cursor=pointer]:
+                - /url: https://visualstudio.microsoft.com/vs/support/#talktous
+          - generic [ref=e782]:
+            - heading "Appwrite" [level=3] [ref=e783]
+            - img "Appwrite" [ref=e785]
+            - heading "About Appwrite" [level=4] [ref=e786]
+            - paragraph [ref=e787]: Appwrite is an open-source, developer infrastructure platform for building web, mobile, and AI apps. It includes both a backend server and a fully integrated hosting solution for deploying static and server-side rendered frontends.
+            - heading "Offers" [level=4] [ref=e788]
+            - generic [ref=e790]:
+              - heading "Offer" [level=5] [ref=e791]
+              - paragraph [ref=e792]: Free access to Appwrite's Education plan (2 projects with equivalent resource limits as Appwrite Pro, worth $40/month) throughout the course of your student career (i.e., as long as you remain a member of the GitHub Student Developer Pack)
+              - heading "Tags" [level=6] [ref=e793]
+              - list [ref=e794]:
+                - listitem [ref=e795]:
+                  - generic [ref=e796]: Cloud
+                - listitem [ref=e797]:
+                  - generic [ref=e798]: Developer tools
+            - paragraph [ref=e799]:
+              - text: Get help at
+              - link "Appwrite support" [ref=e800] [cursor=pointer]:
+                - /url: https://appwrite.io/discord
+          - generic [ref=e801]:
+            - heading "Notion Template Collection" [level=3] [ref=e802]
+            - img "Notion Template Collection" [ref=e804]
+            - heading "About Notion Template Collection" [level=4] [ref=e805]
+            - paragraph [ref=e806]: Notion and Github for Education are partnering together to bring the next generation of software to students around the world.
+            - heading "Offers" [level=4] [ref=e807]
+            - generic [ref=e809]:
+              - heading "Offer" [level=5] [ref=e810]
+              - paragraph [ref=e811]: From setting up your CS course dashboard to running your hackathons to building your portfolios — this collection of templates has got you covered, in the classroom and beyond.
+              - heading "Tags" [level=6] [ref=e812]
+              - list [ref=e813]:
+                - listitem [ref=e814]:
+                  - generic [ref=e815]: Productivity
+                - listitem [ref=e816]:
+                  - generic [ref=e817]: Personal Portfolio
+                - listitem [ref=e818]:
+                  - generic [ref=e819]: Virtual Events
+            - paragraph [ref=e820]:
+              - text: Get help at
+              - link "Notion Template Collection support" [ref=e821] [cursor=pointer]:
+                - /url: https://www.notion.so/help
+          - generic [ref=e822]:
+            - heading "1Password" [level=3] [ref=e823]
+            - img "1Password" [ref=e825]
+            - heading "About 1Password" [level=4] [ref=e826]
+            - paragraph [ref=e827]: Whether you’re coding, cramming for an exam, or collaborating with classmates, 1Password keeps all of your important information safe and at your fingertips. Get started with the password manager that is designed to simplify and secure the software development process.
+            - heading "Offers" [level=4] [ref=e828]
+            - generic [ref=e830]:
+              - heading "Offer" [level=5] [ref=e831]
+              - paragraph [ref=e832]: Get 1Password free for a year including 1Password Developer Tools
+              - heading "Tags" [level=6] [ref=e833]
+              - list [ref=e834]:
+                - listitem [ref=e835]:
+                  - generic [ref=e836]: Developer tools
+                - listitem [ref=e837]:
+                  - generic [ref=e838]: Security & analytics
+            - paragraph [ref=e839]:
+              - text: Get help at
+              - link "1Password support" [ref=e840] [cursor=pointer]:
+                - /url: mailto:support@agilebits.com
+          - generic [ref=e841]:
+            - heading "PomoDone" [level=3] [ref=e842]
+            - img "PomoDone" [ref=e844]
+            - heading "About PomoDone" [level=4] [ref=e845]
+            - paragraph [ref=e846]: With PomoDone, hack and track your time and boost your productivity by applying Pomodoro technique to your workflow -- eliminate distraction, sharpen focus and prevent burnout.
+            - heading "Offers" [level=4] [ref=e847]
+            - generic [ref=e849]:
+              - heading "Offer" [level=5] [ref=e850]
+              - paragraph [ref=e851]: PomoDone Lite plan free for 2-years.
+              - heading "Tags" [level=6] [ref=e852]
+              - list [ref=e853]:
+                - listitem [ref=e854]:
+                  - generic [ref=e855]: Productivity
+            - paragraph [ref=e856]:
+              - text: Get help at
+              - link "PomoDone support" [ref=e857] [cursor=pointer]:
+                - /url: mailto:edu.support@pomodoneapp.com
+          - generic [ref=e858]:
+            - heading "Github Campus Experts" [level=3] [ref=e859]
+            - img "Github Campus Experts" [ref=e861]
+            - heading "About Github Campus Experts" [level=4] [ref=e862]
+            - paragraph [ref=e863]: GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.
+            - heading "Offers" [level=4] [ref=e864]
+            - generic [ref=e866]:
+              - heading "Offer" [level=5] [ref=e867]
+              - paragraph [ref=e868]: Apply to become part of the program while you’re a student.
+              - heading "Tags" [level=6] [ref=e869]
+              - list [ref=e870]:
+                - listitem [ref=e871]:
+                  - generic [ref=e872]: Learn
+            - paragraph [ref=e873]:
+              - text: Get help at
+              - link "Github Campus Experts support" [ref=e874] [cursor=pointer]:
+                - /url: https://support.github.com/contact
+          - generic [ref=e875]:
+            - heading "IconScout" [level=3] [ref=e876]
+            - img "IconScout" [ref=e878]
+            - heading "About IconScout" [level=4] [ref=e879]
+            - paragraph [ref=e880]: IconScout is a design resources marketplace with over 4.9 million icons, illustrations, 3D assets, and Lottie animations.
+            - heading "Offers" [level=4] [ref=e881]
+            - generic [ref=e883]:
+              - heading "Offer" [level=5] [ref=e884]
+              - paragraph [ref=e885]: Free access to 60 premium icons from selected contributors every month for 1 year.
+              - heading "Tags" [level=6] [ref=e886]
+              - list [ref=e887]:
+                - listitem [ref=e888]:
+                  - generic [ref=e889]: Design
+            - paragraph [ref=e890]:
+              - text: Get help at
+              - link "IconScout support" [ref=e891] [cursor=pointer]:
+                - /url: mailto:support@iconscout.com
+          - generic [ref=e892]:
+            - heading "Polypane" [level=3] [ref=e893]
+            - img "Polypane" [ref=e895]
+            - heading "About Polypane" [level=4] [ref=e896]
+            - paragraph [ref=e897]: A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time.
+            - heading "Offers" [level=4] [ref=e898]
+            - generic [ref=e900]:
+              - heading "Offer" [level=5] [ref=e901]
+              - paragraph [ref=e902]: You'll get free use of Polypane's individual plan for 1 year.
+              - heading "Tags" [level=6] [ref=e903]
+              - list [ref=e904]:
+                - listitem [ref=e905]:
+                  - generic [ref=e906]: Design
+                - listitem [ref=e907]:
+                  - generic [ref=e908]: Developer tools
+            - paragraph [ref=e909]:
+              - text: Get help at
+              - link "Polypane support" [ref=e910] [cursor=pointer]:
+                - /url: https://polypane.app/support
+          - generic [ref=e911]:
+            - heading "LocalStack" [level=3] [ref=e912]
+            - img "LocalStack" [ref=e914]
+            - heading "About LocalStack" [level=4] [ref=e915]
+            - paragraph [ref=e916]: LocalStack emulates AWS services right on your laptop, so you can build and test cloud applications without connecting to the AWS cloud.
+            - heading "Offers" [level=4] [ref=e917]
+            - generic [ref=e919]:
+              - heading "Offer" [level=5] [ref=e920]
+              - paragraph [ref=e921]: Free license to LocalStack’s most powerful AWS emulator in a ready-to-use cloud environment
+              - heading "Tags" [level=6] [ref=e922]
+              - list [ref=e923]:
+                - listitem [ref=e924]:
+                  - generic [ref=e925]: Cloud
+                - listitem [ref=e926]:
+                  - generic [ref=e927]: Developer tools
+                - listitem [ref=e928]:
+                  - generic [ref=e929]: Infrastructure & APIs
+            - paragraph [ref=e930]:
+              - text: Get help at
+              - link "LocalStack support" [ref=e931] [cursor=pointer]:
+                - /url: https://www.localstack.cloud/contact
+          - generic [ref=e932]:
+            - heading "Sentry" [level=3] [ref=e933]
+            - img "Sentry" [ref=e935]
+            - heading "About Sentry" [level=4] [ref=e936]
+            - paragraph [ref=e937]: Track errors in every language, framework, and library.
+            - heading "Offers" [level=4] [ref=e938]
+            - generic [ref=e940]:
+              - heading "Offer" [level=5] [ref=e941]
+              - paragraph [ref=e942]: "Students enjoy: 50K errors, 100K transactions, 1GB attachments, 500 replays, Team features, 1 yr limit (can renew), Disabled On-demand"
+              - heading "Tags" [level=6] [ref=e943]
+              - list [ref=e944]:
+                - listitem [ref=e945]:
+                  - generic [ref=e946]: Infrastructure & APIs
+                - listitem [ref=e947]:
+                  - generic [ref=e948]: Developer tools
+            - paragraph [ref=e949]:
+              - text: Get help at
+              - link "Sentry support" [ref=e950] [cursor=pointer]:
+                - /url: https://forum.sentry.io/
+          - generic [ref=e951]:
+            - heading "Bootstrap Studio" [level=3] [ref=e952]
+            - img "Bootstrap Studio" [ref=e954]
+            - heading "About Bootstrap Studio" [level=4] [ref=e955]
+            - paragraph [ref=e956]: Bootstrap Studio is a powerful desktop app for creating responsive websites using the Bootstrap framework.
+            - heading "Offers" [level=4] [ref=e957]
+            - generic [ref=e959]:
+              - heading "Offer" [level=5] [ref=e960]
+              - paragraph [ref=e961]: A free license for Bootstrap Studio while you are a student.
+              - heading "Tags" [level=6] [ref=e962]
+              - list [ref=e963]:
+                - listitem [ref=e964]:
+                  - generic [ref=e965]: Design
+                - listitem [ref=e966]:
+                  - generic [ref=e967]: Developer tools
+            - paragraph [ref=e968]:
+              - text: Get help at
+              - link "Bootstrap Studio support" [ref=e969] [cursor=pointer]:
+                - /url: https://bootstrapstudio.io/contact-us
+          - generic [ref=e970]:
+            - heading "New Relic" [level=3] [ref=e971]
+            - img "New Relic" [ref=e973]
+            - heading "About New Relic" [level=4] [ref=e974]
+            - paragraph [ref=e975]: New Relic is an observability platform that helps fully understand how to improve your software.
+            - heading "Offers" [level=4] [ref=e976]
+            - generic [ref=e978]:
+              - heading "Offer" [level=5] [ref=e979]
+              - paragraph [ref=e980]: Free New Relic while you are a student. ($300/month value)
+              - heading "Tags" [level=6] [ref=e981]
+              - list [ref=e982]:
+                - listitem [ref=e983]:
+                  - generic [ref=e984]: Developer tools
+                - listitem [ref=e985]:
+                  - generic [ref=e986]: Cloud
+                - listitem [ref=e987]:
+                  - generic [ref=e988]: Security & analytics
+            - paragraph [ref=e989]:
+              - text: Get help at
+              - link "New Relic support" [ref=e990] [cursor=pointer]:
+                - /url: mailto:students@newrelic.com
+          - generic [ref=e991]:
+            - heading "Scrimba" [level=3] [ref=e992]
+            - img "Scrimba" [ref=e994]
+            - heading "About Scrimba" [level=4] [ref=e995]
+            - paragraph [ref=e996]: Scrimba is an interactive learning platform for frontend developers.
+            - heading "Offers" [level=4] [ref=e997]
+            - generic [ref=e999]:
+              - heading "Offer" [level=5] [ref=e1000]
+              - paragraph [ref=e1001]: Level up your coding skills with interactive courses, projects, and challenges. Learn JavaScript, CSS, React, Python, and more. Enjoy 1 month of free access to Full access to Scrimba’s Pro courses, projects, and coding challenges, which includes 40+ courses.
+              - heading "Tags" [level=6] [ref=e1002]
+              - list [ref=e1003]:
+                - listitem [ref=e1004]:
+                  - generic [ref=e1005]: Learn
+                - listitem [ref=e1006]:
+                  - generic [ref=e1007]: Developer tools
+            - paragraph [ref=e1008]:
+              - text: Get help at
+              - link "Scrimba support" [ref=e1009] [cursor=pointer]:
+                - /url: mailto:help@scrimba.com
+          - generic [ref=e1010]:
+            - heading "Deepnote" [level=3] [ref=e1011]
+            - img "Deepnote" [ref=e1013]
+            - heading "About Deepnote" [level=4] [ref=e1014]
+            - paragraph [ref=e1015]: Deepnote is a new kind of data notebook built for collaboration - Jupyter compatible, works magically in the cloud, and sharing is as easy as sending a link.
+            - heading "Offers" [level=4] [ref=e1016]
+            - generic [ref=e1018]:
+              - heading "Offer" [level=5] [ref=e1019]
+              - paragraph [ref=e1020]: "Our offer includes free use of the Deepnote Team plan while you are a student. The Deepnote Team Plan includes: Unlimited team members & projects, 30-day version history, unlimited basic machines with up to 5GB RAM and 2vCPU, premium integrations (Snowflake, SQL Server, BigQuery, Redshift, and more), and 30-day revision history."
+              - heading "Tags" [level=6] [ref=e1021]
+              - list [ref=e1022]:
+                - listitem [ref=e1023]:
+                  - generic [ref=e1024]: Developer tools
+                - listitem [ref=e1025]:
+                  - generic [ref=e1026]: Machine Learning & AI
+            - paragraph [ref=e1027]:
+              - text: Get help at
+              - link "Deepnote support" [ref=e1028] [cursor=pointer]:
+                - /url: mailto:help@deepnote.com
+          - generic [ref=e1029]:
+            - heading "GitLens" [level=3] [ref=e1030]
+            - img "GitLens" [ref=e1032]
+            - heading "About GitLens" [level=4] [ref=e1033]
+            - paragraph [ref=e1034]: "GitLens is the #1 Git extension for VS Code; enriching your IDE with Git visualizations such as inline blame annotations, the Commit Graph, and the innovative Launchpad. GitLens provides auto-linking and rich hover information for GitHub pull requests and issues."
+            - heading "Offers" [level=4] [ref=e1035]
+            - generic [ref=e1037]:
+              - heading "Offer" [level=5] [ref=e1038]
+              - paragraph [ref=e1039]: "The GitKraken Student plan: free for 6 months and then up to 80% off the Pro price as long as you’re a student."
+              - heading "Tags" [level=6] [ref=e1040]
+              - list [ref=e1041]:
+                - listitem [ref=e1042]:
+                  - generic [ref=e1043]: Developer tools
+            - paragraph [ref=e1044]:
+              - text: Get help at
+              - link "GitLens support" [ref=e1045] [cursor=pointer]:
+                - /url: https://help.gitkraken.com/gitlens/gitlens-home/
+          - generic [ref=e1046]:
+            - heading "Visme" [level=3] [ref=e1047]
+            - img "Visme" [ref=e1049]
+            - heading "About Visme" [level=4] [ref=e1050]
+            - paragraph [ref=e1051]: The all-in-one platform for creating engaging and interactive presentations, visual documents, data visualizations, short videos and other branded content you can be proud of.
+            - heading "Offers" [level=4] [ref=e1052]
+            - generic [ref=e1054]:
+              - heading "Offer" [level=5] [ref=e1055]
+              - paragraph [ref=e1056]: Get 3 free months free access to Visme's Starter plan.
+              - heading "Tags" [level=6] [ref=e1057]
+              - list [ref=e1058]:
+                - listitem [ref=e1059]:
+                  - generic [ref=e1060]: Productivity
+                - listitem [ref=e1061]:
+                  - generic [ref=e1062]: Design
+            - paragraph [ref=e1063]:
+              - text: Get help at
+              - link "Visme support" [ref=e1064] [cursor=pointer]:
+                - /url: https://support.visme.co/#contact_us_footer
+          - generic [ref=e1065]:
+            - heading "BrowserStack" [level=3] [ref=e1066]
+            - img "BrowserStack" [ref=e1068]
+            - heading "About BrowserStack" [level=4] [ref=e1069]
+            - paragraph [ref=e1070]: Test your web apps with BrowserStack's Real Device Cloud, which gives you instant access to 2000+ browsers and real iOS and Android devices.
+            - heading "Offers" [level=4] [ref=e1071]
+            - generic [ref=e1073]:
+              - heading "Offer" [level=5] [ref=e1074]
+              - paragraph [ref=e1075]: Free Automate Mobile Plan for 1 parallel and 1 user for 1 year.
+              - heading "Tags" [level=6] [ref=e1076]
+              - list [ref=e1077]:
+                - listitem [ref=e1078]:
+                  - generic [ref=e1079]: Developer tools
+            - paragraph [ref=e1080]:
+              - text: Get help at
+              - link "BrowserStack support" [ref=e1081] [cursor=pointer]:
+                - /url: https://www.browserstack.com/contact
+          - generic [ref=e1082]:
+            - heading "Zyte" [level=3] [ref=e1083]
+            - img "Zyte" [ref=e1085]
+            - heading "About Zyte" [level=4] [ref=e1086]
+            - paragraph [ref=e1087]: Zyte's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.
+            - heading "Offers" [level=4] [ref=e1088]
+            - generic [ref=e1090]:
+              - heading "Offer" [level=5] [ref=e1091]
+              - paragraph [ref=e1092]: 1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
+              - heading "Tags" [level=6] [ref=e1093]
+              - list [ref=e1094]:
+                - listitem [ref=e1095]:
+                  - generic [ref=e1096]: Developer tools
+            - paragraph [ref=e1097]:
+              - text: Get help at
+              - link "Zyte support" [ref=e1098] [cursor=pointer]:
+                - /url: mailto:support@zyte.com
+          - generic [ref=e1099]:
+            - heading "Icons8" [level=3] [ref=e1100]
+            - img "Icons8" [ref=e1102]
+            - heading "About Icons8" [level=4] [ref=e1103]
+            - paragraph [ref=e1104]: "Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects."
+            - heading "Offers" [level=4] [ref=e1105]
+            - generic [ref=e1107]:
+              - heading "Offer" [level=5] [ref=e1108]
+              - paragraph [ref=e1109]: "Free 3-month subscription that includes: icons, photos, illustrations, and music."
+              - heading "Tags" [level=6] [ref=e1110]
+              - list [ref=e1111]:
+                - listitem [ref=e1112]:
+                  - generic [ref=e1113]: Design
+            - paragraph [ref=e1114]:
+              - text: Get help at
+              - link "Icons8 support" [ref=e1115] [cursor=pointer]:
+                - /url: https://icons8.com/contact
+          - generic [ref=e1116]:
+            - heading "Arduino" [level=3] [ref=e1117]
+            - img "Arduino" [ref=e1119]
+            - heading "About Arduino" [level=4] [ref=e1120]
+            - paragraph [ref=e1121]: Empower scientists and artists of the future with creative STEM programs.
+            - heading "Offers" [level=4] [ref=e1122]
+            - generic [ref=e1124]:
+              - heading "Offer" [level=5] [ref=e1125]
+              - paragraph [ref=e1126]: Free Arduino Cloud for 6 months and discounts on selected hardware.
+              - heading "Tags" [level=6] [ref=e1127]
+              - list [ref=e1128]:
+                - listitem [ref=e1129]:
+                  - generic [ref=e1130]: Internet of Things
+                - listitem [ref=e1131]:
+                  - generic [ref=e1132]: Infrastructure & APIs
+            - paragraph [ref=e1133]:
+              - text: Get help at
+              - link "Arduino support" [ref=e1134] [cursor=pointer]:
+                - /url: https://www.arduino.cc/education/contact-us
+          - generic [ref=e1135]:
+            - heading "Pageclip" [level=3] [ref=e1136]
+            - img "Pageclip" [ref=e1138]
+            - heading "About Pageclip" [level=4] [ref=e1139]
+            - paragraph [ref=e1140]: A server for your static websites and HTML forms.
+            - heading "Offers" [level=4] [ref=e1141]
+            - generic [ref=e1143]:
+              - heading "Offer" [level=5] [ref=e1144]
+              - paragraph [ref=e1145]: Free basic plan while you are a student.
+              - heading "Tags" [level=6] [ref=e1146]
+              - list [ref=e1147]:
+                - listitem [ref=e1148]:
+                  - generic [ref=e1149]: Infrastructure & APIs
+            - paragraph [ref=e1150]:
+              - text: Get help at
+              - link "Pageclip support" [ref=e1151] [cursor=pointer]:
+                - /url: mailto:support@pageclip.co
+          - generic [ref=e1152]:
+            - heading "HazeOver" [level=3] [ref=e1153]
+            - img "HazeOver" [ref=e1155]
+            - heading "About HazeOver" [level=4] [ref=e1156]
+            - paragraph [ref=e1157]: Get focused while working on your projects or studying with HazeOver for Mac.
+            - heading "Offers" [level=4] [ref=e1158]
+            - generic [ref=e1160]:
+              - heading "Offer" [level=5] [ref=e1161]
+              - paragraph [ref=e1162]: Free app license, including minor updates.
+              - heading "Tags" [level=6] [ref=e1163]
+              - list [ref=e1164]:
+                - listitem [ref=e1165]:
+                  - generic [ref=e1166]: Productivity
+            - paragraph [ref=e1167]:
+              - text: Get help at
+              - link "HazeOver support" [ref=e1168] [cursor=pointer]:
+                - /url: https://hazeover.com/contact.html
+          - generic [ref=e1169]:
+            - heading "GitHub Desktop" [level=3] [ref=e1170]
+            - img "GitHub Desktop" [ref=e1172]
+            - heading "About GitHub Desktop" [level=4] [ref=e1173]
+            - paragraph [ref=e1174]: Reduces frustration and makes Git and GitHub workflows more approachable.
+            - heading "Offers" [level=4] [ref=e1175]
+            - generic [ref=e1177]:
+              - heading "Offer" [level=5] [ref=e1178]
+              - paragraph [ref=e1179]: Open Source by GitHub, free for everyone.
+              - heading "Tags" [level=6] [ref=e1180]
+              - list [ref=e1181]:
+                - listitem [ref=e1182]:
+                  - generic [ref=e1183]: Developer tools
+            - paragraph [ref=e1184]:
+              - text: Get help at
+              - link "GitHub Desktop support" [ref=e1185] [cursor=pointer]:
+                - /url: https://help.github.com/desktop/guides/
+          - generic [ref=e1186]:
+            - heading "AlgoExpert" [level=3] [ref=e1187]
+            - img "AlgoExpert" [ref=e1189]
+            - heading "About AlgoExpert" [level=4] [ref=e1190]
+            - paragraph [ref=e1191]: The ultimate resource to prepare for coding interviews. Everything you need, in one streamlined platform.
+            - heading "Offers" [level=4] [ref=e1192]
+            - generic [ref=e1194]:
+              - heading "Offer" [level=5] [ref=e1195]
+              - paragraph [ref=e1196]: Free access to 20 coding interview questions on AlgoExpert as well as a 10% discount on all AlgoExpert products.
+              - heading "Tags" [level=6] [ref=e1197]
+              - list [ref=e1198]:
+                - listitem [ref=e1199]:
+                  - generic [ref=e1200]: Learn
+                - listitem [ref=e1201]:
+                  - generic [ref=e1202]: Personal Portfolio
+            - paragraph [ref=e1203]:
+              - text: Get help at
+              - link "AlgoExpert support" [ref=e1204] [cursor=pointer]:
+                - /url: https://www.algoexpert.io/help?v=MiscellaneousBug
+          - generic [ref=e1205]:
+            - heading "Blackfire" [level=3] [ref=e1206]
+            - img "Blackfire" [ref=e1208]
+            - heading "About Blackfire" [level=4] [ref=e1209]
+            - paragraph [ref=e1210]: Code performance measurement tool. Find & fix bottlenecks.
+            - heading "Offers" [level=4] [ref=e1211]
+            - generic [ref=e1213]:
+              - heading "Offer" [level=5] [ref=e1214]
+              - paragraph [ref=e1215]: Free Developer subscription for students.
+              - heading "Tags" [level=6] [ref=e1216]
+              - list [ref=e1217]:
+                - listitem [ref=e1218]:
+                  - generic [ref=e1219]: Security & analytics
+            - paragraph [ref=e1220]:
+              - text: Get help at
+              - link "Blackfire support" [ref=e1221] [cursor=pointer]:
+                - /url: mailto:student@blackfire.io
+          - generic [ref=e1222]:
+            - heading "CodeScene" [level=3] [ref=e1223]
+            - img "CodeScene" [ref=e1225]
+            - heading "About CodeScene" [level=4] [ref=e1226]
+            - paragraph [ref=e1227]: Learn how to write healthier code, pinpoint and manage tech debt and other code quality issues. CodeScene gives you instant feedback on your code and recommendations based on the best coding practices and latest standards. Integrate CodeScene into your pull requests to get automated code reviews, set quality gates and only merge quality code. 25+ programming languages are supported.
+            - heading "Offers" [level=4] [ref=e1228]
+            - generic [ref=e1230]:
+              - heading "Offer" [level=5] [ref=e1231]
+              - paragraph [ref=e1232]: A free Student account to analyze private GitHub repositories.
+              - heading "Tags" [level=6] [ref=e1233]
+              - list [ref=e1234]:
+                - listitem [ref=e1235]:
+                  - generic [ref=e1236]: Security & analytics
+                - listitem [ref=e1237]:
+                  - generic [ref=e1238]: Developer tools
+            - paragraph [ref=e1239]:
+              - text: Get help at
+              - link "CodeScene support" [ref=e1240] [cursor=pointer]:
+                - /url: mailto:info@empear.com
+          - generic [ref=e1241]:
+            - heading "Imgbot" [level=3] [ref=e1242]
+            - img "Imgbot" [ref=e1244]
+            - heading "About Imgbot" [level=4] [ref=e1245]
+            - paragraph [ref=e1246]: Imgbot is a GitHub App that automatically optimizes your images.
+            - heading "Offers" [level=4] [ref=e1247]
+            - generic [ref=e1249]:
+              - heading "Offer" [level=5] [ref=e1250]
+              - paragraph [ref=e1251]: Free image optimization for all your public and private projects while you are a student.
+              - heading "Tags" [level=6] [ref=e1252]
+              - list [ref=e1253]:
+                - listitem [ref=e1254]:
+                  - generic [ref=e1255]: Infrastructure & APIs
+            - paragraph [ref=e1256]:
+              - text: Get help at
+              - link "Imgbot support" [ref=e1257] [cursor=pointer]:
+                - /url: mailto:help@imgbot.net
+          - generic [ref=e1258]:
+            - heading "LambdaTest" [level=3] [ref=e1259]
+            - img "LambdaTest" [ref=e1261]
+            - heading "About LambdaTest" [level=4] [ref=e1262]
+            - paragraph [ref=e1263]: Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.
+            - heading "Offers" [level=4] [ref=e1264]
+            - generic [ref=e1266]:
+              - heading "Offer" [level=5] [ref=e1267]
+              - paragraph [ref=e1268]: Free LambdaTest Live Plan for one year.
+              - heading "Tags" [level=6] [ref=e1269]
+              - list [ref=e1270]:
+                - listitem [ref=e1271]:
+                  - generic [ref=e1272]: Developer tools
+            - paragraph [ref=e1273]:
+              - text: Get help at
+              - link "LambdaTest support" [ref=e1274] [cursor=pointer]:
+                - /url: mailto:support@lambdatest.com
+          - generic [ref=e1275]:
+            - heading "GitKraken" [level=3] [ref=e1276]
+            - img "GitKraken" [ref=e1278]
+            - heading "About GitKraken" [level=4] [ref=e1279]
+            - paragraph [ref=e1280]: GitKraken Desktop is the most popular Git client for Windows, Mac & Linux, offering both a GUI and terminal interface. Deep integration with GitHub repos and issues enable interactive pull request management and issue management directly in the client.
+            - heading "Offers" [level=4] [ref=e1281]
+            - generic [ref=e1283]:
+              - heading "Offer" [level=5] [ref=e1284]
+              - paragraph [ref=e1285]: "The GitKraken Student Plan: Free for 6 months and then up to 80% off the Pro price as long as you’re a student."
+              - heading "Tags" [level=6] [ref=e1286]
+              - list [ref=e1287]:
+                - listitem [ref=e1288]:
+                  - generic [ref=e1289]: Developer tools
+            - paragraph [ref=e1290]:
+              - text: Get help at
+              - link "GitKraken support" [ref=e1291] [cursor=pointer]:
+                - /url: https://help.gitkraken.com/gitkraken-desktop/gitkraken-desktop-home/
+          - generic [ref=e1292]:
+            - heading "ToDiagram" [level=3] [ref=e1293]
+            - img "ToDiagram" [ref=e1295]
+            - heading "About ToDiagram" [level=4] [ref=e1296]
+            - paragraph [ref=e1297]: ToDiagram is a browser-based interactive data editor that turns any JSON, YAML, CSV and XML into editable diagrams with fully customizable formats, allowing you to define nodes and edges for any diagram.
+            - heading "Offers" [level=4] [ref=e1298]
+            - generic [ref=e1300]:
+              - heading "Offer" [level=5] [ref=e1301]
+              - paragraph [ref=e1302]: ToDiagram Pro Plan including full editor access, no data limits, and up to 10 documents stored in the cloud. This offer does not include AI-assistant functionality.
+              - heading "Tags" [level=6] [ref=e1303]
+              - list [ref=e1304]:
+                - listitem [ref=e1305]:
+                  - generic [ref=e1306]: Productivity
+                - listitem [ref=e1307]:
+                  - generic [ref=e1308]: Developer tools
+                - listitem [ref=e1309]:
+                  - generic [ref=e1310]: Infrastructure & APIs
+            - paragraph [ref=e1311]:
+              - text: Get help at
+              - link "ToDiagram support" [ref=e1312] [cursor=pointer]:
+                - /url: mailto:contact@todiagram.com
+          - generic [ref=e1313]:
+            - heading "Travis CI" [level=3] [ref=e1314]
+            - img "Travis CI" [ref=e1316]
+            - heading "About Travis CI" [level=4] [ref=e1317]
+            - paragraph [ref=e1318]: Continuous integration platform for open source and private projects
+            - heading "Offers" [level=4] [ref=e1319]
+            - generic [ref=e1321]:
+              - heading "Offer" [level=5] [ref=e1322]
+              - paragraph [ref=e1323]: Private builds for free while you're a student.
+              - heading "Tags" [level=6] [ref=e1324]
+              - list [ref=e1325]:
+                - listitem [ref=e1326]:
+                  - generic [ref=e1327]: Developer tools
+                - listitem [ref=e1328]:
+                  - generic [ref=e1329]: Infrastructure & APIs
+            - paragraph [ref=e1330]:
+              - text: Get help at
+              - link "Travis CI support" [ref=e1331] [cursor=pointer]:
+                - /url: http://docs.travis-ci.com/imprint.html
+          - generic [ref=e1332]:
+            - heading "Adafruit" [level=3] [ref=e1333]
+            - img "Adafruit" [ref=e1335]
+            - heading "About Adafruit" [level=4] [ref=e1336]
+            - paragraph [ref=e1337]: Adafruit is an open-source hardware and open-source educational electronics company based in NYC, USA.
+            - heading "Offers" [level=4] [ref=e1338]
+            - generic [ref=e1340]:
+              - heading "Offer" [level=5] [ref=e1341]
+              - paragraph [ref=e1342]: One year of Adafruit IO+ and discounts on selected hardware.
+              - heading "Tags" [level=6] [ref=e1343]
+              - list [ref=e1344]:
+                - listitem [ref=e1345]:
+                  - generic [ref=e1346]: Internet of Things
+                - listitem [ref=e1347]:
+                  - generic [ref=e1348]: Infrastructure & APIs
+            - paragraph [ref=e1349]:
+              - text: Get help at
+              - link "Adafruit support" [ref=e1350] [cursor=pointer]:
+                - /url: https://www.adafruit.com/support
+          - generic [ref=e1351]:
+            - heading "SlideCoach" [level=3] [ref=e1352]
+            - img "SlideCoach" [ref=e1354]
+            - heading "About SlideCoach" [level=4] [ref=e1355]
+            - paragraph [ref=e1356]: Slide Coach is an AI presentation coach. Practice your presentations in private with your personal AI coach. Get instant, data-driven feedback, and walk into any room ready to own it.
+            - heading "Offers" [level=4] [ref=e1357]
+            - generic [ref=e1359]:
+              - heading "Offer" [level=5] [ref=e1360]
+              - paragraph [ref=e1361]: Enjoy 2,000 free credits for SlideCoach—equivalent to 40 AI-powered presentation sessions—valid for one year after redemption.
+              - heading "Tags" [level=6] [ref=e1362]
+              - list [ref=e1363]:
+                - listitem [ref=e1364]:
+                  - generic [ref=e1365]: Learn
+                - listitem [ref=e1366]:
+                  - generic [ref=e1367]: Productivity
+                - listitem [ref=e1368]:
+                  - generic [ref=e1369]: Personal Portfolio
+            - paragraph [ref=e1370]:
+              - text: Get help at
+              - link "SlideCoach support" [ref=e1371] [cursor=pointer]:
+                - /url: https://www.slidecoach.ai/en/support
+          - generic [ref=e1372]:
+            - heading "Octicons" [level=3] [ref=e1373]
+            - img "Octicons" [ref=e1375]
+            - heading "About Octicons" [level=4] [ref=e1376]
+            - paragraph [ref=e1377]: Octicons is an open source library created specifically for GitHub's UI.
+            - heading "Offers" [level=4] [ref=e1378]
+            - generic [ref=e1380]:
+              - heading "Offer" [level=5] [ref=e1381]
+              - paragraph [ref=e1382]: Using Figma designs to build the Octicons icon library
+              - heading "Tags" [level=6] [ref=e1383]
+              - list
+            - paragraph [ref=e1384]:
+              - text: Get help at
+              - link "Octicons support" [ref=e1385] [cursor=pointer]:
+                - /url: https://support.github.com/
+          - generic [ref=e1386]:
+            - heading "Xojo" [level=3] [ref=e1387]
+            - img "Xojo" [ref=e1389]
+            - heading "About Xojo" [level=4] [ref=e1390]
+            - paragraph [ref=e1391]: A cross-platform development tool for making native apps for Desktop, Mobile, Web and Raspberry Pi.
+            - heading "Offers" [level=4] [ref=e1392]
+            - generic [ref=e1394]:
+              - heading "Offer" [level=5] [ref=e1395]
+              - paragraph [ref=e1396]: Xojo Pro license free while you are a student.
+              - heading "Tags" [level=6] [ref=e1397]
+              - list [ref=e1398]:
+                - listitem [ref=e1399]:
+                  - generic [ref=e1400]: Design
+                - listitem [ref=e1401]:
+                  - generic [ref=e1402]: Developer tools
+            - paragraph [ref=e1403]:
+              - text: Get help at
+              - link "Xojo support" [ref=e1404] [cursor=pointer]:
+                - /url: mailto:hello@xojo.com
+          - generic [ref=e1405]:
+            - heading "Requestly" [level=3] [ref=e1406]
+            - img "Requestly" [ref=e1408]
+            - heading "About Requestly" [level=4] [ref=e1409]
+            - paragraph [ref=e1410]: Requestly is an open-source tool for developers to intercept, modify, and mock HTTP requests and responses to build, test, and manage APIs
+            - heading "Offers" [level=4] [ref=e1411]
+            - generic [ref=e1413]:
+              - heading "Offer" [level=5] [ref=e1414]
+              - paragraph [ref=e1415]: Requestly Professional plan (worth $270) free for one year.
+              - heading "Tags" [level=6] [ref=e1416]
+              - list [ref=e1417]:
+                - listitem [ref=e1418]:
+                  - generic [ref=e1419]: Infrastructure & APIs
+                - listitem [ref=e1420]:
+                  - generic [ref=e1421]: Developer tools
+                - listitem [ref=e1422]:
+                  - generic [ref=e1423]: Cloud
+            - paragraph [ref=e1424]:
+              - text: Get help at
+              - link "Requestly support" [ref=e1425] [cursor=pointer]:
+                - /url: https://www.browserstack.com/contact
+          - generic [ref=e1426]:
+            - heading "WorkingCopy" [level=3] [ref=e1427]
+            - img "WorkingCopy" [ref=e1429]
+            - heading "About WorkingCopy" [level=4] [ref=e1430]
+            - paragraph [ref=e1431]: Powerful Git client for iPhone & iPad.
+            - heading "Offers" [level=4] [ref=e1432]
+            - generic [ref=e1434]:
+              - heading "Offer" [level=5] [ref=e1435]
+              - paragraph [ref=e1436]: All Pro features for free while you are a student.
+              - heading "Tags" [level=6] [ref=e1437]
+              - list [ref=e1438]:
+                - listitem [ref=e1439]:
+                  - generic [ref=e1440]: Developer tools
+                - listitem [ref=e1441]:
+                  - generic [ref=e1442]: Mobile
+            - paragraph [ref=e1443]:
+              - text: Get help at
+              - link "WorkingCopy support" [ref=e1444] [cursor=pointer]:
+                - /url: mailto:anders@workingcopy.app
+          - generic [ref=e1445]:
+            - heading "SQLGate" [level=3] [ref=e1446]
+            - img "SQLGate" [ref=e1448]
+            - heading "About SQLGate" [level=4] [ref=e1449]
+            - paragraph [ref=e1450]: Simple but powerful IDE for multiple SQL databases.
+            - heading "Offers" [level=4] [ref=e1451]
+            - generic [ref=e1453]:
+              - heading "Offer" [level=5] [ref=e1454]
+              - paragraph [ref=e1455]: Access to most Standard Subscription features for 1 year.
+              - heading "Tags" [level=6] [ref=e1456]
+              - list [ref=e1457]:
+                - listitem [ref=e1458]:
+                  - generic [ref=e1459]: Developer tools
+            - paragraph [ref=e1460]:
+              - text: Get help at
+              - link "SQLGate support" [ref=e1461] [cursor=pointer]:
+                - /url: https://support.sqlgate.com/hc/en-us/requests/new
+          - generic [ref=e1462]:
+            - heading "InterviewCake" [level=3] [ref=e1463]
+            - img "InterviewCake" [ref=e1465]
+            - heading "About InterviewCake" [level=4] [ref=e1466]
+            - paragraph [ref=e1467]: Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more.
+            - heading "Offers" [level=4] [ref=e1468]
+            - generic [ref=e1470]:
+              - heading "Offer" [level=5] [ref=e1471]
+              - paragraph [ref=e1472]: Access to the full coding interview prep course for 1 week.
+              - heading "Tags" [level=6] [ref=e1473]
+              - list [ref=e1474]:
+                - listitem [ref=e1475]:
+                  - generic [ref=e1476]: Learn
+            - paragraph [ref=e1477]:
+              - text: Get help at
+              - link "InterviewCake support" [ref=e1478] [cursor=pointer]:
+                - /url: mailto:yourfriends@interviewcake.com
+          - generic [ref=e1479]:
+            - heading "Doppler" [level=3] [ref=e1480]
+            - img "Doppler" [ref=e1482]
+            - heading "About Doppler" [level=4] [ref=e1483]
+            - paragraph [ref=e1484]: A different way to manage secrets. From local development to production, we work on every stack, scaling with you as your team and products grow.
+            - heading "Offers" [level=4] [ref=e1485]
+            - generic [ref=e1487]:
+              - heading "Offer" [level=5] [ref=e1488]
+              - paragraph [ref=e1489]: Free Doppler Team subscription while the user is an active student.
+              - heading "Tags" [level=6] [ref=e1490]
+              - list [ref=e1491]:
+                - listitem [ref=e1492]:
+                  - generic [ref=e1493]: Infrastructure & APIs
+                - listitem [ref=e1494]:
+                  - generic [ref=e1495]: Security & analytics
+                - listitem [ref=e1496]:
+                  - generic [ref=e1497]: Developer tools
+            - paragraph [ref=e1498]:
+              - text: Get help at
+              - link "Doppler support" [ref=e1499] [cursor=pointer]:
+                - /url: mailto:support@doppler.com
+          - generic [ref=e1500]:
+            - heading "Blockchair" [level=3] [ref=e1501]
+            - img "Blockchair" [ref=e1503]
+            - heading "About Blockchair" [level=4] [ref=e1504]
+            - paragraph [ref=e1505]: Connect to the world of blockchains through Blockchair’s professional APIs — supports most major cryptocurrencies.
+            - heading "Offers" [level=4] [ref=e1506]
+            - generic [ref=e1508]:
+              - heading "Offer" [level=5] [ref=e1509]
+              - paragraph [ref=e1510]: 100,000 free requests.
+              - heading "Tags" [level=6] [ref=e1511]
+              - list [ref=e1512]:
+                - listitem [ref=e1513]:
+                  - generic [ref=e1514]: Infrastructure & APIs
+            - paragraph [ref=e1515]:
+              - text: Get help at
+              - link "Blockchair support" [ref=e1516] [cursor=pointer]:
+                - /url: https://blockchair.com/about
+          - generic [ref=e1517]:
+            - heading "CARTO" [level=3] [ref=e1518]
+            - img "CARTO" [ref=e1520]
+            - heading "About CARTO" [level=4] [ref=e1521]
+            - paragraph [ref=e1522]: An open and powerful platform for spatial data analysis, visualization, and application creation.
+            - heading "Offers" [level=4] [ref=e1523]
+            - generic [ref=e1525]:
+              - heading "Offer" [level=5] [ref=e1526]
+              - paragraph [ref=e1527]: Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
+              - heading "Tags" [level=6] [ref=e1528]
+              - list [ref=e1529]:
+                - listitem [ref=e1530]:
+                  - generic [ref=e1531]: Infrastructure & APIs
+            - paragraph [ref=e1532]:
+              - text: Get help at
+              - link "CARTO support" [ref=e1533] [cursor=pointer]:
+                - /url: https://carto.com/help/getting-started/student-accounts
+          - generic [ref=e1534]:
+            - heading "GoRails" [level=3] [ref=e1535]
+            - img "GoRails" [ref=e1537]
+            - heading "About GoRails" [level=4] [ref=e1538]
+            - paragraph [ref=e1539]: Tutorials for web developers learning Ruby, Rails, Javascript, Turbolinks, Stimulus.js, Vue.js, and more.
+            - heading "Offers" [level=4] [ref=e1540]
+            - generic [ref=e1542]:
+              - heading "Offer" [level=5] [ref=e1543]
+              - paragraph [ref=e1544]: Free access to all videos and lessons for 12 months.
+              - heading "Tags" [level=6] [ref=e1545]
+              - list [ref=e1546]:
+                - listitem [ref=e1547]:
+                  - generic [ref=e1548]: Learn
+            - paragraph [ref=e1549]:
+              - text: Get help at
+              - link "GoRails support" [ref=e1550] [cursor=pointer]:
+                - /url: mailto:chris@gorails.com
+          - generic [ref=e1551]:
+            - heading "Tower" [level=3] [ref=e1552]
+            - img "Tower" [ref=e1554]
+            - heading "About Tower" [level=4] [ref=e1555]
+            - paragraph [ref=e1556]: The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.
+            - heading "Offers" [level=4] [ref=e1557]
+            - generic [ref=e1559]:
+              - heading "Offer" [level=5] [ref=e1560]
+              - paragraph [ref=e1561]: Free license for Tower Pro while you are a student.
+              - heading "Tags" [level=6] [ref=e1562]
+              - list [ref=e1563]:
+                - listitem [ref=e1564]:
+                  - generic [ref=e1565]: Developer tools
+            - paragraph [ref=e1566]:
+              - text: Get help at
+              - link "Tower support" [ref=e1567] [cursor=pointer]:
+                - /url: mailto:support@git-tower.com
+          - generic [ref=e1568]:
+            - heading "DeepScan" [level=3] [ref=e1569]
+            - img "DeepScan" [ref=e1571]
+            - heading "About DeepScan" [level=4] [ref=e1572]
+            - paragraph [ref=e1573]: DeepScan is a platform for building better and more reliable JavaScript apps.
+            - heading "Offers" [level=4] [ref=e1574]
+            - generic [ref=e1576]:
+              - heading "Offer" [level=5] [ref=e1577]
+              - paragraph [ref=e1578]: Free 6-month trial while you are a student.
+              - heading "Tags" [level=6] [ref=e1579]
+              - list [ref=e1580]:
+                - listitem [ref=e1581]:
+                  - generic [ref=e1582]: Developer tools
+            - paragraph [ref=e1583]:
+              - text: Get help at
+              - link "DeepScan support" [ref=e1584] [cursor=pointer]:
+                - /url: https://deepscan.io/contact
+          - generic [ref=e1585]:
+            - heading "AstraSecurity" [level=3] [ref=e1586]
+            - img "AstraSecurity" [ref=e1588]
+            - heading "About AstraSecurity" [level=4] [ref=e1589]
+            - paragraph [ref=e1590]: Security suite for your website - firewall, malware scanner & managed bug bounty platform.
+            - heading "Offers" [level=4] [ref=e1591]
+            - generic [ref=e1593]:
+              - heading "Offer" [level=5] [ref=e1594]
+              - paragraph [ref=e1595]: 6 month access to website firewall & malware scanner
+              - heading "Tags" [level=6] [ref=e1596]
+              - list [ref=e1597]:
+                - listitem [ref=e1598]:
+                  - generic [ref=e1599]: Security & analytics
+            - paragraph [ref=e1600]:
+              - text: Get help at
+              - link "AstraSecurity support" [ref=e1601] [cursor=pointer]:
+                - /url: mailto:help+github@getastra.com
+          - generic [ref=e1602]:
+            - heading "POEditor" [level=3] [ref=e1603]
+            - img "POEditor" [ref=e1605]
+            - heading "About POEditor" [level=4] [ref=e1606]
+            - paragraph [ref=e1607]: POEditor is a highly scalable localization management platform for teams.
+            - heading "Offers" [level=4] [ref=e1608]
+            - generic [ref=e1610]:
+              - heading "Offer" [level=5] [ref=e1611]
+              - paragraph [ref=e1612]: Plus Plan for free for one year.
+              - heading "Tags" [level=6] [ref=e1613]
+              - list [ref=e1614]:
+                - listitem [ref=e1615]:
+                  - generic [ref=e1616]: Developer tools
+                - listitem [ref=e1617]:
+                  - generic [ref=e1618]: Infrastructure & APIs
+            - paragraph [ref=e1619]:
+              - text: Get help at
+              - link "POEditor support" [ref=e1620] [cursor=pointer]:
+                - /url: https://poeditor.com/contact/
+          - generic [ref=e1621]:
+            - heading "Codecov" [level=3] [ref=e1622]
+            - img "Codecov" [ref=e1624]
+            - heading "About Codecov" [level=4] [ref=e1625]
+            - paragraph [ref=e1626]: Codecov makes it easy to implement code coverage to develop healthier code
+            - heading "Offers" [level=4] [ref=e1627]
+            - generic [ref=e1629]:
+              - heading "Offer" [level=5] [ref=e1630]
+              - paragraph [ref=e1631]: Free access to Codecov on public and private repositories.
+              - heading "Tags" [level=6] [ref=e1632]
+              - list [ref=e1633]:
+                - listitem [ref=e1634]:
+                  - generic [ref=e1635]: Developer tools
+            - paragraph [ref=e1636]:
+              - text: Get help at
+              - link "Codecov support" [ref=e1637] [cursor=pointer]:
+                - /url: mailto:education@codecov.io
+          - generic [ref=e1638]:
+            - heading "PopSQL" [level=3] [ref=e1639]
+            - img "PopSQL" [ref=e1641]
+            - heading "About PopSQL" [level=4] [ref=e1642]
+            - paragraph [ref=e1643]: Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results.
+            - heading "Offers" [level=4] [ref=e1644]
+            - generic [ref=e1646]:
+              - heading "Offer" [level=5] [ref=e1647]
+              - paragraph [ref=e1648]: Free Premium subscription for PopSQL while you're a student.
+              - heading "Tags" [level=6] [ref=e1649]
+              - list [ref=e1650]:
+                - listitem [ref=e1651]:
+                  - generic [ref=e1652]: Developer tools
+            - paragraph [ref=e1653]:
+              - text: Get help at
+              - link "PopSQL support" [ref=e1654] [cursor=pointer]:
+                - /url: mailto:students@popsql.com
+          - generic [ref=e1655]:
+            - heading "Vaadin" [level=3] [ref=e1656]
+            - img "Vaadin" [ref=e1658]
+            - heading "About Vaadin" [level=4] [ref=e1659]
+            - paragraph [ref=e1660]: Best open source Java framework for building Progressive Web Applications.
+            - heading "Offers" [level=4] [ref=e1661]
+            - generic [ref=e1663]:
+              - heading "Offer" [level=5] [ref=e1664]
+              - paragraph [ref=e1665]: Free Pro subscription license to access the commercial components and tools.
+              - heading "Tags" [level=6] [ref=e1666]
+              - list [ref=e1667]:
+                - listitem [ref=e1668]:
+                  - generic [ref=e1669]: Infrastructure & APIs
+            - paragraph [ref=e1670]:
+              - text: Get help at
+              - link "Vaadin support" [ref=e1671] [cursor=pointer]:
+                - /url: mailto:edu@vaadin.com
+          - generic [ref=e1672]:
+            - heading "Honeybadger" [level=3] [ref=e1673]
+            - img "Honeybadger" [ref=e1675]
+            - heading "About Honeybadger" [level=4] [ref=e1676]
+            - paragraph [ref=e1677]: "The web developer's secret weapon: exception, uptime, and cron monitoring that's so awesome, you'll wish your site had more errors."
+            - heading "Offers" [level=4] [ref=e1678]
+            - generic [ref=e1680]:
+              - heading "Offer" [level=5] [ref=e1681]
+              - paragraph [ref=e1682]: Free Small account for 1 year.
+              - heading "Tags" [level=6] [ref=e1683]
+              - list [ref=e1684]:
+                - listitem [ref=e1685]:
+                  - generic [ref=e1686]: Security & analytics
+            - paragraph [ref=e1687]:
+              - text: Get help at
+              - link "Honeybadger support" [ref=e1688] [cursor=pointer]:
+                - /url: mailto:support@honeybadger.io
+          - generic [ref=e1689]:
+            - heading "SimpleAnalytics" [level=3] [ref=e1690]
+            - img "SimpleAnalytics" [ref=e1692]
+            - heading "About SimpleAnalytics" [level=4] [ref=e1693]
+            - paragraph [ref=e1694]: Privacy-friendly analytics with a simple interface and API.
+            - heading "Offers" [level=4] [ref=e1695]
+            - generic [ref=e1697]:
+              - heading "Offer" [level=5] [ref=e1698]
+              - paragraph [ref=e1699]: Starter plan free for one year, including 100k page views per month.
+              - heading "Tags" [level=6] [ref=e1700]
+              - list [ref=e1701]:
+                - listitem [ref=e1702]:
+                  - generic [ref=e1703]: Infrastructure & APIs
+                - listitem [ref=e1704]:
+                  - generic [ref=e1705]: Marketing
+            - paragraph [ref=e1706]:
+              - text: Get help at
+              - link "SimpleAnalytics support" [ref=e1707] [cursor=pointer]:
+                - /url: https://simpleanalytics.com/contact
+          - generic [ref=e1708]:
+            - heading "ConfigCat" [level=3] [ref=e1709]
+            - img "ConfigCat" [ref=e1711]
+            - heading "About ConfigCat" [level=4] [ref=e1712]
+            - paragraph [ref=e1713]: Learn feature flags with the industry leading feature flag service.
+            - heading "Offers" [level=4] [ref=e1714]
+            - generic [ref=e1716]:
+              - heading "Offer" [level=5] [ref=e1717]
+              - paragraph [ref=e1718]: 1000 feature flags, ∞ users for free.
+              - heading "Tags" [level=6] [ref=e1719]
+              - list [ref=e1720]:
+                - listitem [ref=e1721]:
+                  - generic [ref=e1722]: Developer tools
+                - listitem [ref=e1723]:
+                  - generic [ref=e1724]: Infrastructure & APIs
+            - paragraph [ref=e1725]:
+              - text: Get help at
+              - link "ConfigCat support" [ref=e1726] [cursor=pointer]:
+                - /url: https://configcat.com/support/contactus
+          - generic [ref=e1727]:
+            - heading "DevCycle" [level=3] [ref=e1728]
+            - img "DevCycle" [ref=e1730]
+            - heading "About DevCycle" [level=4] [ref=e1731]
+            - paragraph [ref=e1732]: DevCycle is a Feature Flag Management platform built for developers.
+            - heading "Offers" [level=4] [ref=e1733]
+            - generic [ref=e1735]:
+              - heading "Offer" [level=5] [ref=e1736]
+              - paragraph [ref=e1737]: 1 Free Year on our Starter Plan to Verified Students. Includes unlimited seats, unlimited feature flags, and unlimited usage.
+              - heading "Tags" [level=6] [ref=e1738]
+              - list [ref=e1739]:
+                - listitem [ref=e1740]:
+                  - generic [ref=e1741]: Developer tools
+                - listitem [ref=e1742]:
+                  - generic [ref=e1743]: Security & analytics
+            - paragraph [ref=e1744]:
+              - text: Get help at
+              - link "DevCycle support" [ref=e1745] [cursor=pointer]:
+                - /url: mailto:education@devcycle.com
+          - generic [ref=e1746]:
+            - heading "Dashlane" [level=3] [ref=e1747]
+            - img "Dashlane" [ref=e1749]
+            - heading "About Dashlane" [level=4] [ref=e1750]
+            - paragraph [ref=e1751]: Cloud-based password manager.
+            - heading "Offers" [level=4] [ref=e1752]
+            - generic [ref=e1754]:
+              - heading "Offer" [level=5] [ref=e1755]
+              - paragraph [ref=e1756]: Dashlane Premium free for 6 months.
+              - heading "Tags" [level=6] [ref=e1757]
+              - list [ref=e1758]:
+                - listitem [ref=e1759]:
+                  - generic [ref=e1760]: Productivity
+            - paragraph [ref=e1761]:
+              - text: Get help at
+              - link "Dashlane support" [ref=e1762] [cursor=pointer]:
+                - /url: https://support.dashlane.com/
+          - generic [ref=e1763]:
+            - heading "Themeisle" [level=3] [ref=e1764]
+            - img "Themeisle" [ref=e1766]
+            - heading "About Themeisle" [level=4] [ref=e1767]
+            - paragraph [ref=e1768]: Neve’s mobile-first approach, compatibility with AMP and popular page-builders makes website building accessible for everyone.
+            - heading "Offers" [level=4] [ref=e1769]
+            - generic [ref=e1771]:
+              - heading "Offer" [level=5] [ref=e1772]
+              - paragraph [ref=e1773]: Free year of Neve Agency WordPress theme exclusively for students.
+              - heading "Tags" [level=6] [ref=e1774]
+              - list [ref=e1775]:
+                - listitem [ref=e1776]:
+                  - generic [ref=e1777]: Design
+                - listitem [ref=e1778]:
+                  - generic [ref=e1779]: Infrastructure & APIs
+            - paragraph [ref=e1780]:
+              - text: Get help at
+              - link "Themeisle support" [ref=e1781] [cursor=pointer]:
+                - /url: https://themeisle.com/contact/
+          - generic [ref=e1782]:
+            - heading "Appfigures" [level=3] [ref=e1783]
+            - img "Appfigures" [ref=e1785]
+            - heading "About Appfigures" [level=4] [ref=e1786]
+            - paragraph [ref=e1787]: App Store analytics, optimization, and intelligence.
+            - heading "Offers" [level=4] [ref=e1788]
+            - generic [ref=e1790]:
+              - heading "Offer" [level=5] [ref=e1791]
+              - paragraph [ref=e1792]: "\"Free access to universal analytics and performance reports for one year."
+              - heading "Tags" [level=6] [ref=e1793]
+              - list [ref=e1794]:
+                - listitem [ref=e1795]:
+                  - generic [ref=e1796]: Marketing
+            - paragraph [ref=e1797]:
+              - text: Get help at
+              - link "Appfigures support" [ref=e1798] [cursor=pointer]:
+                - /url: https://appfigures.com/support/contact
+          - generic [ref=e1799]:
+            - heading "SymfonyCasts" [level=3] [ref=e1800]
+            - img "SymfonyCasts" [ref=e1802]
+            - heading "About SymfonyCasts" [level=4] [ref=e1803]
+            - paragraph [ref=e1804]: Master Symfony and PHP with video tutorials and code challenges.
+            - heading "Offers" [level=4] [ref=e1805]
+            - generic [ref=e1807]:
+              - heading "Offer" [level=5] [ref=e1808]
+              - paragraph [ref=e1809]: Free 3-month subscription for students.
+              - heading "Tags" [level=6] [ref=e1810]
+              - list [ref=e1811]:
+                - listitem [ref=e1812]:
+                  - generic [ref=e1813]: Learn
+            - paragraph [ref=e1814]:
+              - text: Get help at
+              - link "SymfonyCasts support" [ref=e1815] [cursor=pointer]:
+                - /url: https://symfonycasts.com/contact
+  - contentinfo [ref=e1816]:
+    - heading "Footer" [level=2] [ref=e1817]
+    - generic [ref=e1819]:
+      - img "GitHub Logo" [ref=e1821]
+      - generic [ref=e1823]:
+        - heading "Product" [level=3] [ref=e1824]
+        - list [ref=e1825]:
+          - listitem [ref=e1826]:
+            - link "Features" [ref=e1827] [cursor=pointer]:
+              - /url: https://github.com/features
+          - listitem [ref=e1828]:
+            - link "Security" [ref=e1829] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e1830]:
+            - link "Enterprise" [ref=e1831] [cursor=pointer]:
+              - /url: https://github.com/enterprise
+          - listitem [ref=e1832]:
+            - link "Customer stories" [ref=e1833] [cursor=pointer]:
+              - /url: https://github.com/customer-stories
+          - listitem [ref=e1834]:
+            - link "Pricing" [ref=e1835] [cursor=pointer]:
+              - /url: https://github.com/pricing
+          - listitem [ref=e1836]:
+            - link "Resources" [ref=e1837] [cursor=pointer]:
+              - /url: https://resources.github.com
+      - generic [ref=e1838]:
+        - heading "Platform" [level=3] [ref=e1839]
+        - list [ref=e1840]:
+          - listitem [ref=e1841]:
+            - link "Developer API" [ref=e1842] [cursor=pointer]:
+              - /url: https://docs.github.com/en/developers/overview/about-githubs-apis
+          - listitem [ref=e1843]:
+            - link "Partners" [ref=e1844] [cursor=pointer]:
+              - /url: http://partner.github.com/
+          - listitem [ref=e1845]:
+            - link "GitHub Desktop" [ref=e1846] [cursor=pointer]:
+              - /url: https://desktop.github.com/
+      - generic [ref=e1847]:
+        - heading "Support" [level=3] [ref=e1848]
+        - list [ref=e1849]:
+          - listitem [ref=e1850]:
+            - link "Docs" [ref=e1851] [cursor=pointer]:
+              - /url: https://docs.github.com
+          - listitem [ref=e1852]:
+            - link "Community Forum" [ref=e1853] [cursor=pointer]:
+              - /url: https://github.com/orgs/github-community/discussions/categories/github-education
+          - listitem [ref=e1854]:
+            - link "Professional Services" [ref=e1855] [cursor=pointer]:
+              - /url: https://services.github.com/
+          - listitem [ref=e1856]:
+            - link "Status" [ref=e1857] [cursor=pointer]:
+              - /url: https://githubstatus.com/
+          - listitem [ref=e1858]:
+            - link "Contact GitHub" [ref=e1859] [cursor=pointer]:
+              - /url: https://github.com/contact
+      - generic [ref=e1860]:
+        - heading "Company" [level=3] [ref=e1861]
+        - list [ref=e1862]:
+          - listitem [ref=e1863]:
+            - link "About" [ref=e1864] [cursor=pointer]:
+              - /url: https://github.com/about
+          - listitem [ref=e1865]:
+            - link "Blog" [ref=e1866] [cursor=pointer]:
+              - /url: https://github.blog
+          - listitem [ref=e1867]:
+            - link "Careers" [ref=e1868] [cursor=pointer]:
+              - /url: https://github.com/about/careers
+          - listitem [ref=e1869]:
+            - link "Press" [ref=e1870] [cursor=pointer]:
+              - /url: https://github.com/about/press
+          - listitem [ref=e1871]:
+            - link "Social Impact" [ref=e1872] [cursor=pointer]:
+              - /url: https://socialimpact.github.com/
+          - listitem [ref=e1873]:
+            - link "Shop" [ref=e1874] [cursor=pointer]:
+              - /url: https://shop.github.com
+    - generic [ref=e1876]:
+      - list [ref=e1877]:
+        - listitem [ref=e1878]: © 2026 GitHub, Inc.
+        - listitem [ref=e1879]:
+          - link "Terms" [ref=e1880] [cursor=pointer]:
+            - /url: https://github.com/site/terms
+        - listitem [ref=e1881]:
+          - link "Privacy" [ref=e1882] [cursor=pointer]:
+            - /url: https://github.com/site/privacy
+      - list [ref=e1883]:
+        - listitem [ref=e1884]:
+          - link "GitHub Twitter link" [ref=e1885] [cursor=pointer]:
+            - /url: https://twitter.com/github
+            - img "GitHub Twitter link" [ref=e1886]
+        - listitem [ref=e1888]:
+          - link "GitHub Facebook link" [ref=e1889] [cursor=pointer]:
+            - /url: https://www.facebook.com/GitHub
+            - img "GitHub Facebook link" [ref=e1890]
+        - listitem [ref=e1892]:
+          - link "GitHub Youtube link" [ref=e1893] [cursor=pointer]:
+            - /url: https://www.youtube.com/github
+            - img "GitHub Youtube link" [ref=e1894]
+        - listitem [ref=e1896]:
+          - link "GitHub LinkedIn link" [ref=e1897] [cursor=pointer]:
+            - /url: https://linkedin.com/company/github
+            - img "GitHub LinkedIn link" [ref=e1898]
+        - listitem [ref=e1900]:
+          - link "GitHub link" [ref=e1901] [cursor=pointer]:
+            - /url: https://github.com/github
+            - img "GitHub link" [ref=e1902]

@@ -1,0 +1,618 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to main content" [ref=e4] [cursor=pointer]:
+        - /url: "#main"
+      - link "Skip to Ask Learn chat experience" [ref=e5] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - heading "Microsoft Build 2026" [level=2] [ref=e10]
+            - paragraph [ref=e11]: June 2-3, 2026
+          - link "Learn more" [ref=e12] [cursor=pointer]:
+            - /url: https://aka.ms/MSBuild_FY26_BN_MSLearn_Hero
+            - generic [ref=e13]: Learn more
+            - generic [ref=e15]: Ｔ
+        - button "Dismiss alert" [ref=e16] [cursor=pointer]:
+          - generic [ref=e17]: Dismiss alert
+      - generic [ref=e18]:
+        - text: Ｏ Ｐ 
+        - generic [ref=e19]:
+          - link "Microsoft" [ref=e20] [cursor=pointer]:
+            - /url: https://www.microsoft.com
+            - img [ref=e21]
+          - link "Learn" [ref=e27] [cursor=pointer]:
+            - /url: /en-us/
+            - generic [ref=e28]: Learn
+          - generic [ref=e29]:
+            - navigation "Global" [ref=e31]:
+              - text: Ｒ
+              - list [ref=e32]:
+                - listitem [ref=e33]:
+                  - button "Documentation" [ref=e35] [cursor=pointer]:
+                    - generic [ref=e36]: Documentation
+                    - generic [ref=e38]: Ｓ
+                - listitem [ref=e39]:
+                  - button "Training & Labs" [ref=e41] [cursor=pointer]:
+                    - generic [ref=e42]: Training & Labs
+                    - generic [ref=e44]: Ｓ
+                - listitem [ref=e45]:
+                  - button "Q&A" [ref=e47] [cursor=pointer]:
+                    - generic [ref=e48]: Q&A
+                    - generic [ref=e50]: Ｓ
+                - listitem [ref=e51]:
+                  - button "Topics" [ref=e53] [cursor=pointer]:
+                    - generic [ref=e54]: Topics
+                    - generic [ref=e56]: Ｓ
+              - text: Ｔ
+            - generic [ref=e57]:
+              - text: Ｐ
+              - button "Open search" [ref=e58] [cursor=pointer]:
+                - generic [ref=e60]: 
+          - link "Sign in" [ref=e61] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e63]:
+          - link "Azure" [ref=e64] [cursor=pointer]:
+            - /url: /en-us/azure/
+            - generic [ref=e65]: Azure
+          - navigation "Site" [ref=e66]:
+            - list [ref=e67]:
+              - listitem [ref=e68]:
+                - button "Products" [ref=e69] [cursor=pointer]:
+                  - generic [ref=e70]: Products
+                  - generic [ref=e72]: Ｓ
+                - text: Ｔ Ｔ
+              - listitem [ref=e73]:
+                - button "Architecture" [ref=e74] [cursor=pointer]:
+                  - generic [ref=e75]: Architecture
+                  - generic [ref=e77]: Ｓ
+              - listitem [ref=e78]:
+                - link "Migration" [ref=e79] [cursor=pointer]:
+                  - /url: /en-us/azure/migration/
+                  - generic [ref=e80]: Migration
+              - listitem [ref=e81]:
+                - button "Develop" [ref=e82] [cursor=pointer]:
+                  - generic [ref=e83]: Develop
+                  - generic [ref=e85]: Ｓ
+              - listitem [ref=e86]:
+                - button "Learn Azure" [ref=e87] [cursor=pointer]:
+                  - generic [ref=e88]: Learn Azure
+                  - generic [ref=e90]: Ｓ
+                - text: Ｔ
+              - listitem [ref=e91]:
+                - link "Troubleshooting" [ref=e92] [cursor=pointer]:
+                  - /url: /en-us/troubleshoot/azure/
+                  - generic [ref=e93]: Troubleshooting
+              - text: Ｓ
+              - listitem [ref=e94]:
+                - button "More" [ref=e95] [cursor=pointer]:
+                  - generic [ref=e96]: More
+                  - generic [ref=e98]: Ｓ
+                - text: Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ
+          - generic [ref=e99]:
+            - link "Portal" [ref=e100] [cursor=pointer]:
+              - /url: https://portal.azure.com
+            - link "Get started with Azure" [ref=e101] [cursor=pointer]:
+              - /url: https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn_nav_03d14d0b-5b5f-2cbd-56fa-3eec9fea989c
+  - navigation "Primary" [ref=e105]:
+    - button "Collapse" [expanded] [ref=e107] [cursor=pointer]:
+      - generic [ref=e109]: ﾝ
+    - search "Search" [ref=e110]:
+      - generic [ref=e111]: Search
+      - generic [ref=e113]:
+        - combobox "Search" [ref=e114]
+        - generic:
+          - generic: 󿄓
+    - tree "Table of contents" [ref=e115]:
+      - treeitem "Billing and subscriptions documentation" [level=1] [ref=e116] [cursor=pointer]
+      - treeitem "Overview" [level=1] [ref=e117]:
+        - generic [ref=e118] [cursor=pointer]: Overview
+      - treeitem "Tutorials" [level=1] [ref=e119]:
+        - generic [ref=e120] [cursor=pointer]: Tutorials
+      - treeitem "Concepts" [level=1] [ref=e121]:
+        - generic [ref=e122] [cursor=pointer]: Concepts
+      - treeitem "How-to guides" [expanded] [level=1] [ref=e123]:
+        - generic [ref=e124] [cursor=pointer]: How-to guides
+        - group [ref=e125]:
+          - treeitem "Configure billing" [expanded] [level=2] [ref=e126]:
+            - generic [ref=e127] [cursor=pointer]: Configure billing
+            - group [ref=e128]:
+              - treeitem "Administer accounts" [level=3] [ref=e129]:
+                - generic [ref=e130] [cursor=pointer]: Administer accounts
+              - treeitem "Administer subscriptions" [expanded] [level=3] [ref=e131]:
+                - generic [ref=e132] [cursor=pointer]: Administer subscriptions
+                - group [ref=e133]:
+                  - treeitem "Prepare for classic administrator roles retirement" [level=4] [ref=e134] [cursor=pointer]
+                  - treeitem "Assign access to cost management data" [level=4] [ref=e135] [cursor=pointer]
+                  - treeitem "Subscription states" [level=4] [ref=e136] [cursor=pointer]
+                  - treeitem "Avoid unused subscriptions" [level=4] [ref=e137] [cursor=pointer]
+                  - treeitem "Protect tenants and subscriptions from abuse" [level=4] [ref=e138] [cursor=pointer]
+                  - treeitem "Reactivate subscription" [level=4] [ref=e139] [cursor=pointer]
+                  - treeitem "Reactivate Azure Student subscription" [level=4] [ref=e140] [cursor=pointer]
+                  - treeitem "Create an MCA subscription" [level=4] [ref=e141] [cursor=pointer]
+                  - treeitem "Create an MCA subscription request" [level=4] [ref=e142] [cursor=pointer]
+                  - treeitem "Create an EA subscription" [level=4] [ref=e143] [cursor=pointer]
+                  - treeitem "Create a subscription for a partner's customer" [level=4] [ref=e144] [cursor=pointer]
+                  - treeitem "Grant access to create EA subscriptions" [level=4] [ref=e145] [cursor=pointer]
+                  - treeitem "Change administrator" [level=4] [ref=e146] [cursor=pointer]
+                  - treeitem "Change Entra Directory" [level=4] [ref=e147] [cursor=pointer]
+                  - treeitem "Switch subscription offer" [level=4] [ref=e148] [cursor=pointer]
+                  - treeitem "Cancel and delete subscription" [level=4] [ref=e149] [cursor=pointer]
+                  - treeitem "Manage subscription policies" [level=4] [ref=e150] [cursor=pointer]
+                  - treeitem "Filter and view subscriptions" [level=4] [ref=e151] [cursor=pointer]
+                  - treeitem "Data transfer fees" [level=4] [ref=e152] [cursor=pointer]
+              - treeitem "Transfer billing products" [level=3] [ref=e153]:
+                - generic [ref=e154] [cursor=pointer]: Transfer billing products
+          - treeitem "Perform key billing administration tasks" [level=2] [ref=e155]:
+            - generic [ref=e156] [cursor=pointer]: Perform key billing administration tasks
+          - treeitem "Manage payment methods" [level=2] [ref=e157]:
+            - generic [ref=e158] [cursor=pointer]: Manage payment methods
+          - treeitem "Manage billing benefits" [level=2] [ref=e159]:
+            - generic [ref=e160] [cursor=pointer]: Manage billing benefits
+          - treeitem "Troubleshoot billing" [level=2] [ref=e161]:
+            - generic [ref=e162] [cursor=pointer]: Troubleshoot billing
+          - treeitem "Troubleshoot subscriptions" [level=2] [ref=e163]:
+            - generic [ref=e164] [cursor=pointer]: Troubleshoot subscriptions
+      - treeitem "Reference" [level=1] [ref=e165]:
+        - generic [ref=e166] [cursor=pointer]: Reference
+      - treeitem "Resources" [level=1] [ref=e167]:
+        - generic [ref=e168] [cursor=pointer]: Resources
+      - treeitem "Samples" [level=1] [ref=e169]:
+        - generic [ref=e170] [cursor=pointer]: Samples
+    - button "Download PDF" [ref=e172] [cursor=pointer]:
+      - generic [ref=e174]: 
+      - generic [ref=e175]: Download PDF
+  - main [ref=e176]:
+    - generic: Ｏ ，
+    - generic [ref=e177]:
+      - generic [ref=e178]:
+        - generic [ref=e180]:
+          - text: 
+          - group "Breadcrumbs" [ref=e181]:
+            - navigation "Breadcrumb" [ref=e182]:
+              - list [ref=e183]:
+                - listitem [ref=e184]:
+                  - link "Learn" [ref=e185] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/
+                - listitem [ref=e186]:
+                  - link "Azure" [ref=e187] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/azure/
+                - listitem [ref=e188]:
+                  - link "CM+B" [ref=e189] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/azure/cost-management-billing
+                - listitem [ref=e190]:
+                  - link "Billing and subscriptions" [ref=e191] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/
+          - generic [ref=e192]:
+            - text: 󿄐
+            - button "Ask Learn" [ref=e193] [cursor=pointer]:
+              - generic [ref=e195]: 󿄐
+              - generic [ref=e196]: Ask Learn
+            - text: 󿄐
+            - group [ref=e197]:
+              - generic "More actions" [ref=e198] [cursor=pointer]:
+                - generic [ref=e200]: 
+        - text: ﾁ
+        - heading "Create a Microsoft Customer Agreement subscription" [level=1] [ref=e202]
+        - generic: 
+        - generic [ref=e204]:
+          - generic [ref=e206]: ﾃ
+          - button "Summarize this article for me" [ref=e207] [cursor=pointer]:
+            - generic [ref=e208]: Summarize this article for me
+        - navigation "In this article" [ref=e209]:
+          - heading "In this article" [level=2] [ref=e210]
+          - list [ref=e211]:
+            - listitem [ref=e212]:
+              - link "Permission required to create Azure subscriptions" [ref=e213] [cursor=pointer]:
+                - /url: "#permission-required-to-create-azure-subscriptions"
+            - listitem [ref=e214]:
+              - link "Create a subscription" [ref=e215] [cursor=pointer]:
+                - /url: "#create-a-subscription"
+            - listitem [ref=e216]:
+              - link "View the new subscription" [ref=e217] [cursor=pointer]:
+                - /url: "#view-the-new-subscription"
+            - listitem [ref=e218]:
+              - link "Configure Azure Service Health on the new subscription" [ref=e219] [cursor=pointer]:
+                - /url: "#configure-azure-service-health-on-the-new-subscription"
+          - button "Show 5 more" [ref=e220] [cursor=pointer]:
+            - generic [ref=e221]: Show 5 more
+        - generic [ref=e222]:
+          - paragraph [ref=e223]:
+            - text: This article helps you create a
+            - link "Microsoft Customer Agreement" [ref=e224] [cursor=pointer]:
+              - /url: https://azure.microsoft.com/pricing/purchase-options/microsoft-customer-agreement/
+            - text: subscription for yourself or for someone else in your current Microsoft Entra directory/tenant. You may want another subscription to avoid hitting subscription quota limits, to create separate environments for security, or to isolate data for compliance reasons.
+          - paragraph [ref=e225]:
+            - text: If you want to create a Microsoft Customer Agreement subscription in a different Microsoft Entra tenant, see
+            - link "Create an MCA subscription request" [ref=e226] [cursor=pointer]:
+              - /url: create-subscription-request
+            - text: .
+          - paragraph [ref=e227]:
+            - text: If you want to create subscriptions for Enterprise Agreements, see
+            - link "Create an EA subscription" [ref=e228] [cursor=pointer]:
+              - /url: create-enterprise-subscription
+            - text: . If you're a Microsoft Partner and you want to create a subscription for a customer, see
+            - link "Create a subscription for a partner's customer" [ref=e229] [cursor=pointer]:
+              - /url: create-customer-subscription
+            - text: .
+          - generic [ref=e230]:
+            - paragraph [ref=e231]:
+              - generic [ref=e233]: ７
+              - text: Note
+            - paragraph [ref=e234]: You can't provision Azure resources such as subscriptions, virtual machines, Azure web apps, or Azure functions in a Microsoft Entra B2B or Azure AD B2C tenant. You must create those resources in your Microsoft Entra tenant.
+          - generic [ref=e235]:
+            - paragraph [ref=e236]:
+              - generic [ref=e238]: ７
+              - text: Note
+            - paragraph [ref=e239]:
+              - text: Microsoft Online Services Program (MOSP) billing account is no longer able to add Azure subscriptions at
+              - link "https://signup.azure.com/" [ref=e240] [cursor=pointer]:
+                - /url: https://signup.azure.com/
+              - text: .
+          - paragraph [ref=e241]:
+            - text: To learn more about billing accounts and identify your billing account type, see
+            - link "View billing accounts in Azure portal" [ref=e242] [cursor=pointer]:
+              - /url: view-all-accounts
+            - text: .
+          - generic [ref=e243]:
+            - 'link "Section titled: Permission required to create Azure subscriptions" [ref=e244] [cursor=pointer]':
+              - /url: "#permission-required-to-create-azure-subscriptions"
+              - text: 
+            - heading "Permission required to create Azure subscriptions" [level=2] [ref=e245]
+          - paragraph [ref=e246]: "You need the following permissions to create subscriptions for a Microsoft Customer Agreement (MCA):"
+          - list [ref=e247]:
+            - listitem [ref=e248]: Owner or contributor role on the invoice section, billing profile or billing account. Or Azure subscription creator role on the invoice section.
+          - paragraph [ref=e249]:
+            - text: For more information, see
+            - link "Subscription billing roles and task" [ref=e250] [cursor=pointer]:
+              - /url: understand-mca-roles#subscription-billing-roles-and-tasks
+            - text: .
+          - generic [ref=e251]:
+            - 'link "Section titled: Create a subscription" [ref=e252] [cursor=pointer]':
+              - /url: "#create-a-subscription"
+              - text: 
+            - heading "Create a subscription" [level=2] [ref=e253]
+          - paragraph [ref=e254]: Use the following procedure to create a subscription for yourself or for someone in the current Microsoft Entra ID. When you're done, the new subscription is created immediately.
+          - list [ref=e255]:
+            - listitem [ref=e256]:
+              - text: Sign in to the
+              - link "Azure portal" [ref=e257] [cursor=pointer]:
+                - /url: https://portal.azure.com
+              - text: .
+            - listitem [ref=e258]:
+              - text: Navigate to
+              - strong [ref=e259]: Subscriptions
+              - text: and then select
+              - strong [ref=e260]: Add
+              - text: .
+              - link "Screenshot showing the Subscription page where you Add a subscription. " [ref=e262] [cursor=pointer]:
+                - /url: media/create-subscription/subscription-add.png#lightbox
+                - img "Screenshot showing the Subscription page where you Add a subscription." [ref=e263]
+                - text: 
+            - listitem [ref=e264]:
+              - text: On the Create a subscription page, on the
+              - strong [ref=e265]: Basics
+              - text: tab, type a
+              - strong [ref=e266]: Subscription name
+              - text: .
+            - listitem [ref=e267]:
+              - text: Select the
+              - strong [ref=e268]: Billing account
+              - text: where the new subscription gets created.
+            - listitem [ref=e269]:
+              - text: Select the
+              - strong [ref=e270]: Billing profile
+              - text: where the subscription gets created.
+            - listitem [ref=e271]:
+              - text: Select the
+              - strong [ref=e272]: Invoice section
+              - text: where the subscription gets created.
+            - listitem [ref=e273]:
+              - text: Next to
+              - strong [ref=e274]: Plan
+              - text: ", select"
+              - strong [ref=e275]: Microsoft Azure Plan for DevTest
+              - text: if the subscription is used for development or testing workloads. Otherwise, select
+              - strong [ref=e276]: Microsoft Azure Plan
+              - text: .
+              - link "Screenshot showing the Basics tab where you enter basic information about the subscription. " [ref=e278] [cursor=pointer]:
+                - /url: media/create-subscription/create-subscription-basics-tab.png#lightbox
+                - img "Screenshot showing the Basics tab where you enter basic information about the subscription." [ref=e279]
+                - text: 
+            - listitem [ref=e280]:
+              - text: Select the
+              - strong [ref=e281]: Advanced
+              - text: tab.
+            - listitem [ref=e282]:
+              - text: Select your
+              - strong [ref=e283]: Subscription directory
+              - text: . It's the Microsoft Entra ID where the new subscription gets created.
+            - listitem [ref=e284]:
+              - text: Select a
+              - strong [ref=e285]: Management group
+              - text: . It's the Microsoft Entra management group that the new subscription is associated with. You can only select management groups in the current directory.
+            - listitem [ref=e286]:
+              - text: Select one or more
+              - strong [ref=e287]: Subscription owners
+              - text: . You can select only users or service principals in the selected subscription directory. You can't select guest directory users. If you select a service principal, enter its App ID.
+              - link "Screenshot showing the Advanced tab where you can specify the directory, management group, and owner. " [ref=e289] [cursor=pointer]:
+                - /url: media/create-subscription/create-subscription-advanced-tab.png#lightbox
+                - img "Screenshot showing the Advanced tab where you can specify the directory, management group, and owner." [ref=e290]
+                - text: 
+            - listitem [ref=e291]:
+              - text: Select the
+              - strong [ref=e292]: Tags
+              - text: tab.
+            - listitem [ref=e293]:
+              - text: Enter tag pairs for
+              - strong [ref=e294]: Name
+              - text: and
+              - strong [ref=e295]: Value
+              - text: .
+              - link "Screenshot showing the tags tab where you enter tag and value pairs. " [ref=e297] [cursor=pointer]:
+                - /url: media/create-subscription/create-subscription-tags-tab.png#lightbox
+                - img "Screenshot showing the tags tab where you enter tag and value pairs." [ref=e298]
+                - text: 
+            - listitem [ref=e299]:
+              - text: Select
+              - strong [ref=e300]: Review + create
+              - text: . You should see a message stating
+              - code [ref=e301]: Validation passed
+              - text: .
+            - listitem [ref=e302]:
+              - text: Verify that the subscription information is correct, then select
+              - strong [ref=e303]: Create
+              - text: . A notification that the subscription is getting created is shown.
+          - paragraph [ref=e304]:
+            - text: After the new subscription is created, the owner of the subscription can see it in on the
+            - strong [ref=e305]: Subscriptions
+            - text: page.
+          - generic [ref=e306]:
+            - 'link "Section titled: View the new subscription" [ref=e307] [cursor=pointer]':
+              - /url: "#view-the-new-subscription"
+              - text: 
+            - heading "View the new subscription" [level=2] [ref=e308]
+          - paragraph [ref=e309]:
+            - text: When you created the subscription, Azure created a notification stating
+            - strong [ref=e310]: Successfully created the subscription
+            - text: . The notification also had a link to
+            - strong [ref=e311]: Go to subscription
+            - text: ", which allows you to view the new subscription. If you missed the notification, you can view select the bell symbol in the upper-right corner of the portal to view the notification that has the link to"
+            - strong [ref=e312]: Go to subscription
+            - text: . Select the link to view the new subscription.
+          - paragraph [ref=e313]: "Here's an example of the notification:"
+          - paragraph [ref=e314]:
+            - link "Screenshot showing the Successfully created the subscription notification. " [ref=e316] [cursor=pointer]:
+              - /url: media/create-subscription/subscription-create-notification.png#lightbox
+              - img "Screenshot showing the Successfully created the subscription notification." [ref=e317]
+              - text: 
+          - paragraph [ref=e318]: Or, if you're already on the Subscriptions page, you can refresh your browser's view to see the new subscription.
+          - generic [ref=e319]:
+            - 'link "Section titled: Configure Azure Service Health on the new subscription" [ref=e320] [cursor=pointer]':
+              - /url: "#configure-azure-service-health-on-the-new-subscription"
+              - text: 
+            - heading "Configure Azure Service Health on the new subscription" [level=2] [ref=e321]
+          - paragraph [ref=e322]:
+            - text: Azure Service Health alerting is essential alongside your new subscription because it gives you early, personalized awareness of Azure issues that directly affect your environment. Alerting is free, easy to configure and should be considered for all production subscriptions.
+            - link "Learn More about Azure Service Health" [ref=e323] [cursor=pointer]:
+              - /url: /en-us/azure/service-health/alerts-activity-log-service-notifications-portal
+          - generic [ref=e324]:
+            - 'link "Section titled: View all subscriptions" [ref=e325] [cursor=pointer]':
+              - /url: "#view-all-subscriptions"
+              - text: 
+            - heading "View all subscriptions" [level=2] [ref=e326]
+          - paragraph [ref=e327]: If you created a subscription but can't find it in the Subscriptions list view, a view filter might be applied.
+          - paragraph [ref=e328]: "To clear the filter and view all subscriptions:"
+          - list [ref=e329]:
+            - listitem [ref=e330]:
+              - text: In the Azure portal, navigate to
+              - strong [ref=e331]: Subscriptions
+              - text: .
+            - listitem [ref=e332]: At the top of the list, select the Subscriptions filter item.
+            - listitem [ref=e333]:
+              - text: At the top of the subscriptions filter box, select
+              - strong [ref=e334]: All
+              - text: . At the bottom of the subscriptions filter box, clear
+              - strong [ref=e335]: Show only subscriptions selected in the portal setting filter
+              - text: .
+              - img "Subscription page filter by portal setting." [ref=e336]
+            - listitem [ref=e337]:
+              - text: Select
+              - strong [ref=e338]: Apply
+              - text: to close the box and refresh the list of subscriptions.
+          - generic [ref=e339]:
+            - 'link "Section titled: Create subscription in other tenant and view transfer requests" [ref=e340] [cursor=pointer]':
+              - /url: "#create-subscription-in-other-tenant-and-view-transfer-requests"
+              - text: 
+            - heading "Create subscription in other tenant and view transfer requests" [level=2] [ref=e341]
+          - paragraph [ref=e342]:
+            - text: A user with the following permission can create subscriptions in their customer's directory if they're allowed or exempted with subscription policy. For more information, see
+            - link "Setting subscription policy" [ref=e343] [cursor=pointer]:
+              - /url: manage-azure-subscription-policy#setting-subscription-policy
+            - text: .
+          - list [ref=e344]:
+            - listitem [ref=e345]: Billing account owner or contributor
+            - listitem [ref=e346]: Billing profile owner or contributor
+            - listitem [ref=e347]: Invoice section owner
+          - paragraph [ref=e348]:
+            - text: When you try to create a subscription for someone in a directory outside of the current directory (such as a customer's tenant), a
+            - emphasis [ref=e349]: subscription creation request
+            - text: is created.
+          - paragraph [ref=e350]:
+            - link "Screenshot showing Create a subscription outside the current directory. " [ref=e352] [cursor=pointer]:
+              - /url: media/create-subscription/create-subscription-other-directory.png#lightbox
+              - img "Screenshot showing Create a subscription outside the current directory." [ref=e353]
+              - text: 
+          - paragraph [ref=e354]: When the request is created, the subscription owner (the customer) is sent an email letting them know that they need to accept subscription ownership. The email contains a link used to accept ownership in the Azure portal. The customer must accept the request within seven days. If not accepted within seven days, the request expires. The person that created the request can also manually send their customer the ownership URL to accept the subscription.
+          - paragraph [ref=e355]:
+            - text: After the request is created, it's visible in the Azure portal at
+            - strong [ref=e356]: Subscriptions
+            - text: ">"
+            - strong [ref=e357]: View Requests
+            - text: "by the following people:"
+          - list [ref=e358]:
+            - listitem [ref=e359]: The tenant global administrator of the source tenant where the subscription provisioning request is made.
+            - listitem [ref=e360]: The user who made the subscription creation request for the subscription being provisioned in the other tenant.
+            - listitem [ref=e361]:
+              - text: The user who made the request to provision the subscription in a different tenant than where they make the
+              - link "Subscription – Alias REST API" [ref=e362] [cursor=pointer]:
+                - /url: /en-us/rest/api/subscription/
+              - text: call instead of the Azure portal.
+          - paragraph [ref=e363]: The subscription owner in the request who resides in the target tenant doesn't see this subscription creation request on the View requests page. Instead, they receive an email with the link to accept ownership of the subscription in the target tenant.
+          - paragraph [ref=e364]:
+            - link "Screenshot showing View Requests page that lists all subscription creation requests. " [ref=e366] [cursor=pointer]:
+              - /url: media/create-subscription/view-requests.png#lightbox
+              - img "Screenshot showing View Requests page that lists all subscription creation requests." [ref=e367]
+              - text: 
+          - paragraph [ref=e368]:
+            - text: Anyone with access to view the request can view its details. In the request details, the
+            - strong [ref=e369]: Accept ownership URL
+            - text: is visible. You can copy it to manually share it with the subscription owner in the target tenant for subscription ownership acceptance.
+          - paragraph [ref=e370]:
+            - link "Screenshot showing request details to view Accept ownership URL. " [ref=e372] [cursor=pointer]:
+              - /url: media/create-subscription/request-details.png#lightbox
+              - img "Screenshot showing request details to view Accept ownership URL." [ref=e373]
+              - text: 
+          - generic [ref=e374]:
+            - 'link "Section titled: Create an Azure subscription programmatically" [ref=e375] [cursor=pointer]':
+              - /url: "#create-an-azure-subscription-programmatically"
+              - text: 
+            - heading "Create an Azure subscription programmatically" [level=2] [ref=e376]
+          - paragraph [ref=e377]:
+            - text: You can also create subscriptions programmatically. For more information, see
+            - link "Create Azure subscriptions programmatically" [ref=e378] [cursor=pointer]:
+              - /url: programmatically-create-subscription
+            - text: .
+          - generic [ref=e379]:
+            - 'link "Section titled: Need help? Contact us." [ref=e380] [cursor=pointer]':
+              - /url: "#need-help-contact-us"
+              - text: 
+            - heading "Need help? Contact us." [level=2] [ref=e381]
+          - paragraph [ref=e382]:
+            - text: If you have questions or need help,
+            - link "create a support request" [ref=e383] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?linkid=2083458
+            - text: .
+          - generic [ref=e384]:
+            - 'link "Section titled: Related content" [ref=e385] [cursor=pointer]':
+              - /url: "#related-content"
+              - text: 
+            - heading "Related content" [level=2] [ref=e386]
+          - list [ref=e387]:
+            - listitem [ref=e388]:
+              - link "Add or change Azure subscription administrators" [ref=e389] [cursor=pointer]:
+                - /url: add-change-subscription-administrator
+            - listitem [ref=e390]:
+              - link "Move resources to new resource group or subscription" [ref=e391] [cursor=pointer]:
+                - /url: ../../azure-resource-manager/management/move-resource-group-and-subscription
+            - listitem [ref=e392]:
+              - link "Create management groups for resource organization and management" [ref=e393] [cursor=pointer]:
+                - /url: ../../governance/management-groups/create-management-group-portal
+            - listitem [ref=e394]:
+              - link "Cancel your Azure subscription" [ref=e395] [cursor=pointer]:
+                - /url: cancel-azure-subscription
+        - alert [ref=e396]
+        - status [ref=e397]
+        - generic [ref=e398]:
+          - separator [ref=e399]
+          - heading "Feedback" [level=2] [ref=e400]
+          - generic [ref=e401]:
+            - paragraph [ref=e402]: Was this page helpful?
+            - generic [ref=e403]:
+              - button "Yes" [ref=e404] [cursor=pointer]:
+                - generic [ref=e406]: 
+                - generic [ref=e407]: "Yes"
+              - button "No" [ref=e408] [cursor=pointer]:
+                - generic [ref=e410]: 
+                - generic [ref=e411]: "No"
+              - text: 
+      - generic [ref=e412]:
+        - separator [ref=e413]
+        - heading "Additional resources" [level=2] [ref=e414]
+        - article [ref=e416]:
+          - paragraph [ref=e417]:
+            - generic [ref=e419]: 
+            - text: Documentation
+          - list [ref=e421]:
+            - listitem [ref=e422]:
+              - paragraph [ref=e423]:
+                - link "Create a Microsoft Customer Agreement subscription request - Azure Cost Management + Billing" [ref=e424] [cursor=pointer]:
+                  - /url: /en-us/azure/cost-management-billing/manage/create-subscription-request?source=recommendations
+              - paragraph [ref=e425]: Learn how to create an Azure subscription request in the Azure portal. See information about billing account forms and view other available resources.
+            - listitem [ref=e426]:
+              - paragraph [ref=e427]:
+                - link "Billing roles for Microsoft Customer Agreements - Azure - Microsoft Cost Management" [ref=e428] [cursor=pointer]:
+                  - /url: /en-us/azure/cost-management-billing/manage/understand-mca-roles?source=recommendations
+              - paragraph [ref=e429]: Learn about billing roles for billing accounts in Azure for Microsoft Customer Agreements.
+            - listitem [ref=e430]:
+              - paragraph [ref=e431]:
+                - link "What is a cloud subscription? - Microsoft Cost Management" [ref=e432] [cursor=pointer]:
+                  - /url: /en-us/azure/cost-management-billing/manage/cloud-subscription?source=recommendations
+              - paragraph [ref=e433]: Learn about cloud subscriptions, how they help manage Microsoft products and services, and the benefits of organizing resources with multiple subscriptions.
+          - button "Show 5 more" [ref=e434] [cursor=pointer]:
+            - generic [ref=e435]: Show 5 more
+        - article [ref=e437]:
+          - paragraph [ref=e438]:
+            - generic [ref=e440]: 
+            - text: Training
+          - generic [ref=e441]:
+            - generic [ref=e442]:
+              - paragraph [ref=e443]: Learning path
+              - paragraph [ref=e444]:
+                - link "Control Azure spending and manage bills with Microsoft Cost Management + Billing - Training" [ref=e445] [cursor=pointer]:
+                  - /url: /en-us/training/paths/control-spending-manage-bills/?source=recommendations
+              - paragraph [ref=e446]: Learn how to monitor and control your Azure spending and optimize the use of Azure resources.
+            - generic [ref=e447]:
+              - paragraph [ref=e448]: Certification
+              - paragraph [ref=e449]:
+                - 'link "Microsoft Certified: Azure Administrator Associate - Certifications" [ref=e450] [cursor=pointer]':
+                  - /url: /en-us/credentials/certifications/azure-administrator/?source=recommendations
+              - paragraph [ref=e451]: Demonstrate key skills to configure, manage, secure, and administer key professional functions in Microsoft Azure.
+      - generic [ref=e452]:
+        - separator [ref=e453]
+        - list [ref=e454]:
+          - listitem [ref=e455]:
+            - generic [ref=e457]: Last updated on 02/11/2026
+  - complementary "Additional resources":   
+  - text: 󿄐 Ｐ
+  - contentinfo [ref=e459]:
+    - generic [ref=e460]:
+      - link "Content language selector. Currently set to English (United States)." [ref=e461] [cursor=pointer]:
+        - /url: /en-us/locale?target=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Fcost-management-billing%2Fmanage%2Fcreate-subscription
+        - generic [ref=e463]: 
+        - generic [ref=e464]: English (United States)
+      - link "Your Privacy Choices" [ref=e466] [cursor=pointer]:
+        - /url: https://aka.ms/yourcaliforniaprivacychoices
+        - img [ref=e467]
+        - generic [ref=e472]: Your Privacy Choices
+      - button "Theme" [ref=e475] [cursor=pointer]:
+        - generic [ref=e477]: ０
+        - generic [ref=e478]: Theme
+        - generic [ref=e480]: Ｓ
+    - list [ref=e481]:
+      - listitem [ref=e482]:
+        - link "AI Disclaimer" [ref=e483] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/principles-for-ai-generated-content
+      - listitem [ref=e484]:
+        - link "Previous Versions" [ref=e485] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/previous-versions/
+      - listitem [ref=e486]:
+        - link "Blog" [ref=e487] [cursor=pointer]:
+          - /url: https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog
+      - listitem [ref=e488]:
+        - link "Contribute" [ref=e489] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/contribute
+      - listitem [ref=e490]:
+        - link "Privacy" [ref=e491] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+      - listitem [ref=e492]:
+        - link "Consumer Health Privacy" [ref=e493] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+      - listitem [ref=e494]:
+        - link "Terms of Use" [ref=e495] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/legal/termsofuse
+      - listitem [ref=e496]:
+        - link "Trademarks" [ref=e497] [cursor=pointer]:
+          - /url: https://www.microsoft.com/legal/intellectualproperty/Trademarks/
+      - listitem [ref=e498]: © Microsoft 2026

@@ -1,0 +1,445 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - button "Skip to content" [ref=e3] [cursor=pointer]:
+      - generic [ref=e5]: Skip to content
+    - button "Accessibility Feedback" [ref=e6] [cursor=pointer]:
+      - generic [ref=e8]: Accessibility Feedback
+    - generic [ref=e9]:
+      - link "Back to Bing search" [ref=e10] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Back to Bing search" [level=1] [ref=e11]
+      - search [ref=e12]:
+        - button "Search" [ref=e15] [cursor=pointer]
+        - searchbox "Enter your search here - Search suggestions will show as you type" [ref=e16]: microsoft action pack azure credits no credit card partner 2025
+        - button "Search using an image" [ref=e22] [cursor=pointer]
+    - complementary "Account Rewards and Preferences" [ref=e24]:
+      - button "Microsoft Rewards" [ref=e25] [cursor=pointer]:
+        - generic [ref=e27]:
+          - generic [ref=e28]: Rewards
+          - img [ref=e30]
+      - link "Sign in" [ref=e42] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - generic "Sign in" [ref=e43]
+    - navigation "Search Filter" [ref=e44]:
+      - list [ref=e45]:
+        - listitem [ref=e46]:
+          - link "All" [ref=e47] [cursor=pointer]:
+            - /url: /?scope=web&FORM=HDRSC1
+        - listitem [ref=e48]:
+          - link "Search" [ref=e49] [cursor=pointer]:
+            - /url: /copilotsearch?q=microsoft+action+pack+azure+credits+no+credit+card+partner+2025&FORM=CSSCOP
+            - img [ref=e50]
+            - text: Search
+        - listitem [ref=e52]:
+          - link "Shopping" [ref=e53] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=2edef3702011339259aac8b43f28353f44d7bb2ffe58d4c7d5b977065ec927c5JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3Nob3A_cT1taWNyb3NvZnQrYWN0aW9uK3BhY2srYXp1cmUrY3JlZGl0cytubytjcmVkaXQrY2FyZCtwYXJ0bmVyKzIwMjUmRk9STT1TSE9QVEI&ntb=1
+        - listitem [ref=e54]:
+          - link "Images" [ref=e55] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=75a170a18baecfabc25bcfa5db4c0a7068d0bf9ee8b9086f62e2d04bf516e0eaJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L2ltYWdlcy9zZWFyY2g_cT1taWNyb3NvZnQrYWN0aW9uK3BhY2srYXp1cmUrY3JlZGl0cytubytjcmVkaXQrY2FyZCtwYXJ0bmVyKzIwMjUmRk9STT1IRFJTQzM&ntb=1
+        - listitem [ref=e56]:
+          - link "Videos" [ref=e57] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=4a8af6028fb0573438ce3a56cbec08c8bd89bddb5ee4ba12a93b55b7eb495585JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9zZWFyY2g_cT1taWNyb3NvZnQrYWN0aW9uK3BhY2srYXp1cmUrY3JlZGl0cytubytjcmVkaXQrY2FyZCtwYXJ0bmVyKzIwMjUmRk9STT1IRFJTQzQ&ntb=1
+        - listitem [ref=e58]:
+          - link "Maps" [ref=e59] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=8780703407f2c48d63a06fcdba1a4076d8b4c46f54c314e7f3fb0ba9e7c01cddJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L21hcHM_cT1taWNyb3NvZnQrYWN0aW9uK3BhY2srYXp1cmUrY3JlZGl0cytubytjcmVkaXQrY2FyZCtwYXJ0bmVyKzIwMjUmRk9STT1IRFJTQzY&ntb=1
+        - listitem [ref=e60]:
+          - link "Copilot" [ref=e61] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=ecf88b6fd943873b2358739c721f072e50e7dce32c170b21fb2b3d0a39ea5da3JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L2NoYXQ_cHJvbXB0PW1pY3Jvc29mdCthY3Rpb24rcGFjaythenVyZStjcmVkaXRzK25vK2NyZWRpdCtjYXJkK3BhcnRuZXIrMjAyNSZzZW5kcXVlcnk9MSZGT1JNPVNDQ09EWA&ntb=1
+        - listitem [ref=e62]:
+          - button "More" [ref=e63] [cursor=pointer]:
+            - img [ref=e65]
+            - text: More
+  - generic [ref=e67]:
+    - main "Search Results" [ref=e68]:
+      - generic [ref=e70]: About 1,490 results
+      - list [ref=e78]:
+        - listitem [ref=e79]:
+          - generic [ref=e83]:
+            - generic [ref=e85]:
+              - button "Like" [ref=e86]:
+                - img [ref=e87]
+              - button "Dislike" [ref=e89]:
+                - img [ref=e90]
+            - tooltip "AI disclaimer" [ref=e92]:
+              - img [ref=e93]
+        - listitem [ref=e117]:
+          - list [ref=e118]:
+            - listitem [ref=e119]:
+              - generic [ref=e120]:
+                - generic [ref=e121] [cursor=pointer]:
+                  - generic [ref=e125]: Freelancer
+                  - generic [ref=e126]:
+                    - generic [ref=e127]: https://www.freelancer.com › Azure
+                    - button "About our ads" [ref=e128]:
+                      - img "About our ads" [ref=e130]
+                - heading "Hire Azure Developers | World's Largest Freelance Site" [level=2] [ref=e131]:
+                  - link "Hire Azure Developers | World's Largest Freelance Site" [ref=e132] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclick?ld=e84rU_M5bI-rGroU-c48c8qzVUCUzO-SQggaM95QfwrXs_9TF4yZDkDoQWijAnTIeItRlavex-uHffR9gHXoGB5vmuCfijWYwFXG7alHx-YWcS9BMlUPT4450m-k-QkPSxzA1ZKm4Wi4I6sBC-bqW02OumQ_rwK3muA0u-jXl4E1wwLpOyR-a4l2Cle9RFf6iy4Z61WxC6LSguSnSxH9SSRup9sSs&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJlZWxhbmNlci5jb20lMmZjYW1wYWlnbiUyZjBCTkg3NDYyOTQ4MTc3Njg5MSUyZiUzZmNhbXBhaWduJTNkMjc0MzM0ODAyJTI2YWRncm91cCUzZDExOTQwNzAyMTU0MzEzMTYlMjZrZXl3b3JkJTNkJTI1MkJhenVyZSUyNTIwJTI1MkJzZXJ2aWNlcyUyNmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRnd3dy5mcmVlbGFuY2VyLmNvbSUyNTJGZmluZCUyNTJGYXp1cmUlMjZtc2Nsa2lkJTNkNjc5MDRkODUzNjRjMTcyNGUxMmEyNzkyZGQwNzE5YWYlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RGaXZlJTI1MjBFeWVzJTI1M0FFTiUyNTNBTkIlMjUyMEJNTSUyNnV0bV90ZXJtJTNkJTI1MkJhenVyZSUyNTIwJTI1MkJzZXJ2aWNlcyUyNnV0bV9jb250ZW50JTNkV2Vic2l0ZXMlMmMlMjUyMElUJTI1MjAtJTI1MjBBenVyZSUyNTIwJTI1M0ElMjUyMEF6dXJl&rlid=67904d85364c1724e12a2792dd0719af&ntb=1
+                - generic [ref=e133]:
+                  - generic [ref=e134]:
+                    - generic [ref=e137]: Sponsored
+                    - text: Top Rated Freelance Azure Developers Ready to Start. See Their Reviews & Portfolios. 95% Rehire Rate. Pay When 100% Happy. 17M+ Jobs Completed.
+                  - generic [ref=e138]:
+                    - strong [ref=e139]: "Site visitors:"
+                    - text: Over 10K in the past month
+                  - paragraph [ref=e140]: Certified Freelancers · 60 Second Quotes · 24/7 Support · 95% Rehire Rate
+                  - generic [ref=e141]:
+                    - text: Freelancer is favored by companies in need of good work –
+                    - link "Business.com" [ref=e142] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=a5c78004906f3cf6141a387cfdfde1122a6f8f269b740c916589774d0c59c0feJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cDovL3d3dy5idXNpbmVzcy5jb20vZW50cmVwcmVuZXVyc2hpcC9waGlsaXAta3VzaG1hcm8tZ2lnLWVjb25vbXkv&ntb=1
+                - generic [ref=e143]:
+                  - list [ref=e144]:
+                    - listitem [ref=e145]:
+                      - link "How Freelancer Works" [ref=e147] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8awR5EvfSCKMJVbVh-hOlgDVUCUwkgpkx2lv967IiP_nnxQzsje3d6ZDfkR64K5I55pGsnvpow5o-4eMpOHOHMKy9zHYmZgjlBaFVmZysA2ESjHN9rVi5kdLQkXv4wTJtl-IC5qcQtjTYpH6V6vzY7-EVqhKgfD1wWOw04nzGckXObt5TprnveOEGEu5MT1ZbD54s-5T9acq3_CCeByCM1hdkmss&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJlZWxhbmNlci5jb20lMmZpbmZvJTJmaG93LWl0LXdvcmtzLnBocCUzZm1zY2xraWQlM2QzODk5YmI0YjQ2YzYxZTJhODA0ZGQxNWNhZDhkMjE4NyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEZpdmUlMjUyMEV5ZXMlMjUzQUVOJTI1M0FOQiUyNTIwQk1NJTI2dXRtX3Rlcm0lM2QlMjUyQmF6dXJlJTI1MjAlMjUyQnNlcnZpY2VzJTI2dXRtX2NvbnRlbnQlM2RXZWJzaXRlcyUyYyUyNTIwSVQlMjUyMC0lMjUyMEF6dXJlJTI1MjAlMjUzQSUyNTIwQXp1cmU&rlid=3899bb4b46c61e2a804dd15cad8d2187&ntb=1
+                    - listitem [ref=e148]:
+                      - link "Sign Up Now - Free" [ref=e150] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e83dX5pxOrsfDeY7kZ9PoQnDVUCUzJ1xS_psdoMQbt8LaGSxhrXu40cmnM9MHmoPcF_uTkontXNFensWxcoPGEAeok4q20Q2LuPTBFbrOqa_e20op1Y6HyAq2Z-dCBo2UYa646I237q2L1H9mPHnrTcgz8pydduOXYKZSOn2iOPYCyyeifHLtJgzygxFotExLj0zKK6L7L8hub99p50zCrB4pbq70&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJlZWxhbmNlci5jb20lMmZzaWdudXAlM2Ztc2Nsa2lkJTNkNWVmM2RhMDc0YzM0MWY0N2ZkZGViMDEwYTc3ZjAwZjklMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RGaXZlJTI1MjBFeWVzJTI1M0FFTiUyNTNBTkIlMjUyMEJNTSUyNnV0bV90ZXJtJTNkJTI1MkJhenVyZSUyNTIwJTI1MkJzZXJ2aWNlcyUyNnV0bV9jb250ZW50JTNkV2Vic2l0ZXMlMmMlMjUyMElUJTI1MjAtJTI1MjBBenVyZSUyNTIwJTI1M0ElMjUyMEF6dXJl&rlid=5ef3da074c341f47fddeb010a77f00f9&ntb=1
+                    - listitem [ref=e151]:
+                      - link "Get The Perfect Design" [ref=e153] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8-gQPoI19KA5y1HsF5qWzRDVUCUzjNQOuJFlXcbjaY93NFfb7Ro2pw9GU_pAh9RYcPSlwud753NPWny0cvkKwD5-D2hLgWlrNoEo3LV7CBuSfjU2c0nWmVJBv7F5ZqfaH3i0PvrvZFazvavom-vnNm26L7e4-R1W3e-pSaXOaZFxm3Lu3ik3S3dkfzZDvWUgZtkALJiJ3IY6gFVXwo_rkpdEgJZY&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJlZWxhbmNlci5jb20lMmZjb250ZXN0JTNmbXNjbGtpZCUzZDY5MGE1MzQ4YTJhZDExMDRjOTM4Mzk1ZjQ5ZTYxMmZhJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkRml2ZSUyNTIwRXllcyUyNTNBRU4lMjUzQU5CJTI1MjBCTU0lMjZ1dG1fdGVybSUzZCUyNTJCYXp1cmUlMjUyMCUyNTJCc2VydmljZXMlMjZ1dG1fY29udGVudCUzZFdlYnNpdGVzJTJjJTI1MjBJVCUyNTIwLSUyNTIwQXp1cmUlMjUyMCUyNTNBJTI1MjBBenVyZQ&rlid=690a5348a2ad1104c938395f49e612fa&ntb=1
+                  - list [ref=e154]:
+                    - listitem [ref=e155]:
+                      - link "Post Your Project - Free" [ref=e157] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8bT4jSKP_ZN4mQnbtRPFlSjVUCUzQ3-bsczyf381T2hq1FnikGl8tNSZyVmBP7ZrEBnnqGosS-3tRvZZnLuc9c_NBkPCblI7xTjPGns32aUlPlXp0oQ7-gII9Vq8rrPtojaIbIRYGgZG-8qWxgB2CKfZCAyJZgR9ybSazMBx5hWC-rRkZY4sqpcfIyNN6PowaKWlgQ8x7Cyt6MLWRxCY6FgntObs&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJlZWxhbmNlci5jb20lMmZwb3N0LXByb2plY3QlM2Ztc2Nsa2lkJTNkYmY0ZjNmNjY2YTNhMWFmNzJkNjE1NTcxODE3MTYyYTAlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RGaXZlJTI1MjBFeWVzJTI1M0FFTiUyNTNBTkIlMjUyMEJNTSUyNnV0bV90ZXJtJTNkJTI1MkJhenVyZSUyNTIwJTI1MkJzZXJ2aWNlcyUyNnV0bV9jb250ZW50JTNkV2Vic2l0ZXMlMmMlMjUyMElUJTI1MjAtJTI1MjBBenVyZSUyNTIwJTI1M0ElMjUyMEF6dXJl&rlid=bf4f3f666a3a1af72d615571817162a0&ntb=1
+                    - listitem [ref=e158]:
+                      - link "Our Team is Here to Help" [ref=e160] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e81oHQsQcQLMavNb-PKV6YNDVUCUwHcQvC7RdfIOkYkfn1r6-3ac_Et6kEsAjoDTksUj-7H2bQFFxD8aoEGpI2tPKbs06lWb9TZ0_gE3doNcCYIGXAksYHsZzvKeQmVk-8z35iMb684ICGIKK4bSKkxl9XkuBLTKSUMiAEL4nl4elHLO9C1Q33SXM2KY3nj2Wti0wPsMKkFpzPMpvEu1I2XSnJdVw&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJlZWxhbmNlci5jb20lMmZyZWNydWl0ZXIlM2Ztc2Nsa2lkJTNkYWMyM2Q1MDY3ZGMzMWIzNzJjOWNiZjExOTY4ODlhODQlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RGaXZlJTI1MjBFeWVzJTI1M0FFTiUyNTNBTkIlMjUyMEJNTSUyNnV0bV90ZXJtJTNkJTI1MkJhenVyZSUyNTIwJTI1MkJzZXJ2aWNlcyUyNnV0bV9jb250ZW50JTNkV2Vic2l0ZXMlMmMlMjUyMElUJTI1MjAtJTI1MjBBenVyZSUyNTIwJTI1M0ElMjUyMEF6dXJl&rlid=ac23d5067dc31b372c9cbf1196889a84&ntb=1
+                    - listitem [ref=e161]:
+                      - link "Outsource Anything" [ref=e163] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclick?ld=e8Hy6h1zya3D-D4BBynRrttzVUCUw-0wnIc_-3l0PriyKKTJYKk9dcDbLcT4B4NbjirIOws131RPzbf0RDmNcPkrMcVpoLaFJeypndiQYP9FXzTHnNEkJgJ7psvDXh92YGs3MhlnkPi-jlrG7lilh2_TSh6yILJ8CRB3IupHk6YXHWyGSLztn63sa-hzro7qR48c2lIO0LbGjosI9c5RhVHurdxyY&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJlZWxhbmNlci5jb20lMmZnZXQtaXQtZG9uZSUzZm1zY2xraWQlM2QyMzMwMDc2ZTkyZTExMzA4YmE5MDZkNzk3OWFhZjIyZiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEZpdmUlMjUyMEV5ZXMlMjUzQUVOJTI1M0FOQiUyNTIwQk1NJTI2dXRtX3Rlcm0lM2QlMjUyQmF6dXJlJTI1MjAlMjUyQnNlcnZpY2VzJTI2dXRtX2NvbnRlbnQlM2RXZWJzaXRlcyUyYyUyNTIwSVQlMjUyMC0lMjUyMEF6dXJlJTI1MjAlMjUzQSUyNTIwQXp1cmU&rlid=2330076e92e11308ba906d7979aaf22f&ntb=1
+        - listitem [ref=e164]:
+          - generic [ref=e165]:
+            - heading "Searches you might like" [level=2] [ref=e166]
+            - list [ref=e167]:
+              - listitem [ref=e168]:
+                - link "microsoft packages 2025" [ref=e169] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=dc479aa38326b3783d08d8def1a1941a07c1433bb40fda4ce69531cdc8f9d0caJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPW1pY3Jvc29mdCtwYWNrYWdlcysyMDI1JkZPUk09TVJTRFlO&ntb=1
+                  - generic [ref=e171]: microsoft packages 2025
+              - listitem [ref=e172]:
+                - link "purchase microsoft office 2025" [ref=e173] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=03db61a57ca47956c77a824f72ca7c31a9968b61e706068ef3b689986fe73d5fJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPXB1cmNoYXNlK21pY3Jvc29mdCtvZmZpY2UrMjAyNSZGT1JNPU1SU0RZTg&ntb=1
+                  - generic [ref=e175]:
+                    - text: purchase microsoft
+                    - strong [ref=e176]: office 2025
+              - listitem [ref=e177]:
+                - link "best credit card deals 2025" [ref=e178] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=c2e0524e233fbe0874178e1472349ef27bfd34fb32bd6a83ad9dd6f491eef17bJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPWJlc3QrY3JlZGl0K2NhcmQrZGVhbHMrMjAyNSZGT1JNPU1SU0RZTg&ntb=1
+                  - generic [ref=e180]:
+                    - text: best credit
+                    - strong [ref=e181]: card
+                    - text: deals
+                    - strong [ref=e182]: "2025"
+              - listitem [ref=e183]:
+                - link "microsoft money" [ref=e184] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=d36487eff78d0830f85eaa38dfd838136bfaf0aec6d468c7d5b4f1b0abeff983JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPW1pY3Jvc29mdCttb25leSZGT1JNPU1SU0RZTg&ntb=1
+                  - generic [ref=e186]:
+                    - strong [ref=e187]: microsoft
+                    - text: money
+        - listitem [ref=e188]:
+          - generic [ref=e189]:
+            - link "Explore this image" [ref=e192] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=tznxSUbC&id=C6D0AB826FEE2528D55A75424CBF1B99B70C56FC&thid=OIP.tznxSUbCJnLdI4dREvkhSAHaEo&mediaurl=https://learn.microsoft.com/en-us/partner-center/media/mpn-benefits-azure-cloud/azure-modernized-image-2.png&q=microsoft+action+pack+azure+credits+no+credit+card+partner+2025&ck=7952A497AC775DC9D3091BB37973E122&idpp=rc&expw=1582&exph=988&form=rc2idp
+              - img [ref=e193]
+            - generic [ref=e194]:
+              - link "Microsoft Learn" [ref=e196] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=da6053c1929d8798fbba1190fcd79a00980af21af1f7a573dcbad85a07157a38JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9sZWFybi5taWNyb3NvZnQuY29tL2VuLXVzL3BhcnRuZXItY2VudGVyL2JlbmVmaXRzL21wbi1iZW5lZml0cy1henVyZS1jbG91ZA&ntb=1
+                - img "Global web icon" [ref=e200]
+                - generic [ref=e201]:
+                  - generic [ref=e202]: Microsoft Learn
+                  - generic [ref=e205]: https://learn.microsoft.com › en-us › partner-center › benefi…
+              - heading "Azure Benefits - Partner Center | Microsoft Learn" [level=2] [ref=e206]:
+                - link "Azure Benefits - Partner Center | Microsoft Learn" [ref=e207] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=da6053c1929d8798fbba1190fcd79a00980af21af1f7a573dcbad85a07157a38JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9sZWFybi5taWNyb3NvZnQuY29tL2VuLXVzL3BhcnRuZXItY2VudGVyL2JlbmVmaXRzL21wbi1iZW5lZml0cy1henVyZS1jbG91ZA&ntb=1
+              - paragraph [ref=e208]: Apr 22, 2026 · You can use only the Azure credits provided with a new Microsoft AI Cloud Partner Program purchase, such …
+        - listitem [ref=e210]:
+          - link "The Register" [ref=e212] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=6e53c80934f2d4e35e8272b0ef739da2c23680f549a8350cd5111d6caa435738JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL29mZi1wcmVtLzIwMjQvMDgvMjgvbWljcm9zb2Z0LXBhcnRuZXJzLWJld2FyZS0yMDI1LWlzLXRoZS1lbmQtb2YtYWN0aW9uLXBhY2svMTA0MTA0Mw&ntb=1
+            - img "Global web icon" [ref=e216]
+            - generic [ref=e217]:
+              - generic [ref=e218]: The Register
+              - generic [ref=e221]: https://www.theregister.com › off-prem
+          - 'heading "Microsoft partners beware: 2025 is the end of Action Pack" [level=2] [ref=e222]':
+            - 'link "Microsoft partners beware: 2025 is the end of Action Pack" [ref=e223] [cursor=pointer]':
+              - /url: https://www.bing.com/ck/a?!&&p=6e53c80934f2d4e35e8272b0ef739da2c23680f549a8350cd5111d6caa435738JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL29mZi1wcmVtLzIwMjQvMDgvMjgvbWljcm9zb2Z0LXBhcnRuZXJzLWJld2FyZS0yMDI1LWlzLXRoZS1lbmQtb2YtYWN0aW9uLXBhY2svMTA0MTA0Mw&ntb=1
+          - paragraph [ref=e225]: Aug 28, 2024 · Microsoft is to discontinue the Microsoft Action Pack and Microsoft Learning Pack on January 21, 2025, sending partners off to potentially …
+        - listitem [ref=e226]:
+          - generic [ref=e228]:
+            - heading "Videos of Microsoft Action Pack Azure Credits No Credit Card Partner …" [level=2] [ref=e230]:
+              - link "Videos of Microsoft Action Pack Azure Credits No Credit Card Partner …" [ref=e231] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=b1fc9271e1ecdad86f31ee2d6635644c723d8822aa75b9b8825b125477e95b91JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9zZWFyY2g_cT1NaWNyb3NvZnQrYWN0aW9uK3BhY2srQXp1cmUrY3JlZGl0cytubytjcmVkaXQrY2FyZCtwYXJ0bmVyKzIwMjUmcXB2dD1taWNyb3NvZnQrYWN0aW9uK3BhY2srYXp1cmUrY3JlZGl0cytubytjcmVkaXQrY2FyZCtwYXJ0bmVyKzIwMjUmRk9STT1WRFJF&ntb=1
+            - generic [ref=e233]:
+              - 'link "FREE $100 Azure Credit in 2025 (No Credit Card Required) from YouTube · Duration: 18 minutes 7 seconds · 1.8K views · uploaded on 7 months ago · uploaded by Enterprise IT Mastery · Click to play. · Unlock $100 in FREE Microsoft Azure credits today! If you''re a student, Microsoft offers an incredible opportunity to get hands-on experience with enterprise-grade cloud computing without needing a credit card. In this complete step-by-step guide, we walk through the entire Azure for Students sign-up and verification process. We''ll cover ..." [ref=e236] [cursor=pointer]':
+                - /url: https://www.bing.com/ck/a?!&&p=9e0a5d3165a1168e4b21e74dd9ca884a9c40f265bf8e69308b79511f1720b29bJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bWljcm9zb2Z0K2FjdGlvbitwYWNrK2F6dXJlK2NyZWRpdHMrbm8rY3JlZGl0K2NhcmQrcGFydG5lcisyMDI1Jm1pZD1EMDJFNEY1REZFOTJGNTQ5MkY1Q0QwMkU0RjVERkU5MkY1NDkyRjVDJmNodXJsPWh0dHBzJTNhJTJmJTJmd3d3LnlvdXR1YmUuY29tJTJmY2hhbm5lbCUyZlVDU2lQT2EzVm93d2k0MnQxQnlzZXhtUSZGT1JNPVZJUkU&ntb=1
+                - generic [ref=e237]:
+                  - generic [ref=e238]:
+                    - img "FREE $100 Azure Credit in 2025 (No Credit Card Required)" [ref=e240]
+                    - generic [ref=e246]: 18:07
+                  - generic [ref=e247]:
+                    - generic "FREE $100 Azure Credit in 2025 (No Credit Card Required)" [ref=e248]:
+                      - text: FREE $100
+                      - strong [ref=e249]: Azure
+                      - strong [ref=e250]: Credit
+                      - text: in
+                      - strong [ref=e251]: "2025"
+                      - text: (
+                      - strong [ref=e252]: "No"
+                      - strong [ref=e253]: Credit
+                      - strong [ref=e254]: Card
+                      - text: Required)
+                    - generic [ref=e255]:
+                      - generic [ref=e256]:
+                        - img "Video source site" [ref=e257]
+                        - text: YouTube · Enterprise IT Mastery
+                      - generic [ref=e258]: 1.8K views · 7 months ago
+              - 'link "💸 Get Azure for FREE (No Credit Card Required!) ☁️ from YouTube · Duration: 1 minutes 14 seconds · 4.5K views · uploaded on 3 months ago · uploaded by Tech Tutorials with Piyush · Click to play. · Stop letting a \"missing credit card\" stall your cloud career! 🛑 Many students and aspiring engineers think they can’t practice on real cloud infrastructure because they don’t have a card to sign up for a free trial. That is a myth! Whether you want to spin up VMs, build a Kubernetes cluster, or experiment with AI services, there are ..." [ref=e261] [cursor=pointer]':
+                - /url: https://www.bing.com/ck/a?!&&p=95b4bf227117be4d99d08a1a663b3bea1f4c40795f819665671b6bd32161a239JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bWljcm9zb2Z0K2FjdGlvbitwYWNrK2F6dXJlK2NyZWRpdHMrbm8rY3JlZGl0K2NhcmQrcGFydG5lcisyMDI1Jm1pZD03QTY1NjM3N0MyRkEyOTE4RURCNTdBNjU2Mzc3QzJGQTI5MThFREI1JmNodXJsPWh0dHBzJTNhJTJmJTJmd3d3LnlvdXR1YmUuY29tJTJmY2hhbm5lbCUyZlVDaDdkeVpNT0hzcE9TbkRZVE5meU1TQSZtbXNjbj1zdHZvJkZPUk09VklSRQ&ntb=1
+                - generic [ref=e262]:
+                  - generic [ref=e263]:
+                    - img "💸 Get Azure for FREE (No Credit Card Required!) ☁️" [ref=e265]
+                    - generic [ref=e271]: 1:14
+                  - generic [ref=e272]:
+                    - generic "💸 Get Azure for FREE (No Credit Card Required!) ☁️" [ref=e273]:
+                      - text: 💸 Get
+                      - strong [ref=e274]: Azure
+                      - text: for FREE (
+                      - strong [ref=e275]: "No"
+                      - strong [ref=e276]: Credit
+                      - strong [ref=e277]: Card
+                      - text: Required!) ☁️
+                    - generic [ref=e278]:
+                      - generic [ref=e279]:
+                        - img "Video source site" [ref=e280]
+                        - text: YouTube · Tech Tutorials with Piyush
+                      - generic [ref=e281]: 4.5K views · 3 months ago
+              - 'link "How to Use Azure Free Without a Credit Card | No Cost | Free Forever from YouTube · Duration: 22 minutes 21 seconds · 6.2K views · uploaded on 8 months ago · uploaded by DotNet Real world example · Click to play. · Learn how to get Azure Free Subscription without a credit card in this step-by-step guide! Whether you’re a developer, student, or business owner, this video shows you how to access Azure’s free tier with no cost and no credit card required. Discover how to use Azure for free forever by leveraging Microsoft’s free credits, trial programs ..." [ref=e284] [cursor=pointer]':
+                - /url: https://www.bing.com/ck/a?!&&p=84314af13c16e50409c1451c6f7c5f48ceeb412394cabe5c84e04acb3b72e0e6JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bWljcm9zb2Z0K2FjdGlvbitwYWNrK2F6dXJlK2NyZWRpdHMrbm8rY3JlZGl0K2NhcmQrcGFydG5lcisyMDI1Jm1pZD0wNDg4NTczMzQ3MENGMTA3MzFBQjA0ODg1NzMzNDcwQ0YxMDczMUFCJmNodXJsPWh0dHBzJTNhJTJmJTJmd3d3LnlvdXR1YmUuY29tJTJmY2hhbm5lbCUyZlVDS0FubHNZWm5xU3E4aUxPZHhvSVRwUSZGT1JNPVZJUkU&ntb=1
+                - generic [ref=e285]:
+                  - generic [ref=e286]:
+                    - img "How to Use Azure Free Without a Credit Card | No Cost | Free Forever" [ref=e288]
+                    - generic [ref=e294]: 22:21
+                  - generic [ref=e295]:
+                    - generic "How to Use Azure Free Without a Credit Card | No Cost | Free Forever" [ref=e296]:
+                      - text: How to Use
+                      - strong [ref=e297]: Azure
+                      - text: Free Without a
+                      - strong [ref=e298]: Credit
+                      - strong [ref=e299]: Card
+                      - text: "|"
+                      - strong [ref=e300]: "No"
+                      - text: Cost | Free Forever
+                    - generic [ref=e301]:
+                      - generic [ref=e302]:
+                        - img "Video source site" [ref=e303]
+                        - text: YouTube · DotNet Real world example
+                      - generic [ref=e304]: 6.2K views · 8 months ago
+        - listitem [ref=e305]:
+          - generic [ref=e306]:
+            - link "Explore this image" [ref=e309] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=QvWSC6q3&id=BE0C8E6ED3C1205A71B2A8F9943BEEC1470D2E22&thid=OIP.QvWSC6q31y7dOhadlASkewHaEK&mediaurl=https://files.cyberriskalliance.com/wp-content/uploads/2023/12/Partner-GettyImages-1032524356-min.jpg&q=microsoft+action+pack+azure+credits+no+credit+card+partner+2025&ck=084BCE844D0F24A07233CBF0EBA006DF&idpp=rc&expw=1920&exph=1080&form=rc2idp
+              - img [ref=e310]
+            - generic [ref=e311]:
+              - link "ChannelE2E" [ref=e313] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=5150a7f5bdc9ffe186f3d94b9f722db530168bfc236956b13f35dc7eaddaa2a4JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cuY2hhbm5lbGUyZS5jb20vbmF0aXZlL2Z5MjUtY2hhbmdlcy1pbi1taWNyb3NvZnQtcGFydG5lci1iZW5lZml0cy1hbmQtaW1wb3J0YW50LWRhdGVzLWZvci1sZWdhY3ktcGFydG5lcnM&ntb=1
+                - img "Global web icon" [ref=e317]
+                - generic [ref=e318]:
+                  - generic [ref=e319]: ChannelE2E
+                  - generic [ref=e322]: https://www.channele2e.com › native
+              - heading "FY25 Changes in Microsoft Partner Benefits and …" [level=2] [ref=e323]:
+                - link "FY25 Changes in Microsoft Partner Benefits and …" [ref=e324] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=5150a7f5bdc9ffe186f3d94b9f722db530168bfc236956b13f35dc7eaddaa2a4JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cuY2hhbm5lbGUyZS5jb20vbmF0aXZlL2Z5MjUtY2hhbmdlcy1pbi1taWNyb3NvZnQtcGFydG5lci1iZW5lZml0cy1hbmQtaW1wb3J0YW50LWRhdGVzLWZvci1sZWdhY3ktcGFydG5lcnM&ntb=1
+              - paragraph [ref=e325]: Nov 19, 2024 · It’s official, Microsoft has announced they will no longer sell the Microsoft Action Pack, Microsoft Learning …
+        - listitem [ref=e327]:
+          - generic [ref=e328]:
+            - link "Explore this image" [ref=e331] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=1ruEMlrw&id=467F47B603EBA814DC286695DE1958650F24B3E1&thid=OIP.1ruEMlrwGtE95EMnPufTmQHaJ4&mediaurl=https://imgv2-1-f.scribdassets.com/img/document/812108601/original/ea74abc17c/1?v=1&q=microsoft+action+pack+azure+credits+no+credit+card+partner+2025&ck=5FF94EBF6A06107F7067E6A23056D5E2&idpp=rc&expw=768&exph=1024&form=rc2idp
+              - img [ref=e332]
+            - generic [ref=e333]:
+              - link "Scribd" [ref=e335] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=53a2cc3deaedcd4498539a0187def824cf2849b925e4d28c8e317bac05509445JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cuc2NyaWJkLmNvbS9kb2N1bWVudC84MTIxMDg2MDEvRlkyNS1iZW5lZml0cy1ldm9sdXRpb24tcGFydG5lci1mYWNpbmctZGVjaw&ntb=1
+                - img "Global web icon" [ref=e339]
+                - generic [ref=e340]:
+                  - generic [ref=e341]: Scribd
+                  - generic [ref=e344]: https://www.scribd.com › document
+              - heading "Microsoft Partner Benefits Evolution 2025 | PDF" [level=2] [ref=e345]:
+                - link "Microsoft Partner Benefits Evolution 2025 | PDF" [ref=e346] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=53a2cc3deaedcd4498539a0187def824cf2849b925e4d28c8e317bac05509445JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cuc2NyaWJkLmNvbS9kb2N1bWVudC84MTIxMDg2MDEvRlkyNS1iZW5lZml0cy1ldm9sdXRpb24tcGFydG5lci1mYWNpbmctZGVjaw&ntb=1
+              - paragraph [ref=e347]: • On January 22, 2025, partners with Microsoft Action Pack, Learning Action Pack, or legacy silver/gold benefits will no …
+        - listitem [ref=e349]:
+          - generic [ref=e350]:
+            - link "Explore this image" [ref=e353] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=dXQ95rQU&id=057A1E785C54768A55B736EAAEC0A2FBDDA0DE0A&thid=OIP.dXQ95rQUeA7ndgSqQSqNDgHaFJ&mediaurl=https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/140130REDSchwartzMSCEO.jpg&q=microsoft+action+pack+azure+credits+no+credit+card+partner+2025&ck=07EAE43B2601809B1B0CD1E4779C4165&idpp=rc&expw=647&exph=450&form=rc2idp
+            - generic [ref=e355]:
+              - link "rcpmag.com" [ref=e357] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=307e77566b75f4f81e73760c6f14a3d7e69c76612b813eb5fef155d89fe7f504JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9yY3BtYWcuY29tL2FydGljbGVzLzIwMjQvMDgvMTMvbWljcm9zb2Z0LXBoYXNpbmctb3V0LWFjdGlvbi1wYWNrcy5hc3B4&ntb=1
+                - img "Global web icon" [ref=e361]
+                - generic [ref=e362]:
+                  - generic [ref=e363]: rcpmag.com
+                  - generic [ref=e366]: https://rcpmag.com › ... › microsoft-phasing-out-action-pac…
+              - heading "Microsoft Phasing Out Action Packs, Gold and Silver …" [level=2] [ref=e367]:
+                - link "Microsoft Phasing Out Action Packs, Gold and Silver …" [ref=e368] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=307e77566b75f4f81e73760c6f14a3d7e69c76612b813eb5fef155d89fe7f504JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9yY3BtYWcuY29tL2FydGljbGVzLzIwMjQvMDgvMTMvbWljcm9zb2Z0LXBoYXNpbmctb3V0LWFjdGlvbi1wYWNrcy5hc3B4&ntb=1
+              - paragraph [ref=e369]: "Aug 13, 2024 · Microsoft has set an end date for several legacy partner benefits: Jan. 22, 2025. On that date, new …"
+        - listitem [ref=e371]:
+          - link "mavencollectivemarketing.com" [ref=e373] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=ec9e34393ac850481cffa50c7384108a5146348dc3a02cf29cb1ab5493112317JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9tYXZlbmNvbGxlY3RpdmVtYXJrZXRpbmcuY29tL2luc2lnaHRzL2Jsb2cvbWljcm9zb2Z0LWFjdGlvbi1wYWNrLXRvLXN1Y2Nlc3MtY29yZS1iZW5lZml0cy8&ntb=1
+            - img "Global web icon" [ref=e377]
+            - generic [ref=e378]:
+              - generic [ref=e379]: mavencollectivemarketing.com
+              - generic [ref=e382]: https://mavencollectivemarketing.com › insights › blog › microsoft-action...
+          - heading "Transitioning from Microsoft Action Pack to Success Core Benefits" [level=2] [ref=e383]:
+            - link "Transitioning from Microsoft Action Pack to Success Core Benefits":
+              - /url: https://www.bing.com/ck/a?!&&p=ec9e34393ac850481cffa50c7384108a5146348dc3a02cf29cb1ab5493112317JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9tYXZlbmNvbGxlY3RpdmVtYXJrZXRpbmcuY29tL2luc2lnaHRzL2Jsb2cvbWljcm9zb2Z0LWFjdGlvbi1wYWNrLXRvLXN1Y2Nlc3MtY29yZS1iZW5lZml0cy8&ntb=1
+          - paragraph [ref=e385]: Microsoft has announced major changes to its partner ecosystem, including the discontinuation of the Microsoft Action Pack and Microsoft Learning Pack …
+        - listitem [ref=e386]:
+          - generic [ref=e387]:
+            - link "Explore this image" [ref=e390] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=rsqKYV4K&id=6CD2440ED747381FF59349227DF43A773B91F62D&thid=OIP.rsqKYV4KZMP4p1ibmge8KgHaHa&mediaurl=https://www.crn.com/news/ai/2024/media_199f6d095ef30a6d124441a303fadf5d0346be6fc.png?width=1200&format=pjpg&optimize=medium&q=microsoft+action+pack+azure+credits+no+credit+card+partner+2025&ck=63A92F1BBB60A5E2239E4DAB76D9CC49&idpp=rc&expw=500&exph=500&form=rc2idp
+              - img [ref=e391]
+            - generic [ref=e392]:
+              - link "CRN" [ref=e394] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=cc284742b11bc8fda1f9a386686ad41ac98315b4a6a87a5dd120f48bcf6747f6JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cuY3JuLmNvbS9uZXdzL2FpLzIwMjQvbWljcm9zb2Z0LXRvLWRpdGNoLWFjdGlvbi1wYWNrcy1pbi1wYXJ0bmVyLWJlbmVmaXRzLW92ZXJoYXVs&ntb=1
+                - img "Global web icon" [ref=e398]
+                - generic [ref=e399]:
+                  - generic [ref=e400]: CRN
+                  - generic [ref=e403]: https://www.crn.com › news › ai › microsoft-to-ditch-action-…
+              - heading "Microsoft To Ditch Action Packs In Partner Benefits …" [level=2] [ref=e404]:
+                - link "Microsoft To Ditch Action Packs In Partner Benefits …" [ref=e405] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=cc284742b11bc8fda1f9a386686ad41ac98315b4a6a87a5dd120f48bcf6747f6JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cuY3JuLmNvbS9uZXdzL2FpLzIwMjQvbWljcm9zb2Z0LXRvLWRpdGNoLWFjdGlvbi1wYWNrcy1pbi1wYXJ0bmVyLWJlbmVmaXRzLW92ZXJoYXVs&ntb=1
+              - paragraph [ref=e406]: Aug 7, 2024 · Microsoft revealed that it plans to no longer sell its Action Pack, Learning Action Pack or legacy silver and …
+        - listitem [ref=e408]:
+          - generic [ref=e409]:
+            - link "Explore this image" [ref=e412] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=08n/t00Y&id=13E6CF17E188AB393E335E83BBB1D61805D70A82&thid=OIP.08n_t00YbgccD5s0LA0o6gHaD6&mediaurl=https://getnerdio.com/wp-content/uploads/2025/12/BlogPosts-5.png&q=microsoft+action+pack+azure+credits+no+credit+card+partner+2025&ck=C88C00AFB9465E777968DC1DD85C5B40&idpp=rc&expw=2200&exph=1162&form=rc2idp
+              - img [ref=e413]
+            - generic [ref=e414]:
+              - link "Nerdio" [ref=e416] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=f1e9e2f6d53277a8a44e8316fac4118eb2094b737a24e8ba8c362796d37002f1JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9nZXRuZXJkaW8uY29tL2Jsb2cvbWljcm9zb2Z0LWFjdGlvbi1wYWNrLWFuZC1zaWx2ZXItZ29sZC1tZW1iZXJzaGlwLWV4cGlyYXRpb253aGF0LXlvdS1uZWVkLXRvLWtub3cv&ntb=1
+                - img "Global web icon" [ref=e420]
+                - generic [ref=e421]:
+                  - generic [ref=e422]: Nerdio
+                  - generic [ref=e425]: https://getnerdio.com › blog › microsoft-action-pack-and-sil…
+              - heading "Microsoft Action Pack and Silver/Gold Membership …" [level=2] [ref=e426]:
+                - link "Microsoft Action Pack and Silver/Gold Membership …" [ref=e427] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=f1e9e2f6d53277a8a44e8316fac4118eb2094b737a24e8ba8c362796d37002f1JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9nZXRuZXJkaW8uY29tL2Jsb2cvbWljcm9zb2Z0LWFjdGlvbi1wYWNrLWFuZC1zaWx2ZXItZ29sZC1tZW1iZXJzaGlwLWV4cGlyYXRpb253aGF0LXlvdS1uZWVkLXRvLWtub3cv&ntb=1
+              - paragraph [ref=e428]: Jan 22, 2025 · Big changes are coming to Microsoft’s partner programs, and if your business relies on Microsoft Action Pack …
+        - listitem [ref=e430]:
+          - generic [ref=e431]:
+            - link "Explore this image" [ref=e434] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=9wHuO6ze&id=1FD97C9A681CF276C8E37990EE0B3322ABCC0972&thid=OIP.9wHuO6zeXvn9VxP_o4Xj1QHaC_&mediaurl=https://media.licdn.com/dms/image/v2/D5612AQGgmAW4Ms6nlA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1722998757548?e=2147483647&v=beta&t=0TSFH5DpE0TRRNxYwpJp7hPfSyLgMBzWH3Bf4zI4ZkI&q=microsoft+action+pack+azure+credits+no+credit+card+partner+2025&ck=4AE881E1BFBFA55353595F1C0557BC40&idpp=rc&expw=1267&exph=511&form=rc2idp
+              - img [ref=e435]
+            - generic [ref=e436]:
+              - link "LinkedIn" [ref=e438] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=eba7f2c3cd09ce9567768b6649ef2bf299ac47b7e202efab3e68d3e3297a6298JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3B1bHNlL2JpZy1jaGFuZ2VzLWFoZWFkLW1pY3Jvc29mdC1haS1jbG91ZC1wYXJ0bmVyLXByb2dyYW0tZnkyNS12b3ZjaGVua28tZGZqa2M&ntb=1
+                - img "Global web icon" [ref=e442]
+                - generic [ref=e443]:
+                  - generic [ref=e444]: LinkedIn
+                  - generic [ref=e447]: https://www.linkedin.com › pulse › big-changes-ahead-micr…
+              - heading "Big Changes Ahead for Microsoft AI Cloud Partner …" [level=2] [ref=e448]:
+                - link "Big Changes Ahead for Microsoft AI Cloud Partner …" [ref=e449] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=eba7f2c3cd09ce9567768b6649ef2bf299ac47b7e202efab3e68d3e3297a6298JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3B1bHNlL2JpZy1jaGFuZ2VzLWFoZWFkLW1pY3Jvc29mdC1haS1jbG91ZC1wYXJ0bmVyLXByb2dyYW0tZnkyNS12b3ZjaGVua28tZGZqa2M&ntb=1
+              - paragraph [ref=e450]: Aug 7, 2024 · Starting 22 January 2025, Microsoft will no longer offer the Microsoft Action Pack, Learning Action Pack, or …
+        - listitem [ref=e452]:
+          - generic [ref=e453]:
+            - link "Explore this image" [ref=e456] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=ZYUuILV5&id=D46086DA4D992FEB51419EA78DE17E49DD655361&thid=OIP.ZYUuILV5onu9Ezere6ShFgHaC_&mediaurl=https://www.urtech.ca/wp-content/uploads/2024/11/action-pack-vs-partner-pack.jpg&q=microsoft+action+pack+azure+credits+no+credit+card+partner+2025&ck=7D2F39235C39D89705C22D0E63F62897&idpp=rc&expw=1024&exph=413&form=rc2idp
+              - img [ref=e457]
+            - generic [ref=e458]:
+              - link "URTech.ca" [ref=e460] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=e07257a3cfd857d7574bc4b7cab485ba09cae9832b223ecf655a1d1acfd38d19JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cudXJ0ZWNoLmNhLzIwMjQvMTEvc29sdmVkLXBhcnRuZXItbGF1bmNoLWJlbmVmaXRzLXZzLW1pY3Jvc29mdC1hY3Rpb24tcGFjay8&ntb=1
+                - img "Global web icon" [ref=e464]
+                - generic [ref=e465]:
+                  - generic [ref=e466]: URTech.ca
+                  - generic [ref=e469]: https://www.urtech.ca › solved-partner-launch-benefits-vs...
+              - heading "Microsoft Partner Launch Benefits vs Action Pack" [level=2] [ref=e470]:
+                - link "Microsoft Partner Launch Benefits vs Action Pack" [ref=e471] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=e07257a3cfd857d7574bc4b7cab485ba09cae9832b223ecf655a1d1acfd38d19JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cudXJ0ZWNoLmNhLzIwMjQvMTEvc29sdmVkLXBhcnRuZXItbGF1bmNoLWJlbmVmaXRzLXZzLW1pY3Jvc29mdC1hY3Rpb24tcGFjay8&ntb=1
+              - paragraph [ref=e472]: Nov 28, 2024 · Compare Microsoft Partner Launch Benefits with the Action Pack. Discover the best options for small …
+        - listitem [ref=e474]:
+          - generic [ref=e475]:
+            - heading "Deep dive into microsoft action pack azure credits no credit card partn…" [level=2] [ref=e476]:
+              - text: Deep dive into
+              - strong [ref=e477]: microsoft action pack azure credits no credit card partn
+              - text: …
+            - list [ref=e478]:
+              - listitem [ref=e479]:
+                - link "Microsoft Azure partner center membership" [ref=e480] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=cff127e464a71746445c0dfc541aabc3be16083cbd09fa8d5118b7ba4077dfd3JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtBenVyZStQYXJ0bmVyK0NlbnRlcittZW1iZXJzaGlwJkZPUk09UVNSRTE&ntb=1
+                  - generic [ref=e482]:
+                    - text: Microsoft Azure partner
+                    - strong [ref=e483]: center membership
+              - listitem [ref=e484]:
+                - link "Microsoft Azure partner center rewards" [ref=e485] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=ebc62269ea6857b07559b1d5dc1c41201ad84012a37057d8a6bb320013e6d0caJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtBenVyZStQYXJ0bmVyK0NlbnRlcityZXdhcmRzJkZPUk09UVNSRTI&ntb=1
+                  - generic [ref=e487]:
+                    - text: Microsoft Azure partner
+                    - strong [ref=e488]: center rewards
+              - listitem [ref=e489]:
+                - link "Microsoft partners benefits 2025" [ref=e490] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=c25409db034f973b6d04c3c0fda30a6e1213fc0939b789bb0e411e05db876d23JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtwYXJ0bmVycytiZW5lZml0cysyMDI1JkZPUk09UVNSRTM&ntb=1
+                  - generic [ref=e492]:
+                    - text: Microsoft partners
+                    - strong [ref=e493]: benefits
+                    - text: "2025"
+              - listitem [ref=e494]:
+                - link "Microsoft Azure monthly credits" [ref=e495] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=4be38b6215d704da42c68d5fa5673d8278e7cc44cca9c75b5a70900e519e3216JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtBenVyZSttb250aGx5K2NyZWRpdHMmRk9STT1RU1JFNA&ntb=1
+                  - generic [ref=e497]:
+                    - text: Microsoft Azure
+                    - strong [ref=e498]: monthly
+                    - text: credits
+              - listitem [ref=e499]:
+                - link "Microsoft partner center Azure credits" [ref=e500] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=d43d63abc70fda2730df0fe3a5c087fd0f93af264675aea9abc43760ccb1be00JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtQYXJ0bmVyK0NlbnRlcitBenVyZStjcmVkaXRzJkZPUk09UVNSRTU&ntb=1
+                  - generic [ref=e502]:
+                    - text: Microsoft partner
+                    - strong [ref=e503]: center
+                    - text: Azure credits
+              - listitem [ref=e504]:
+                - link "Microsoft Azure rewards program" [ref=e505] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=143a830ea4d1add62b7edf4f49edf773446c9d364b6e6389b4995740eac1b2f5JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtBenVyZStyZXdhcmRzK3Byb2dyYW0mRk9STT1RU1JFNg&ntb=1
+                  - generic [ref=e507]:
+                    - text: Microsoft Azure
+                    - strong [ref=e508]: rewards program
+              - listitem [ref=e509]:
+                - link "Microsoft Azure partners limit" [ref=e510] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=49828b516b9b71ea82a187654f1ae1e58ea748101338950bd9a2821bbfd53c99JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCtBenVyZStwYXJ0bmVycytsaW1pdCZGT1JNPVFTUkU3&ntb=1
+                  - generic [ref=e512]:
+                    - text: Microsoft Azure partners
+                    - strong [ref=e513]: limit
+              - listitem [ref=e514]:
+                - link "Microsoft ai cloud partners" [ref=e515] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=947349d90ad65247d80b56d01f99bdf4c4b18dbae42dae7bee7d54587a734492JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPU1pY3Jvc29mdCthaStjbG91ZCtwYXJ0bmVycyZGT1JNPVFTUkU4&ntb=1
+                  - generic [ref=e517]:
+                    - text: Microsoft
+                    - strong [ref=e518]: ai cloud
+                    - text: partners
+        - listitem [ref=e519]:
+          - link "Some results have been removed" [ref=e521] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=c74be6d8b314b5d3831ca78d934d0673988f7c5146531b8935d8d8dc7e6b52cfJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9NjE3MzUw&ntb=1
+        - listitem [ref=e522]:
+          - navigation "More results for microsoft action pack azure credits no credit card partner 2025":
+            - list:
+              - listitem [ref=e523]:
+                - generic "Page 1" [ref=e524]: "1"
+              - listitem [ref=e525]:
+                - link "Page 2" [ref=e526] [cursor=pointer]:
+                  - /url: /search?q=microsoft+action+pack+azure+credits+no+credit+card+partner+2025&FPIG=B9C84A42F24B47B68A5DC6BB77BE1916&first=11&FORM=PERE
+                  - text: "2"
+              - listitem [ref=e527]:
+                - link "Page 3" [ref=e528] [cursor=pointer]:
+                  - /url: /search?q=microsoft+action+pack+azure+credits+no+credit+card+partner+2025&FPIG=B9C84A42F24B47B68A5DC6BB77BE1916&first=21&FORM=PERE1
+                  - text: "3"
+              - listitem [ref=e529]:
+                - link "Next page" [ref=e530] [cursor=pointer]:
+                  - /url: /search?q=microsoft+action+pack+azure+credits+no+credit+card+partner+2025&FPIG=B9C84A42F24B47B68A5DC6BB77BE1916&first=11&FORM=PORE
+    - complementary "Additional Results"
+  - contentinfo [ref=e531]:
+    - generic [ref=e532]:
+      - list:
+        - listitem [ref=e533]:
+          - link "Privacy" [ref=e534] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=cae98553507f29bc0d571844060839b8ae37e66d3e6c82f590b8b5b06a960cc1JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSWQ9NTIxODM5&ntb=1
+        - listitem [ref=e535]:
+          - link "Terms" [ref=e536] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=d0b567fac0f38bf0e0805ff229263e7e182d84015d9353d005a8eb0923c4aba9JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9MjQ2MzM4&ntb=1

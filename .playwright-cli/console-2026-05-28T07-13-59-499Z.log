@@ -1,0 +1,6 @@
+[    1363ms] [LOG] replac script @ https://partner.microsoft.com/en-US/notfound?item=%2fpartnership%2fpartner-incentives&user=extranet%5cAnonymous&site=partner.microsoft.com:156
+[    2004ms] [LOG] Copy-paste the following line into Sitecore CDP > Guests > Search field: @ https://partner.microsoft.com/javascript/CDP.js:97
+[    2004ms] [LOG] 30a2d019-3cbe-462e-b7df-e6cb7bdb4ee1 @ https://partner.microsoft.com/javascript/CDP.js:98
+[    2223ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://www.clarity.ms/tag/bcxrxdw8j9:0
+[    4953ms] [LOG] remove lang unload @ https://partner.microsoft.com/en-US/notfound?item=%2fpartnership%2fpartner-incentives&user=extranet%5cAnonymous&site=partner.microsoft.com:126
+[    4953ms] [LOG] remove lang-- done @ https://partner.microsoft.com/en-US/notfound?item=%2fpartnership%2fpartner-incentives&user=extranet%5cAnonymous&site=partner.microsoft.com:128

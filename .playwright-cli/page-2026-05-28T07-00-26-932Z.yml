@@ -1,0 +1,479 @@
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - link "Skip to main content" [ref=e6] [cursor=pointer]:
+      - /url: "#primaryArea"
+    - banner [ref=e7]:
+      - generic [ref=e8]:
+        - generic [ref=e10]:
+          - link "Microsoft" [ref=e12] [cursor=pointer]:
+            - /url: https://www.microsoft.com
+            - img "Microsoft" [ref=e13]
+          - link "Nonprofits" [ref=e15] [cursor=pointer]:
+            - /url: https://www.microsoft.com/en-us/nonprofits
+            - generic [ref=e16]: Nonprofits
+        - navigation "Contextual menu" [ref=e19]:
+          - generic [ref=e21]:
+            - generic [ref=e22]:
+              - button "Products " [ref=e25] [cursor=pointer]:
+                - text: Products
+                - generic [ref=e27]: 
+              - link "Eligibility" [ref=e28] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/nonprofits/eligibility
+              - button "Resources " [ref=e31] [cursor=pointer]:
+                - text: Resources
+                - generic [ref=e33]: 
+            - button "More " [ref=e36] [cursor=pointer]:
+              - text: More
+              - generic [ref=e38]: 
+            - link "Get started" [ref=e40] [cursor=pointer]:
+              - /url: http://aka.ms/nonprofitgetstarted
+        - generic [ref=e41]:
+          - navigation "All Microsoft menu" [ref=e44]:
+            - button "All Microsoft " [ref=e47] [cursor=pointer]:
+              - text: All Microsoft
+              - generic [ref=e49]: 
+          - generic [ref=e50]:
+            - text: 
+            - button "Search or ask a question" [ref=e51] [cursor=pointer]:
+              - generic [ref=e53]: 
+  - main [ref=e56]:
+    - generic [ref=e59]:
+      - region "Announcement Bar" [ref=e65] [cursor=pointer]:
+        - paragraph [ref=e67]:
+          - link "Learn more about local nonprofit events and offers in your area, prompts a file download" [ref=e68]:
+            - /url: https://aka.ms/MicrosoftNonprofitEventsandOffers
+            - text: Explore local nonprofit events and offers in your area 
+      - generic [ref=e73]:
+        - img "Kid and volunteer smiling at the camera." [ref=e76]
+        - generic [ref=e82]:
+          - heading "Start your AI journey with the Azure grant" [level=1] [ref=e84]
+          - generic [ref=e85]: Leverage $2,000 (USD) Azure services credits per year and access the complete portfolio of Azure products and cloud services.
+          - generic [ref=e86]:
+            - link "Get started with registering your nonprofit, opens in a new tab" [ref=e87] [cursor=pointer]:
+              - /url: https://aka.ms/nonprofitgetstarted
+              - text: Get started
+            - link "Visit Azure Onboarding Concierge for more assistance, opens in a new tab" [ref=e88] [cursor=pointer]:
+              - /url: https://aka.ms/NonprofitAzureOnboardingConciergeSuccessCenter
+              - text: Azure Onboarding Concierge 
+      - heading "Three steps to accelerating mission impact with Azure" [level=2] [ref=e96]:
+        - paragraph [ref=e97]: Three steps to accelerating mission impact with Azure
+      - generic [ref=e103]:
+        - generic [ref=e105] [cursor=pointer]:
+          - img "Icon of a cloud with arrows for motion with the number 1" [ref=e107]
+          - generic [ref=e108]:
+            - 'heading "Step 1: Move to the cloud" [level=3] [ref=e109]'
+            - generic [ref=e110]: Improve efficiency and reduce costs by migrating on-premises applications, infrastructure, and data to Azure. Get started with the $2,000 (USD) Azure grant for nonprofits.
+          - link "Get started with Azure grant by registering, opens in a new tab" [ref=e113]:
+            - /url: https://aka.ms/nonprofitgetstarted
+            - text: Get started with Azure grant 
+        - generic [ref=e115]:
+          - img "Icon of a several dots interconnected by lines with the number 2" [ref=e117]
+          - generic [ref=e118]:
+            - 'heading "Step 2: Unify your data" [level=3] [ref=e119]'
+            - generic [ref=e120]: Learn the foundational principles for developing a data strategy and gain skills that can help you be more effective and productive in driving innovation with AI.
+          - generic [ref=e122]:
+            - link "Download Unify your data e-book, prompts a file download" [ref=e123] [cursor=pointer]:
+              - /url: https://aka.ms/HarnessingDataEbook
+              - text: Download e-book 
+            - link "Register for free Azure training, opens in a new tab" [ref=e124] [cursor=pointer]:
+              - /url: https://aka.ms/DataFundamentalsTraining
+              - text: Register for free Azure training 
+        - generic [ref=e126]:
+          - img "Icon of a robot with a star and the number 3" [ref=e128]
+          - generic [ref=e129]:
+            - 'heading "Step 3: Build AI-powered apps" [level=3] [ref=e130]'
+            - generic [ref=e131]: Learn how to build AI-powered, intelligent apps and enhance your nonprofit solutions with generative AI. Go to market faster, put your data to work, and stay secure as you scale.
+          - generic [ref=e133]:
+            - link "Download Building intelligent apps e-book, prompts a file download" [ref=e134] [cursor=pointer]:
+              - /url: https://aka.ms/BuildingIntelligentAppsToolkit
+              - text: Download e-book 
+            - link "Register for free Azure training, opens in a new tab" [ref=e135] [cursor=pointer]:
+              - /url: https://aka.ms/DataFundamentalsTraining
+              - text: Register for free Azure training 
+      - generic [ref=e142]:
+        - img "A man sitting in front of monitors with two co-workers in the background" [ref=e145]
+        - generic [ref=e147]:
+          - heading "Security above all else" [level=2] [ref=e148]
+          - generic [ref=e149]:
+            - text: To prepare for the increasing scale and high stakes of cyberattacks, Microsoft launched the
+            - link "Secure Future Initiative, opens in a new tab" [ref=e150] [cursor=pointer]:
+              - /url: https://www.microsoft.com/microsoft-cloud/resources/secure-future-initiative#Overview
+              - text: Secure Future Initiative
+            - text: . With three guiding principles, Microsoft continuously applies what we learn from the ever-evolving threat landscape to further strengthen cybersecurity for our customers and partners. We are making security our top priority, so you can stay focused on your mission.
+          - generic [ref=e151]:
+            - link "Learn more about Microsoft’s Secure Future Initiative, opens in a new tab" [ref=e152] [cursor=pointer]:
+              - /url: https://www.microsoft.com/microsoft-cloud/resources/secure-future-initiative
+              - text: Secure Future Initiative
+            - link "Learn more about the Security Program for Nonprofits" [ref=e153] [cursor=pointer]:
+              - /url: https://www.microsoft.com/nonprofits/data-security
+              - text: Security Program for Nonprofits
+      - generic [ref=e160]:
+        - generic [ref=e162]:
+          - heading "Responsible AI" [level=2] [ref=e163]
+          - generic [ref=e164]: Microsoft is committed to the advancement of responsible AI to accelerate the impact of nonprofit missions around the globe. Learn about Microsoft’s six principles for guiding the use and development of AI.
+          - link "Learn more about responsible AI practices, opens in a new tab" [ref=e166] [cursor=pointer]:
+            - /url: https://www.microsoft.com/ai/responsible-ai
+            - text: Responsible AI practices
+        - img "A group of nonprofit employees smiling in matching green shirts and yellow reflective vests" [ref=e169]
+      - heading "Azure resources for nonprofits" [level=2] [ref=e177]:
+        - paragraph [ref=e178]: Azure resources for nonprofits
+      - generic [ref=e181]:
+        - generic [ref=e184]:
+          - generic [ref=e186]:
+            - generic [ref=e188]:
+              - heading "Annual Azure grant" [level=3] [ref=e189]
+              - generic [ref=e190]: Leverage $2,000 (USD) donated Azure services credits per year and access the complete portfolio of Azure products and cloud services.
+            - generic [ref=e192]:
+              - link "Get started by registering your nonprofit, opens in a new tab" [ref=e193] [cursor=pointer]:
+                - /url: https://aka.ms/nonprofitgetstarted
+                - text: Get started 
+              - link "How to set up your Azure credits demo, opens in a new tab" [ref=e194] [cursor=pointer]:
+                - /url: https://aka.ms/Nonprofit_AzureCredits
+                - text: How to set up your Azure credits 
+          - generic [ref=e196] [cursor=pointer]:
+            - generic [ref=e198]:
+              - heading "Nonprofit Azure Onboarding Concierge" [level=3] [ref=e199]
+              - generic [ref=e200]: Free Azure Onboarding Concierge service for organizations who are new to the Azure grant or would like a refresher.
+            - link "Sign up to receive free Azure Onboarding Concierge service, opens in a new tab" [ref=e203]:
+              - /url: https://aka.ms/NonprofitAzureOnboardingConciergeSuccessCenter
+              - text: Sign up 
+          - generic [ref=e205] [cursor=pointer]:
+            - generic [ref=e207]:
+              - heading "Azure Migration Center" [level=3] [ref=e208]
+              - generic [ref=e209]: Save money and improve efficiency by migrating existing workloads to Azure.
+            - link "Visit the Azure Migration Center, opens in a new tab" [ref=e212]:
+              - /url: https://azure.microsoft.com/solutions/migration/
+              - text: Visit the Azure Migration Center 
+          - generic [ref=e214] [cursor=pointer]:
+            - generic [ref=e216]:
+              - heading "Azure skilling for nonprofits" [level=3] [ref=e217]
+              - generic [ref=e218]: Empower your staff through curated courses and customized learning journeys to accelerate your organization’s impact.
+            - link "View nonprofit courses and training, opens in a new tab" [ref=e221]:
+              - /url: https://aka.ms/NonprofitAzureTraining
+              - text: View courses and training 
+        - generic [ref=e224]:
+          - generic [ref=e226] [cursor=pointer]:
+            - generic [ref=e228]:
+              - heading "Harnessing your data to drive nonprofit mission success" [level=3] [ref=e229]
+              - generic [ref=e230]: Learn the foundational principles for developing a data strategy and gain insight on how to build data products, democratize data, and drive innovation with AI and agile use cases.
+            - link "Download Unify your data e-book, prompts a file download" [ref=e233]:
+              - /url: https://aka.ms/HarnessingDataEbook
+              - text: Download e-book 
+          - generic [ref=e235] [cursor=pointer]:
+            - generic [ref=e237]:
+              - 'heading "Intro to Azure: The Cloud and AI" [level=3] [ref=e238]'
+              - generic [ref=e239]: Explore how Azure can help address some of the most common challenges faced by nonprofits.
+            - link "Register to download the e-book, opens in a new tab" [ref=e242]:
+              - /url: https://nonprofits.tsi.microsoft.com/Cloud-AI-Azure-Solutions
+              - text: Get the e-book 
+          - generic [ref=e244] [cursor=pointer]:
+            - generic [ref=e246]:
+              - heading "AI Explained" [level=3] [ref=e247]
+              - generic [ref=e248]: Learn the fundamentals of generative AI and explore how it is helping nonprofits solve complex problems to benefit their communities.
+            - link "Register to watch AI Explained webinar on demand, opens in a new tab" [ref=e251]:
+              - /url: https://aiexplained.eventbuilder.com/event/76639?source=AiExplained
+              - text: Watch on demand 
+          - generic [ref=e253] [cursor=pointer]:
+            - generic [ref=e255]:
+              - heading "Learn Azure in a Month of Lunches" [level=3] [ref=e256]
+              - generic [ref=e257]: This e-book breaks down the most important Azure concepts into bite-sized lessons with exercises and labs.
+            - link "Get the Learn Azure in a Month of Lunches for nonprofits e-book, opens in a new tab" [ref=e260]:
+              - /url: https://nonprofits.tsi.microsoft.com/learn-azure-in-a-month-of-lunches-for-Nonprofits/
+              - text: Get the e-book 
+      - generic [ref=e266]:
+        - heading "Connect with a Microsoft Azure nonprofit partner" [level=2] [ref=e268]:
+          - paragraph [ref=e269]: Connect with a Microsoft Azure nonprofit partner
+        - generic [ref=e270]:
+          - generic [ref=e271]: Our partners make it their goal to help accelerate your mission. These select Azure partners are ready to deliver solutions from infrastructure and data management to AI and conversational bots to help make your nonprofit more efficient and innovative.
+          - link "Connect with a Microsoft Azure nonprofit partner" [ref=e273] [cursor=pointer]:
+            - /url: https://aka.ms/NonprofitAzurePartners
+            - text: Find a partner
+      - heading "Customer stories" [level=2] [ref=e281]:
+        - paragraph [ref=e282]: Customer stories
+      - generic [ref=e287]:
+        - generic [ref=e288]:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph
+        - generic [ref=e289]:
+          - 'region "Sneak Peek slideshow: navigate using the slide tabs" [ref=e290]':
+            - generic [ref=e291]: Slide 1 of 5. Goodwill Industries of the Valleys
+            - generic [ref=e292]:
+              - 'link "Skip pretext Sneak Peek slideshow: navigate using the slide tabs Skip post text" [ref=e293] [cursor=pointer]':
+                - /url: "#label-sneakpeekcontentcardscarousel-uidad1c"
+              - generic [ref=e294]:
+                - generic:
+                  - button "\"Previous slide\" " [ref=e295] [cursor=pointer]:
+                    - generic [ref=e296]: "\"Previous slide\""
+                    - text: 
+                  - list [ref=e297]:
+                    - listitem [ref=e298]: 
+                    - listitem [ref=e299]: 
+                    - listitem [ref=e300]: 
+                    - listitem [ref=e301]: 
+                    - listitem [ref=e302]: 
+                  - button "\"Next slide\" " [ref=e303] [cursor=pointer]:
+                    - generic [ref=e304]: "\"Next slide\""
+                    - text: 
+                - generic [ref=e305]:
+                  - region "1 of 5" [ref=e306]:
+                    - generic [ref=e307] [cursor=pointer]:
+                      - generic [ref=e308]:
+                        - img "An instructor pointing to a laptop screen while a student looks on and takes notes."
+                      - generic [ref=e309]:
+                        - heading "Goodwill Industries of the Valleys" [level=3] [ref=e310]
+                        - paragraph [ref=e311]: Goodwill Industries of the Valleys has fully transitioned to the cloud, transforming its headquarters into a revolutionary new community center.
+                      - link "Read Goodwill Industries of the Valleys customer story, opens in a new tab" [ref=e314]:
+                        - /url: https://customers.microsoft.com/en-us/story/1743527812896710812-goodwillvalleys-azure-nonprofit-en-united-states
+                        - text: Read story 
+                  - region [ref=e315]
+                  - region [ref=e318]
+          - generic [ref=e321]: "End pretext Sneak Peek slideshow: navigate using the slide tabs End post text"
+      - generic [ref=e332]:
+        - generic [ref=e334]:
+          - generic [ref=e336]:
+            - heading "Nonprofit offers" [level=3] [ref=e337]
+            - generic [ref=e338]: Power your organization with technology grants and discounts for nonprofits. Register and confirm your organization’s eligibility to access Microsoft nonprofit offers.
+          - generic [ref=e340]:
+            - link "Learn more about grants and nonprofit offers" [ref=e341] [cursor=pointer]:
+              - /url: https://www.microsoft.com/nonprofits/offers-for-nonprofits
+              - text: Learn more 
+            - link "Get started and learn more about registering your nonprofit with Microsoft, opens in a new tab" [ref=e342] [cursor=pointer]:
+              - /url: https://aka.ms/nonprofitgetstarted
+              - text: Get started 
+        - generic [ref=e344] [cursor=pointer]:
+          - generic [ref=e346]:
+            - heading "Contact us" [level=3] [ref=e347]
+            - generic [ref=e348]: Microsoft representatives can help you find the right products for your organization and address inquiries related to offer eligibility and technical support.
+          - link "Contact us for support, opens in a new tab" [ref=e351]:
+            - /url: https://aka.ms/ngosupportform
+            - text: Contact us 
+        - generic [ref=e353] [cursor=pointer]:
+          - generic [ref=e355]:
+            - heading "Microsoft Elevate for Changemakers" [level=3] [ref=e356]
+            - generic [ref=e357]: Become an AI champion for your team through credentials, a global peer community, training and resources to help build capacity for responsible AI adoption and greater impact.
+          - link "Get started with Microsoft Elevate for Changemakers" [ref=e360]:
+            - /url: https://www.microsoft.com/en-us/nonprofits/resources
+            - text: Get started today 
+      - region "follow us on social media" [ref=e370]:
+        - text: Follow Microsoft for Nonprofits
+        - list [ref=e371]:
+          - listitem [ref=e372]:
+            - link "Follow Microsoft for Nonprofits on X, opens in a new tab" [ref=e373] [cursor=pointer]:
+              - /url: https://twitter.com/msftnonprofits
+              - img "Follow Microsoft for Nonprofits on X" [ref=e374]
+          - listitem [ref=e375]:
+            - link "Follow Microsoft for Nonprofits on Facebook, opens in a new tab" [ref=e376] [cursor=pointer]:
+              - /url: https://www.facebook.com/msftnonprofits
+              - img "Follow Microsoft for Nonprofits on Facebook" [ref=e377]
+          - listitem [ref=e378]:
+            - link "Follow Microsoft for Nonprofits on LinkedIn, opens in a new tab" [ref=e379] [cursor=pointer]:
+              - /url: https://www.linkedin.com/showcase/microsoft-for-nonprofits/
+              - img "Follow Microsoft for Nonprofits on LinkedIn" [ref=e380]
+  - contentinfo [ref=e383]:
+    - navigation "Footer Resource links" [ref=e385]:
+      - generic [ref=e386]:
+        - generic [ref=e387]:
+          - heading "What's new" [level=2] [ref=e388]
+          - list [ref=e389]:
+            - listitem [ref=e390]:
+              - link "Surface Pro" [ref=e391] [cursor=pointer]:
+                - /url: https://www.microsoft.com/surface/devices/surface-pro
+            - listitem [ref=e392]:
+              - link "Surface Laptop" [ref=e393] [cursor=pointer]:
+                - /url: https://www.microsoft.com/surface/devices/surface-laptop
+            - listitem [ref=e394]:
+              - link "Surface Laptop Studio 2" [ref=e395] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/d/Surface-Laptop-Studio-2/8rqr54krf1dz
+            - listitem [ref=e396]:
+              - link "Copilot for organizations" [ref=e397] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-copilot/organizations?icid=DSM_Footer_CopilotOrganizations
+            - listitem [ref=e398]:
+              - link "Copilot for personal use" [ref=e399] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-copilot/for-individuals?form=MY02PT&OCID=GE_web_Copilot_Free_868g3t5nj
+            - listitem [ref=e400]:
+              - link "AI in Windows" [ref=e401] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/windows/ai-features?icid=DSM_Footer_WhatsNew_AIinWindows
+            - listitem [ref=e402]:
+              - link "Explore Microsoft products" [ref=e403] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-products-and-apps
+            - listitem [ref=e404]:
+              - link "Windows 11 apps" [ref=e405] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/windows/apps-for-windows?icid=DSM_Footer_WhatsNew_Windows11apps
+        - generic [ref=e406]:
+          - heading "Microsoft Store" [level=2] [ref=e407]
+          - list [ref=e408]:
+            - listitem [ref=e409]:
+              - link "Account profile" [ref=e410] [cursor=pointer]:
+                - /url: https://account.microsoft.com/
+            - listitem [ref=e411]:
+              - link "Download Center" [ref=e412] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/download
+            - listitem [ref=e413]:
+              - link "Microsoft Store support" [ref=e414] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/?linkid=2139749
+            - listitem [ref=e415]:
+              - link "Returns" [ref=e416] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/returns
+            - listitem [ref=e417]:
+              - link "Order tracking" [ref=e418] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/order-tracking
+            - listitem [ref=e419]:
+              - link "Certified Refurbished" [ref=e420] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/certified-refurbished-products
+            - listitem [ref=e421]:
+              - link "Microsoft Store Promise" [ref=e422] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020
+            - listitem [ref=e423]:
+              - link "Flexible Payments" [ref=e424] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/payment-financing-options?icid=footer_financing_vcc
+        - generic [ref=e425]:
+          - heading "Education" [level=2] [ref=e426]
+          - list [ref=e427]:
+            - listitem [ref=e428]:
+              - link "Microsoft in education" [ref=e429] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education
+            - listitem [ref=e430]:
+              - link "Devices for education" [ref=e431] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education/devices/overview
+            - listitem [ref=e432]:
+              - link "Microsoft Teams for Education" [ref=e433] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education/products/teams
+            - listitem [ref=e434]:
+              - link "Microsoft 365 Education" [ref=e435] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education/products/microsoft-365
+            - listitem [ref=e436]:
+              - link "How to buy for your school" [ref=e437] [cursor=pointer]:
+                - /url: https://www.microsoft.com/education/how-to-buy
+            - listitem [ref=e438]:
+              - link "Educator training and development" [ref=e439] [cursor=pointer]:
+                - /url: https://education.microsoft.com/
+            - listitem [ref=e440]:
+              - link "Deals for students and parents" [ref=e441] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/education
+            - listitem [ref=e442]:
+              - link "AI for education" [ref=e443] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education/ai-in-education
+      - generic [ref=e444]:
+        - generic [ref=e445]:
+          - heading "Business" [level=2] [ref=e446]
+          - list [ref=e447]:
+            - listitem [ref=e448]:
+              - link "Microsoft AI" [ref=e449] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/ai?icid=DSM_Footer_AI
+            - listitem [ref=e450]:
+              - link "Microsoft Security" [ref=e451] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/security
+            - listitem [ref=e452]:
+              - link "Dynamics 365" [ref=e453] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/dynamics-365
+            - listitem [ref=e454]:
+              - link "Microsoft 365" [ref=e455] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-365/business
+            - listitem [ref=e456]:
+              - link "Microsoft Power Platform" [ref=e457] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/power-platform
+            - listitem [ref=e458]:
+              - link "Microsoft Teams" [ref=e459] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-teams/group-chat-software
+            - listitem [ref=e460]:
+              - link "Microsoft 365 Copilot" [ref=e461] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-365-copilot?icid=DSM_Footer_Microsoft365Copilot
+            - listitem [ref=e462]:
+              - link "Small Business" [ref=e463] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/business?icid=CNavBusinessStore
+        - generic [ref=e464]:
+          - heading "Developer & IT" [level=2] [ref=e465]
+          - list [ref=e466]:
+            - listitem [ref=e467]:
+              - link "Azure" [ref=e468] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/
+            - listitem [ref=e469]:
+              - link "Microsoft Developer" [ref=e470] [cursor=pointer]:
+                - /url: https://developer.microsoft.com/en-us/
+            - listitem [ref=e471]:
+              - link "Microsoft Learn" [ref=e472] [cursor=pointer]:
+                - /url: https://learn.microsoft.com/
+            - listitem [ref=e473]:
+              - link "Support for AI marketplace apps" [ref=e474] [cursor=pointer]:
+                - /url: https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&ocid=cmm3atxvn98
+            - listitem [ref=e475]:
+              - link "Microsoft Tech Community" [ref=e476] [cursor=pointer]:
+                - /url: https://techcommunity.microsoft.com/
+            - listitem [ref=e477]:
+              - link "Microsoft Marketplace" [ref=e478] [cursor=pointer]:
+                - /url: https://marketplace.microsoft.com?icid=DSM_Footer_Marketplace&ocid=cmm3atxvn98
+            - listitem [ref=e479]:
+              - link "Software companies" [ref=e480] [cursor=pointer]:
+                - /url: https://www.microsoft.com/software-development-companies?icid=DSM_All_SoftwareCompanies/ocid=cmm3atxvn98
+            - listitem [ref=e481]:
+              - link "Visual Studio" [ref=e482] [cursor=pointer]:
+                - /url: https://visualstudio.microsoft.com/
+        - generic [ref=e483]:
+          - heading "Company" [level=2] [ref=e484]
+          - list [ref=e485]:
+            - listitem [ref=e486]:
+              - link "Careers" [ref=e487] [cursor=pointer]:
+                - /url: https://careers.microsoft.com/
+            - listitem [ref=e488]:
+              - link "About Microsoft" [ref=e489] [cursor=pointer]:
+                - /url: https://www.microsoft.com/about
+            - listitem [ref=e490]:
+              - link "Company news" [ref=e491] [cursor=pointer]:
+                - /url: https://news.microsoft.com/source/?icid=DSM_Footer_Company_CompanyNews
+            - listitem [ref=e492]:
+              - link "Privacy at Microsoft" [ref=e493] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/privacy?icid=DSM_Footer_Company_Privacy
+            - listitem [ref=e494]:
+              - link "Investors" [ref=e495] [cursor=pointer]:
+                - /url: https://www.microsoft.com/investor/default.aspx
+            - listitem [ref=e496]:
+              - link "Diversity and inclusion" [ref=e497] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/diversity/default?icid=DSM_Footer_Company_Diversity
+            - listitem [ref=e498]:
+              - link "Accessibility" [ref=e499] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/accessibility
+            - listitem [ref=e500]:
+              - link "Sustainability" [ref=e501] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/corporate-responsibility/sustainability?icid=DSM_Footer_Sustainability
+    - generic [ref=e502]:
+      - generic [ref=e503]:
+        - generic [ref=e504]:
+          - generic [ref=e506]: 
+          - link "Content Language Selector. Currently set to English (United States)" [ref=e507] [cursor=pointer]:
+            - /url: https://www.microsoft.com/en-us/nonprofits/locale
+            - text: English (United States)
+        - link "Your Privacy Choices Opt-Out Icon Your Privacy Choices" [ref=e509] [cursor=pointer]:
+          - /url: https://aka.ms/yourcaliforniaprivacychoices
+          - img "Your Privacy Choices Opt-Out Icon" [ref=e510]
+          - generic [ref=e515]: Your Privacy Choices
+        - link "Consumer Health Privacy" [ref=e516] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+      - navigation "Microsoft corporate links" [ref=e518]:
+        - list [ref=e519]:
+          - listitem [ref=e520]:
+            - link "Sitemap" [ref=e521] [cursor=pointer]:
+              - /url: https://www.microsoft.com/en-us/sitemap1.aspx
+          - listitem [ref=e522]:
+            - link "Contact Microsoft" [ref=e523] [cursor=pointer]:
+              - /url: https://support.microsoft.com/contactus
+          - listitem [ref=e524]:
+            - link "Privacy" [ref=e525] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+          - listitem [ref=e526]:
+            - link "Terms of use" [ref=e527] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?LinkID=206977
+          - listitem [ref=e528]:
+            - link "Trademarks" [ref=e529] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?linkid=2196228
+          - listitem [ref=e530]:
+            - link "Safety & eco" [ref=e531] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?linkid=2196227
+          - listitem [ref=e532]:
+            - link "Recycling" [ref=e533] [cursor=pointer]:
+              - /url: https://www.microsoft.com/en-us/legal/compliance/recycling
+          - listitem [ref=e534]:
+            - link "About our ads" [ref=e535] [cursor=pointer]:
+              - /url: https://choice.microsoft.com
+          - listitem [ref=e536]: © Microsoft 2026

@@ -1,0 +1,31 @@
+[    3114ms] [LOG] 40100T1 @ https://www.microsoft.com/en-us/nonprofits/azure:328
+[    3123ms] [LOG] MAIN: Items in cart handler @ https://www.microsoft.com/en-us/nonprofits/azure:330
+[    3124ms] [LOG] 28409C | UnipuxCheckoutEntry - No handler found for path: /en-us/nonprofits/azure @ https://www.microsoft.com/en-us/nonprofits/azure:346
+[    3141ms] [LOG] MWF v2.15.1 @ https://www.microsoft.com/foxtrot/etc.clientlibs/microsoft/clientlibs/clientlib-mwf-new/main-light.ACSHASHf8a6ecd849f93a3e5d989c0cee0ceb80.min.js:12771
+[    3142ms] [LOG] gpc opt-in @ https://www.microsoft.com/foxtrot/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHd471cafc5d23f4577f5cf2676dcc276a.min.js:4
+[    3142ms] [LOG] Clarity consent granted @ https://www.microsoft.com/foxtrot/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHd471cafc5d23f4577f5cf2676dcc276a.min.js:4
+[    3221ms] [LOG] sendToVortex Call @ https://www.microsoft.com/foxtrot/etc.clientlibs/microsoft/clientlibs/exp-analytics/v1.ACSHASHbf7b336dbb370c984e1bf59b1a980d86.min.js:0
+[    3347ms] [LOG] 1DS Initialized.. @ https://www.microsoft.com/foxtrot/etc.clientlibs/microsoft/components/structure/page/clientlibs/custom-oneds.ACSHASH2b7224aac4ea4007cb4436ebcdc8cec8.min.js:0
+[    3379ms] [LOG] Clarity consent granted @ https://www.microsoft.com/foxtrot/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHd471cafc5d23f4577f5cf2676dcc276a.min.js:4
+[    3953ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ https://uhf.microsoft.com/statics/20260518.16.05/js/index-CuY0u_Xq.js:13658
+[    4048ms] [WARNING] MeControl: Invalid AAD auth configuration @ https://uhf.microsoft.com/statics/20260518.16.05/js/MeControl-DlfJm0uE.js:637
+[    4146ms] [LOG] found @ https://www.microsoft.com/en-us/nonprofits/azure:330
+[    5414ms] [WARNING] [Meta Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Microsoft",
+                "url": "https://www.microsoft.com/",
+                "sameAs":["https://twitter.com/msftnonprofits","https://www.facebook.com/msftnonprofits","https://www.linkedin.com/showcase/microsoft-for-nonprofits/"]
+            };
+        '. @ https://connect.facebook.net/en_US/fbevents.js:181
+[   11466ms] [WARNING] The resource https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/Bold/latest.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.microsoft.com/en-us/nonprofits/azure:0
+[   11466ms] [WARNING] The resource https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/light/latest.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.microsoft.com/en-us/nonprofits/azure:0
+[   11466ms] [WARNING] The resource https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/Semibold/latest.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.microsoft.com/en-us/nonprofits/azure:0
+[   11466ms] [WARNING] The resource https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/normal/latest.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.microsoft.com/en-us/nonprofits/azure:0
+[   11466ms] [WARNING] The resource https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/semilight/latest.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.microsoft.com/en-us/nonprofits/azure:0
+[   18610ms] [WARNING] The resource https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/Bold/latest.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.microsoft.com/en-us/nonprofits/azure:0
+[   18610ms] [WARNING] The resource https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/light/latest.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.microsoft.com/en-us/nonprofits/azure:0
+[   18610ms] [WARNING] The resource https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/Semibold/latest.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.microsoft.com/en-us/nonprofits/azure:0
+[   18610ms] [WARNING] The resource https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/normal/latest.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.microsoft.com/en-us/nonprofits/azure:0
+[   18610ms] [WARNING] The resource https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/semilight/latest.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.microsoft.com/en-us/nonprofits/azure:0

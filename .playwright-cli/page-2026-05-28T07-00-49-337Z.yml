@@ -1,0 +1,617 @@
+- generic [ref=e4]:
+  - generic [ref=e6]:
+    - link "Skip to main content" [ref=e7] [cursor=pointer]:
+      - /url: "#mainContent"
+    - banner [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e11]:
+          - link "Microsoft" [ref=e13] [cursor=pointer]:
+            - /url: https://www.microsoft.com
+            - img "Microsoft" [ref=e14]
+          - link "Microsoft for Startups" [ref=e16] [cursor=pointer]:
+            - /url: https://www.microsoft.com/en-us/startups/
+            - generic [ref=e17]: Microsoft for Startups
+        - navigation "Contextual menu" [ref=e20]:
+          - generic [ref=e22]:
+            - generic [ref=e23]:
+              - link "Support" [ref=e24] [cursor=pointer]:
+                - /url: https://aka.ms/startuphelp
+              - link "Blog" [ref=e25] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/startups/blog/
+              - link "Success Stories" [ref=e26] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/startups/ai
+            - button "More " [ref=e29] [cursor=pointer]:
+              - text: More
+              - generic [ref=e31]: 
+        - generic [ref=e32]:
+          - text: 
+          - generic [ref=e33]:
+            - text: 
+            - button "Search the Microsoft for Startups blog" [ref=e34] [cursor=pointer]:
+              - generic [ref=e36]: 
+          - link "Get started" [ref=e37] [cursor=pointer]:
+            - /url: https://go.microsoft.com/fwlink/?linkid=2325925&clcid=0x409&culture=en-us&country=us
+          - link "Sign in" [ref=e38] [cursor=pointer]:
+            - /url: https://go.microsoft.com/fwlink/?linkid=2313211
+  - main [ref=e40]:
+    - generic [ref=e43]:
+      - generic [ref=e47]:
+        - generic [ref=e49]:
+          - alert [ref=e50]:
+            - paragraph
+            - text: Join Microsoft Build online June 2-3. Register free today.
+            - paragraph
+          - 'link "Register now: Learn more about Microsoft Build" [ref=e53] [cursor=pointer]':
+            - /url: https://go.microsoft.com/fwlink/?linkid=2354445&clcid=0x409&culture=en-us&country=us&srcurl=https%3A%2F%2Fwww.microsoft.com%2Fstartups
+            - generic [ref=e54]: Register now
+        - generic [ref=e55]: 
+      - generic [ref=e66]:
+        - generic [ref=e67]: Microsoft for Startups
+        - heading "For startups ready to build fast, scale smart, and sell more" [level=1] [ref=e70]
+        - generic [ref=e72]:
+          - text: Access cutting-edge AI models, developer tools, and
+          - strong [ref=e73]: up to $150,000 in credits
+          - text: ", backed by Microsoft’s global customer network, enterprise-grade security, and privacy you can trust."
+        - generic [ref=e78]:
+          - heading "Ready to start building?" [level=2] [ref=e82]:
+            - generic [ref=e83]: Ready to start building?
+          - generic [ref=e84]: "Join thousands of startups innovating on Azure. Claim your benefits today:"
+          - link "Get started now – Navigate to the Microsoft for Startups portal to begin your onboarding." [ref=e88] [cursor=pointer]:
+            - /url: https://go.microsoft.com/fwlink/?linkid=2325925&clcid=0x409&culture=en-us&country=us
+            - generic [ref=e89]: Get started now
+      - generic [ref=e90]:
+        - navigation "In page quick links" [ref=e92]:
+          - generic [ref=e93]: Microsoft for Startups
+          - generic [ref=e96]:
+            - text: 
+            - generic "Startup spotlight " [ref=e97]:
+              - generic [ref=e98]:
+                - list [ref=e100]:
+                  - listitem [ref=e101]:
+                    - link "Startup spotlight" [ref=e102] [cursor=pointer]:
+                      - /url: "#startup-spotlight"
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Startup spotlight
+                  - listitem [ref=e103]:
+                    - link "Blogs" [ref=e104] [cursor=pointer]:
+                      - /url: "#blogs"
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Tips, events and founder stories
+                  - listitem [ref=e105]:
+                    - link "Founder experiences" [ref=e106] [cursor=pointer]:
+                      - /url: "#founder-experiences"
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Founder experiences
+                  - listitem [ref=e107]:
+                    - link "Free access to tools" [ref=e108] [cursor=pointer]:
+                      - /url: "#free-access-to-tools"
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Free access to tools
+                  - listitem [ref=e109]:
+                    - link "Your partner in tech" [ref=e110] [cursor=pointer]:
+                      - /url: "#your-partner-in-tech"
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Your partner in tech
+                - text:  
+          - link "Start building today - Start building with Microsoft." [ref=e112] [cursor=pointer]:
+            - /url: https://go.microsoft.com/fwlink/p?linkid=2230242&clcid=0x409&culture=en-us&country=us
+            - generic [ref=e113]: Start building today
+        - generic [ref=e115]:
+          - generic [ref=e117]:
+            - generic [ref=e123]:
+              - heading "Build like the best" [level=2] [ref=e126]
+              - generic [ref=e127]: Join the ranks of these startups that are scaling to the next level with Microsoft.
+              - link "Read Success Stories from Microsoft for Startups customers." [ref=e130] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/startups/ai#Customerstories
+                - generic [ref=e131]: Read Success Stories
+            - list [ref=e135]:
+              - listitem [ref=e136]:
+                - img "dSilo Logo" [ref=e140]
+              - listitem [ref=e141]:
+                - img "Subsalt Logo" [ref=e145]
+              - listitem [ref=e146]:
+                - img "Porter Logo" [ref=e150]
+              - listitem [ref=e151]:
+                - img "Pinecone Logo" [ref=e155]
+              - listitem [ref=e156]:
+                - img "Niramai Logo" [ref=e160]
+              - listitem [ref=e161]:
+                - img "Weights & Biases Logo" [ref=e165]
+              - listitem [ref=e166]:
+                - img "Helfie Logo" [ref=e170]
+              - listitem [ref=e171]:
+                - img "BRIA Logo" [ref=e175]
+              - listitem [ref=e176]:
+                - img "Basecamp Research Logo" [ref=e180]
+              - listitem [ref=e181]:
+                - img "Unstructured Logo" [ref=e185]
+              - listitem [ref=e186]:
+                - img "Unbound Security Logo" [ref=e190]
+              - listitem [ref=e191]:
+                - img "Triomics Logo" [ref=e195]
+          - generic [ref=e199]:
+            - generic [ref=e205]:
+              - generic [ref=e206]: Startup spotlight
+              - heading "Launch the next big thing" [level=2] [ref=e209]
+              - generic [ref=e210]: See how startups are growing on Azure.
+              - link "Unlock your Microsoft startups benefits – Access the Microsoft for Startups portal to activate your program benefits." [ref=e213] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/?linkid=2325925&clcid=0x409&culture=en-us&country=us
+                - generic [ref=e214]: Unlock your Microsoft startups benefits
+            - generic [ref=e217]:
+              - img "A man wearing a blue shirt with dark hair." [ref=e219]
+              - button "Watch the video about D-ID featured in Microsoft for Startups." [ref=e222] [cursor=pointer]:
+                - generic [ref=e224]: 
+          - generic [ref=e225]:
+            - generic [ref=e229]:
+              - generic [ref=e232]:
+                - generic [ref=e233]: Tips, events and founder stories
+                - heading "Discover valuable insights into the startup journey" [level=2] [ref=e236]
+                - generic [ref=e237]: Explore articles, hear directly from founders and investors, and stay up to date with the latest news on Microsoft for Startups.
+              - link "Check out the blog about Microsoft for Startups." [ref=e241] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/?linkid=2325837&clcid=0x409&culture=en-us&country=us
+                - generic [ref=e242]: Check out the blog
+            - region "Tips, tricks, and true stories section" [ref=e247]:
+              - generic [ref=e248]: Showing 1-2 of 4 slides
+              - generic [ref=e249]:
+                - button "Previous Slide" [disabled] [ref=e250]:
+                  - generic [ref=e251]: Previous Slide
+                  - generic [ref=e252]: 
+                - button "Next Slide" [ref=e253] [cursor=pointer]:
+                  - generic [ref=e254]: Next Slide
+                  - generic [ref=e255]: 
+              - generic [ref=e257]:
+                - group "1 of 4" [ref=e258]:
+                  - generic [ref=e259]:
+                    - generic [ref=e261]:
+                      - generic:
+                        - img "A woman in a brown shirt standing in front of a whiteboard with writing."
+                    - generic [ref=e262]:
+                      - generic [ref=e263]:
+                        - heading "Celebrating Women’s History Month with DeepSearch Labs" [level=3] [ref=e268]:
+                          - generic [ref=e269]: Celebrating Women’s History Month with DeepSearch Labs
+                        - generic [ref=e271]: Join founder Maryam Fayaz-Torshizi as she shares her journey toward being a tech entrepreneur.
+                      - link "Read the blog about DeepSearch Labs in the Women’s History Month Microsoft for Startups feature." [ref=e274] [cursor=pointer]:
+                        - /url: https://go.microsoft.com/fwlink/?linkid=2325838&clcid=0x409&culture=en-us&country=us
+                        - generic [ref=e276]: 
+                        - generic [ref=e277]: Read the blog
+                - group "2 of 4" [ref=e278]:
+                  - generic [ref=e279]:
+                    - generic [ref=e281]:
+                      - generic:
+                        - img "A woman looks at a transparent screen showing a digital image of a man in a yellow suit and sunglasses."
+                    - generic [ref=e282]:
+                      - generic [ref=e283]:
+                        - heading "Creating engaging customer experiences through real-time interactions" [level=3] [ref=e288]:
+                          - generic [ref=e289]: Creating engaging customer experiences through real-time interactions
+                        - generic [ref=e291]: Learn how D-ID partnered with Azure to help its customers incorporate AI-powered avatars into their applications.
+                      - link "Read the blog about how D-ID partners with Microsoft to deliver AI-powered avatars that are transforming communication, customer interactions, and accessibility." [ref=e294] [cursor=pointer]:
+                        - /url: https://go.microsoft.com/fwlink/?linkid=2325926&clcid=0x409&culture=en-us&country=us
+                        - generic [ref=e296]: 
+                        - generic [ref=e297]: Read the blog
+                - group [ref=e298]:
+                  - generic [ref=e302]:
+                    - generic [ref=e303]:
+                      - heading [level=3] [ref=e308]:
+                        - generic [ref=e309]: Simplifying applications to help workers find their next role
+                      - generic [ref=e311]: Find out how AI-powered job platform Gigs partnered with Azure to keep job hunting from becoming a full-time job.
+                    - link [ref=e314] [cursor=pointer]:
+                      - /url: https://go.microsoft.com/fwlink/?linkid=2325839&clcid=0x409&culture=en-us&country=us
+                      - generic [ref=e316]: 
+                      - generic [ref=e317]: Read the blog
+                - group [ref=e318]:
+                  - generic [ref=e322]:
+                    - generic [ref=e323]:
+                      - heading [level=3] [ref=e328]:
+                        - generic [ref=e329]: Helping small businesses fight cybercriminals
+                      - generic [ref=e331]: Discover how Indominus Managed Security brought its three service pillars to life with Microsoft for Startups.
+                    - link [ref=e334] [cursor=pointer]:
+                      - /url: https://go.microsoft.com/fwlink/?linkid=2325840&clcid=0x409&culture=en-us&country=us
+                      - generic [ref=e336]: 
+                      - generic [ref=e337]: Read the blog
+              - link "Back to Tips, tricks, and true stories section" [ref=e339] [cursor=pointer]:
+                - /url: javascript:void(0);
+          - generic [ref=e349]:
+            - heading "A practical guide to using Azure credits across GitHub, Azure Kubernetes Service (AKS), and AI" [level=2] [ref=e352]
+            - generic [ref=e353]: Learn how startups are growing with Microsoft for Startups.
+            - link "Learn more about Turn your Azure credits into startup momentum with GitHub, AKS, and AI models." [ref=e356] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?linkid=2352207&clcid=0x409&culture=en-us&country=us
+              - generic [ref=e357]: Learn more
+          - generic [ref=e359]:
+            - generic [ref=e365]:
+              - generic [ref=e366]: Founder experiences
+              - heading "Hear directly from founders who are shaping the future of innovation" [level=2] [ref=e369]
+              - generic [ref=e370]: Learn why startup founders and leaders partner with Microsoft to build and grow their business.
+            - region "Founder experiences section" [ref=e375]:
+              - generic [ref=e376]: Showing slide 1 of 5
+              - generic [ref=e377]:
+                - text: 
+                - list [ref=e378]:
+                  - listitem [ref=e379]:
+                    - button "Slide 1 Haut.AI indicator current slide" [ref=e380] [cursor=pointer]:
+                      - generic [ref=e384]:
+                        - img "Haut.Al Logo"
+                  - listitem [ref=e385]:
+                    - button "Slide 2 GetBee indicator" [ref=e386] [cursor=pointer]:
+                      - generic [ref=e390]:
+                        - img "GETBEE Logo"
+                  - listitem [ref=e391]:
+                    - button "Slide 3 Snorkel indicator" [ref=e392] [cursor=pointer]:
+                      - generic [ref=e396]:
+                        - img "snorkel Logo"
+                  - listitem [ref=e397]:
+                    - button "Slide 4 Strolll indicator" [ref=e398] [cursor=pointer]:
+                      - generic [ref=e402]:
+                        - img "strolll Logo"
+                  - listitem [ref=e403]:
+                    - button "Slide 5 TruLite Health indicator" [ref=e404] [cursor=pointer]:
+                      - generic [ref=e408]:
+                        - img "TruLite HEALTH Logo"
+                - text: 
+              - generic [ref=e410]:
+                - group "1 of 5" [ref=e411]:
+                  - generic [ref=e412]:
+                    - img "A woman with her hand on her hip." [ref=e416]
+                    - generic [ref=e418]:
+                      - generic [ref=e419]:
+                        - generic [ref=e422]:
+                          - img "Haut.Al Logo"
+                        - blockquote [ref=e424]:
+                          - generic [ref=e425]: “Haut.AI’s entire AI ecosystem is built on Microsoft tools … providing the highest level of security, reliability, and scalability.”
+                        - text: Anastasia Georgievskaya, CEO and Co-Founder, Haut.AI
+                      - link "Read the story - Haut.AI revolutionizes skincare customer experience with AI insights using Azure AI." [ref=e429] [cursor=pointer]:
+                        - /url: https://go.microsoft.com/fwlink/?linkid=2352510&clcid=0x409&culture=en-us&country=us
+                        - generic [ref=e430]: Read the story
+                - group [ref=e431]:
+                  - generic [ref=e432]:
+                    - img [ref=e436]
+                    - generic [ref=e439]:
+                      - blockquote [ref=e444]:
+                        - generic [ref=e445]: “This is my third venture and I have never seen such a beneficial go-to-market program for founders … especially in the enterprise segment.”
+                      - text: Thea Myhrvold, CEO and Founder, GetBee
+                - group [ref=e446]:
+                  - generic [ref=e447]:
+                    - img [ref=e451]
+                    - generic [ref=e454]:
+                      - blockquote [ref=e459]:
+                        - generic [ref=e460]: “Snorkel AI is proud to partner with Microsoft to help organizations rapidly and cost-effectively harness the power of data and AI.”
+                      - text: Paroma Varma, Co-Founder and Head of Research, Snorkel AI
+                - group [ref=e461]:
+                  - generic [ref=e462]:
+                    - img [ref=e466]
+                    - generic [ref=e468]:
+                      - generic [ref=e469]:
+                        - blockquote [ref=e474]:
+                          - generic [ref=e475]: “By leveraging Azure … and the expert technical guidance from Microsoft for Startups, we accelerated the development of our product platform.”
+                        - text: Brent Poynton, CTO, Strolll
+                      - link [ref=e479] [cursor=pointer]:
+                        - /url: https://go.microsoft.com/fwlink/?linkid=2352512&clcid=0x409&culture=en-us&country=us
+                        - generic [ref=e480]: Read the story
+                - group [ref=e481]:
+                  - generic [ref=e482]:
+                    - img [ref=e486]
+                    - generic [ref=e489]:
+                      - blockquote [ref=e494]:
+                        - generic [ref=e495]: “The Microsoft for Startups program has enabled TruLite Health to accelerate our commercial success …”
+                      - text: Alan Roga, CEO and Founder, TruLite Health
+              - link "Back to Founder experiences section" [ref=e496] [cursor=pointer]:
+                - /url: javascript:void(0);
+          - generic [ref=e507]:
+            - img "Grid of app icons on a pastel background includes Microsoft Outlook, Office, Azure, GitHub, Power Apps, and others, conveying a tech theme." [ref=e511]
+            - generic [ref=e512]:
+              - generic [ref=e518]: Free access to tools
+              - generic [ref=e519]:
+                - heading "Run more efficiently" [level=2] [ref=e524]:
+                  - generic [ref=e525]: Run more efficiently
+                - generic [ref=e527]: Make the most of your Microsoft partnership with free access to best-in-class tools and platforms.
+          - generic [ref=e531]:
+            - generic [ref=e537]:
+              - generic [ref=e538]: Your partner in tech
+              - heading "Accelerate your path to success with innovation that scales" [level=2] [ref=e541]
+              - generic [ref=e542]: Build fast, scale smart, and sell more with the cutting-edge AI, global customer experience, and deep enterprise experience of Microsoft.
+              - link "Get started today – Visit the Microsoft for Startups portal to begin your journey with the program." [ref=e545] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/?linkid=2325925&clcid=0x409&culture=en-us&country=us
+                - generic [ref=e546]: Get started today
+            - generic [ref=e549]:
+              - generic [ref=e551]:
+                - generic [ref=e553]:
+                  - generic:
+                    - img "A man with glasses smiles at a tablet while holding a smartphone and wearing a green jacket."
+                - generic [ref=e556]:
+                  - heading "Build fast" [level=3] [ref=e560]:
+                    - generic [ref=e561]: Build fast
+                  - generic [ref=e562]: Discover scalable AI tools that help cut costs and future-proof your business.
+              - generic [ref=e564]:
+                - generic [ref=e566]:
+                  - generic:
+                    - img "A woman sitting at a desk looking at a laptop and a large monitor screen."
+                - generic [ref=e569]:
+                  - heading "Scale smart" [level=3] [ref=e573]:
+                    - generic [ref=e574]: Scale smart
+                  - generic [ref=e575]: Deploy with peace of mind with a cloud designed for enterprise-ready scale and security.
+              - generic [ref=e577]:
+                - generic [ref=e579]:
+                  - generic:
+                    - img "Two people talk in a modern office. One holds a tablet with graphs; the other leans on a wooden shelf, smiling."
+                - generic [ref=e582]:
+                  - heading "Sell more" [level=3] [ref=e586]:
+                    - generic [ref=e587]: Sell more
+                  - generic [ref=e588]: Boost go-to-market success with access to the Microsoft network of customers.
+          - generic [ref=e593]:
+            - generic [ref=e594]:
+              - heading "Frequently asked questions" [level=2] [ref=e596]
+              - group [ref=e597]:
+                - generic [ref=e598]:
+                  - button "Expand all" [ref=e599] [cursor=pointer]:
+                    - generic [ref=e601]: Expand all
+                  - button "Collapse all" [disabled] [pressed] [ref=e602]:
+                    - generic [ref=e604]: Collapse all
+            - list [ref=e605]:
+              - listitem [ref=e606]:
+                - button "01/ What is Microsoft for Startups, and how do I apply? " [ref=e609] [cursor=pointer]:
+                  - generic [ref=e613]: 01/
+                  - heading "What is Microsoft for Startups, and how do I apply?" [level=3] [ref=e617]:
+                    - generic [ref=e618]: What is Microsoft for Startups, and how do I apply?
+                  - text: 
+              - listitem [ref=e619]:
+                - button "02/ What is the Microsoft for Startups portal? " [ref=e622] [cursor=pointer]:
+                  - generic [ref=e626]: 02/
+                  - heading "What is the Microsoft for Startups portal?" [level=3] [ref=e630]:
+                    - generic [ref=e631]: What is the Microsoft for Startups portal?
+                  - text: 
+              - listitem [ref=e632]:
+                - button "03/ What are Microsoft for Startups technical benefits? " [ref=e635] [cursor=pointer]:
+                  - generic [ref=e639]: 03/
+                  - heading "What are Microsoft for Startups technical benefits?" [level=3] [ref=e643]:
+                    - generic [ref=e644]: What are Microsoft for Startups technical benefits?
+                  - text: 
+      - region "Social Follow links" [ref=e657]:
+        - heading "Follow Microsoft for Startups" [level=2] [ref=e658]
+        - list [ref=e659]:
+          - listitem [ref=e660]:
+            - link "Follow Microsoft for Startups on Facebook" [ref=e661] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/p/?linkid=2229885
+              - img "Follow Microsoft for Startups on Facebook" [ref=e662]
+          - listitem [ref=e663]:
+            - link "Follow Microsoft for Startups on Twitter" [ref=e664] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/p/?linkid=2230154
+              - img "Follow Microsoft for Startups on Twitter" [ref=e665]
+          - listitem [ref=e666]:
+            - link "Follow Microsoft for Startups on LinkedIn" [ref=e667] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/p/?linkid=2229886
+              - img "Follow Microsoft for Startups on LinkedIn" [ref=e668]
+          - listitem [ref=e669]:
+            - link "Follow Microsoft for Startups on Youtube" [ref=e670] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/p/?linkid=2230095
+              - img "Follow Microsoft for Startups on Youtube" [ref=e671]
+          - listitem [ref=e672]:
+            - link "Follow Microsoft for Startups on Instagram" [ref=e673] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/p/?linkid=2230231
+              - img "Follow Microsoft for Startups on Instagram" [ref=e674]
+      - generic:
+        - generic: 
+  - contentinfo [ref=e677]:
+    - navigation "Footer Resource links" [ref=e679]:
+      - generic [ref=e680]:
+        - generic [ref=e681]:
+          - heading "What's new" [level=2] [ref=e682]
+          - list [ref=e683]:
+            - listitem [ref=e684]:
+              - link "Surface Pro" [ref=e685] [cursor=pointer]:
+                - /url: https://www.microsoft.com/surface/devices/surface-pro
+            - listitem [ref=e686]:
+              - link "Surface Laptop" [ref=e687] [cursor=pointer]:
+                - /url: https://www.microsoft.com/surface/devices/surface-laptop
+            - listitem [ref=e688]:
+              - link "Surface Laptop Studio 2" [ref=e689] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/d/Surface-Laptop-Studio-2/8rqr54krf1dz
+            - listitem [ref=e690]:
+              - link "Copilot for organizations" [ref=e691] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-copilot/organizations?icid=DSM_Footer_CopilotOrganizations
+            - listitem [ref=e692]:
+              - link "Copilot for personal use" [ref=e693] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-copilot/for-individuals?form=MY02PT&OCID=GE_web_Copilot_Free_868g3t5nj
+            - listitem [ref=e694]:
+              - link "AI in Windows" [ref=e695] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/windows/ai-features?icid=DSM_Footer_WhatsNew_AIinWindows
+            - listitem [ref=e696]:
+              - link "Explore Microsoft products" [ref=e697] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-products-and-apps
+            - listitem [ref=e698]:
+              - link "Windows 11 apps" [ref=e699] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/windows/apps-for-windows?icid=DSM_Footer_WhatsNew_Windows11apps
+        - generic [ref=e700]:
+          - heading "Microsoft Store" [level=2] [ref=e701]
+          - list [ref=e702]:
+            - listitem [ref=e703]:
+              - link "Account profile" [ref=e704] [cursor=pointer]:
+                - /url: https://account.microsoft.com/
+            - listitem [ref=e705]:
+              - link "Download Center" [ref=e706] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/download
+            - listitem [ref=e707]:
+              - link "Microsoft Store support" [ref=e708] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/?linkid=2139749
+            - listitem [ref=e709]:
+              - link "Returns" [ref=e710] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/returns
+            - listitem [ref=e711]:
+              - link "Order tracking" [ref=e712] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/order-tracking
+            - listitem [ref=e713]:
+              - link "Certified Refurbished" [ref=e714] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/certified-refurbished-products
+            - listitem [ref=e715]:
+              - link "Microsoft Store Promise" [ref=e716] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020
+            - listitem [ref=e717]:
+              - link "Flexible Payments" [ref=e718] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/payment-financing-options?icid=footer_financing_vcc
+        - generic [ref=e719]:
+          - heading "Education" [level=2] [ref=e720]
+          - list [ref=e721]:
+            - listitem [ref=e722]:
+              - link "Microsoft in education" [ref=e723] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education
+            - listitem [ref=e724]:
+              - link "Devices for education" [ref=e725] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education/devices/overview
+            - listitem [ref=e726]:
+              - link "Microsoft Teams for Education" [ref=e727] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education/products/teams
+            - listitem [ref=e728]:
+              - link "Microsoft 365 Education" [ref=e729] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education/products/microsoft-365
+            - listitem [ref=e730]:
+              - link "How to buy for your school" [ref=e731] [cursor=pointer]:
+                - /url: https://www.microsoft.com/education/how-to-buy
+            - listitem [ref=e732]:
+              - link "Educator training and development" [ref=e733] [cursor=pointer]:
+                - /url: https://education.microsoft.com/
+            - listitem [ref=e734]:
+              - link "Deals for students and parents" [ref=e735] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/education
+            - listitem [ref=e736]:
+              - link "AI for education" [ref=e737] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education/ai-in-education
+      - generic [ref=e738]:
+        - generic [ref=e739]:
+          - heading "Business" [level=2] [ref=e740]
+          - list [ref=e741]:
+            - listitem [ref=e742]:
+              - link "Microsoft AI" [ref=e743] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/ai?icid=DSM_Footer_AI
+            - listitem [ref=e744]:
+              - link "Microsoft Security" [ref=e745] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/security
+            - listitem [ref=e746]:
+              - link "Dynamics 365" [ref=e747] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/dynamics-365
+            - listitem [ref=e748]:
+              - link "Microsoft 365" [ref=e749] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-365/business
+            - listitem [ref=e750]:
+              - link "Microsoft Power Platform" [ref=e751] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/power-platform
+            - listitem [ref=e752]:
+              - link "Microsoft Teams" [ref=e753] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-teams/group-chat-software
+            - listitem [ref=e754]:
+              - link "Microsoft 365 Copilot" [ref=e755] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-365-copilot?icid=DSM_Footer_Microsoft365Copilot
+            - listitem [ref=e756]:
+              - link "Small Business" [ref=e757] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/business?icid=CNavBusinessStore
+        - generic [ref=e758]:
+          - heading "Developer & IT" [level=2] [ref=e759]
+          - list [ref=e760]:
+            - listitem [ref=e761]:
+              - link "Azure" [ref=e762] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/
+            - listitem [ref=e763]:
+              - link "Microsoft Developer" [ref=e764] [cursor=pointer]:
+                - /url: https://developer.microsoft.com/en-us/
+            - listitem [ref=e765]:
+              - link "Microsoft Learn" [ref=e766] [cursor=pointer]:
+                - /url: https://learn.microsoft.com/
+            - listitem [ref=e767]:
+              - link "Support for AI marketplace apps" [ref=e768] [cursor=pointer]:
+                - /url: https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&ocid=cmm3atxvn98
+            - listitem [ref=e769]:
+              - link "Microsoft Tech Community" [ref=e770] [cursor=pointer]:
+                - /url: https://techcommunity.microsoft.com/
+            - listitem [ref=e771]:
+              - link "Microsoft Marketplace" [ref=e772] [cursor=pointer]:
+                - /url: https://marketplace.microsoft.com?icid=DSM_Footer_Marketplace&ocid=cmm3atxvn98
+            - listitem [ref=e773]:
+              - link "Software companies" [ref=e774] [cursor=pointer]:
+                - /url: https://www.microsoft.com/software-development-companies?icid=DSM_All_SoftwareCompanies/ocid=cmm3atxvn98
+            - listitem [ref=e775]:
+              - link "Visual Studio" [ref=e776] [cursor=pointer]:
+                - /url: https://visualstudio.microsoft.com/
+        - generic [ref=e777]:
+          - heading "Company" [level=2] [ref=e778]
+          - list [ref=e779]:
+            - listitem [ref=e780]:
+              - link "Careers" [ref=e781] [cursor=pointer]:
+                - /url: https://careers.microsoft.com/
+            - listitem [ref=e782]:
+              - link "About Microsoft" [ref=e783] [cursor=pointer]:
+                - /url: https://www.microsoft.com/about
+            - listitem [ref=e784]:
+              - link "Company news" [ref=e785] [cursor=pointer]:
+                - /url: https://news.microsoft.com/source/?icid=DSM_Footer_Company_CompanyNews
+            - listitem [ref=e786]:
+              - link "Privacy at Microsoft" [ref=e787] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/privacy?icid=DSM_Footer_Company_Privacy
+            - listitem [ref=e788]:
+              - link "Investors" [ref=e789] [cursor=pointer]:
+                - /url: https://www.microsoft.com/investor/default.aspx
+            - listitem [ref=e790]:
+              - link "Diversity and inclusion" [ref=e791] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/diversity/default?icid=DSM_Footer_Company_Diversity
+            - listitem [ref=e792]:
+              - link "Accessibility" [ref=e793] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/accessibility
+            - listitem [ref=e794]:
+              - link "Sustainability" [ref=e795] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/corporate-responsibility/sustainability?icid=DSM_Footer_Sustainability
+    - generic [ref=e796]:
+      - generic [ref=e797]:
+        - generic [ref=e798]:
+          - generic [ref=e800]: 
+          - link "Content Language Selector. Currently set to English (United States)" [ref=e801] [cursor=pointer]:
+            - /url: https://www.microsoft.com/en-us/startups/locale
+            - text: English (United States)
+        - link "Your Privacy Choices Opt-Out Icon Your Privacy Choices" [ref=e803] [cursor=pointer]:
+          - /url: https://aka.ms/yourcaliforniaprivacychoices
+          - img "Your Privacy Choices Opt-Out Icon" [ref=e804]
+          - generic [ref=e809]: Your Privacy Choices
+        - link "Consumer Health Privacy" [ref=e810] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+      - navigation "Microsoft corporate links" [ref=e812]:
+        - list [ref=e813]:
+          - listitem [ref=e814]:
+            - link "Sitemap" [ref=e815] [cursor=pointer]:
+              - /url: https://www.microsoft.com/en-us/sitemap1.aspx
+          - listitem [ref=e816]:
+            - link "Contact Microsoft" [ref=e817] [cursor=pointer]:
+              - /url: https://support.microsoft.com/contactus
+          - listitem [ref=e818]:
+            - link "Privacy" [ref=e819] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+          - listitem [ref=e820]:
+            - link "Terms of use" [ref=e821] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?LinkID=206977
+          - listitem [ref=e822]:
+            - link "Trademarks" [ref=e823] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?linkid=2196228
+          - listitem [ref=e824]:
+            - link "Safety & eco" [ref=e825] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?linkid=2196227
+          - listitem [ref=e826]:
+            - link "Recycling" [ref=e827] [cursor=pointer]:
+              - /url: https://www.microsoft.com/en-us/legal/compliance/recycling
+          - listitem [ref=e828]:
+            - link "About our ads" [ref=e829] [cursor=pointer]:
+              - /url: https://choice.microsoft.com
+          - listitem [ref=e830]: © Microsoft 2026

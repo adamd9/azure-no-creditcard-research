@@ -1,0 +1,458 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - button "Skip to content" [ref=e3] [cursor=pointer]:
+      - generic [ref=e5]: Skip to content
+    - button "Accessibility Feedback" [ref=e6] [cursor=pointer]:
+      - generic [ref=e8]: Accessibility Feedback
+    - generic [ref=e9]:
+      - link "Back to Bing search" [ref=e10] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Back to Bing search" [level=1] [ref=e11]
+      - search [ref=e12]:
+        - button "Search" [ref=e15] [cursor=pointer]
+        - searchbox "Enter your search here - Search suggestions will show as you type" [ref=e16]: microsoft azure pass promo no credit card training voucher 2024 2025
+        - button "Search using an image" [ref=e22] [cursor=pointer]
+    - complementary "Account Rewards and Preferences" [ref=e24]:
+      - button "Microsoft Rewards" [ref=e25] [cursor=pointer]
+      - link "Sign in" [ref=e26] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - generic "Sign in" [ref=e27]
+    - navigation "Search Filter" [ref=e28]:
+      - list [ref=e29]:
+        - listitem [ref=e30]:
+          - link "All" [ref=e31] [cursor=pointer]:
+            - /url: /?scope=web&FORM=HDRSC1
+        - listitem [ref=e32]:
+          - link "Search" [ref=e33] [cursor=pointer]:
+            - /url: /copilotsearch?q=microsoft+azure+pass+promo+no+credit+card+training+voucher+2024+2025&FORM=CSSCOP
+            - img [ref=e34]
+            - text: Search
+        - listitem [ref=e36]:
+          - link "Shopping" [ref=e37] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=5d2e42e8c50923d43b682c20d1d6a89cb8927455ba2427d1a284a0799a138b2aJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3Nob3A_cT1taWNyb3NvZnQrYXp1cmUrcGFzcytwcm9tbytubytjcmVkaXQrY2FyZCt0cmFpbmluZyt2b3VjaGVyKzIwMjQrMjAyNSZGT1JNPVNIT1BUQg&ntb=1
+        - listitem [ref=e38]:
+          - link "Images" [ref=e39] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=8f336fe5d4a380d1a09f18096988eb5c34292fb7741f6ef98a19d54c13dfe872JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L2ltYWdlcy9zZWFyY2g_cT1taWNyb3NvZnQrYXp1cmUrcGFzcytwcm9tbytubytjcmVkaXQrY2FyZCt0cmFpbmluZyt2b3VjaGVyKzIwMjQrMjAyNSZGT1JNPUhEUlNDMw&ntb=1
+        - listitem [ref=e40]:
+          - link "Videos" [ref=e41] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=e49737e7cd2d27fdd0a9aa762c7c33fc1437ef67acdda70da192640a32a875f5JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9zZWFyY2g_cT1taWNyb3NvZnQrYXp1cmUrcGFzcytwcm9tbytubytjcmVkaXQrY2FyZCt0cmFpbmluZyt2b3VjaGVyKzIwMjQrMjAyNSZGT1JNPUhEUlNDNA&ntb=1
+        - listitem [ref=e42]:
+          - link "Maps" [ref=e43] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=6924e214be7d9047fcd04e6d8d7045912206a67aad4c40ca2ecb9d10d1167f77JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L21hcHM_cT1taWNyb3NvZnQrYXp1cmUrcGFzcytwcm9tbytubytjcmVkaXQrY2FyZCt0cmFpbmluZyt2b3VjaGVyKzIwMjQrMjAyNSZGT1JNPUhEUlNDNg&ntb=1
+        - listitem [ref=e44]:
+          - link "Copilot" [ref=e45] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=f211ecbb9eefe5b79836e934c546329d250e701df868dd9e719f295096c42c1eJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L2NoYXQ_cHJvbXB0PW1pY3Jvc29mdCthenVyZStwYXNzK3Byb21vK25vK2NyZWRpdCtjYXJkK3RyYWluaW5nK3ZvdWNoZXIrMjAyNCsyMDI1JnNlbmRxdWVyeT0xJkZPUk09U0NDT0RY&ntb=1
+        - listitem [ref=e46]:
+          - button "More" [ref=e47] [cursor=pointer]:
+            - img [ref=e49]
+            - text: More
+  - generic [ref=e51]:
+    - main "Search Results" [ref=e52]:
+      - generic [ref=e54]: About 73,200 results
+      - list [ref=e65]:
+        - listitem [ref=e66]:
+          - link "Microsoft Azure" [ref=e68] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=bfa6fafd47a4dcf972c7fb0e673cfe84197636ef2634e8a06c69bf1cebe69ab1JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL2VuLXVzL3ByaWNpbmcvb2ZmZXJzL2F6dXJlLXBhc3MvP21zb2NraWQ9MmE5NDU1MTA1NjdiNjQ2MzJlNTE0Mjc3NTcyZjY1M2I&ntb=1
+            - generic [ref=e73]:
+              - generic [ref=e74]: Microsoft Azure
+              - generic [ref=e77]: https://azure.microsoft.com › en-us › pricing › offers › azure-pass
+          - heading "Azure Pass | Microsoft Azure" [level=2] [ref=e78]:
+            - link "Azure Pass | Microsoft Azure" [ref=e79] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=bfa6fafd47a4dcf972c7fb0e673cfe84197636ef2634e8a06c69bf1cebe69ab1JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL2VuLXVzL3ByaWNpbmcvb2ZmZXJzL2F6dXJlLXBhc3MvP21zb2NraWQ9MmE5NDU1MTA1NjdiNjQ2MzJlNTE0Mjc3NTcyZjY1M2I&ntb=1
+          - paragraph [ref=e81]: Use Azure Pass to use Microsoft Azure for free. Offer available to entitled customers with monetary credits to access Microsoft Azure at no charge.
+        - listitem [ref=e82]:
+          - list [ref=e83]:
+            - listitem [ref=e84]:
+              - generic [ref=e85]:
+                - generic [ref=e86] [cursor=pointer]:
+                  - generic [ref=e91]: eBay
+                  - generic [ref=e92]:
+                    - generic [ref=e93]: https://www.ebay.com.au › azure
+                    - button "About our ads" [ref=e94]:
+                      - img "About our ads" [ref=e96]
+                - heading "Shop On eBay | Azure | Huge Selections & Great Prices" [level=2] [ref=e97]:
+                  - link "Shop On eBay | Azure | Huge Selections & Great Prices" [ref=e98] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclick?ld=e8QIhqotJlUywQ4fUznxkehjVUCUyKZni_Ds5DISJzO5_eUb-G2j2NbLMgyw-g1I6ryzguTi-00TGCFQ1I2KoY2OoUif644FgLy1xKiiLqRjcEeYfEhSK91xfGZNUCUnjqVwlW0k-08nM90_Nb4feNyRoVTr365hw8LoKnKKBYOCWybLQboMPuhcswS-KGHHX4no7KBQEEEsUFP933hBA2_CkxkcI&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20uYXUlMmZzY2glMmZpLmh0bWwlM2Zfbmt3JTNkYXp1cmUlMjZub3JvdmVyJTNkMSUyNm1rZXZ0JTNkMSUyNm1rcmlkJTNkNzA1LTE4NzkwMC0yNzk1OS0wJTI2bWtjaWQlM2QyJTI2bWtzY2lkJTNkMTAyJTI2a2V5d29yZCUzZGF6dXJlJTI2Y3JscCUzZF8lMjZNVF9JRCUzZCUyNmdlb19pZCUzZCUyNnJsc2F0YXJnZXQlM2Rrd2QtODEzNjQwMTE3OTc2NDMlM2Fsb2MtOSUyNmFkcG9zJTNkJTI2ZGV2aWNlJTNkYyUyNm1rdHlwZSUzZCUyNmxvYyUzZDEyMjM5NSUyNnBvaSUzZCUyNmFiY0lkJTNkJTI2Y21wZ24lM2QzNzM4OTY1NjQlMjZzaXRlbG5rJTNkJTI2YWRncm91cGlkJTNkMTMwMTgyMTk5NTIxMDI0NiUyNm5ldHdvcmslM2RvJTI2bWF0Y2h0eXBlJTNkcCUyNm1zY2xraWQlM2QyNjExNDYyNWJhMDUxMDdjOTM1YTJjMzI1MGE4MmMzZA&rlid=26114625ba05107c935a2c3250a82c3d&ntb=1
+                - generic [ref=e99]:
+                  - generic [ref=e100]:
+                    - generic [ref=e103]: Sponsored
+                    - text: Looking For Azure? We Have Almost Everything On eBay. But Did You Check eBay? Check Out Azure On eBay.
+                  - generic [ref=e104]:
+                    - strong [ref=e105]: "Site visitors:"
+                    - text: Over 100K in the past month
+                  - paragraph [ref=e106]: Fill Your Cart With Color · Fast 'N Free Shipping · Daily Deals · Buyer Protection Program
+                  - paragraph [ref=e107]:
+                    - link "12/21-25 High Street, Caringbah · 21.1 km" [ref=e109] [cursor=pointer]:
+                      - /url: https://www.bing.com/aclick?ld=e8boqHEG-SgFgf0dONUiHiTjVUCUx05IitYsuxouzdrHlA7ZeoNR6MduLvCcO3FiaTPDyUmv8ICU8i-SD8CfofvkwyiryyW0haNIK-zzlWInRghRCPMTJLQi7rWoUhKTuEOMeZjIOepEsKFlixWypIii7ixXPMlRUijMCF3t-nbuWGDAbWVTImBXIFkWHGtwE-I1QZJfboDCTkCRkl-Tf2NmqebbywzqH3wY9V8KFA63oRtg75&u=aHR0cCUzYSUyZiUyZnd3dy5iaW5nLmNvbSUyZm1hcHMlMmYlM2Z2JTNkMiUyNm1vZGUlM2REJTI2Zm9ybSUzZEFEQklORyUyNndoZXJlMSUzZDEyJTI1MmYyMS0yNSUyYkhpZ2glMmJTdHJlZXQlMmJDYXJpbmdiYWglMmItJTJiMjIyOSUyYkFVJTI2cnRwJTNkJTdlcG9zLi0zNC4wNDM5Nl8xNTEuMTIyNl8xMiUyNTJmMjEtMjUlMmJIaWdoJTJiU3RyZWV0JTJiQ2FyaW5nYmFoJTJiLSUyYjIyMjklMmJBVV9LZXRvbmUlMmJTdXBwbGVtZW50cyUyYkF1c3RyYWxpYV8wNDE2NzI1NDc3JTI2c2V0bGFuZyUzZEVOLVVT&rlid=f772adfda1a3129a5faac7ea4b0e0635&ntb=1
+                    - text: · 0416725477
+                - list "Please use arrow keys to navigate" [ref=e116]:
+                  - listitem [ref=e117] [cursor=pointer]:
+                    - link "Home & Garden" [ref=e120]:
+                      - /url: https://www.bing.com/aclick?ld=e8VwLHgBPLScX9o5loQuxZLzVUCUyXntH0sAESjmMoyaXStx0dB1Gce9a3u8oB8djOAQ4Ad48aymOFJZAxVwrrQ4uShtla8Ejfxs3S927OvPZMKCwViBoQsmRmzkuxwbJ98clfIDDFjmiY8tCCjzHT5l-RNjlKMaoCjrvkGb0kyOihB2paQIJ01cbaD__y7fVrI5hr70eITj9M1Rd74KiicDtdUp2-PBbMWaHlP_-YWoh8zqaD&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20uYXUlMmZiJTJmSG9tZS1HYXJkZW4lMmYxMTcwMCUyZmJuXzE4NDMwMjMlM2Zub3JvdmVyJTNkMSUyNm1rZXZ0JTNkMSUyNm1rcmlkJTNkNzA1LTE4NzkwMC0yNzk1OS0wJTI2bWtjaWQlM2QyJTI2bWtzY2lkJTNkMTAyJTI2a2V5d29yZCUzZGF6dXJlJTI2Y3JscCUzZF8lMjZNVF9JRCUzZCUyNmdlb19pZCUzZCUyNnJsc2F0YXJnZXQlM2Rrd2QtODEzNjQwMTE3OTc2NDMlM2Fsb2MtOSUyNmFkcG9zJTNkJTI2ZGV2aWNlJTNkYyUyNm1rdHlwZSUzZCUyNmxvYyUzZDEyMjM5NSUyNnBvaSUzZCUyNmFiY0lkJTNkJTI2Y21wZ24lM2QzNzM4OTY1NjQlMjZzaXRlbG5rJTNkNyUyNmFkZ3JvdXBpZCUzZDEzMDE4MjE5OTUyMTAyNDYlMjZuZXR3b3JrJTNkbyUyNm1hdGNodHlwZSUzZHAlMjZtc2Nsa2lkJTNkY2NhMjE1MmRmODI0MTZjNTQ5MmY3ZjNhMTI4OTZmOGY&rlid=cca2152df82416c5492f7f3a12896f8f&ntb=1
+                      - generic [ref=e121]: Home & Garden
+                  - listitem [ref=e122] [cursor=pointer]:
+                    - link "Office Furniture" [ref=e125]:
+                      - /url: https://www.bing.com/aclick?ld=e8q_NEnDJkkPPfloPd0TSmSDVUCUzL-jGovUE7T8qiAjptFWP_q1HRgR-Bnz7Jh381GRRC-MJSWtvNog8xlHUlE45WjzDHzanXz394r1hJAvtWrAvaNkMpgZy7er78W7QOtiEAG3a6GQgSdtCQqaKQX75QHWONLMeCnSAO1aPe5XaNdl3HABiJhiJUbiZnbGkkuPKZwfDqwGE5avvXtDiXAXkGFwWAgtL3saMz_mExU6Ylu8xM&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20uYXUlMmZzY2glMmYxMTgyOCUyZmkuaHRtbCUzZl9ua3clM2RwZW4lMmJsaWdodCUyNm5vcm92ZXIlM2QxJTI2bWtldnQlM2QxJTI2bWtyaWQlM2Q3MDUtMTg3OTAwLTI3OTU5LTAlMjZta2NpZCUzZDIlMjZta3NjaWQlM2QxMDIlMjZrZXl3b3JkJTNkYXp1cmUlMjZjcmxwJTNkXyUyNk1UX0lEJTNkJTI2Z2VvX2lkJTNkJTI2cmxzYXRhcmdldCUzZGt3ZC04MTM2NDAxMTc5NzY0MyUzYWxvYy05JTI2YWRwb3MlM2QlMjZkZXZpY2UlM2RjJTI2bWt0eXBlJTNkJTI2bG9jJTNkMTIyMzk1JTI2cG9pJTNkJTI2YWJjSWQlM2QlMjZjbXBnbiUzZDM3Mzg5NjU2NCUyNnNpdGVsbmslM2QlMjZhZGdyb3VwaWQlM2QxMzAxODIxOTk1MjEwMjQ2JTI2bmV0d29yayUzZG8lMjZtYXRjaHR5cGUlM2RwJTI2bXNjbGtpZCUzZDBmNzVkNzM4YWZkMzEzOTQ5NGYwYmQyZjQ1N2UxOTZh&rlid=0f75d738afd3139494f0bd2f457e196a&ntb=1
+                      - generic [ref=e126]: Office Furniture
+                  - listitem [ref=e127] [cursor=pointer]:
+                    - link "Clothing, Shoes,..." [ref=e130]:
+                      - /url: https://www.bing.com/aclick?ld=e8HQDOVhKp06IliPmeP_k5WzVUCUwD2068lwfYFn-PG77Y3NuQXiSiSs72-_P_lV-8n8OTuSOZ8pu08fg9lGA4T4-t0b_IjXtxlqIauz2E-vTcDkntlL8yOG44iV7-nXB3TgqptICiwvHAY55YIWRgu0-_r76BPdL10awpsIBp9WJzifJpJjMEti4wJBqVbCtdb1NMyrik66y48WiA05WtMXPCLUZnCIieQJRM6_MLQ-WTlmM4&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20uYXUlMmZiJTJmRmFzaGlvbiUyZmJuXzcwMDAyNTk2NzElM2Zub3JvdmVyJTNkMSUyNm1rZXZ0JTNkMSUyNm1rcmlkJTNkNzA1LTE4NzkwMC0yNzk1OS0wJTI2bWtjaWQlM2QyJTI2bWtzY2lkJTNkMTAyJTI2a2V5d29yZCUzZGF6dXJlJTI2Y3JscCUzZF8lMjZNVF9JRCUzZCUyNmdlb19pZCUzZCUyNnJsc2F0YXJnZXQlM2Rrd2QtODEzNjQwMTE3OTc2NDMlM2Fsb2MtOSUyNmFkcG9zJTNkJTI2ZGV2aWNlJTNkYyUyNm1rdHlwZSUzZCUyNmxvYyUzZDEyMjM5NSUyNnBvaSUzZCUyNmFiY0lkJTNkJTI2Y21wZ24lM2QzNzM4OTY1NjQlMjZzaXRlbG5rJTNkJTI2YWRncm91cGlkJTNkMTMwMTgyMTk5NTIxMDI0NiUyNm5ldHdvcmslM2RvJTI2bWF0Y2h0eXBlJTNkcCUyNm1zY2xraWQlM2RhOGQ5MDBlMDkwMDUxM2VlMWI5YzZhZjc3YWE4OWE3ZQ&rlid=a8d900e0900513ee1b9c6af77aa89a7e&ntb=1
+                      - generic [ref=e131]: Clothing, Shoes,...
+                  - listitem [ref=e132] [cursor=pointer]:
+                    - link "Motors" [ref=e135]:
+                      - /url: https://www.bing.com/aclick?ld=e8RwGE1Ntbq-BPkh0neCsKyDVUCUy7z-O0-nppALxOzelZv5AJkkBOxmdg5xWthmBLaqK6CkQF0-KSyzGZD1kN0RklheaXUcqDjfQFVgAmTuzFBmPIqilfY-x-361KZ9YTyuIhssO-Px0IEb_DFTRGb6EhS1AR-fq6eZCyb3fRLcuL4W9k2fWut1szkO8TogfsAF652RFfG9qam2g34z0K8jqxQcIozITRaQRAONpbGdMwF4nx&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20uYXUlMmZiJTJmTW90b3JzJTJmYm5fNzAwMTIyMDE1OCUzZm5vcm92ZXIlM2QxJTI2bWtldnQlM2QxJTI2bWtyaWQlM2Q3MDUtMTg3OTAwLTI3OTU5LTAlMjZta2NpZCUzZDIlMjZta3NjaWQlM2QxMDIlMjZrZXl3b3JkJTNkYXp1cmUlMjZjcmxwJTNkXyUyNk1UX0lEJTNkJTI2Z2VvX2lkJTNkJTI2cmxzYXRhcmdldCUzZGt3ZC04MTM2NDAxMTc5NzY0MyUzYWxvYy05JTI2YWRwb3MlM2QlMjZkZXZpY2UlM2RjJTI2bWt0eXBlJTNkJTI2bG9jJTNkMTIyMzk1JTI2cG9pJTNkJTI2YWJjSWQlM2QlMjZjbXBnbiUzZDM3Mzg5NjU2NCUyNnNpdGVsbmslM2QxMSUyNmFkZ3JvdXBpZCUzZDEzMDE4MjE5OTUyMTAyNDYlMjZuZXR3b3JrJTNkbyUyNm1hdGNodHlwZSUzZHAlMjZtc2Nsa2lkJTNkYmU5YjY1ODAwNzNlMWZjNTM1ZTQwZjk3ZWQ5M2YwYmQ&rlid=be9b6580073e1fc535e40f97ed93f0bd&ntb=1
+                      - generic [ref=e136]: Motors
+                  - listitem [ref=e137] [cursor=pointer]:
+                    - link "Selling" [ref=e140]:
+                      - /url: https://www.bing.com/aclick?ld=e8-Mheg_H35R6in-0xEp0URzVUCUxvOevZ6GjSHuvqJJU_KPqjkMlzCDBeXP9aEuzyJMYLaAU09zbeJqFCvVxnw1OIgVwUWOtX44ckEXKnqjg64KTlk1jrX5pPbcug26mrfVdhxye9GNPGxOaX2gMqaLkutC1pI18frPDoIf3-0eiEGd_IpcSu5hJyRUYBCG9nTPNx-mWK8qsbVeluvp0lIXsd98wi0yCxB10WxcL6w7BOWgqZ&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20uYXUlMmZoZWxwJTJmc2VsbGluZyUyM2dldHRpbmctc3RhcnRlZC1zZWxsaW5nJTNmbm9yb3ZlciUzZDElMjZta2V2dCUzZDElMjZta3JpZCUzZDcwNS0xODc5MDAtMjc5NTktMCUyNm1rY2lkJTNkMiUyNm1rc2NpZCUzZDEwMiUyNmtleXdvcmQlM2RhenVyZSUyNmNybHAlM2RfJTI2TVRfSUQlM2QlMjZnZW9faWQlM2QlMjZybHNhdGFyZ2V0JTNka3dkLTgxMzY0MDExNzk3NjQzJTNhbG9jLTklMjZhZHBvcyUzZCUyNmRldmljZSUzZGMlMjZta3R5cGUlM2QlMjZsb2MlM2QxMjIzOTUlMjZwb2klM2QlMjZhYmNJZCUzZCUyNmNtcGduJTNkMzczODk2NTY0JTI2c2l0ZWxuayUzZCUyNmFkZ3JvdXBpZCUzZDEzMDE4MjE5OTUyMTAyNDYlMjZuZXR3b3JrJTNkbyUyNm1hdGNodHlwZSUzZHAlMjZtc2Nsa2lkJTNkYzJmMWYwZGNhYmI4MTIxZjdhYzI5YWNiNDExNWE1ZDI&rlid=c2f1f0dcabb8121f7ac29acb4115a5d2&ntb=1
+                      - generic [ref=e141]: Selling
+                  - listitem [ref=e142] [cursor=pointer]:
+                    - link "Motors Products" [ref=e145]:
+                      - /url: https://www.bing.com/aclick?ld=e83SABvAwRS8AXfd3RmwfWMzVUCUxkAgYVdTp67adsDCZq1XuxrID_-zvg1kkZxlXMPO9zwgQD99ilG93my5N1CuMqeEX3wMXJ6P5MoAjWcQ12q2JTIdMa4rFT3yALkMzWIxGxio-G4kbS9Bofb0BJAMtZU8olNsDe4ZrO6M9RPMdAMzuh_1IEWYwiJEraa0zflLHROjhNnAyTucyHIAb_ZQdjAemhsUQs4HumkMSWLte7JzwF&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20uYXUlMmZiJTJmTW90b3JzJTJmYm5fNzAwMTIyMDE1OCUzZm5vcm92ZXIlM2QxJTI2bWtldnQlM2QxJTI2bWtyaWQlM2Q3MDUtMTg3OTAwLTI3OTU5LTAlMjZta2NpZCUzZDIlMjZta3NjaWQlM2QxMDIlMjZrZXl3b3JkJTNkYXp1cmUlMjZjcmxwJTNkXyUyNk1UX0lEJTNkJTI2Z2VvX2lkJTNkJTI2cmxzYXRhcmdldCUzZGt3ZC04MTM2NDAxMTc5NzY0MyUzYWxvYy05JTI2YWRwb3MlM2QlMjZkZXZpY2UlM2RjJTI2bWt0eXBlJTNkJTI2bG9jJTNkMTIyMzk1JTI2cG9pJTNkJTI2YWJjSWQlM2QlMjZjbXBnbiUzZDM3Mzg5NjU2NCUyNnNpdGVsbmslM2QlMjZhZGdyb3VwaWQlM2QxMzAxODIxOTk1MjEwMjQ2JTI2bmV0d29yayUzZG8lMjZtYXRjaHR5cGUlM2RwJTI2bXNjbGtpZCUzZGJmN2M3ZmU1N2FhYzEwY2EyZDhmMTVmMjkwMDEzZGEz&rlid=bf7c7fe57aac10ca2d8f15f290013da3&ntb=1
+                      - generic [ref=e146]: Motors Products
+                  - listitem [ref=e147] [cursor=pointer]:
+                    - link "Electronics" [ref=e150]:
+                      - /url: https://www.bing.com/aclick?ld=e8kuzFcbNom96r3LJJL16qaDVUCUymriZZ60nZRx71ugXQyo6dyiMcP25HFED4m2GhIVT6gu5HNtNAmlRjYByyaqTjWP8k-YTAQKfV-aEyvB_TZYBCR8WgNnXkpk1nQDlBAunR42xZHFZDhe3kMq-sFoUTw2SLAKr7z3mQThSLQ5lIvTB7yqrAsWUQ8Q2O5fWNnZA4WJS0QLoTdxV4Nxw_BTScA98jrPxYPItjzXT7B-Q3UXNs&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20uYXUlMmZiJTJmRWxlY3Ryb25pY3MlMmZibl83MDAwMjU5OTQ3JTNmbm9yb3ZlciUzZDElMjZta2V2dCUzZDElMjZta3JpZCUzZDcwNS0xODc5MDAtMjc5NTktMCUyNm1rY2lkJTNkMiUyNm1rc2NpZCUzZDEwMiUyNmtleXdvcmQlM2RhenVyZSUyNmNybHAlM2RfJTI2TVRfSUQlM2QlMjZnZW9faWQlM2QlMjZybHNhdGFyZ2V0JTNka3dkLTgxMzY0MDExNzk3NjQzJTNhbG9jLTklMjZhZHBvcyUzZCUyNmRldmljZSUzZGMlMjZta3R5cGUlM2QlMjZsb2MlM2QxMjIzOTUlMjZwb2klM2QlMjZhYmNJZCUzZCUyNmNtcGduJTNkMzczODk2NTY0JTI2c2l0ZWxuayUzZDYlMjZhZGdyb3VwaWQlM2QxMzAxODIxOTk1MjEwMjQ2JTI2bmV0d29yayUzZG8lMjZtYXRjaHR5cGUlM2RwJTI2bXNjbGtpZCUzZDRlMGZhMjM1MThkNzE3MWRjMjk1YzgyMmYyN2FkYTdm&rlid=4e0fa23518d7171dc295c822f27ada7f&ntb=1
+                      - generic [ref=e151]: Electronics
+                  - listitem [ref=e152] [cursor=pointer]:
+                    - link "Daily Deals" [ref=e155]:
+                      - /url: https://www.bing.com/aclick?ld=e8cCNrT7KatiMejm_OsXfJ0TVUCUyX6fWZnrJ6t4vU0xxTeyHC3g_771qUIEW_bIZF2rlpe4szB2asufm6T_k0-ikIrBwjn2as1ZKE8TLAdlTZ2cnoSOfJqmRtSlG0lSto5D2sGMhLamwGKhoBANxYZc-_bjhLnFUttmLg-ncnTklr5_x_BlTs9uHloJCA-gUwfgZzjyW4_HL6oPrWqJ9b0wEzPTTvKlFOeKf468QBzW484z9J&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20uYXUlMmZkZWFscyUzZm5vcm92ZXIlM2QxJTI2bWtldnQlM2QxJTI2bWtyaWQlM2Q3MDUtMTg3OTAwLTI3OTU5LTAlMjZta2NpZCUzZDIlMjZta3NjaWQlM2QxMDIlMjZrZXl3b3JkJTNkYXp1cmUlMjZjcmxwJTNkXyUyNk1UX0lEJTNkJTI2Z2VvX2lkJTNkJTI2cmxzYXRhcmdldCUzZGt3ZC04MTM2NDAxMTc5NzY0MyUzYWxvYy05JTI2YWRwb3MlM2QlMjZkZXZpY2UlM2RjJTI2bWt0eXBlJTNkJTI2bG9jJTNkMTIyMzk1JTI2cG9pJTNkJTI2YWJjSWQlM2QlMjZjbXBnbiUzZDM3Mzg5NjU2NCUyNnNpdGVsbmslM2QxMCUyNmFkZ3JvdXBpZCUzZDEzMDE4MjE5OTUyMTAyNDYlMjZuZXR3b3JrJTNkbyUyNm1hdGNodHlwZSUzZHAlMjZtc2Nsa2lkJTNkODMyZDY2MWM0NjU2MThlYTAwZjcwYzBiYWNmYjc3NWU&rlid=832d661c465618ea00f70c0bacfb775e&ntb=1
+                      - generic [ref=e156]: Daily Deals
+        - listitem [ref=e157]:
+          - generic [ref=e158]:
+            - heading "Searches you might like" [level=2] [ref=e159]
+            - list [ref=e160]:
+              - listitem [ref=e161]:
+                - link "microsoft azure certification" [ref=e162] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=067f90549cc977940b5c67e52cef401bfeb4e319c3fb494894bb074569fee4a4JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPW1pY3Jvc29mdCthenVyZStjZXJ0aWZpY2F0aW9uJkZPUk09TVJTRFlO&ntb=1
+                  - generic [ref=e164]:
+                    - text: microsoft
+                    - strong [ref=e165]: azure certification
+              - listitem [ref=e166]:
+                - link "microsoft courses" [ref=e167] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=0606415cecba7d53e3082ad8438d8aa749cf61d5626cee9e3111fd295cf8292bJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPW1pY3Jvc29mdCtjb3Vyc2VzJkZPUk09TVJTRFlO&ntb=1
+                  - generic [ref=e169]:
+                    - strong [ref=e170]: microsoft
+                    - text: courses
+              - listitem [ref=e171]:
+                - link "microsoft office 2024 cheapest price" [ref=e172] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=80986e99c7a9b6b86fb0c00c1ad28ed1f8b00625529ce51eff8244942667e5c4JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPW1pY3Jvc29mdCtvZmZpY2UrMjAyNCtjaGVhcGVzdCtwcmljZSZGT1JNPU1SU0RZTg&ntb=1
+                  - generic [ref=e174]:
+                    - text: microsoft office
+                    - strong [ref=e175]: "2024"
+                    - text: cheapest price
+              - listitem [ref=e176]:
+                - link "microsoft free trial" [ref=e177] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=87717c6e5231c6c1f820a8e359cc3bdd656e00aa0a6de37795527c5720b83be7JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPW1pY3Jvc29mdCtmcmVlK3RyaWFsJkZPUk09TVJTRFlO&ntb=1
+                  - generic [ref=e179]: microsoft free trial
+        - listitem [ref=e180]:
+          - generic [ref=e182]:
+            - heading "Videos of Microsoft Azure Pass Promo No Credit Card Training Vouch…" [level=2] [ref=e184]:
+              - link "Videos of Microsoft Azure Pass Promo No Credit Card Training Vouch…" [ref=e185] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=405349d58342234214b942dd08a1e3fae1af7391c28185e291aeb2e571241766JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9zZWFyY2g_cT1NaWNyb3NvZnQrQXp1cmUrcGFzcytwcm9tbytubytjcmVkaXQrY2FyZCt0cmFpbmluZyt2b3VjaGVyKzIwMjQrMjAyNSZxcHZ0PW1pY3Jvc29mdCthenVyZStwYXNzK3Byb21vK25vK2NyZWRpdCtjYXJkK3RyYWluaW5nK3ZvdWNoZXIrMjAyNCsyMDI1JkZPUk09VkRSRQ&ntb=1
+            - generic [ref=e187]:
+              - 'link "Get Microsoft Azure Certification FREE in 2025 |100% Discounts Voucher | Step by Step Process #azure from YouTube · Duration: 18 minutes 4 seconds · 12.7K views · uploaded on 9 months ago · uploaded by Stars InfoTech Classes · Click to play. · #MicrosoftCertification,#AzureFundamentals,#FreeCertification,#MicrosoftExam, #starsinfotech @Microsoft @MicrosoftAzure 100% Discount on Microsoft Certification | Azure Data Fundamentals Explained How to Claim FREE Microsoft Certification in 2025 | No Cost, No Catch! Microsoft Virtual Training Days + Free Exam Voucher | Complete Tutorial ..." [ref=e190] [cursor=pointer]':
+                - /url: https://www.bing.com/ck/a?!&&p=7bb2458f9aaa2cb0c7e50fcc1bea25ab82c027d94325cb071315f4feeb3d6215JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bWljcm9zb2Z0K2F6dXJlK3Bhc3MrcHJvbW8rbm8rY3JlZGl0K2NhcmQrdHJhaW5pbmcrdm91Y2hlcisyMDI0KzIwMjUmbWlkPTI4NjczRkI4NjY5NTJGMDk1RkNFMjg2NzNGQjg2Njk1MkYwOTVGQ0UmY2h1cmw9aHR0cHMlM2ElMmYlMmZ3d3cueW91dHViZS5jb20lMmZjaGFubmVsJTJmVUN5ZWFSRDBHb0VlUUlzUC1TYXk4TXZnJkZPUk09VklSRQ&ntb=1
+                - generic [ref=e191]:
+                  - generic [ref=e192]:
+                    - 'img "Get Microsoft Azure Certification FREE in 2025 |100% Discounts Voucher | Step by Step Process #azure" [ref=e194]'
+                    - generic [ref=e200]: 18:04
+                  - generic [ref=e201]:
+                    - 'generic "Get Microsoft Azure Certification FREE in 2025 |100% Discounts Voucher | Step by Step Process #azure" [ref=e202]':
+                      - text: Get
+                      - strong [ref=e203]: Microsoft
+                      - strong [ref=e204]: Azure
+                      - text: Certification FREE in
+                      - strong [ref=e205]: "2025"
+                      - text: "|100% Discounts"
+                      - strong [ref=e206]: Voucher
+                      - text: "| Step by Step Process #"
+                      - strong [ref=e207]: azure
+                    - generic [ref=e208]:
+                      - generic [ref=e209]:
+                        - img "Video source site" [ref=e210]
+                        - text: YouTube · Stars InfoTech Classes
+                      - generic [ref=e211]: 12.7K views · 9 months ago
+              - 'link "FREE Azure Certification Voucher 2026 💯 | No Payment Needed! from YouTube · Duration: 6 minutes 5 seconds · 2K views · uploaded on 2 months ago · uploaded by Chayan Deokar · Click to play. · Want to get Microsoft Azure certification for FREE? 😳 In this video, I’ll show you how to get a FREE Azure certification voucher just by completing simple labs and Microsoft Learn courses. Link : https://azure.github.io/MigrateModernizeSkilling No hidden tricks, no payment — just follow the steps and grab certifications like: ️ AZ-900 ..." [ref=e214] [cursor=pointer]':
+                - /url: https://www.bing.com/ck/a?!&&p=13ba4edce9ad2ab090411b6be4dc138d4dffb9f0cb73db664c60bfa2abc03f6eJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bWljcm9zb2Z0K2F6dXJlK3Bhc3MrcHJvbW8rbm8rY3JlZGl0K2NhcmQrdHJhaW5pbmcrdm91Y2hlcisyMDI0KzIwMjUmbWlkPTBCNTk4NzlGMTJFMDkwQUFGQThBMEI1OTg3OUYxMkUwOTBBQUZBOEEmY2h1cmw9aHR0cHMlM2ElMmYlMmZ3d3cueW91dHViZS5jb20lMmZjaGFubmVsJTJmVUNGZDNFalVLR1YwT1BBc0VrYzdwQU1nJkZPUk09VklSRQ&ntb=1
+                - generic [ref=e215]:
+                  - generic [ref=e216]:
+                    - img "FREE Azure Certification Voucher 2026 💯 | No Payment Needed!" [ref=e218]
+                    - generic [ref=e224]: 6:05
+                  - generic [ref=e225]:
+                    - generic "FREE Azure Certification Voucher 2026 💯 | No Payment Needed!" [ref=e226]:
+                      - text: FREE
+                      - strong [ref=e227]: Azure
+                      - text: Certification
+                      - strong [ref=e228]: Voucher
+                      - text: 2026 💯 |
+                      - strong [ref=e229]: "No"
+                      - text: Payment Needed!
+                    - generic [ref=e230]:
+                      - generic [ref=e231]:
+                        - img "Video source site" [ref=e232]
+                        - text: YouTube · Chayan Deokar
+                      - generic [ref=e233]: 2K views · 2 months ago
+              - 'link "Free Microsoft Azure Voucher 2026 | AZ-900, AZ-204, AZ-800/AZ-801 | Anyone Can Apply #microsoft from YouTube · Duration: 3 minutes 40 seconds · 2.5K views · uploaded on 2 months ago · uploaded by DR abhishek. · Click to play. · Free Microsoft Azure Voucher 2026 | AZ-900, AZ-204, AZ-800/AZ-801 | Anyone Can Apply #microsoft Microsoft is offering FREE Azure exam vouchers and anyone can apply! 🎯 This is your chance to get Azure certified and boost your resume. https://youtu.be/mDJqZTEbIZU https://www.youtube.com/playlist?list=PLzJwCIvZuAFauLpkgMlc82hL2Vy3_kTOf 🔗 ..." [ref=e236] [cursor=pointer]':
+                - /url: https://www.bing.com/ck/a?!&&p=cc228ba336e87b92ebb708f52360ad21f214ba7b7bb09dcbb032ac93350ed0eaJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bWljcm9zb2Z0K2F6dXJlK3Bhc3MrcHJvbW8rbm8rY3JlZGl0K2NhcmQrdHJhaW5pbmcrdm91Y2hlcisyMDI0KzIwMjUmbWlkPTc4RTA5M0JGM0ExRDIzMUE1OTI3NzhFMDkzQkYzQTFEMjMxQTU5MjcmY2h1cmw9aHR0cHMlM2ElMmYlMmZ3d3cueW91dHViZS5jb20lMmZjaGFubmVsJTJmVUNmQ3prbF9laW5RX0dUc3NwdkNlNUt3JkZPUk09VklSRQ&ntb=1
+                - generic [ref=e237]:
+                  - generic [ref=e238]:
+                    - 'img "Free Microsoft Azure Voucher 2026 | AZ-900, AZ-204, AZ-800/AZ-801 | Anyone Can Apply #microsoft" [ref=e240]'
+                    - generic [ref=e246]: 3:40
+                  - generic [ref=e247]:
+                    - 'generic "Free Microsoft Azure Voucher 2026 | AZ-900, AZ-204, AZ-800/AZ-801 | Anyone Can Apply #microsoft" [ref=e248]':
+                      - text: Free
+                      - strong [ref=e249]: Microsoft
+                      - strong [ref=e250]: Azure
+                      - strong [ref=e251]: Voucher
+                      - text: "2026 | AZ-900, AZ-204, AZ-800/AZ-801 | Anyone Can Apply #"
+                      - strong [ref=e252]: microsoft
+                    - generic [ref=e253]:
+                      - generic [ref=e254]:
+                        - img "Video source site" [ref=e255]
+                        - text: YouTube · DR abhishek.
+                      - generic [ref=e256]: 2.5K views · 2 months ago
+        - listitem [ref=e257]:
+          - link "C# Corner" [ref=e259] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=b47bbb6556e2ab584fea152c943fed7f707ff3c0691be0b400315570cc26bb81JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cuYy1zaGFycGNvcm5lci5jb20vYXJ0aWNsZS91c2luZy1henVyZS1wYXNzLXRvLWNyZWF0ZS1hbi1henVyZS1zdWJzY3JpcHRpb24tZm9yLWZyZWUv&ntb=1
+            - generic [ref=e264]:
+              - generic [ref=e265]: C# Corner
+              - generic [ref=e268]: https://www.c-sharpcorner.com › article › using-azure-pass-to-create-an...
+          - heading "Using Azure Pass to Create An Azure Subscription For Free" [level=2] [ref=e269]:
+            - link "Using Azure Pass to Create An Azure Subscription For Free" [ref=e270] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=b47bbb6556e2ab584fea152c943fed7f707ff3c0691be0b400315570cc26bb81JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cuYy1zaGFycGNvcm5lci5jb20vYXJ0aWNsZS91c2luZy1henVyZS1wYXNzLXRvLWNyZWF0ZS1hbi1henVyZS1zdWJzY3JpcHRpb24tZm9yLWZyZWUv&ntb=1
+          - generic [ref=e274]:
+            - generic [ref=e275]:
+              - img [ref=e277] [cursor=pointer]
+              - tablist [ref=e280]:
+                - tab "Create A Microsoft Azure Pass Subscription For Free" [selected] [ref=e281]
+                - tab "Step 1. Request Or Obtain An Azure Pass Promo Code" [ref=e282] [cursor=pointer]
+                - tab "Step 2. How to Redeem An Azure Pass Voucher Code" [ref=e283] [cursor=pointer]
+                - tab "Step 3. Activate Your Subscription" [ref=e284] [cursor=pointer]
+              - img [ref=e286] [cursor=pointer]
+            - tabpanel "Create A Microsoft Azure Pass Subscription For Free" [ref=e289]:
+              - generic [ref=e291]:
+                - link "Image" [ref=e294] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=b47bbb6556e2ab584fea152c943fed7f707ff3c0691be0b400315570cc26bb81JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cuYy1zaGFycGNvcm5lci5jb20vYXJ0aWNsZS91c2luZy1henVyZS1wYXNzLXRvLWNyZWF0ZS1hbi1henVyZS1zdWJzY3JpcHRpb24tZm9yLWZyZWUv&ntb=1
+                - generic [ref=e296]:
+                  - text: Creating an
+                  - strong [ref=e297]: Azure
+                  - strong [ref=e298]: Pass
+                  - text: subscription is a three step process below 1. Request or Obtain an
+                  - strong [ref=e299]: Azure
+                  - strong [ref=e300]: Pass
+                  - strong [ref=e301]: Promo
+                  - text: code 2. Redeem your
+                  - strong [ref=e302]: Azure
+                  - strong [ref=e303]: Pass
+                  - strong [ref=e304]: Promo
+                  - strong [ref=e305]: Code
+                  - text: 3. Activate your subscription
+              - link "See more on c-sharpcorner.com" [ref=e306] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=b47bbb6556e2ab584fea152c943fed7f707ff3c0691be0b400315570cc26bb81JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cuYy1zaGFycGNvcm5lci5jb20vYXJ0aWNsZS91c2luZy1henVyZS1wYXNzLXRvLWNyZWF0ZS1hbi1henVyZS1zdWJzY3JpcHRpb24tZm9yLWZyZWUv&ntb=1
+        - listitem [ref=e307]:
+          - generic [ref=e308]:
+            - link "Explore this image" [ref=e311] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=uDHkXOvr&id=203AE4F9EEC028745DF8BA8B3C57BF9395CCBDE1&thid=OIP.uDHkXOvrrIzOC4iYgHiHbAHaHa&mediaurl=https://trainingcamp.com/wp-content/themes/trainingcamp-child/trainingcamp-1200-sq.png&q=microsoft+azure+pass+promo+no+credit+card+training+voucher+2024+2025&ck=54468E1CDEACA42DAEA1AA6E40F1B234&idpp=rc&expw=1200&exph=1200&form=rc2idp
+            - generic [ref=e313]:
+              - link "TrainingCamp" [ref=e315] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=c51f34ae5fea99bfc7894d9a42296a19d1da37ec0388cbf2d6028522ea35ccd5JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly90cmFpbmluZ2NhbXAuY29tL2FydGljbGVzL2hvdy10by1nZXQtYXp1cmUtZnVuZGFtZW50YWxzLXZvdWNoZXItZm9yLWZyZWUtdHJhaW5pbmcv&ntb=1
+                - generic [ref=e320]:
+                  - generic [ref=e321]: TrainingCamp
+                  - generic [ref=e324]: https://trainingcamp.com › articles › how-to-get-azure-fund…
+              - 'heading "Free Voucher - AZ-900: Microsoft Azure Fundamentals …" [level=2] [ref=e325]':
+                - 'link "Free Voucher - AZ-900: Microsoft Azure Fundamentals …" [ref=e326] [cursor=pointer]':
+                  - /url: https://www.bing.com/ck/a?!&&p=c51f34ae5fea99bfc7894d9a42296a19d1da37ec0388cbf2d6028522ea35ccd5JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly90cmFpbmluZ2NhbXAuY29tL2FydGljbGVzL2hvdy10by1nZXQtYXp1cmUtZnVuZGFtZW50YWxzLXZvdWNoZXItZm9yLWZyZWUtdHJhaW5pbmcv&ntb=1
+              - paragraph [ref=e327]: Mar 26, 2025 · Priced at $165 USD, it’s an accessible credential, and there are several legitimate ways to sit the exam for …
+        - listitem [ref=e329]:
+          - generic [ref=e330]:
+            - link "Explore this image" [ref=e333] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=0lApK7SK&id=B9E668BCB437E9CAF62EDAE26252556DF4DC8BF0&thid=OIP.0lApK7SKhfYiAEY0AauuqQHaDw&mediaurl=https://learnsascode.com/wp-content/uploads/2024/08/Microsoft-Azure-Pass-portal-1024x519.png&q=microsoft+azure+pass+promo+no+credit+card+training+voucher+2024+2025&ck=3E33D5CA5E9167C245025BAAE4D8C0CE&idpp=rc&expw=1024&exph=519&form=rc2idp
+            - generic [ref=e335]:
+              - link "Learn SAS Code" [ref=e337] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=4255ce8d4be006d6788d2620f2dd89312ac52262fa0b76f13531676a7b580339JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9sZWFybnNhc2NvZGUuY29tL2hvdy10by1hY3RpdmF0ZS1taWNyb3NvZnQtYXp1cmUtcGFzcy1mcmVlLXN1YnNjcmlwdGlvbi8&ntb=1
+                - generic [ref=e342]:
+                  - generic [ref=e343]: Learn SAS Code
+                  - generic [ref=e346]: https://learnsascode.com › how-to-activate-microsoft-azur…
+              - heading "How to Activate Microsoft Azure Pass? (Free Subscription)" [level=2] [ref=e347]:
+                - link "How to Activate Microsoft Azure Pass? (Free Subscription)" [ref=e348] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=4255ce8d4be006d6788d2620f2dd89312ac52262fa0b76f13531676a7b580339JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9sZWFybnNhc2NvZGUuY29tL2hvdy10by1hY3RpdmF0ZS1taWNyb3NvZnQtYXp1cmUtcGFzcy1mcmVlLXN1YnNjcmlwdGlvbi8&ntb=1
+              - paragraph [ref=e349]: Aug 21, 2024 · In this guide, we’ll show you how to activate the Microsoft Azure Pass – Free Subscription. You’ll learn about …
+        - listitem [ref=e351]:
+          - link "azure.github.io" [ref=e353] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=196e5e9edf57733602f0f7545f9f43af76662c1b1299f0bca923628dbeaed760JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9henVyZS5naXRodWIuaW8vYXp1cmUtc2tpbGxpbmctY2hhbGxlbmdlcy0yMDI1L3ZvdWNoZXJzLmh0bWw&ntb=1
+            - generic [ref=e358]:
+              - generic [ref=e359]: azure.github.io
+              - generic [ref=e362]: https://azure.github.io › vouchers.html
+          - heading "Certification Vouchers | Azure Skilling at Ignite 2025" [level=2] [ref=e363]:
+            - link "Certification Vouchers | Azure Skilling at Ignite 2025" [ref=e364] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=196e5e9edf57733602f0f7545f9f43af76662c1b1299f0bca923628dbeaed760JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9henVyZS5naXRodWIuaW8vYXp1cmUtc2tpbGxpbmctY2hhbGxlbmdlcy0yMDI1L3ZvdWNoZXJzLmh0bWw&ntb=1
+          - paragraph [ref=e366]: Complete challenges and unlock exclusive vouchers for Microsoft certifications. Complete one of the nine Microsoft Ignite Challenges and submit a …
+        - listitem [ref=e367]:
+          - generic [ref=e368]:
+            - link "Explore this image" [ref=e371] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=lkVdhjil&id=24F8065D1EAD97952F6B8CEC44E82A5C933BA198&thid=OIP.lkVdhjilTbU9gawznHxS_wHaDf&mediaurl=https://learner-docs.cloudlabs.ai/assets/images/Picture2-ed3ae18f2953469ebba53bb4e697dcba.png&q=microsoft+azure+pass+promo+no+credit+card+training+voucher+2024+2025&ck=056882404A8BC09476293D26FF06E181&idpp=rc&expw=1821&exph=857&form=rc2idp
+            - generic [ref=e373]:
+              - link "cloudlabs.ai" [ref=e375] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=945b6842fcfa1ace42f97e0af3f3f4729e4c83e60a6d0151a44b7131a2c01051JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9sZWFybmVyLWRvY3MuY2xvdWRsYWJzLmFpL0xlYXJuZXIvQWN0aXZhdGVBenVyZVBhc3Mv&ntb=1
+                - generic [ref=e380]:
+                  - generic [ref=e381]: cloudlabs.ai
+                  - generic [ref=e384]: https://learner-docs.cloudlabs.ai › Learner › ActivateAzure…
+              - heading "Azure Pass for Learners | CloudLabs Documentation" [level=2] [ref=e385]:
+                - link "Azure Pass for Learners | CloudLabs Documentation" [ref=e386] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=945b6842fcfa1ace42f97e0af3f3f4729e4c83e60a6d0151a44b7131a2c01051JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9sZWFybmVyLWRvY3MuY2xvdWRsYWJzLmFpL0xlYXJuZXIvQWN0aXZhdGVBenVyZVBhc3Mv&ntb=1
+              - paragraph [ref=e387]: Go back to the cloudlabs portal page, and grab the Azure pass promo code provided under the Licenses tab. Enter the …
+        - listitem [ref=e389]:
+          - generic [ref=e390]:
+            - generic [ref=e391]:
+              - heading "People also ask" [level=2] [ref=e392]:
+                - generic [ref=e393]: People also ask
+              - list [ref=e396]:
+                - listitem [ref=e397]:
+                  - heading "How much does Azure pass cost?" [level=3] [ref=e398]:
+                    - button "How much does Azure pass cost?" [ref=e399] [cursor=pointer]:
+                      - generic [ref=e400]: How much does Azure pass cost?
+                      - generic:
+                        - img
+                - listitem [ref=e401]:
+                  - heading "How to create Azure subscription for free?" [level=3] [ref=e402]:
+                    - button "How to create Azure subscription for free?" [ref=e403] [cursor=pointer]:
+                      - generic [ref=e404]: How to create Azure subscription for free?
+                      - generic:
+                        - img
+                - listitem [ref=e405]:
+                  - heading "How to use Microsoft Azure pass promo code?" [level=3] [ref=e406]:
+                    - button "How to use Microsoft Azure pass promo code?" [ref=e407] [cursor=pointer]:
+                      - generic [ref=e408]: How to use Microsoft Azure pass promo code?
+                      - generic:
+                        - img
+                - listitem [ref=e409]:
+                  - heading "How do I use Microsoft Azure for free?" [level=3] [ref=e410]:
+                    - button "How do I use Microsoft Azure for free?" [ref=e411] [cursor=pointer]:
+                      - generic [ref=e412]: How do I use Microsoft Azure for free?
+                      - generic:
+                        - img
+            - button "Feedback" [ref=e415] [cursor=pointer]
+        - listitem [ref=e416]:
+          - link "KnowledgeHut" [ref=e418] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=54d87aa0377090a8c4f5fe37920d6d1847c64913096e6e861e8649cb8bff711aJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cua25vd2xlZGdlaHV0LmNvbS9ibG9nL2Nsb3VkLWNvbXB1dGluZy93YXlzLXRvLWdldC1henVyZS1jcmVkaXRz&ntb=1
+            - generic [ref=e423]:
+              - generic [ref=e424]: KnowledgeHut
+              - generic [ref=e427]: https://www.knowledgehut.com › ... › cloud-computing › ways-to-get-azure-cr…
+          - heading "7 Ways to Get Free Azure Credits in 2026 - KnowledgeHut" [level=2] [ref=e428]:
+            - link "7 Ways to Get Free Azure Credits in 2026 - KnowledgeHut":
+              - /url: https://www.bing.com/ck/a?!&&p=54d87aa0377090a8c4f5fe37920d6d1847c64913096e6e861e8649cb8bff711aJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly93d3cua25vd2xlZGdlaHV0LmNvbS9ibG9nL2Nsb3VkLWNvbXB1dGluZy93YXlzLXRvLWdldC1henVyZS1jcmVkaXRz&ntb=1
+          - paragraph [ref=e430]: Jan 9, 2024 · In this guide, I’ll show you how to get Microsoft Azure free credits, which are like vouchers that let you try out Azure without spending …
+        - listitem [ref=e431]:
+          - generic [ref=e432]:
+            - link "Explore this image" [ref=e435] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=ci/67cTc&id=9C8FA95585523FCF0768113E948C1AE57FBCC7A2&thid=OIP.ci_67cTc_2vR2PeYoGP3twHaGL&mediaurl=https://learn.microsoft.com/en-us/credentials/certifications/images/learn-discounts.png&q=microsoft+azure+pass+promo+no+credit+card+training+voucher+2024+2025&ck=DE94456CB80D517A13A3F7D72B931114&idpp=rc&expw=807&exph=673&form=rc2idp
+            - generic [ref=e437]:
+              - link "Microsoft Learn" [ref=e439] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=6e882b9ec34a22bf5403fae3a67dd507598efafc46c62cd923aac929f8a43118JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9sZWFybi5taWNyb3NvZnQuY29tL2VuLXVzL2NyZWRlbnRpYWxzL3N1cHBvcnQvcmVkZWVtLWRpc2NvdW50cw&ntb=1
+                - generic [ref=e444]:
+                  - generic [ref=e445]: Microsoft Learn
+                  - generic [ref=e448]: https://learn.microsoft.com › en-us › credentials › support › …
+              - heading "Vouchers and redeeming discounts | Microsoft Learn" [level=2] [ref=e449]:
+                - link "Vouchers and redeeming discounts | Microsoft Learn" [ref=e450] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=6e882b9ec34a22bf5403fae3a67dd507598efafc46c62cd923aac929f8a43118JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9sZWFybi5taWNyb3NvZnQuY29tL2VuLXVzL2NyZWRlbnRpYWxzL3N1cHBvcnQvcmVkZWVtLWRpc2NvdW50cw&ntb=1
+              - paragraph [ref=e451]: Jul 9, 2024 · Microsoft Learn for Educators student certification. Plan, deliver, manage, and monitor virtual desktop …
+        - listitem [ref=e453]:
+          - link "Microsoft Community" [ref=e455] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=c70aa42360fd0504ce9248866604db4d10aeb73e4e2d1e37e0b84424d38c91dcJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly90ZWNoY29tbXVuaXR5Lm1pY3Jvc29mdC5jb20vZGlzY3Vzc2lvbnMvc2tpbGxzLWh1Yi1kaXNjdXNzaW9ucy93aGF0LWFyZS1hbGwtdGhlLXdheXMtdG8tZ2V0LWRpc2NvdW50LW9yLWZyZWUtdm91Y2hlcnMtZm9yLW1pY3Jvc29mdC1jZXJ0aWZpY2F0aS80NDU2MjYz&ntb=1
+            - generic [ref=e460]:
+              - generic [ref=e461]: Microsoft Community
+              - generic [ref=e464]: https://techcommunity.microsoft.com › discussions › skills-hub-discussions › ...
+          - heading "What are all the ways to get discount or free vouchers for Microsoft ..." [level=2] [ref=e465]:
+            - link "What are all the ways to get discount or free vouchers for Microsoft ...":
+              - /url: https://www.bing.com/ck/a?!&&p=c70aa42360fd0504ce9248866604db4d10aeb73e4e2d1e37e0b84424d38c91dcJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly90ZWNoY29tbXVuaXR5Lm1pY3Jvc29mdC5jb20vZGlzY3Vzc2lvbnMvc2tpbGxzLWh1Yi1kaXNjdXNzaW9ucy93aGF0LWFyZS1hbGwtdGhlLXdheXMtdG8tZ2V0LWRpc2NvdW50LW9yLWZyZWUtdm91Y2hlcnMtZm9yLW1pY3Jvc29mdC1jZXJ0aWZpY2F0aS80NDU2MjYz&ntb=1
+          - paragraph [ref=e467]: Sep 23, 2025 · Microsoft Virtual Training Days / Training events — Many Virtual Training Days (and some in-person training events) offer 50% off or free …
+        - listitem [ref=e468]:
+          - generic [ref=e469]:
+            - link "Explore this image" [ref=e472] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=iPnWyawv&id=C9184D216677D74C4EB23AF71BA936D89CCA138F&thid=OIP.iPnWyawvpnfTr1-IPE_5mgHaD4&mediaurl=https://msfthub.com/og.jpg&q=microsoft+azure+pass+promo+no+credit+card+training+voucher+2024+2025&ck=5152576D15EA376104AA1C4A2EE0A6F3&idpp=rc&expw=1200&exph=630&form=rc2idp
+            - generic [ref=e474]:
+              - link "msfthub.com" [ref=e476] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=65d22dc7feeb61f582b6de98b9ead99e7264e2834c1296af9147242423d03d3dJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9tc2Z0aHViLmNvbS92b3VjaGVycy8&ntb=1
+                - generic [ref=e481]:
+                  - generic [ref=e482]: msfthub.com
+                  - generic [ref=e485]: https://msfthub.com › vouchers
+              - heading "Exam Voucher Collection | Microsoft Certification Hub" [level=2] [ref=e486]:
+                - link "Exam Voucher Collection | Microsoft Certification Hub" [ref=e487] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=65d22dc7feeb61f582b6de98b9ead99e7264e2834c1296af9147242423d03d3dJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cHM6Ly9tc2Z0aHViLmNvbS92b3VjaGVycy8&ntb=1
+              - paragraph [ref=e488]: Virtual Training Days Microsoft Virtual Training Days Vouchers. Learn how to get 50% exam discount for Microsoft …
+        - listitem [ref=e490]:
+          - generic [ref=e491]:
+            - heading "Deep dive into microsoft azure pass promo no credit card training vouc…" [level=2] [ref=e492]:
+              - text: Deep dive into
+              - strong [ref=e493]: microsoft azure pass promo no credit card training vouc
+              - text: …
+            - list [ref=e494]:
+              - listitem [ref=e495]:
+                - link "Azure virtual training days 2025" [ref=e496] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=8b9b30d2a986d5e5fe9bd8d4031d68404da65c02a084887f210882eb04693a4bJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPUF6dXJlK3ZpcnR1YWwrdHJhaW5pbmcrZGF5cysyMDI1JkZPUk09UVNSRTE&ntb=1
+                  - generic [ref=e498]:
+                    - text: Azure
+                    - strong [ref=e499]: virtual
+                    - text: training
+                    - strong [ref=e500]: days
+                    - text: "2025"
+              - listitem [ref=e501]:
+                - link "Azure fundamentals certification voucher" [ref=e502] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=8d4d941e52ad275887658b7367f9c358f10066d2aa46c2adbf150bc329da2ca1JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPUF6dXJlK2Z1bmRhbWVudGFscytjZXJ0aWZpY2F0aW9uK3ZvdWNoZXImRk9STT1RU1JFMg&ntb=1
+                  - generic [ref=e504]:
+                    - text: Azure
+                    - strong [ref=e505]: fundamentals certification
+                    - text: voucher
+        - listitem [ref=e506]:
+          - link "Some results have been removed" [ref=e508] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=c74be6d8b314b5d3831ca78d934d0673988f7c5146531b8935d8d8dc7e6b52cfJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9NjE3MzUw&ntb=1
+        - listitem [ref=e509]:
+          - navigation "More results for microsoft azure pass promo no credit card training voucher 2024 2025":
+            - list:
+              - listitem [ref=e510]:
+                - generic "Page 1" [ref=e511]: "1"
+              - listitem [ref=e512]:
+                - link "Page 2" [ref=e513] [cursor=pointer]:
+                  - /url: /search?q=microsoft+azure+pass+promo+no+credit+card+training+voucher+2024+2025&FPIG=48AA56E17D544E028E8CCBD89CCEE7E7&first=11&FORM=PERE
+                  - text: "2"
+              - listitem [ref=e514]:
+                - link "Page 3" [ref=e515] [cursor=pointer]:
+                  - /url: /search?q=microsoft+azure+pass+promo+no+credit+card+training+voucher+2024+2025&FPIG=48AA56E17D544E028E8CCBD89CCEE7E7&first=21&FORM=PERE1
+                  - text: "3"
+              - listitem [ref=e516]:
+                - link "Next page" [ref=e517] [cursor=pointer]:
+                  - /url: /search?q=microsoft+azure+pass+promo+no+credit+card+training+voucher+2024+2025&FPIG=48AA56E17D544E028E8CCBD89CCEE7E7&first=11&FORM=PORE
+    - complementary "Additional Results" [ref=e518]:
+      - list [ref=e519]:
+        - listitem [ref=e520]:
+          - generic "Related searches" [ref=e521]:
+            - generic [ref=e523]:
+              - heading "Deep dive into microsoft azure pass promo no credit card training vouc…" [level=2] [ref=e525]:
+                - text: Deep dive into
+                - strong [ref=e526]: microsoft azure pass promo no credit card training vouc
+                - text: …
+              - generic [ref=e527]:
+                - link "Azure virtual training days 2025" [ref=e529] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=4ee5ef642d2e9b55166ca52fbf0992f7b3afcb21c4de8cc954eae2cb9c07c95cJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPUF6dXJlK3ZpcnR1YWwrdHJhaW5pbmcrZGF5cysyMDI1JkZPUk09UjVGRA&ntb=1
+                  - generic [ref=e531]:
+                    - text: Azure
+                    - strong [ref=e532]: virtual
+                    - text: training
+                    - strong [ref=e533]: days
+                    - text: "2025"
+                - link "Azure fundamentals certification voucher" [ref=e535] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=6de76ed5ec5abdcf2d56f0d6cd7855f2d3c55cb316ce8bdff9afc4d5daa5ea2bJmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1L3NlYXJjaD9xPUF6dXJlK2Z1bmRhbWVudGFscytjZXJ0aWZpY2F0aW9uK3ZvdWNoZXImRk9STT1SNUZEMQ&ntb=1
+                  - generic [ref=e537]:
+                    - text: Azure
+                    - strong [ref=e538]: fundamentals certification
+                    - text: voucher
+  - contentinfo [ref=e539]:
+    - generic [ref=e540]:
+      - list:
+        - listitem [ref=e541]:
+          - link "Privacy" [ref=e542] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=cae98553507f29bc0d571844060839b8ae37e66d3e6c82f590b8b5b06a960cc1JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSWQ9NTIxODM5&ntb=1
+        - listitem [ref=e543]:
+          - link "Terms" [ref=e544] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=d0b567fac0f38bf0e0805ff229263e7e182d84015d9353d005a8eb0923c4aba9JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=2a945510-567b-6463-2e51-4277572f653b&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9MjQ2MzM4&ntb=1

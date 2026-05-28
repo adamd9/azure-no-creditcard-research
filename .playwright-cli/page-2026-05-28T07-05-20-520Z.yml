@@ -1,0 +1,1116 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e7]:
+      - link "Skip to main content" [ref=e8] [cursor=pointer]:
+        - /url: javascript:void(0)
+      - banner [ref=e9]:
+        - generic [ref=e11]:
+          - text:  
+          - link "Microsoft" [ref=e12] [cursor=pointer]:
+            - /url: https://www.microsoft.com
+            - img [ref=e13]
+            - generic [ref=e14]: Microsoft
+          - text:  
+          - link "Azure" [ref=e16] [cursor=pointer]:
+            - /url: https://azure.microsoft.com/en-us
+            - generic [ref=e17]: Azure
+          - navigation "Contextual menu" [ref=e18]:
+            - list [ref=e19]:
+              - listitem [ref=e20]:
+                - link "Explore" [ref=e21] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/explore/
+              - listitem [ref=e22]:
+                - button "Products " [ref=e24] [cursor=pointer]
+              - listitem [ref=e25]:
+                - button "Solutions " [ref=e27] [cursor=pointer]
+              - listitem [ref=e28]:
+                - button "Pricing " [ref=e30] [cursor=pointer]
+              - listitem [ref=e31]:
+                - button "Partners " [ref=e33] [cursor=pointer]
+              - listitem [ref=e34]:
+                - button "Resources " [ref=e36] [cursor=pointer]
+              - text: 
+          - generic [ref=e37]:
+            - navigation "All Microsoft menu" [ref=e39]:
+              - list:  
+            - search [ref=e40]:
+              - button "Search Azure" [ref=e42] [cursor=pointer]: 
+    - main [ref=e44]:
+      - generic [ref=e47]:
+        - generic [ref=e54]:
+          - heading "Microsoft Azure for Students Starter Offer" [level=1] [ref=e56]
+          - link "Activate Microsoft Azure for Students Starter Offer" [ref=e59] [cursor=pointer]:
+            - /url: https://go.microsoft.com/fwlink/p/?linkid=2244151&clcid=0x409
+            - text: Activate
+        - generic [ref=e65]:
+          - paragraph [ref=e66]:
+            - text: Microsoft Azure for Students Starter gets you started with the Azure products you need to develop in the cloud at no cost to you.*. Enroll
+            - link "here for student verification" [ref=e67] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/p/?linkid=2244151
+              - text: here
+            - text: ". This benefit provides you access to a free tier including that includes the following Azure services:"
+          - list [ref=e68]:
+            - listitem [ref=e69]:
+              - strong [ref=e70]: Azure App Services.
+              - text: "This fully managed cloud offering enables you to build and deploy native and web apps in minutes. Use the technology you love:"
+              - link "ASP.NET" [ref=e71] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/p/?linkid=2244043
+              - text: ", Java, PHP, Node.js, or Python. Add a variety of essential app services, including authentication, social integration, and offline data sync, regardless of whether your app runs on Windows 10, iOS, or Android. Set up continuous integration and deployment workflows with VSO, GitHub, TeamCity, Hudson, or Bitbucket, enabling you to automatically build, test, and deploy your web app on each successful code check-in or integration tests."
+            - listitem [ref=e72]:
+              - strong [ref=e73]: Azure Functions.
+              - text: Write simple, serverless functions in the programming language of your choice to run code on-demand without worrying about infrastructure.
+            - listitem [ref=e74]:
+              - strong [ref=e75]: Notification Hubs.
+              - text: Keep your app in touch with users by sending mobile push notifications tailored by audience, language, and location using any back end and major mobile platform.
+            - listitem [ref=e76]:
+              - strong [ref=e77]: MySQL database from MySQL in-app.
+              - text: This gives you the experience of native MySQL support for your Web Apps. Deploy CMS solutions such as WordPress, Joomla, and more, or custom applications driven by MySQL database.
+            - listitem [ref=e78]:
+              - strong [ref=e79]: Application Insights.
+              - text: Get deep diagnostics and performance telemetry to ensure your web apps and services are running at their maximum potential. Search and analyze your data to continuously improve your application, prioritize future investments, and improve the overall customer experience.
+            - listitem [ref=e80]:
+              - strong [ref=e81]: Azure DevOps.
+              - text: This set of cloud-powered collaboration tools works with your existing IDE or editor so your team can work effectively on software projects of all sizes.
+          - paragraph [ref=e82]: Microsoft Azure for Students Starter is available to verified students at no cost, commitment, or time limit. You can access more services later if you want, but you can host your web apps and websites today with the power of the Microsoft cloud behind you and it won’t cost you anything.
+          - paragraph [ref=e83]:
+            - text: "*Costs are limited by providing access to Azure services that include a free tier of service use. For more details on Azure pricing, please visit our"
+            - link "Pricing page" [ref=e84] [cursor=pointer]:
+              - /url: https://azure.microsoft.com/en-us/pricing/
+            - text: .
+          - paragraph [ref=e85]: Microsoft Azure for Students Starter is available only to students. You must affirm that you are age 13 or older if you reside in the United States and age 16 or older if you reside in a country other than the United States and verify your academic status through your organization’s email address (or Shibboleth, if supported by your organization). This offer is not available for use in a massive open online course (MOOC) or in other professional trainings from for-profit organizations.
+          - paragraph [ref=e86]: This offer is limited to one Microsoft Azure for Students Starter subscription per eligible customer, is non-transferable, and cannot be combined with any other offer unless otherwise permitted by Microsoft. Microsoft may terminate this offer at our sole discretion. Other restrictions may apply.
+          - heading "Upgrades and spending limits" [level=2] [ref=e87]:
+            - generic [ref=e88]: Upgrades and spending limits
+          - paragraph [ref=e89]:
+            - text: You may upgrade to a
+            - link "Pay-As-You-Go subscription" [ref=e90] [cursor=pointer]:
+              - /url: https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0003p/
+            - text: online at any time. This allows continued use of Azure.
+          - heading "Exclusions" [level=2] [ref=e91]:
+            - generic [ref=e92]: Exclusions
+          - paragraph [ref=e93]: You will initially be able to access only Azure services that are available with a free tier of service use. Your account will start with a 0 dollar spending limit, which means you’ll be able to consume only the Azure services that are within the free tier of the service offer.
+          - paragraph [ref=e94]: You will not facilitate, engage in, or participate in any use of Azure services, for crypto currency mining, denial of service attacks, spamming, or illegal activity, and/or any use that could cause harm to Microsoft or others, and will enforce strong internal controls to prevent the same. Microsoft may from time to time contact you regarding your use of your Azure services and you will upon such request provide reasonable documentation regarding your use. If Microsoft believes for any reason that such Azure services are being used for any prohibited purpose, Microsoft may, in its sole discretion, suspend or terminate your access to the Azure services.
+          - heading "Software Download Benefits" [level=2] [ref=e95]:
+            - generic [ref=e96]: Software Download Benefits
+          - paragraph [ref=e97]: Your Subscription will provide you with access to certain Software Download Benefits expressly intended to support your education, non-commercial research, or efforts to design, develop, test, and demonstrate software applications for the above purposes. Software Download Benefits are personal to you and you may not transfer, sell, share, sublicense, assign, or lend them. Your access to and use of the Software Download Benefits are subject to the terms of this Agreement and any separate terms that are specific to the particular benefit. You must have a current, active Azure for Students subscription in order to access most of the Software Download Benefits.
+          - heading "Software" [level=2] [ref=e98]:
+            - generic [ref=e99]: Software
+          - paragraph [ref=e100]: Your installation and use of any software; cloud services or developer tools provided as Software Download Benefits is subject to separate license terms provided with the software, services or tools, such as click-through license terms, except for any changes to those terms that are provided in this Agreement. You may only use these Software Download Benefits in a virtual environment if allowed by the specific product end user license. Of course, you may not use the software, cloud services of developer tools to develop any form of malicious software or spamware.
+          - paragraph [ref=e101]: Certain software may require activation. If so, you must activate the software within the geographic region associated with your Azure for Students subscription.
+          - paragraph [ref=e102]: Certain software may require a key to install or access it. Not all software is provided with the same number of keys. You are responsible for the use of any keys assigned to you. You may not transfer, sell, share, sublicense, assign, or lend keys. Key activity is monitored. Microsoft reserves the right to suspend or terminate your Azure for Students subscription or access to the software, without any notice or obligation to you, if we detect suspicious activity related to keys or activations. Microsoft reserves the right to determine in its sole discretion whether an activity constitutes suspicious activity. Microsoft may deactivate or otherwise limit your keys when your Azure for Students subscription ends. Deactivated keys will not be able to activate software. You will not engage in or facilitate the unauthorized manufacture, duplication, delivery, sale, transfer or use of counterfeit, pirated, unlicensed or illegal Microsoft products or services, or otherwise infringe any of Microsoft’s intellectual property rights. You will timely report to Microsoft any suspected counterfeiting, piracy or other intellectual property infringement, and will reasonably cooperate with Microsoft and its affiliates in the investigation of any such activities. You may not use Software Download Benefits to provide any services to others (such as hosting, web agency, integration or outsourced development, etc.).
+          - paragraph [ref=e103]: The software may include third party code. Any third party scripts or code, linked to or referenced from the software, are licensed to you by the third parties that own such code, not by Microsoft. Notices, if any, for the third party code are included for your information only. The software made available to you in the Microsoft Azure for Students Starter subscription is licensed, not sold, and Microsoft reserves all rights to the software not expressly granted by Microsoft, whether by implication, estoppel, or otherwise.
+          - heading "Exclusions" [level=2] [ref=e104]:
+            - generic [ref=e105]: Exclusions
+          - paragraph [ref=e106]: Azure credits may not be used to purchase Azure support plans, Azure DevOps, Visual Studio subscriptions, Visual Studio Mobile Center services, third-party branded products, products sold through the Azure Marketplace, or products otherwise licensed separately from Azure (for example, Microsoft Azure Active Directory Premium).
+          - heading "Prohibited Use of Microsoft Azure for Students Starter" [level=2] [ref=e107]:
+            - generic [ref=e108]: Prohibited Use of Microsoft Azure for Students Starter
+          - paragraph [ref=e109]: As a condition of your use of Microsoft Azure for Students Starter, you will not use them for any purpose that is unlawful or prohibited by these terms, conditions, and notices. You may not use Azure for Students Starter in any manner that could damage, disable, overburden, or impair any Microsoft server, or the network(s) connected to any Microsoft server, or interfere with any other party's use and enjoyment of Microsoft Azure for Students Starter. You may not attempt to gain unauthorized access to any Microsoft Azure for Students Starter, other accounts, computer systems, or networks connected to any Microsoft server through hacking, password mining, or any other means. You may not obtain or attempt to obtain any materials or information through any means not intentionally made available through the Azure for Students Starter.
+          - paragraph [ref=e110]: "Microsoft Azure for Students Starter and associated website(s) may contain e-mail services, bulletin board services, chat areas, forums, communities, personal web pages, calendars, photo albums, file cabinets, and/or other message or communication facilities designed to enable you to communicate with others (\"Communication Services\"). You agree to use the Communication Services only to post, send, and receive messages and material that are proper and, when applicable, related to the particular Communication Service. By way of example, and not as a limitation, you agree that when using the Communication Services, you will not:"
+          - paragraph [ref=e111]: Use the Communication Services in connection with surveys, contests, pyramid schemes, chain letters, junk email, spamming, or any duplicative or unsolicited messages (commercial or otherwise).
+          - paragraph [ref=e112]: Defame, abuse, harass, stalk, threaten, or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
+          - paragraph [ref=e113]: Publish, post, upload, distribute, or disseminate any inappropriate, profane, defamatory, obscene, indecent, or unlawful topic, name, material, or information.
+          - paragraph [ref=e114]: Upload, or otherwise make available, files that contain images, photographs, software, or other material protected by intellectual property laws, including, by way of example, and not as limitation, copyright or trademark laws (or by rights of privacy or publicity) unless you own or control the rights thereto or have received all necessary consent to do the same.
+          - paragraph [ref=e115]: Use any material or information, including images or photographs, which are made available through the Communication Services in any manner that infringes any copyright, trademark, patent, trade secret, or other proprietary right of any party.
+          - paragraph [ref=e116]: Upload files that contain viruses, Trojan horses, worms, time bombs, ransomware, cancelbots, corrupted files, malware in general, or any other similar software or programs that may damage the operation of another's computer or property of another.
+          - paragraph [ref=e117]: Advertise or offer to sell or buy any goods or services for any business purpose, unless such Communication Services specifically allows such messages.
+          - paragraph [ref=e118]: Download any file posted by another user of a Communication Service that you know, or reasonably should know, cannot be legally reproduced, displayed, performed, and/or distributed in such manner.
+          - paragraph [ref=e119]: Falsify or delete any copyright management information, such as author attributions, legal or other proper notices, or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded.
+          - paragraph [ref=e120]: Restrict or inhibit any other user from using and enjoying the Communication Services.
+          - paragraph [ref=e121]: Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.
+          - paragraph [ref=e122]: Harvest or otherwise collect information about others, including e-mail addresses.
+          - paragraph [ref=e123]: Violate any applicable laws or regulations.
+          - paragraph [ref=e124]: Create a false identity for the purpose of misleading others.
+          - paragraph [ref=e125]: Use, download, or otherwise copy, or provide (whether or not for a fee) to a person or entity any directory of users of Azure for Students or other user or usage information or any portion thereof.
+          - paragraph [ref=e126]: Microsoft has no obligation to monitor the Communication Services. However, Microsoft reserves the right to review materials posted to the Communication Services and to remove any materials in its sole discretion.
+          - paragraph [ref=e127]: Microsoft reserves the right at all times to disclose any information as Microsoft deems necessary to satisfy any applicable law, regulation, legal process, or governmental request, or to edit, refuse to post, or to remove any information or materials, in whole or in part, in Microsoft's sole discretion.
+          - paragraph [ref=e128]: Always use caution when giving out any personally identifiable information about yourself and sensitive information in any Communication Services.
+          - paragraph [ref=e129]: Microsoft does not control or endorse the content, messages or information found in any Communication Services, and Microsoft specifically disclaims any liability with regard to the Communication Services. Managers and hosts are not authorized Microsoft spokespersons, and their views do not necessarily reflect those of Microsoft.
+          - paragraph [ref=e130]: Materials uploaded to the Communication Services may be subject to posted limitations on usage, reproduction, or dissemination. You are responsible for adhering to such limitations if you download the materials.
+          - heading "Communications policy" [level=2] [ref=e131]:
+            - generic [ref=e132]: Communications policy
+          - paragraph [ref=e133]: You may receive periodic email communications with best practices, training, tips and tricks, and valuable offers related to Azure and other Microsoft academic programs and services. You can stop receiving communications by opting out via the unsubscribe link in the emails. Read the Microsoft privacy statement.
+          - heading "Payment options" [level=2] [ref=e134]:
+            - generic [ref=e135]: Payment options
+          - paragraph [ref=e136]:
+            - text: A credit card is not required for the Azure for Students Starter offer. You may upgrade to a
+            - link "Pay-As-You-Go subscription" [ref=e137] [cursor=pointer]:
+              - /url: https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0003p/
+            - text: online.
+          - heading "Cancellation policy" [level=2] [ref=e138]:
+            - generic [ref=e139]: Cancellation policy
+          - paragraph [ref=e140]: You may cancel at any time. Payment is required for any outstanding fees incurred.
+          - heading "Renewal policy" [level=2] [ref=e141]:
+            - generic [ref=e142]: Renewal policy
+          - paragraph [ref=e143]: As long as you are a validated user of the Microsoft Azure for Students Starter program, you will have access rights to this offering.
+          - heading "Use rights" [level=2] [ref=e144]:
+            - generic [ref=e145]: Use rights
+          - paragraph [ref=e146]: Azure’s Microsoft Imagine benefit is intended for development and test purposes. Production workloads must be run on a different Azure subscription.
+          - heading "Offer availability" [level=2] [ref=e147]:
+            - generic [ref=e148]: Offer availability
+          - paragraph [ref=e149]: "This offer is available to customers located in the following countries/regions and will be billed in the currency noted:"
+        - generic [ref=e153]:
+          - generic [ref=e158]:
+            - generic [ref=e160]:
+              - list
+            - table "organization-wide support plan" [ref=e162]:
+              - caption [ref=e163]: organization-wide support plan
+              - rowgroup [ref=e164]:
+                - row "Country/Region Billing currency" [ref=e165]:
+                  - columnheader "Country/Region" [ref=e166]
+                  - columnheader "Billing currency" [ref=e167]
+              - rowgroup [ref=e168]:
+                - row "Afghanistan United States – Dollar ($) USD" [ref=e169]:
+                  - cell "Afghanistan" [ref=e170]:
+                    - paragraph [ref=e174]: Afghanistan
+                  - cell "United States – Dollar ($) USD" [ref=e175]:
+                    - paragraph [ref=e179]: United States – Dollar ($) USD
+                - row "Albania United States – Dollar ($) USD" [ref=e180]:
+                  - cell "Albania" [ref=e181]:
+                    - paragraph [ref=e185]: Albania
+                  - cell "United States – Dollar ($) USD" [ref=e186]:
+                    - paragraph [ref=e190]: United States – Dollar ($) USD
+                - row "Algeria United States – Dollar ($) USD" [ref=e191]:
+                  - cell "Algeria" [ref=e192]:
+                    - paragraph [ref=e196]: Algeria
+                  - cell "United States – Dollar ($) USD" [ref=e197]:
+                    - paragraph [ref=e201]: United States – Dollar ($) USD
+                - row "Angola United States – Dollar ($) USD" [ref=e202]:
+                  - cell "Angola" [ref=e203]:
+                    - paragraph [ref=e207]: Angola
+                  - cell "United States – Dollar ($) USD" [ref=e208]:
+                    - paragraph [ref=e212]: United States – Dollar ($) USD
+                - row "Argentina United States – Dollar ($) USD" [ref=e213]:
+                  - cell "Argentina" [ref=e214]:
+                    - paragraph [ref=e218]: Argentina
+                  - cell "United States – Dollar ($) USD" [ref=e219]:
+                    - paragraph [ref=e223]: United States – Dollar ($) USD
+                - row "Armenia United States – Dollar ($) USD" [ref=e224]:
+                  - cell "Armenia" [ref=e225]:
+                    - paragraph [ref=e229]: Armenia
+                  - cell "United States – Dollar ($) USD" [ref=e230]:
+                    - paragraph [ref=e234]: United States – Dollar ($) USD
+                - row "Australia Australia – Dollar ($) AUD" [ref=e235]:
+                  - cell "Australia" [ref=e236]:
+                    - paragraph [ref=e240]: Australia
+                  - cell "Australia – Dollar ($) AUD" [ref=e241]:
+                    - paragraph [ref=e245]: Australia – Dollar ($) AUD
+                - row "Austria Euro Zone – Euro (€) EUR" [ref=e246]:
+                  - cell "Austria" [ref=e247]:
+                    - paragraph [ref=e251]: Austria
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e252]:
+                    - paragraph [ref=e256]: Euro Zone – Euro (€) EUR
+                - row "Azerbaijan United States – Dollar ($) USD" [ref=e257]:
+                  - cell "Azerbaijan" [ref=e258]:
+                    - paragraph [ref=e262]: Azerbaijan
+                  - cell "United States – Dollar ($) USD" [ref=e263]:
+                    - paragraph [ref=e267]: United States – Dollar ($) USD
+                - row "Bahamas United States – Dollar ($) USD" [ref=e268]:
+                  - cell "Bahamas" [ref=e269]:
+                    - paragraph [ref=e273]: Bahamas
+                  - cell "United States – Dollar ($) USD" [ref=e274]:
+                    - paragraph [ref=e278]: United States – Dollar ($) USD
+                - row "Bahrain United States – Dollar ($) USD" [ref=e279]:
+                  - cell "Bahrain" [ref=e280]:
+                    - paragraph [ref=e284]: Bahrain
+                  - cell "United States – Dollar ($) USD" [ref=e285]:
+                    - paragraph [ref=e289]: United States – Dollar ($) USD
+                - row "Bangladesh United States – Dollar ($) USD" [ref=e290]:
+                  - cell "Bangladesh" [ref=e291]:
+                    - paragraph [ref=e295]: Bangladesh
+                  - cell "United States – Dollar ($) USD" [ref=e296]:
+                    - paragraph [ref=e300]: United States – Dollar ($) USD
+                - row "Barbados United States – Dollar ($) USD" [ref=e301]:
+                  - cell "Barbados" [ref=e302]:
+                    - paragraph [ref=e306]: Barbados
+                  - cell "United States – Dollar ($) USD" [ref=e307]:
+                    - paragraph [ref=e311]: United States – Dollar ($) USD
+                - row "Belgium Euro Zone – Euro (€) EUR" [ref=e312]:
+                  - cell "Belgium" [ref=e313]:
+                    - paragraph [ref=e317]: Belgium
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e318]:
+                    - paragraph [ref=e322]: Euro Zone – Euro (€) EUR
+                - row "Belize United States – Dollar ($) USD" [ref=e323]:
+                  - cell "Belize" [ref=e324]:
+                    - paragraph [ref=e328]: Belize
+                  - cell "United States – Dollar ($) USD" [ref=e329]:
+                    - paragraph [ref=e333]: United States – Dollar ($) USD
+                - row "Bermuda United States – Dollar ($) USD" [ref=e334]:
+                  - cell "Bermuda" [ref=e335]:
+                    - paragraph [ref=e339]: Bermuda
+                  - cell "United States – Dollar ($) USD" [ref=e340]:
+                    - paragraph [ref=e344]: United States – Dollar ($) USD
+                - row "Bolivia United States – Dollar ($) USD" [ref=e345]:
+                  - cell "Bolivia" [ref=e346]:
+                    - paragraph [ref=e350]: Bolivia
+                  - cell "United States – Dollar ($) USD" [ref=e351]:
+                    - paragraph [ref=e355]: United States – Dollar ($) USD
+                - row "Bosnia and Herzegovina United States – Dollar ($) USD" [ref=e356]:
+                  - cell "Bosnia and Herzegovina" [ref=e357]:
+                    - paragraph [ref=e361]: Bosnia and Herzegovina
+                  - cell "United States – Dollar ($) USD" [ref=e362]:
+                    - paragraph [ref=e366]: United States – Dollar ($) USD
+                - row "Botswana United States – Dollar ($) USD" [ref=e367]:
+                  - cell "Botswana" [ref=e368]:
+                    - paragraph [ref=e372]: Botswana
+                  - cell "United States – Dollar ($) USD" [ref=e373]:
+                    - paragraph [ref=e377]: United States – Dollar ($) USD
+                - row "Brazil Brazil – Real (R$) BRL" [ref=e378]:
+                  - cell "Brazil" [ref=e379]:
+                    - paragraph [ref=e383]: Brazil
+                  - cell "Brazil – Real (R$) BRL" [ref=e384]:
+                    - paragraph [ref=e388]: Brazil – Real (R$) BRL
+                - row "Brunei Darussalam United States – Dollar ($) USD" [ref=e389]:
+                  - cell "Brunei Darussalam" [ref=e390]:
+                    - paragraph [ref=e394]: Brunei Darussalam
+                  - cell "United States – Dollar ($) USD" [ref=e395]:
+                    - paragraph [ref=e399]: United States – Dollar ($) USD
+                - row "Bulgaria Euro Zone – Euro (€) EUR" [ref=e400]:
+                  - cell "Bulgaria" [ref=e401]:
+                    - paragraph [ref=e405]: Bulgaria
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e406]:
+                    - paragraph [ref=e410]: Euro Zone – Euro (€) EUR
+                - row "Republic of Cabo Verde United States – Dollar ($) USD" [ref=e411]:
+                  - cell "Republic of Cabo Verde" [ref=e412]:
+                    - paragraph [ref=e416]: Republic of Cabo Verde
+                  - cell "United States – Dollar ($) USD" [ref=e417]:
+                    - paragraph [ref=e421]: United States – Dollar ($) USD
+                - row "Cameroon United States – Dollar ($) USD" [ref=e422]:
+                  - cell "Cameroon" [ref=e423]:
+                    - paragraph [ref=e427]: Cameroon
+                  - cell "United States – Dollar ($) USD" [ref=e428]:
+                    - paragraph [ref=e432]: United States – Dollar ($) USD
+                - row "Canada Canada – Dollar ($) CAD" [ref=e433]:
+                  - cell "Canada" [ref=e434]:
+                    - paragraph [ref=e438]: Canada
+                  - cell "Canada – Dollar ($) CAD" [ref=e439]:
+                    - paragraph [ref=e443]: Canada – Dollar ($) CAD
+                - row "Cayman Islands United States – Dollar ($) USD" [ref=e444]:
+                  - cell "Cayman Islands" [ref=e445]:
+                    - paragraph [ref=e449]: Cayman Islands
+                  - cell "United States – Dollar ($) USD" [ref=e450]:
+                    - paragraph [ref=e454]: United States – Dollar ($) USD
+                - row "Chile United States – Dollar ($) USD" [ref=e455]:
+                  - cell "Chile" [ref=e456]:
+                    - paragraph [ref=e460]: Chile
+                  - cell "United States – Dollar ($) USD" [ref=e461]:
+                    - paragraph [ref=e465]: United States – Dollar ($) USD
+                - row "Colombia United States – Dollar ($) USD" [ref=e466]:
+                  - cell "Colombia" [ref=e467]:
+                    - paragraph [ref=e471]: Colombia
+                  - cell "United States – Dollar ($) USD" [ref=e472]:
+                    - paragraph [ref=e476]: United States – Dollar ($) USD
+                - row "Republic of the Congo United States – Dollar ($) USD" [ref=e477]:
+                  - cell "Republic of the Congo" [ref=e478]:
+                    - paragraph [ref=e482]: Republic of the Congo
+                  - cell "United States – Dollar ($) USD" [ref=e483]:
+                    - paragraph [ref=e487]: United States – Dollar ($) USD
+                - row "Costa Rica United States – Dollar ($) USD" [ref=e488]:
+                  - cell "Costa Rica" [ref=e489]:
+                    - paragraph [ref=e493]: Costa Rica
+                  - cell "United States – Dollar ($) USD" [ref=e494]:
+                    - paragraph [ref=e498]: United States – Dollar ($) USD
+                - row "Côte d'Ivoire United States – Dollar ($) USD" [ref=e499]:
+                  - cell "Côte d'Ivoire" [ref=e500]:
+                    - paragraph [ref=e504]: Côte d'Ivoire
+                  - cell "United States – Dollar ($) USD" [ref=e505]:
+                    - paragraph [ref=e509]: United States – Dollar ($) USD
+                - row "Croatia Euro Zone – Euro (€) EUR" [ref=e510]:
+                  - cell "Croatia" [ref=e511]:
+                    - paragraph [ref=e515]: Croatia
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e516]:
+                    - paragraph [ref=e520]: Euro Zone – Euro (€) EUR
+                - row "Curaçao United States – Dollar ($) USD" [ref=e521]:
+                  - cell "Curaçao" [ref=e522]:
+                    - paragraph [ref=e526]: Curaçao
+                  - cell "United States – Dollar ($) USD" [ref=e527]:
+                    - paragraph [ref=e531]: United States – Dollar ($) USD
+                - row "Cyprus Euro Zone – Euro (€) EUR" [ref=e532]:
+                  - cell "Cyprus" [ref=e533]:
+                    - paragraph [ref=e537]: Cyprus
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e538]:
+                    - paragraph [ref=e542]: Euro Zone – Euro (€) EUR
+                - row "Czech Republic Euro Zone – Euro (€) EUR" [ref=e543]:
+                  - cell "Czech Republic" [ref=e544]:
+                    - paragraph [ref=e548]: Czech Republic
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e549]:
+                    - paragraph [ref=e553]: Euro Zone – Euro (€) EUR
+                - row "Denmark Denmark – Krone (kr) DKK" [ref=e554]:
+                  - cell "Denmark" [ref=e555]:
+                    - paragraph [ref=e559]: Denmark
+                  - cell "Denmark – Krone (kr) DKK" [ref=e560]:
+                    - paragraph [ref=e564]: Denmark – Krone (kr) DKK
+                - row "Dominican Republic United States – Dollar ($) USD" [ref=e565]:
+                  - cell "Dominican Republic" [ref=e566]:
+                    - paragraph [ref=e570]: Dominican Republic
+                  - cell "United States – Dollar ($) USD" [ref=e571]:
+                    - paragraph [ref=e575]: United States – Dollar ($) USD
+                - row "Ecuador United States – Dollar ($) USD" [ref=e576]:
+                  - cell "Ecuador" [ref=e577]:
+                    - paragraph [ref=e581]: Ecuador
+                  - cell "United States – Dollar ($) USD" [ref=e582]:
+                    - paragraph [ref=e586]: United States – Dollar ($) USD
+                - row "Egypt United States – Dollar ($) USD" [ref=e587]:
+                  - cell "Egypt" [ref=e588]:
+                    - paragraph [ref=e592]: Egypt
+                  - cell "United States – Dollar ($) USD" [ref=e593]:
+                    - paragraph [ref=e597]: United States – Dollar ($) USD
+                - row "El Salvador United States – Dollar ($) USD" [ref=e598]:
+                  - cell "El Salvador" [ref=e599]:
+                    - paragraph [ref=e603]: El Salvador
+                  - cell "United States – Dollar ($) USD" [ref=e604]:
+                    - paragraph [ref=e608]: United States – Dollar ($) USD
+                - row "Estonia Euro Zone – Euro (€) EUR" [ref=e609]:
+                  - cell "Estonia" [ref=e610]:
+                    - paragraph [ref=e614]: Estonia
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e615]:
+                    - paragraph [ref=e619]: Euro Zone – Euro (€) EUR
+                - row "Ethiopia United States – Dollar ($) USD" [ref=e620]:
+                  - cell "Ethiopia" [ref=e621]:
+                    - paragraph [ref=e625]: Ethiopia
+                  - cell "United States – Dollar ($) USD" [ref=e626]:
+                    - paragraph [ref=e630]: United States – Dollar ($) USD
+                - row "Faroe Islands Denmark – Krone (kr) DKK" [ref=e631]:
+                  - cell "Faroe Islands" [ref=e632]:
+                    - paragraph [ref=e636]: Faroe Islands
+                  - cell "Denmark – Krone (kr) DKK" [ref=e637]:
+                    - paragraph [ref=e641]: Denmark – Krone (kr) DKK
+                - row "Fiji Australia – Dollar ($) AUD" [ref=e642]:
+                  - cell "Fiji" [ref=e643]:
+                    - paragraph [ref=e647]: Fiji
+                  - cell "Australia – Dollar ($) AUD" [ref=e648]:
+                    - paragraph [ref=e652]: Australia – Dollar ($) AUD
+                - row "Finland Euro Zone – Euro (€) EUR" [ref=e653]:
+                  - cell "Finland" [ref=e654]:
+                    - paragraph [ref=e658]: Finland
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e659]:
+                    - paragraph [ref=e663]: Euro Zone – Euro (€) EUR
+                - row "France Euro Zone – Euro (€) EUR" [ref=e664]:
+                  - cell "France" [ref=e665]:
+                    - paragraph [ref=e669]: France
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e670]:
+                    - paragraph [ref=e674]: Euro Zone – Euro (€) EUR
+                - row "Georgia United States – Dollar ($) USD" [ref=e675]:
+                  - cell "Georgia" [ref=e676]:
+                    - paragraph [ref=e680]: Georgia
+                  - cell "United States – Dollar ($) USD" [ref=e681]:
+                    - paragraph [ref=e685]: United States – Dollar ($) USD
+                - row "Germany Euro Zone – Euro (€) EUR" [ref=e686]:
+                  - cell "Germany" [ref=e687]:
+                    - paragraph [ref=e691]: Germany
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e692]:
+                    - paragraph [ref=e696]: Euro Zone – Euro (€) EUR
+                - row "Ghana United States – Dollar ($) USD" [ref=e697]:
+                  - cell "Ghana" [ref=e698]:
+                    - paragraph [ref=e702]: Ghana
+                  - cell "United States – Dollar ($) USD" [ref=e703]:
+                    - paragraph [ref=e707]: United States – Dollar ($) USD
+                - row "Greece Euro Zone – Euro (€) EUR" [ref=e708]:
+                  - cell "Greece" [ref=e709]:
+                    - paragraph [ref=e713]: Greece
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e714]:
+                    - paragraph [ref=e718]: Euro Zone – Euro (€) EUR
+                - row "Guatemala United States – Dollar ($) USD" [ref=e719]:
+                  - cell "Guatemala" [ref=e720]:
+                    - paragraph [ref=e724]: Guatemala
+                  - cell "United States – Dollar ($) USD" [ref=e725]:
+                    - paragraph [ref=e729]: United States – Dollar ($) USD
+                - row "Honduras United States – Dollar ($) USD" [ref=e730]:
+                  - cell "Honduras" [ref=e731]:
+                    - paragraph [ref=e735]: Honduras
+                  - cell "United States – Dollar ($) USD" [ref=e736]:
+                    - paragraph [ref=e740]: United States – Dollar ($) USD
+                - row "Hong Kong United States – Dollar ($) USD" [ref=e741]:
+                  - cell "Hong Kong" [ref=e742]:
+                    - paragraph [ref=e746]: Hong Kong
+                  - cell "United States – Dollar ($) USD" [ref=e747]:
+                    - paragraph [ref=e751]: United States – Dollar ($) USD
+                - row "Hungary Euro Zone – Euro (€) EUR" [ref=e752]:
+                  - cell "Hungary" [ref=e753]:
+                    - paragraph [ref=e757]: Hungary
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e758]:
+                    - paragraph [ref=e762]: Euro Zone – Euro (€) EUR
+                - row "Iceland Euro Zone – Euro (€) EUR" [ref=e763]:
+                  - cell "Iceland" [ref=e764]:
+                    - paragraph [ref=e768]: Iceland
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e769]:
+                    - paragraph [ref=e773]: Euro Zone – Euro (€) EUR
+                - row "India India – Rupee (₹) INR" [ref=e774]:
+                  - cell "India" [ref=e775]:
+                    - paragraph [ref=e779]: India
+                  - cell "India – Rupee (₹) INR" [ref=e780]:
+                    - paragraph [ref=e784]: India – Rupee (₹) INR
+                - row "Indonesia United States – Dollar ($) USD" [ref=e785]:
+                  - cell "Indonesia" [ref=e786]:
+                    - paragraph [ref=e790]: Indonesia
+                  - cell "United States – Dollar ($) USD" [ref=e791]:
+                    - paragraph [ref=e795]: United States – Dollar ($) USD
+                - row "Iraq United States – Dollar ($) USD" [ref=e796]:
+                  - cell "Iraq" [ref=e797]:
+                    - paragraph [ref=e801]: Iraq
+                  - cell "United States – Dollar ($) USD" [ref=e802]:
+                    - paragraph [ref=e806]: United States – Dollar ($) USD
+                - row "Ireland Euro Zone – Euro (€) EUR" [ref=e807]:
+                  - cell "Ireland" [ref=e808]:
+                    - paragraph [ref=e812]: Ireland
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e813]:
+                    - paragraph [ref=e817]: Euro Zone – Euro (€) EUR
+                - row "Israel United States – Dollar ($) USD" [ref=e818]:
+                  - cell "Israel" [ref=e819]:
+                    - paragraph [ref=e823]: Israel
+                  - cell "United States – Dollar ($) USD" [ref=e824]:
+                    - paragraph [ref=e828]: United States – Dollar ($) USD
+                - row "Italy Euro Zone – Euro (€) EUR" [ref=e829]:
+                  - cell "Italy" [ref=e830]:
+                    - paragraph [ref=e834]: Italy
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e835]:
+                    - paragraph [ref=e839]: Euro Zone – Euro (€) EUR
+                - row "Jamaica United States – Dollar ($) USD" [ref=e840]:
+                  - cell "Jamaica" [ref=e841]:
+                    - paragraph [ref=e845]: Jamaica
+                  - cell "United States – Dollar ($) USD" [ref=e846]:
+                    - paragraph [ref=e850]: United States – Dollar ($) USD
+                - row "Japan Japan – Yen (¥) JPY" [ref=e851]:
+                  - cell "Japan" [ref=e852]:
+                    - paragraph [ref=e856]: Japan
+                  - cell "Japan – Yen (¥) JPY" [ref=e857]:
+                    - paragraph [ref=e861]: Japan – Yen (¥) JPY
+                - row "Jordan United States – Dollar ($) USD" [ref=e862]:
+                  - cell "Jordan" [ref=e863]:
+                    - paragraph [ref=e867]: Jordan
+                  - cell "United States – Dollar ($) USD" [ref=e868]:
+                    - paragraph [ref=e872]: United States – Dollar ($) USD
+                - row "Kazakhstan United States – Dollar ($) USD" [ref=e873]:
+                  - cell "Kazakhstan" [ref=e874]:
+                    - paragraph [ref=e878]: Kazakhstan
+                  - cell "United States – Dollar ($) USD" [ref=e879]:
+                    - paragraph [ref=e883]: United States – Dollar ($) USD
+                - row "Kenya United States – Dollar ($) USD" [ref=e884]:
+                  - cell "Kenya" [ref=e885]:
+                    - paragraph [ref=e889]: Kenya
+                  - cell "United States – Dollar ($) USD" [ref=e890]:
+                    - paragraph [ref=e894]: United States – Dollar ($) USD
+                - row "Korea Korea – Won (₩) KRW" [ref=e895]:
+                  - cell "Korea" [ref=e896]:
+                    - paragraph [ref=e900]: Korea
+                  - cell "Korea – Won (₩) KRW" [ref=e901]:
+                    - paragraph [ref=e905]: Korea – Won (₩) KRW
+                - row "Kuwait United States – Dollar ($) USD" [ref=e906]:
+                  - cell "Kuwait" [ref=e907]:
+                    - paragraph [ref=e911]: Kuwait
+                  - cell "United States – Dollar ($) USD" [ref=e912]:
+                    - paragraph [ref=e916]: United States – Dollar ($) USD
+                - row "Kyrgyzstan United States – Dollar ($) USD" [ref=e917]:
+                  - cell "Kyrgyzstan" [ref=e918]:
+                    - paragraph [ref=e922]: Kyrgyzstan
+                  - cell "United States – Dollar ($) USD" [ref=e923]:
+                    - paragraph [ref=e927]: United States – Dollar ($) USD
+                - row "Latvia Euro Zone – Euro (€) EUR" [ref=e928]:
+                  - cell "Latvia" [ref=e929]:
+                    - paragraph [ref=e933]: Latvia
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e934]:
+                    - paragraph [ref=e938]: Euro Zone – Euro (€) EUR
+          - generic [ref=e943]:
+            - generic [ref=e945]:
+              - list
+            - table "organization-wide support plan" [ref=e947]:
+              - caption [ref=e948]: organization-wide support plan
+              - rowgroup [ref=e949]:
+                - row "Country/Region Billing currency" [ref=e950]:
+                  - columnheader "Country/Region" [ref=e951]
+                  - columnheader "Billing currency" [ref=e952]
+              - rowgroup [ref=e953]:
+                - row "Lebanon United States – Dollar ($) USD" [ref=e954]:
+                  - cell "Lebanon" [ref=e955]:
+                    - paragraph [ref=e959]: Lebanon
+                  - cell "United States – Dollar ($) USD" [ref=e960]:
+                    - paragraph [ref=e964]: United States – Dollar ($) USD
+                - row "Libya United States – Dollar ($) USD" [ref=e965]:
+                  - cell "Libya" [ref=e966]:
+                    - paragraph [ref=e970]: Libya
+                  - cell "United States – Dollar ($) USD" [ref=e971]:
+                    - paragraph [ref=e975]: United States – Dollar ($) USD
+                - row "Liechtenstein Euro Zone – Euro (€) EUR" [ref=e976]:
+                  - cell "Liechtenstein" [ref=e977]:
+                    - paragraph [ref=e981]: Liechtenstein
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e982]:
+                    - paragraph [ref=e986]: Euro Zone – Euro (€) EUR
+                - row "Lithuania Euro Zone – Euro (€) EUR" [ref=e987]:
+                  - cell "Lithuania" [ref=e988]:
+                    - paragraph [ref=e992]: Lithuania
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e993]:
+                    - paragraph [ref=e997]: Euro Zone – Euro (€) EUR
+                - row "Luxembourg Euro Zone – Euro (€) EUR" [ref=e998]:
+                  - cell "Luxembourg" [ref=e999]:
+                    - paragraph [ref=e1003]: Luxembourg
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e1004]:
+                    - paragraph [ref=e1008]: Euro Zone – Euro (€) EUR
+                - row "Macao United States – Dollar ($) USD" [ref=e1009]:
+                  - cell "Macao" [ref=e1010]:
+                    - paragraph [ref=e1014]: Macao
+                  - cell "United States – Dollar ($) USD" [ref=e1015]:
+                    - paragraph [ref=e1019]: United States – Dollar ($) USD
+                - row "Macedonia (FYRO) United States – Dollar ($) USD" [ref=e1020]:
+                  - cell "Macedonia (FYRO)" [ref=e1021]:
+                    - paragraph [ref=e1025]: Macedonia (FYRO)
+                  - cell "United States – Dollar ($) USD" [ref=e1026]:
+                    - paragraph [ref=e1030]: United States – Dollar ($) USD
+                - row "Malaysia United States – Dollar ($) USD" [ref=e1031]:
+                  - cell "Malaysia" [ref=e1032]:
+                    - paragraph [ref=e1036]: Malaysia
+                  - cell "United States – Dollar ($) USD" [ref=e1037]:
+                    - paragraph [ref=e1041]: United States – Dollar ($) USD
+                - row "Malta Euro Zone – Euro (€) EUR" [ref=e1042]:
+                  - cell "Malta" [ref=e1043]:
+                    - paragraph [ref=e1047]: Malta
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e1048]:
+                    - paragraph [ref=e1052]: Euro Zone – Euro (€) EUR
+                - row "Mauritius United States – Dollar ($) USD" [ref=e1053]:
+                  - cell "Mauritius" [ref=e1054]:
+                    - paragraph [ref=e1058]: Mauritius
+                  - cell "United States – Dollar ($) USD" [ref=e1059]:
+                    - paragraph [ref=e1063]: United States – Dollar ($) USD
+                - row "Mexico United States – Dollar ($) USD" [ref=e1064]:
+                  - cell "Mexico" [ref=e1065]:
+                    - paragraph [ref=e1069]: Mexico
+                  - cell "United States – Dollar ($) USD" [ref=e1070]:
+                    - paragraph [ref=e1074]: United States – Dollar ($) USD
+                - row "Moldova United States – Dollar ($) USD" [ref=e1075]:
+                  - cell "Moldova" [ref=e1076]:
+                    - paragraph [ref=e1080]: Moldova
+                  - cell "United States – Dollar ($) USD" [ref=e1081]:
+                    - paragraph [ref=e1085]: United States – Dollar ($) USD
+                - row "Monaco Euro Zone – Euro (€) EUR" [ref=e1086]:
+                  - cell "Monaco" [ref=e1087]:
+                    - paragraph [ref=e1091]: Monaco
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e1092]:
+                    - paragraph [ref=e1096]: Euro Zone – Euro (€) EUR
+                - row "Mongolia United States – Dollar ($) USD" [ref=e1097]:
+                  - cell "Mongolia" [ref=e1098]:
+                    - paragraph [ref=e1102]: Mongolia
+                  - cell "United States – Dollar ($) USD" [ref=e1103]:
+                    - paragraph [ref=e1107]: United States – Dollar ($) USD
+                - row "Montenegro United States – Dollar ($) USD" [ref=e1108]:
+                  - cell "Montenegro" [ref=e1109]:
+                    - paragraph [ref=e1113]: Montenegro
+                  - cell "United States – Dollar ($) USD" [ref=e1114]:
+                    - paragraph [ref=e1118]: United States – Dollar ($) USD
+                - row "Morocco United States – Dollar ($) USD" [ref=e1119]:
+                  - cell "Morocco" [ref=e1120]:
+                    - paragraph [ref=e1124]: Morocco
+                  - cell "United States – Dollar ($) USD" [ref=e1125]:
+                    - paragraph [ref=e1129]: United States – Dollar ($) USD
+                - row "Namibia United States – Dollar ($) USD" [ref=e1130]:
+                  - cell "Namibia" [ref=e1131]:
+                    - paragraph [ref=e1135]: Namibia
+                  - cell "United States – Dollar ($) USD" [ref=e1136]:
+                    - paragraph [ref=e1140]: United States – Dollar ($) USD
+                - row "Nepal United States – Dollar ($) USD" [ref=e1141]:
+                  - cell "Nepal" [ref=e1142]:
+                    - paragraph [ref=e1146]: Nepal
+                  - cell "United States – Dollar ($) USD" [ref=e1147]:
+                    - paragraph [ref=e1151]: United States – Dollar ($) USD
+                - row "Netherlands Euro Zone – Euro (€) EUR" [ref=e1152]:
+                  - cell "Netherlands" [ref=e1153]:
+                    - paragraph [ref=e1157]: Netherlands
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e1158]:
+                    - paragraph [ref=e1162]: Euro Zone – Euro (€) EUR
+                - row "New Zealand New Zealand – Dollar ($) NZD" [ref=e1163]:
+                  - cell "New Zealand" [ref=e1164]:
+                    - paragraph [ref=e1168]: New Zealand
+                  - cell "New Zealand – Dollar ($) NZD" [ref=e1169]:
+                    - paragraph [ref=e1173]: New Zealand – Dollar ($) NZD
+                - row "Nicaragua United States – Dollar ($) USD" [ref=e1174]:
+                  - cell "Nicaragua" [ref=e1175]:
+                    - paragraph [ref=e1179]: Nicaragua
+                  - cell "United States – Dollar ($) USD" [ref=e1180]:
+                    - paragraph [ref=e1184]: United States – Dollar ($) USD
+                - row "Nigeria United States – Dollar ($) USD" [ref=e1185]:
+                  - cell "Nigeria" [ref=e1186]:
+                    - paragraph [ref=e1190]: Nigeria
+                  - cell "United States – Dollar ($) USD" [ref=e1191]:
+                    - paragraph [ref=e1195]: United States – Dollar ($) USD
+                - row "Norway Norway – Krone (kr) NOK" [ref=e1196]:
+                  - cell "Norway" [ref=e1197]:
+                    - paragraph [ref=e1201]: Norway
+                  - cell "Norway – Krone (kr) NOK" [ref=e1202]:
+                    - paragraph [ref=e1206]: Norway – Krone (kr) NOK
+                - row "Oman United States – Dollar ($) USD" [ref=e1207]:
+                  - cell "Oman" [ref=e1208]:
+                    - paragraph [ref=e1212]: Oman
+                  - cell "United States – Dollar ($) USD" [ref=e1213]:
+                    - paragraph [ref=e1217]: United States – Dollar ($) USD
+                - row "Pakistan United States – Dollar ($) USD" [ref=e1218]:
+                  - cell "Pakistan" [ref=e1219]:
+                    - paragraph [ref=e1223]: Pakistan
+                  - cell "United States – Dollar ($) USD" [ref=e1224]:
+                    - paragraph [ref=e1228]: United States – Dollar ($) USD
+                - row "Palestinian Authority United States – Dollar ($) USD" [ref=e1229]:
+                  - cell "Palestinian Authority" [ref=e1230]:
+                    - paragraph [ref=e1234]: Palestinian Authority
+                  - cell "United States – Dollar ($) USD" [ref=e1235]:
+                    - paragraph [ref=e1239]: United States – Dollar ($) USD
+                - row "Panama United States – Dollar ($) USD" [ref=e1240]:
+                  - cell "Panama" [ref=e1241]:
+                    - paragraph [ref=e1245]: Panama
+                  - cell "United States – Dollar ($) USD" [ref=e1246]:
+                    - paragraph [ref=e1250]: United States – Dollar ($) USD
+                - row "Paraguay United States – Dollar ($) USD" [ref=e1251]:
+                  - cell "Paraguay" [ref=e1252]:
+                    - paragraph [ref=e1256]: Paraguay
+                  - cell "United States – Dollar ($) USD" [ref=e1257]:
+                    - paragraph [ref=e1261]: United States – Dollar ($) USD
+                - row "Peru United States – Dollar ($) USD" [ref=e1262]:
+                  - cell "Peru" [ref=e1263]:
+                    - paragraph [ref=e1267]: Peru
+                  - cell "United States – Dollar ($) USD" [ref=e1268]:
+                    - paragraph [ref=e1272]: United States – Dollar ($) USD
+                - row "Philippines United States – Dollar ($) USD" [ref=e1273]:
+                  - cell "Philippines" [ref=e1274]:
+                    - paragraph [ref=e1278]: Philippines
+                  - cell "United States – Dollar ($) USD" [ref=e1279]:
+                    - paragraph [ref=e1283]: United States – Dollar ($) USD
+                - row "Poland Euro Zone – Euro (€) EUR" [ref=e1284]:
+                  - cell "Poland" [ref=e1285]:
+                    - paragraph [ref=e1289]: Poland
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e1290]:
+                    - paragraph [ref=e1294]: Euro Zone – Euro (€) EUR
+                - row "Portugal Euro Zone – Euro (€) EUR" [ref=e1295]:
+                  - cell "Portugal" [ref=e1296]:
+                    - paragraph [ref=e1300]: Portugal
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e1301]:
+                    - paragraph [ref=e1305]: Euro Zone – Euro (€) EUR
+                - row "Puerto Rico United States – Dollar ($) USD" [ref=e1306]:
+                  - cell "Puerto Rico" [ref=e1307]:
+                    - paragraph [ref=e1311]: Puerto Rico
+                  - cell "United States – Dollar ($) USD" [ref=e1312]:
+                    - paragraph [ref=e1316]: United States – Dollar ($) USD
+                - row "Qatar United States – Dollar ($) USD" [ref=e1317]:
+                  - cell "Qatar" [ref=e1318]:
+                    - paragraph [ref=e1322]: Qatar
+                  - cell "United States – Dollar ($) USD" [ref=e1323]:
+                    - paragraph [ref=e1327]: United States – Dollar ($) USD
+                - row "Romania Euro Zone – Euro (€) EUR" [ref=e1328]:
+                  - cell "Romania" [ref=e1329]:
+                    - paragraph [ref=e1333]: Romania
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e1334]:
+                    - paragraph [ref=e1338]: Euro Zone – Euro (€) EUR
+                - row "Rwanda United States – Dollar ($) USD" [ref=e1339]:
+                  - cell "Rwanda" [ref=e1340]:
+                    - paragraph [ref=e1344]: Rwanda
+                  - cell "United States – Dollar ($) USD" [ref=e1345]:
+                    - paragraph [ref=e1349]: United States – Dollar ($) USD
+                - row "Saint Kitts and Nevis United States – Dollar ($) USD" [ref=e1350]:
+                  - cell "Saint Kitts and Nevis" [ref=e1351]:
+                    - paragraph [ref=e1355]: Saint Kitts and Nevis
+                  - cell "United States – Dollar ($) USD" [ref=e1356]:
+                    - paragraph [ref=e1360]: United States – Dollar ($) USD
+                - row "Saudi Arabia United States – Dollar ($) USD" [ref=e1361]:
+                  - cell "Saudi Arabia" [ref=e1362]:
+                    - paragraph [ref=e1366]: Saudi Arabia
+                  - cell "United States – Dollar ($) USD" [ref=e1367]:
+                    - paragraph [ref=e1371]: United States – Dollar ($) USD
+                - row "Senegal United States – Dollar ($) USD" [ref=e1372]:
+                  - cell "Senegal" [ref=e1373]:
+                    - paragraph [ref=e1377]: Senegal
+                  - cell "United States – Dollar ($) USD" [ref=e1378]:
+                    - paragraph [ref=e1382]: United States – Dollar ($) USD
+                - row "Serbia United States – Dollar ($) USD" [ref=e1383]:
+                  - cell "Serbia" [ref=e1384]:
+                    - paragraph [ref=e1388]: Serbia
+                  - cell "United States – Dollar ($) USD" [ref=e1389]:
+                    - paragraph [ref=e1393]: United States – Dollar ($) USD
+                - row "Singapore United States – Dollar ($) USD" [ref=e1394]:
+                  - cell "Singapore" [ref=e1395]:
+                    - paragraph [ref=e1399]: Singapore
+                  - cell "United States – Dollar ($) USD" [ref=e1400]:
+                    - paragraph [ref=e1404]: United States – Dollar ($) USD
+                - row "Slovakia Euro Zone – Euro (€) EUR" [ref=e1405]:
+                  - cell "Slovakia" [ref=e1406]:
+                    - paragraph [ref=e1410]: Slovakia
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e1411]:
+                    - paragraph [ref=e1415]: Euro Zone – Euro (€) EUR
+                - row "Slovenia Euro Zone – Euro (€) EUR" [ref=e1416]:
+                  - cell "Slovenia" [ref=e1417]:
+                    - paragraph [ref=e1421]: Slovenia
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e1422]:
+                    - paragraph [ref=e1426]: Euro Zone – Euro (€) EUR
+                - row "South Africa United States – Dollar ($) USD" [ref=e1427]:
+                  - cell "South Africa" [ref=e1428]:
+                    - paragraph [ref=e1432]: South Africa
+                  - cell "United States – Dollar ($) USD" [ref=e1433]:
+                    - paragraph [ref=e1437]: United States – Dollar ($) USD
+                - row "Spain Euro Zone – Euro (€) EUR" [ref=e1438]:
+                  - cell "Spain" [ref=e1439]:
+                    - paragraph [ref=e1443]: Spain
+                  - cell "Euro Zone – Euro (€) EUR" [ref=e1444]:
+                    - paragraph [ref=e1448]: Euro Zone – Euro (€) EUR
+                - row "Sri Lanka United States – Dollar ($) USD" [ref=e1449]:
+                  - cell "Sri Lanka" [ref=e1450]:
+                    - paragraph [ref=e1454]: Sri Lanka
+                  - cell "United States – Dollar ($) USD" [ref=e1455]:
+                    - paragraph [ref=e1459]: United States – Dollar ($) USD
+                - row "Sweden Sweden – Krona (kr) SEK" [ref=e1460]:
+                  - cell "Sweden" [ref=e1461]:
+                    - paragraph [ref=e1465]: Sweden
+                  - cell "Sweden – Krona (kr) SEK" [ref=e1466]:
+                    - paragraph [ref=e1470]: Sweden – Krona (kr) SEK
+                - row "Switzerland Switzerland – Franc (chf) CHF" [ref=e1471]:
+                  - cell "Switzerland" [ref=e1472]:
+                    - paragraph [ref=e1476]: Switzerland
+                  - cell "Switzerland – Franc (chf) CHF" [ref=e1477]:
+                    - paragraph [ref=e1481]: Switzerland – Franc (chf) CHF
+                - row "Taiwan Taiwan – Dollar (NT$) TWD" [ref=e1482]:
+                  - cell "Taiwan" [ref=e1483]:
+                    - paragraph [ref=e1487]: Taiwan
+                  - cell "Taiwan – Dollar (NT$) TWD" [ref=e1488]:
+                    - paragraph [ref=e1492]: Taiwan – Dollar (NT$) TWD
+                - row "Tajikistan United States – Dollar ($) USD" [ref=e1493]:
+                  - cell "Tajikistan" [ref=e1494]:
+                    - paragraph [ref=e1498]: Tajikistan
+                  - cell "United States – Dollar ($) USD" [ref=e1499]:
+                    - paragraph [ref=e1503]: United States – Dollar ($) USD
+                - row "Tanzania United States – Dollar ($) USD" [ref=e1504]:
+                  - cell "Tanzania" [ref=e1505]:
+                    - paragraph [ref=e1509]: Tanzania
+                  - cell "United States – Dollar ($) USD" [ref=e1510]:
+                    - paragraph [ref=e1514]: United States – Dollar ($) USD
+                - row "Thailand United States – Dollar ($) USD" [ref=e1515]:
+                  - cell "Thailand" [ref=e1516]:
+                    - paragraph [ref=e1520]: Thailand
+                  - cell "United States – Dollar ($) USD" [ref=e1521]:
+                    - paragraph [ref=e1525]: United States – Dollar ($) USD
+                - row "Trinidad and Tobago United States – Dollar ($) USD" [ref=e1526]:
+                  - cell "Trinidad and Tobago" [ref=e1527]:
+                    - paragraph [ref=e1531]: Trinidad and Tobago
+                  - cell "United States – Dollar ($) USD" [ref=e1532]:
+                    - paragraph [ref=e1536]: United States – Dollar ($) USD
+                - row "Tunisia United States – Dollar ($) USD" [ref=e1537]:
+                  - cell "Tunisia" [ref=e1538]:
+                    - paragraph [ref=e1542]: Tunisia
+                  - cell "United States – Dollar ($) USD" [ref=e1543]:
+                    - paragraph [ref=e1547]: United States – Dollar ($) USD
+                - row "Turkey United States – Dollar ($) USD" [ref=e1548]:
+                  - cell "Turkey" [ref=e1549]:
+                    - paragraph [ref=e1553]: Turkey
+                  - cell "United States – Dollar ($) USD" [ref=e1554]:
+                    - paragraph [ref=e1558]: United States – Dollar ($) USD
+                - row "Turkmenistan United States – Dollar ($) USD" [ref=e1559]:
+                  - cell "Turkmenistan" [ref=e1560]:
+                    - paragraph [ref=e1564]: Turkmenistan
+                  - cell "United States – Dollar ($) USD" [ref=e1565]:
+                    - paragraph [ref=e1569]: United States – Dollar ($) USD
+                - row "Uganda United States – Dollar ($) USD" [ref=e1570]:
+                  - cell "Uganda" [ref=e1571]:
+                    - paragraph [ref=e1575]: Uganda
+                  - cell "United States – Dollar ($) USD" [ref=e1576]:
+                    - paragraph [ref=e1580]: United States – Dollar ($) USD
+                - row "Ukraine United States – Dollar ($) USD" [ref=e1581]:
+                  - cell "Ukraine" [ref=e1582]:
+                    - paragraph [ref=e1586]: Ukraine
+                  - cell "United States – Dollar ($) USD" [ref=e1587]:
+                    - paragraph [ref=e1591]: United States – Dollar ($) USD
+                - row "United Arab Emirates United States – Dollar ($) USD" [ref=e1592]:
+                  - cell "United Arab Emirates" [ref=e1593]:
+                    - paragraph [ref=e1597]: United Arab Emirates
+                  - cell "United States – Dollar ($) USD" [ref=e1598]:
+                    - paragraph [ref=e1602]: United States – Dollar ($) USD
+                - row "United Kingdom United Kingdom – Pound (£) GBP" [ref=e1603]:
+                  - cell "United Kingdom" [ref=e1604]:
+                    - paragraph [ref=e1608]: United Kingdom
+                  - cell "United Kingdom – Pound (£) GBP" [ref=e1609]:
+                    - paragraph [ref=e1613]: United Kingdom – Pound (£) GBP
+                - row "United States United States – Dollar ($) USD" [ref=e1614]:
+                  - cell "United States" [ref=e1615]:
+                    - paragraph [ref=e1619]: United States
+                  - cell "United States – Dollar ($) USD" [ref=e1620]:
+                    - paragraph [ref=e1624]: United States – Dollar ($) USD
+                - row "Uruguay United States – Dollar ($) USD" [ref=e1625]:
+                  - cell "Uruguay" [ref=e1626]:
+                    - paragraph [ref=e1630]: Uruguay
+                  - cell "United States – Dollar ($) USD" [ref=e1631]:
+                    - paragraph [ref=e1635]: United States – Dollar ($) USD
+                - row "Uzbekistan United States – Dollar ($) USD" [ref=e1636]:
+                  - cell "Uzbekistan" [ref=e1637]:
+                    - paragraph [ref=e1641]: Uzbekistan
+                  - cell "United States – Dollar ($) USD" [ref=e1642]:
+                    - paragraph [ref=e1646]: United States – Dollar ($) USD
+                - row "Venezuela United States – Dollar ($) USD" [ref=e1647]:
+                  - cell "Venezuela" [ref=e1648]:
+                    - paragraph [ref=e1652]: Venezuela
+                  - cell "United States – Dollar ($) USD" [ref=e1653]:
+                    - paragraph [ref=e1657]: United States – Dollar ($) USD
+                - row "Vietnam United States – Dollar ($) USD" [ref=e1658]:
+                  - cell "Vietnam" [ref=e1659]:
+                    - paragraph [ref=e1663]: Vietnam
+                  - cell "United States – Dollar ($) USD" [ref=e1664]:
+                    - paragraph [ref=e1668]: United States – Dollar ($) USD
+                - row "Virgin Islands of the United States United States – Dollar ($) USD" [ref=e1669]:
+                  - cell "Virgin Islands of the United States" [ref=e1670]:
+                    - paragraph [ref=e1674]: Virgin Islands of the United States
+                  - cell "United States – Dollar ($) USD" [ref=e1675]:
+                    - paragraph [ref=e1679]: United States – Dollar ($) USD
+                - row "Yemen United States – Dollar ($) USD" [ref=e1680]:
+                  - cell "Yemen" [ref=e1681]:
+                    - paragraph [ref=e1685]: Yemen
+                  - cell "United States – Dollar ($) USD" [ref=e1686]:
+                    - paragraph [ref=e1690]: United States – Dollar ($) USD
+                - row "Zambia United States – Dollar ($) USD" [ref=e1691]:
+                  - cell "Zambia" [ref=e1692]:
+                    - paragraph [ref=e1696]: Zambia
+                  - cell "United States – Dollar ($) USD" [ref=e1697]:
+                    - paragraph [ref=e1701]: United States – Dollar ($) USD
+                - row "Zimbabwe United States – Dollar ($) USD" [ref=e1702]:
+                  - cell "Zimbabwe" [ref=e1703]:
+                    - paragraph [ref=e1707]: Zimbabwe
+                  - cell "United States – Dollar ($) USD" [ref=e1708]:
+                    - paragraph [ref=e1712]: United States – Dollar ($) USD
+        - generic [ref=e1718]:
+          - heading "Limits, quotas, and constraints" [level=2] [ref=e1719]:
+            - generic [ref=e1720]: Limits, quotas, and constraints
+          - paragraph [ref=e1721]:
+            - text: Please refer to the
+            - link "service limits, quotas, and constraints document" [ref=e1722] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/p/?linkid=2244139
+            - text: for a list of common Microsoft Azure limits, also called quotas. If you need to exceed these limits, please contact
+            - link "customer service support" [ref=e1723] [cursor=pointer]:
+              - /url: https://azure.microsoft.com/en-us/support/
+              - text: customer service
+            - text: at any time so that we can adjust your limits appropriately. You must upgrade your Azure for Students Starter subscription to a
+            - link "Pay-As-You-Go subscription" [ref=e1724] [cursor=pointer]:
+              - /url: https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0003p/
+            - text: to increase your quotas or limits.
+          - heading "Service-level agreements" [level=2] [ref=e1725]:
+            - generic [ref=e1726]: Service-level agreements
+          - paragraph [ref=e1727]:
+            - text: We offer a set of robust service level agreements for each of the Azure platform services. More details on each of our SLAs can be found on our
+            - link "SLA page" [ref=e1728] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/p/?linkid=2241222
+            - text: . Service level agreements are not provided for services during preview.
+          - heading "Resource commitment" [level=2] [ref=e1729]:
+            - generic [ref=e1730]: Resource commitment
+          - paragraph [ref=e1731]: All increases in service usage (for example, adding to the number of compute instances running or increasing the amount of storage in use) are subject to the availability of these service resources. Any quota described in the limits, quotas, and constraints section is not a commitment that there will be sufficient resources available for you to reach the quota.
+          - paragraph [ref=e1732]: "If any Microsoft Azure for Students Starter subscription is not incurring charges or is inactive for more than 90 days, we reserve the right to remove any compute resources, including hosted services, virtual machines, and websites. We will provide notice before removing any compute resources. You can avoid becoming inactive by doing one of the following at least every 90 days:"
+          - list [ref=e1733]:
+            - listitem [ref=e1734]:
+              - text: Log into the
+              - link "Azure portal" [ref=e1735] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/p/?linkid=2243551
+              - text: .
+            - listitem [ref=e1736]: Access your resources via our Azure APIs.
+          - paragraph [ref=e1737]: Microsoft reserves the right to modify or discontinue this offer or any of the free services at any time with or without notice.
+    - contentinfo [ref=e1742]:
+      - navigation "Footer Resource links" [ref=e1743]:
+        - generic [ref=e1744]:
+          - generic [ref=e1745]:
+            - heading "Explore Azure" [level=2] [ref=e1746]
+            - list [ref=e1747]:
+              - listitem [ref=e1748]:
+                - link "What is Azure? Explore Azure" [ref=e1749] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/
+                  - text: What is Azure?
+              - listitem [ref=e1750]:
+                - link "Get started with Azure Explore Azure" [ref=e1751] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/get-started/
+                  - text: Get started with Azure
+              - listitem [ref=e1752]:
+                - link "Global infrastructure Explore Azure" [ref=e1753] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/explore/global-infrastructure/
+                  - text: Global infrastructure
+              - listitem [ref=e1754]:
+                - link "Datacenter regions Explore Azure" [ref=e1755] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/explore/global-infrastructure/geographies/
+                  - text: Datacenter regions
+              - listitem [ref=e1756]:
+                - link "Trust your cloud Explore Azure" [ref=e1757] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/explore/trusted-cloud/
+                  - text: Trust your cloud
+              - listitem [ref=e1758]:
+                - link "Azure Essentials Explore Azure" [ref=e1759] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/solutions/azure-essentials
+                  - text: Azure Essentials
+              - listitem [ref=e1760]:
+                - link "Customer stories Explore Azure" [ref=e1761] [cursor=pointer]:
+                  - /url: https://www.microsoft.com/en-us/customers/search?filters=product%3Aazure
+                  - text: Customer stories
+          - generic [ref=e1762]:
+            - heading "Products and pricing" [level=2] [ref=e1763]
+            - list [ref=e1764]:
+              - listitem [ref=e1765]:
+                - link "Products Products and pricing" [ref=e1766] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/products/
+                  - text: Products
+              - listitem [ref=e1767]:
+                - link "Azure pricing Products and pricing" [ref=e1768] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/pricing/
+                  - text: Azure pricing
+              - listitem [ref=e1769]:
+                - link "Free Azure services Products and pricing" [ref=e1770] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/pricing/free-services/
+                  - text: Free Azure services
+              - listitem [ref=e1771]:
+                - link "Flexible purchase options Products and pricing" [ref=e1772] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/pricing/purchase-options/
+                  - text: Flexible purchase options
+              - listitem [ref=e1773]:
+                - link "FinOps on Azure Products and pricing" [ref=e1774] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/solutions/finops/
+                  - text: FinOps on Azure
+              - listitem [ref=e1775]:
+                - link "Maximize ROI from AI Products and pricing" [ref=e1776] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/solutions/maximize-roi-from-ai
+                  - text: Maximize ROI from AI
+          - generic [ref=e1777]:
+            - heading "Solutions and support" [level=2] [ref=e1778]
+            - list [ref=e1779]:
+              - listitem [ref=e1780]:
+                - link "Solutions Solutions and support" [ref=e1781] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/solutions/
+                  - text: Solutions
+              - listitem [ref=e1782]:
+                - link "Resources for accelerating growth Solutions and support" [ref=e1783] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/solutions/turn-your-vision-into-impact-with-azure/
+                  - text: Resources for accelerating growth
+              - listitem [ref=e1784]:
+                - link "Solution architectures Solutions and support" [ref=e1785] [cursor=pointer]:
+                  - /url: https://learn.microsoft.com/azure/architecture/browse/
+                  - text: Solution architectures
+              - listitem [ref=e1786]:
+                - link "Support Solutions and support" [ref=e1787] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/support/
+                  - text: Support
+              - listitem [ref=e1788]:
+                - link "Azure demo and live Q&A Solutions and support" [ref=e1789] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/get-started/welcome-to-azure/
+                  - text: Azure demo and live Q&A
+        - generic [ref=e1790]:
+          - generic [ref=e1791]:
+            - heading "Partners" [level=2] [ref=e1792]
+            - list [ref=e1793]:
+              - listitem [ref=e1794]:
+                - link "Software Development Companies Partners" [ref=e1795] [cursor=pointer]:
+                  - /url: https://www.microsoft.com/en-us/software-development-companies
+                  - text: Software Development Companies
+              - listitem [ref=e1796]:
+                - link "Microsoft Marketplace Partners" [ref=e1797] [cursor=pointer]:
+                  - /url: https://marketplace.microsoft.com/en-us/
+                  - text: Microsoft Marketplace
+              - listitem [ref=e1798]:
+                - link "Find a partner Partners" [ref=e1799] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/partners/
+                  - text: Find a partner
+          - generic [ref=e1800]:
+            - heading "Resources" [level=2] [ref=e1801]
+            - list [ref=e1802]:
+              - listitem [ref=e1803]:
+                - link "Documentation Resources" [ref=e1804] [cursor=pointer]:
+                  - /url: https://learn.microsoft.com/en-us/azure/
+                  - text: Documentation
+              - listitem [ref=e1805]:
+                - link "Blog Resources" [ref=e1806] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/blog/
+                  - text: Blog
+              - listitem [ref=e1807]:
+                - link "Developer resources Resources" [ref=e1808] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/resources/developers/
+                  - text: Developer resources
+              - listitem [ref=e1809]:
+                - link "Students Resources" [ref=e1810] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/resources/students/
+                  - text: Students
+              - listitem [ref=e1811]:
+                - link "Events and Webinars Resources" [ref=e1812] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/resources/events/
+                  - text: Events and Webinars
+              - listitem [ref=e1813]:
+                - link "Analyst reports, white papers, and e-books Resources" [ref=e1814] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/resources/research/
+                  - text: Analyst reports, white papers, and e-books
+              - listitem [ref=e1815]:
+                - link "Videos Resources" [ref=e1816] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/resources/videos
+                  - text: Videos
+          - generic [ref=e1817]:
+            - heading "Cloud computing" [level=2] [ref=e1818]
+            - list [ref=e1819]:
+              - listitem [ref=e1820]:
+                - link "What is cloud computing? Cloud computing" [ref=e1821] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing/
+                  - text: What is cloud computing?
+              - listitem [ref=e1822]:
+                - link "What is multicloud? Cloud computing" [ref=e1823] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-multi-cloud
+                  - text: What is multicloud?
+              - listitem [ref=e1824]:
+                - link "What is machine learning? Cloud computing" [ref=e1825] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-machine-learning-platform
+                  - text: What is machine learning?
+              - listitem [ref=e1826]:
+                - link "What is deep learning? Cloud computing" [ref=e1827] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-deep-learning
+                  - text: What is deep learning?
+              - listitem [ref=e1828]:
+                - link "What is AIaaS? Cloud computing" [ref=e1829] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-aiaas
+                  - text: What is AIaaS?
+              - listitem [ref=e1830]:
+                - link "What are LLMs? Cloud computing" [ref=e1831] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-large-language-models-llms
+                  - text: What are LLMs?
+              - listitem [ref=e1832]:
+                - link "What is a container? Cloud computing" [ref=e1833] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-container
+                  - text: What is a container?
+              - listitem [ref=e1834]:
+                - link "What is RAG? Cloud computing" [ref=e1835] [cursor=pointer]:
+                  - /url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-retrieval-augmented-generation-rag
+                  - text: What is RAG?
+      - generic [ref=e1836]:
+        - link "Content Language Selector. Currently set to English (United States)" [ref=e1837] [cursor=pointer]:
+          - /url: https://azure.microsoft.com/en-us/locale
+          - text:  English (United States)
+        - link "Your Privacy Choices Opt-Out Icon Your Privacy Choices" [ref=e1838] [cursor=pointer]:
+          - /url: https://aka.ms/yourcaliforniaprivacychoices
+          - img "Your Privacy Choices Opt-Out Icon" [ref=e1839]
+          - generic [ref=e1844]: Your Privacy Choices
+        - link "Consumer Health Privacy" [ref=e1845] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+          - generic [ref=e1846]: Consumer Health Privacy
+        - navigation "Microsoft corporate links" [ref=e1847]:
+          - list [ref=e1848]:
+            - listitem [ref=e1849]:
+              - link "Sitemap" [ref=e1850] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/sitemap1.aspx
+            - listitem [ref=e1851]:
+              - link "Contact Microsoft" [ref=e1852] [cursor=pointer]:
+                - /url: https://support.microsoft.com/contactus
+            - listitem [ref=e1853]:
+              - link "Privacy" [ref=e1854] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+            - listitem [ref=e1855]:
+              - link "Terms of use" [ref=e1856] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/?LinkID=206977
+            - listitem [ref=e1857]:
+              - link "Trademarks" [ref=e1858] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/?linkid=2196228
+            - listitem [ref=e1859]:
+              - link "Safety & eco" [ref=e1860] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/?linkid=2196227
+            - listitem [ref=e1861]:
+              - link "Recycling" [ref=e1862] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/legal/compliance/recycling
+            - listitem [ref=e1863]:
+              - link "About our ads" [ref=e1864] [cursor=pointer]:
+                - /url: https://choice.microsoft.com
+            - listitem [ref=e1865]: © Microsoft 2026
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - button "Open Ask Microsoft web assistant" [ref=e1866] [cursor=pointer]:
+              - img [ref=e1869]
+              - generic [ref=e1873]: Ask Microsoft
+              - button "Chat dialog Collapsed. Click to expand Ask Microsoft chat dialog." [ref=e1874]:
+                - img [ref=e1877]
+            - dialog "Web Assistant":
+              - generic: Ask questions or make requests to the web AI assistant. Use the text input at the bottom to send messages.

@@ -1,0 +1,610 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to main content" [ref=e4] [cursor=pointer]:
+        - /url: "#main"
+      - link "Skip to Ask Learn chat experience" [ref=e5] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - heading "Microsoft Build 2026" [level=2] [ref=e10]
+            - paragraph [ref=e11]: June 2-3, 2026
+          - link "Learn more" [ref=e12] [cursor=pointer]:
+            - /url: https://aka.ms/MSBuild_FY26_BN_MSLearn_Hero
+            - generic [ref=e13]: Learn more
+            - generic [ref=e15]: Ｔ
+        - button "Dismiss alert" [ref=e16] [cursor=pointer]:
+          - generic [ref=e17]: Dismiss alert
+      - generic [ref=e18]:
+        - text: Ｏ Ｐ 
+        - generic [ref=e19]:
+          - link "Microsoft" [ref=e20] [cursor=pointer]:
+            - /url: https://www.microsoft.com
+            - img [ref=e21]
+          - link "Learn" [ref=e27] [cursor=pointer]:
+            - /url: /en-us/
+            - generic [ref=e28]: Learn
+          - generic [ref=e29]:
+            - navigation "Global" [ref=e31]:
+              - text: Ｒ
+              - list [ref=e32]:
+                - listitem [ref=e33]:
+                  - button "Documentation" [ref=e35] [cursor=pointer]:
+                    - generic [ref=e36]: Documentation
+                    - generic [ref=e38]: Ｓ
+                - listitem [ref=e39]:
+                  - button "Training & Labs" [ref=e41] [cursor=pointer]:
+                    - generic [ref=e42]: Training & Labs
+                    - generic [ref=e44]: Ｓ
+                - listitem [ref=e45]:
+                  - button "Q&A" [ref=e47] [cursor=pointer]:
+                    - generic [ref=e48]: Q&A
+                    - generic [ref=e50]: Ｓ
+                - listitem [ref=e51]:
+                  - button "Topics" [ref=e53] [cursor=pointer]:
+                    - generic [ref=e54]: Topics
+                    - generic [ref=e56]: Ｓ
+              - text: Ｔ
+            - generic [ref=e57]:
+              - text: Ｐ
+              - button "Open search" [ref=e58] [cursor=pointer]:
+                - generic [ref=e60]: 
+          - link "Sign in" [ref=e61] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e63]:
+          - link "Azure" [ref=e64] [cursor=pointer]:
+            - /url: /en-us/azure/
+            - generic [ref=e65]: Azure
+          - navigation "Site" [ref=e66]:
+            - list [ref=e67]:
+              - listitem [ref=e68]:
+                - button "Products" [ref=e69] [cursor=pointer]:
+                  - generic [ref=e70]: Products
+                  - generic [ref=e72]: Ｓ
+                - text: Ｔ Ｔ
+              - listitem [ref=e73]:
+                - button "Architecture" [ref=e74] [cursor=pointer]:
+                  - generic [ref=e75]: Architecture
+                  - generic [ref=e77]: Ｓ
+              - listitem [ref=e78]:
+                - link "Migration" [ref=e79] [cursor=pointer]:
+                  - /url: /en-us/azure/migration/
+                  - generic [ref=e80]: Migration
+              - listitem [ref=e81]:
+                - button "Develop" [ref=e82] [cursor=pointer]:
+                  - generic [ref=e83]: Develop
+                  - generic [ref=e85]: Ｓ
+              - listitem [ref=e86]:
+                - button "Learn Azure" [ref=e87] [cursor=pointer]:
+                  - generic [ref=e88]: Learn Azure
+                  - generic [ref=e90]: Ｓ
+                - text: Ｔ
+              - listitem [ref=e91]:
+                - link "Troubleshooting" [ref=e92] [cursor=pointer]:
+                  - /url: /en-us/troubleshoot/azure/
+                  - generic [ref=e93]: Troubleshooting
+              - text: Ｓ
+              - listitem [ref=e94]:
+                - button "More" [ref=e95] [cursor=pointer]:
+                  - generic [ref=e96]: More
+                  - generic [ref=e98]: Ｓ
+                - text: Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ
+          - generic [ref=e99]:
+            - link "Portal" [ref=e100] [cursor=pointer]:
+              - /url: https://portal.azure.com
+            - link "Get started with Azure" [ref=e101] [cursor=pointer]:
+              - /url: https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn_nav_7b0ca1eb-42c4-59e4-07d7-17c5712e253a
+  - navigation "Primary" [ref=e105]:
+    - button "Collapse" [expanded] [ref=e107] [cursor=pointer]:
+      - generic [ref=e109]: ﾝ
+    - search "Search" [ref=e110]:
+      - generic [ref=e111]: Search
+      - generic [ref=e113]:
+        - combobox "Search" [ref=e114]
+        - generic:
+          - generic: 󿄓
+    - tree "Table of contents" [ref=e115]:
+      - treeitem "Billing and subscriptions documentation" [level=1] [ref=e116] [cursor=pointer]
+      - treeitem "Overview" [level=1] [ref=e117]:
+        - generic [ref=e118] [cursor=pointer]: Overview
+      - treeitem "Tutorials" [level=1] [ref=e119]:
+        - generic [ref=e120] [cursor=pointer]: Tutorials
+      - treeitem "Concepts" [level=1] [ref=e121]:
+        - generic [ref=e122] [cursor=pointer]: Concepts
+      - treeitem "How-to guides" [expanded] [level=1] [ref=e123]:
+        - generic [ref=e124] [cursor=pointer]: How-to guides
+        - group [ref=e125]:
+          - treeitem "Configure billing" [level=2] [ref=e126]:
+            - generic [ref=e127] [cursor=pointer]: Configure billing
+          - treeitem "Perform key billing administration tasks" [level=2] [ref=e128]:
+            - generic [ref=e129] [cursor=pointer]: Perform key billing administration tasks
+          - treeitem "Manage payment methods" [expanded] [level=2] [ref=e130]:
+            - generic [ref=e131] [cursor=pointer]: Manage payment methods
+            - group [ref=e132]:
+              - treeitem "Pay your Azure bill" [level=3] [ref=e133] [cursor=pointer]
+              - treeitem "Set up pay by wire transfer" [level=3] [ref=e134] [cursor=pointer]
+              - treeitem "Resolve pay-as-you-go past due balance" [level=3] [ref=e135] [cursor=pointer]
+              - treeitem "Add, update, or delete payment method" [level=3] [ref=e136] [cursor=pointer]
+              - treeitem "Supported payment methods" [level=3] [ref=e137] [cursor=pointer]
+              - treeitem "View payment history" [level=3] [ref=e138] [cursor=pointer]
+          - treeitem "Manage billing benefits" [level=2] [ref=e139]:
+            - generic [ref=e140] [cursor=pointer]: Manage billing benefits
+          - treeitem "Troubleshoot billing" [level=2] [ref=e141]:
+            - generic [ref=e142] [cursor=pointer]: Troubleshoot billing
+          - treeitem "Troubleshoot subscriptions" [level=2] [ref=e143]:
+            - generic [ref=e144] [cursor=pointer]: Troubleshoot subscriptions
+      - treeitem "Reference" [level=1] [ref=e145]:
+        - generic [ref=e146] [cursor=pointer]: Reference
+      - treeitem "Resources" [level=1] [ref=e147]:
+        - generic [ref=e148] [cursor=pointer]: Resources
+      - treeitem "Samples" [level=1] [ref=e149]:
+        - generic [ref=e150] [cursor=pointer]: Samples
+    - button "Download PDF" [ref=e152] [cursor=pointer]:
+      - generic [ref=e154]: 
+      - generic [ref=e155]: Download PDF
+  - main [ref=e156]:
+    - generic: Ｏ ，
+    - generic [ref=e157]:
+      - generic [ref=e158]:
+        - generic [ref=e160]:
+          - text: 
+          - group "Breadcrumbs" [ref=e161]:
+            - navigation "Breadcrumb" [ref=e162]:
+              - list [ref=e163]:
+                - listitem [ref=e164]:
+                  - link "Learn" [ref=e165] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/
+                - listitem [ref=e166]:
+                  - link "Azure" [ref=e167] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/azure/
+                - listitem [ref=e168]:
+                  - link "CM+B" [ref=e169] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/azure/cost-management-billing
+                - listitem [ref=e170]:
+                  - link "Billing and subscriptions" [ref=e171] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/
+          - generic [ref=e172]:
+            - text: 󿄐
+            - button "Ask Learn" [ref=e173] [cursor=pointer]:
+              - generic [ref=e175]: 󿄐
+              - generic [ref=e176]: Ask Learn
+            - text: 󿄐
+            - group [ref=e177]:
+              - generic "More actions" [ref=e178] [cursor=pointer]:
+                - generic [ref=e180]: 
+        - text: ﾁ
+        - heading "Pay for your Azure subscription by wire transfer" [level=1] [ref=e182]
+        - generic: 
+        - generic [ref=e184]:
+          - generic [ref=e186]: ﾃ
+          - button "Summarize this article for me" [ref=e187] [cursor=pointer]:
+            - generic [ref=e188]: Summarize this article for me
+        - navigation "In this article" [ref=e189]:
+          - heading "In this article" [level=2] [ref=e190]
+          - list [ref=e191]:
+            - listitem [ref=e192]:
+              - link "Prerequisites" [ref=e193] [cursor=pointer]:
+                - /url: "#prerequisites"
+            - listitem [ref=e194]:
+              - link "Submit a request to set up payment by wire transfer" [ref=e195] [cursor=pointer]:
+                - /url: "#submit-a-request-to-set-up-payment-by-wire-transfer"
+            - listitem [ref=e196]:
+              - link "Switch to payment by wire transfer after approval" [ref=e197] [cursor=pointer]:
+                - /url: "#switch-to-payment-by-wire-transfer-after-approval"
+            - listitem [ref=e198]:
+              - link "Check the type of your account" [ref=e199] [cursor=pointer]:
+                - /url: "#check-the-type-of-your-account"
+          - button "Show 2 more" [ref=e200] [cursor=pointer]:
+            - generic [ref=e201]: Show 2 more
+        - generic [ref=e202]:
+          - paragraph [ref=e203]: This article helps you set up your Azure subscription to pay by wire transfer.
+          - paragraph [ref=e204]: "This article applies to you if you meet one of these conditions:"
+          - list [ref=e205]:
+            - listitem [ref=e206]: You have a Microsoft Customer Agreement.
+            - listitem [ref=e207]:
+              - text: You signed up for Azure through the Azure website to create a Microsoft Online Subscription Program account. This type of account is also called a
+              - emphasis [ref=e208]: pay-as-you-go
+              - text: account.
+          - paragraph [ref=e209]: If you signed up for Azure through a Microsoft representative, your default payment method is already set to wire transfer. You don't need to follow the steps in this article.
+          - paragraph [ref=e210]: "When you switch to payment by wire transfer:"
+          - list [ref=e211]:
+            - listitem [ref=e212]: Specify the invoice ID that you want to pay on your wire transfer.
+            - listitem [ref=e213]: Send the wire payment to the designated bank, as stated on your monthly invoice.
+            - listitem [ref=e214]: Send the exact amount on the invoice.
+            - listitem [ref=e215]: Pay the bill by the due date.
+          - generic [ref=e216]:
+            - 'link "Section titled: Prerequisites" [ref=e217] [cursor=pointer]':
+              - /url: "#prerequisites"
+              - text: 
+            - heading "Prerequisites" [level=2] [ref=e218]
+          - paragraph [ref=e219]:
+            - text: Users who have a Microsoft Customer Agreement must
+            - link "submit an Azure support request" [ref=e220] [cursor=pointer]:
+              - /url: "#submit-a-request-to-set-up-payment-by-wire-transfer"
+            - text: to set up payment by wire transfer. Any user who has access to the Microsoft Online Subscription Program (pay-as-you-go) billing profile can submit the request to pay by wire transfer.
+          - paragraph [ref=e221]:
+            - text: Currently, customers who have a Microsoft Online Subscription Program (pay-as-you-go) account must
+            - link "submit an Azure support request" [ref=e222] [cursor=pointer]:
+              - /url: "#submit-a-request-to-set-up-payment-by-wire-transfer"
+            - text: to set up payment by wire transfer. Any user who has access to the Microsoft Customer Agreement billing profile can submit the request to pay by wire transfer.
+          - paragraph [ref=e223]: "To qualify for wire transfer payments, you must:"
+          - list [ref=e224]:
+            - listitem [ref=e225]: Be an established customer for at least six months and have no outstanding balances.
+            - listitem [ref=e226]: Have a subscription cost that exceeds a certain amount. This amount varies by service location.
+          - generic [ref=e227]:
+            - paragraph [ref=e228]:
+              - generic [ref=e230]: ）
+              - text: Important
+            - list [ref=e231]:
+              - listitem [ref=e232]: You must pay all outstanding charges before switching to payment by wire transfer.
+              - listitem [ref=e233]: If you switch to payment by wire transfer, you can't switch back to paying by credit or debit card as your recurring form of payment. However, you can make manual, one-time (non-recurring) payments with a credit or debit card.
+              - listitem [ref=e234]: As of September 30, 2023, Microsoft no longer accepts checks as a payment method.
+          - generic [ref=e235]:
+            - 'link "Section titled: Submit a request to set up payment by wire transfer" [ref=e236] [cursor=pointer]':
+              - /url: "#submit-a-request-to-set-up-payment-by-wire-transfer"
+              - text: 
+            - heading "Submit a request to set up payment by wire transfer" [level=2] [ref=e237]
+          - paragraph [ref=e238]: "Users in all regions can manually submit an Azure support request to pay by wire transfer. If your request is approved, you can switch to payment by wire transfer in the Azure portal by using the following steps:"
+          - list [ref=e239]:
+            - listitem [ref=e240]:
+              - paragraph [ref=e241]:
+                - text: Sign in to the Azure portal, and then search for and select
+                - strong [ref=e242]: Help + support
+                - text: .
+              - paragraph [ref=e243]:
+                - link "Screenshot of searching for Help and support in the Azure portal. " [ref=e245] [cursor=pointer]:
+                  - /url: media/pay-by-invoice/search-for-help-and-support.png#lightbox
+                  - img "Screenshot of searching for Help and support in the Azure portal." [ref=e246]
+                  - text: 
+            - listitem [ref=e247]:
+              - paragraph [ref=e248]:
+                - text: Select
+                - strong [ref=e249]: New support request
+                - text: .
+              - paragraph [ref=e250]:
+                - link "Screenshot of the link for starting a new support request. " [ref=e252] [cursor=pointer]:
+                  - /url: media/pay-by-invoice/help-and-support.png#lightbox
+                  - img "Screenshot of the link for starting a new support request." [ref=e253]
+                  - text: 
+            - listitem [ref=e254]:
+              - paragraph [ref=e255]:
+                - text: For
+                - strong [ref=e256]: Issue type
+                - text: ", select"
+                - strong [ref=e257]: Billing
+                - text: . The
+                - emphasis [ref=e258]: issue type
+                - text: is the support request category. Select the subscription for which you want to pay by wire transfer, select a support plan, and then select
+                - strong [ref=e259]: Next
+                - text: .
+            - listitem [ref=e260]:
+              - paragraph [ref=e261]:
+                - text: For
+                - strong [ref=e262]: Problem type
+                - text: ", select"
+                - strong [ref=e263]: Manage Payment Methods
+                - text: . The
+                - emphasis [ref=e264]: problem type
+                - text: is the support request subcategory.
+            - listitem [ref=e265]:
+              - paragraph [ref=e266]:
+                - text: For
+                - strong [ref=e267]: Problem subtype
+                - text: ", select"
+                - strong [ref=e268]: Switch to pay by invoice as my default payment method
+                - text: .
+            - listitem [ref=e269]:
+              - paragraph [ref=e270]:
+                - text: In the
+                - strong [ref=e271]: Details
+                - text: box, enter the following information, and then select
+                - strong [ref=e272]: Next
+                - text: .
+              - list [ref=e273]:
+                - listitem [ref=e274]:
+                  - paragraph [ref=e275]: Whether you're a new or existing customer.
+                - listitem [ref=e276]:
+                  - paragraph [ref=e277]: Current payment method, if you're an existing customer.
+                - listitem [ref=e278]:
+                  - paragraph [ref=e279]: Order ID (requesting for invoice option).
+                - listitem [ref=e280]:
+                  - paragraph [ref=e281]: Microsoft account ID for account admins. This ID should be a company domain.
+                - listitem [ref=e282]:
+                  - paragraph [ref=e283]: "Commerce account ID. To find this ID in the Azure portal:"
+                  - list [ref=e284]:
+                    - listitem [ref=e285]:
+                      - paragraph [ref=e286]:
+                        - text: Search for
+                        - strong [ref=e287]: Cost Management
+                        - text: and select it (not
+                        - strong [ref=e288]: Cost Management + Billing
+                        - text: ). It's a green hexagon-shaped symbol.
+                    - listitem [ref=e289]:
+                      - paragraph [ref=e290]:
+                        - text: On the left menu, select
+                        - strong [ref=e291]: Properties
+                        - text: . If
+                        - strong [ref=e292]: Properties
+                        - text: doesn't appear on the left menu, go to the top of the pane under
+                        - strong [ref=e293]: Scope
+                        - text: ", and then select"
+                        - strong [ref=e294]: Go to billing account
+                        - text: .
+                      - paragraph [ref=e295]:
+                        - text: On the
+                        - strong [ref=e296]: Properties
+                        - text: pane that opens, your billing account ID appears as a GUID value. That's your commerce account ID.
+                - listitem [ref=e297]:
+                  - paragraph [ref=e298]: Company name and address, as registered under VAT or government website.
+                - listitem [ref=e299]:
+                  - paragraph [ref=e300]: Company website.
+                - listitem [ref=e301]:
+                  - paragraph [ref=e302]: Country/region.
+                - listitem [ref=e303]:
+                  - paragraph [ref=e304]: Tax ID or VAT ID.
+                - listitem [ref=e305]:
+                  - paragraph [ref=e306]: Year when the company was established.
+                - listitem [ref=e307]:
+                  - paragraph [ref=e308]: Any prior business with Microsoft.
+                - listitem [ref=e309]:
+                  - paragraph [ref=e310]: Contact name, phone, and email. You must add your billing contact information in the Azure portal before the credit limit can be approved. The contact details should be related to the company's Accounts Payable or Finance department.
+                - listitem [ref=e311]:
+                  - paragraph [ref=e312]: Justification for why you want to use wire transfer instead of a credit card for payment.
+                - listitem [ref=e313]:
+                  - paragraph [ref=e314]: "File upload. Attach legal documentation that shows the company name and company address. Your information in the Azure portal (that is, the information for the Azure account) should match the legal information registered in the legal document. You can provide one of the following examples:"
+                  - list [ref=e315]:
+                    - listitem [ref=e316]: A certificate of incorporation signed by the company's legal representatives.
+                    - listitem [ref=e317]: Any government-issued document that has the company name and address, such as a tax certification.
+                    - listitem [ref=e318]: A company registration form signed and issued by the government.
+                  - paragraph [ref=e319]:
+                    - text: To view or update your company name or company address, see
+                    - link "Change your Azure account profile information" [ref=e320] [cursor=pointer]:
+                      - /url: change-azure-account-profile
+                    - text: .
+                - listitem [ref=e321]:
+                  - paragraph [ref=e322]: "For an increase in cores, provide the following information:"
+                  - list [ref=e323]:
+                    - listitem [ref=e324]: Existing cores (old quota).
+                    - listitem [ref=e325]: Requested cores (new quota).
+                    - listitem [ref=e326]: Specific region and series of your subscription.
+            - listitem [ref=e327]:
+              - paragraph [ref=e328]:
+                - text: Verify your contact information and preferred contact method, and then select
+                - strong [ref=e329]: Create
+                - text: .
+          - paragraph [ref=e330]: "If we need to run a credit check because of the amount of credit that you need, we'll send you a credit check application. We might ask you to provide your company's audited financial statements. We might also ask for a security deposit or a standby letter of credit to approve your credit check request. We ask for them when:"
+          - list [ref=e331]:
+            - listitem [ref=e332]: We didn't receive financial information.
+            - listitem [ref=e333]: The information isn't strong enough to support the requested amount of credit.
+          - generic [ref=e334]:
+            - 'link "Section titled: Switch to payment by wire transfer after approval" [ref=e335] [cursor=pointer]':
+              - /url: "#switch-to-payment-by-wire-transfer-after-approval"
+              - text: 
+            - heading "Switch to payment by wire transfer after approval" [level=2] [ref=e336]
+          - paragraph [ref=e337]: If you have a Microsoft Online Subscription Program (pay-as-you-go) account and you're approved to pay by wire transfer, you can switch your payment method in the Azure portal.
+          - paragraph [ref=e338]: With a Microsoft Customer Agreement, you can switch your billing profile to wire transfer.
+          - generic [ref=e339]:
+            - 'link "Section titled: Switch your Azure subscription to wire transfer" [ref=e340] [cursor=pointer]':
+              - /url: "#switch-your-azure-subscription-to-wire-transfer"
+              - text: 
+            - heading "Switch your Azure subscription to wire transfer" [level=3] [ref=e341]
+          - paragraph [ref=e342]: Use the following steps to switch your Azure subscription to payment by wire transfer.
+          - generic [ref=e343]:
+            - paragraph [ref=e344]:
+              - generic [ref=e346]: ７
+              - text: Note
+            - paragraph [ref=e347]: After you switch to payment by wire transfer, you can't switch back to a credit card.
+          - list [ref=e348]:
+            - listitem [ref=e349]:
+              - paragraph [ref=e350]:
+                - text: Go to the Azure portal and sign in as the account administrator. Then search for and select
+                - strong [ref=e351]: Cost Management + Billing
+                - text: .
+              - paragraph [ref=e352]:
+                - link "Screenshot that shows a search for Cost Management and Billing in the Azure portal. " [ref=e354] [cursor=pointer]:
+                  - /url: media/pay-by-invoice/search.png#lightbox
+                  - img "Screenshot that shows a search for Cost Management and Billing in the Azure portal." [ref=e355]
+                  - text: 
+            - listitem [ref=e356]:
+              - paragraph [ref=e357]: Select the subscription or billing profile that you want to switch to payment by wire transfer.
+            - listitem [ref=e358]:
+              - paragraph [ref=e359]:
+                - text: On the left menu, under
+                - strong [ref=e360]: Billing
+                - text: ", select"
+                - strong [ref=e361]: Payment methods
+                - text: .
+            - listitem [ref=e362]:
+              - paragraph [ref=e363]:
+                - text: On the
+                - strong [ref=e364]: Payment methods
+                - text: pane, select the ellipsis (
+                - strong [ref=e365]: ...
+                - text: ), and then select
+                - strong [ref=e366]: Make default
+                - text: to change the default payment method to wire transfer.
+          - generic [ref=e367]:
+            - 'link "Section titled: Switch your billing profile to wire transfer" [ref=e368] [cursor=pointer]':
+              - /url: "#switch-your-billing-profile-to-wire-transfer"
+              - text: 
+            - heading "Switch your billing profile to wire transfer" [level=3] [ref=e369]
+          - paragraph [ref=e370]: Use the following steps to switch a billing profile to wire transfer. Only the person who signed up for Azure can change the default payment method of a billing profile.
+          - list [ref=e371]:
+            - listitem [ref=e372]:
+              - paragraph [ref=e373]:
+                - text: Go to the Azure portal, and then search for and select
+                - strong [ref=e374]: Cost Management + Billing
+                - text: .
+            - listitem [ref=e375]:
+              - paragraph [ref=e376]:
+                - text: On the left menu, select
+                - strong [ref=e377]: Billing profiles
+                - text: .
+              - paragraph [ref=e378]:
+                - link "Screenshot that shows the menu item for billing profiles. " [ref=e380] [cursor=pointer]:
+                  - /url: media/pay-by-invoice/billing-profile.png#lightbox
+                  - img "Screenshot that shows the menu item for billing profiles." [ref=e381]
+                  - text: 
+            - listitem [ref=e382]:
+              - paragraph [ref=e383]: Select a billing profile.
+            - listitem [ref=e384]:
+              - paragraph [ref=e385]:
+                - text: On the
+                - strong [ref=e386]: Billing profile
+                - text: menu, select
+                - strong [ref=e387]: Payment methods
+                - text: .
+              - paragraph [ref=e388]:
+                - link "Screenshot that shows the menu item for payment methods. " [ref=e390] [cursor=pointer]:
+                  - /url: media/pay-by-invoice/billing-profile-payment-methods.png#lightbox
+                  - img "Screenshot that shows the menu item for payment methods." [ref=e391]
+                  - text: 
+            - listitem [ref=e392]:
+              - paragraph [ref=e393]:
+                - text: Under
+                - strong [ref=e394]: Other payment methods
+                - text: ", select the ellipsis ("
+                - strong [ref=e395]: ...
+                - text: ), and then select
+                - strong [ref=e396]: Make default
+                - text: .
+          - generic [ref=e397]:
+            - 'link "Section titled: Check the type of your account" [ref=e398] [cursor=pointer]':
+              - /url: "#check-the-type-of-your-account"
+              - text: 
+            - heading "Check the type of your account" [level=2] [ref=e399]
+          - paragraph [ref=e400]: "To determine whether you have access to a billing account for a Microsoft Customer Agreement, check the agreement type:"
+          - list [ref=e401]:
+            - listitem [ref=e402]:
+              - paragraph [ref=e403]:
+                - text: Go to the Azure portal. Search for and select
+                - strong [ref=e404]: Cost Management + Billing
+                - text: .
+              - paragraph [ref=e405]:
+                - link "Screenshot that shows a search for Cost Management + Billing. " [ref=e407] [cursor=pointer]:
+                  - /url: ../../includes/media/billing-check-mca/billing-search-cost-management-billing.png#lightbox
+                  - img "Screenshot that shows a search for Cost Management + Billing." [ref=e408]
+                  - text: 
+            - listitem [ref=e409]:
+              - paragraph [ref=e410]:
+                - text: If you have access to just one billing scope, select
+                - strong [ref=e411]: Settings
+                - text: ">"
+                - strong [ref=e412]: Properties
+                - text: . You have access to a billing account for a Microsoft Customer Agreement if the billing account type is
+                - strong [ref=e413]: Microsoft Customer Agreement
+                - text: .
+              - paragraph [ref=e414]:
+                - link "Screenshot of the Azure portal that shows a billing account type of Microsoft Customer Agreement for a single billing scope. " [ref=e416] [cursor=pointer]:
+                  - /url: ../../includes/media/billing-check-mca/billing-mca-property.png#lightbox
+                  - img "Screenshot of the Azure portal that shows a billing account type of Microsoft Customer Agreement for a single billing scope." [ref=e417]
+                  - text: 
+              - paragraph [ref=e418]:
+                - text: If you have access to multiple billing scopes, check the type in the
+                - strong [ref=e419]: Billing account type
+                - text: column. You have access to a billing account for a Microsoft Customer Agreement if the billing account type for any of the scopes is
+                - strong [ref=e420]: Microsoft Customer Agreement
+                - text: .
+              - paragraph [ref=e421]:
+                - link "Screenshot of the Azure portal that shows a billing account type of Microsoft Customer Agreement for multiple billing scopes. " [ref=e423] [cursor=pointer]:
+                  - /url: ../../includes/media/billing-check-mca/billing-mca-in-the-list.png#lightbox
+                  - img "Screenshot of the Azure portal that shows a billing account type of Microsoft Customer Agreement for multiple billing scopes." [ref=e424]
+                  - text: 
+          - generic [ref=e425]:
+            - 'link "Section titled: Frequently asked questions" [ref=e426] [cursor=pointer]':
+              - /url: "#frequently-asked-questions"
+              - text: 
+            - heading "Frequently asked questions" [level=2] [ref=e427]
+          - generic [ref=e428]:
+            - 'link "Section titled: Why did I receive a request for a legal document?" [ref=e429] [cursor=pointer]':
+              - /url: "#why-did-i-receive-a-request-for-a-legal-document"
+              - text: 
+            - heading "Why did I receive a request for a legal document?" [level=3] [ref=e430]
+          - paragraph [ref=e431]: "Occasionally, Microsoft needs legal documentation if the information that you provided is incomplete or not verifiable. Examples might include:"
+          - list [ref=e432]:
+            - listitem [ref=e433]: A difference between the account name and company name.
+            - listitem [ref=e434]: A name change.
+          - generic [ref=e435]:
+            - 'link "Section titled: What''s the processing time for wire transfer payments?" [ref=e436] [cursor=pointer]':
+              - /url: "#whats-the-processing-time-for-wire-transfer-payments"
+              - text: 
+            - heading "What's the processing time for wire transfer payments?" [level=3] [ref=e437]
+          - paragraph [ref=e438]: "Payments that you make by wire transfer have processing times that vary, depending on the type of transfer:"
+          - list [ref=e439]:
+            - listitem [ref=e440]: "ACH domestic transfers take about five business days: two to three days to arrive, plus two days to post."
+            - listitem [ref=e441]: "Wire transfers (domestic) take four business days: two days to arrive, plus two days to post."
+            - listitem [ref=e442]: "Wire transfers (international) take seven business days: five days to arrive, plus two days to post."
+          - paragraph [ref=e443]: When your account is approved for wire transfer payment, you can find the instructions for payment on the invoice.
+          - generic [ref=e444]:
+            - 'link "Section titled: Need help? Contact us." [ref=e445] [cursor=pointer]':
+              - /url: "#need-help-contact-us"
+              - text: 
+            - heading "Need help? Contact us." [level=2] [ref=e446]
+          - paragraph [ref=e447]:
+            - text: If you have questions or need help,
+            - link "create a support request" [ref=e448] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?linkid=2083458
+            - text: .
+        - alert [ref=e449]
+        - status [ref=e450]
+        - generic [ref=e451]:
+          - separator [ref=e452]
+          - heading "Feedback" [level=2] [ref=e453]
+          - generic [ref=e454]:
+            - paragraph [ref=e455]: Was this page helpful?
+            - generic [ref=e456]:
+              - button "Yes" [ref=e457] [cursor=pointer]:
+                - generic [ref=e459]: 
+                - generic [ref=e460]: "Yes"
+              - button "No" [ref=e461] [cursor=pointer]:
+                - generic [ref=e463]: 
+                - generic [ref=e464]: "No"
+              - text: 
+      - generic [ref=e465]:
+        - separator [ref=e466]
+        - list [ref=e467]:
+          - listitem [ref=e468]:
+            - generic [ref=e470]: Last updated on 05/05/2026
+  - complementary "Additional resources":   
+  - text: 󿄐 Ｐ
+  - contentinfo [ref=e472]:
+    - generic [ref=e473]:
+      - link "Content language selector. Currently set to English (United States)." [ref=e474] [cursor=pointer]:
+        - /url: /en-us/locale?target=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Fcost-management-billing%2Fmanage%2Fpay-by-invoice
+        - generic [ref=e476]: 
+        - generic [ref=e477]: English (United States)
+      - link "Your Privacy Choices" [ref=e479] [cursor=pointer]:
+        - /url: https://aka.ms/yourcaliforniaprivacychoices
+        - img [ref=e480]
+        - generic [ref=e485]: Your Privacy Choices
+      - button "Theme" [ref=e488] [cursor=pointer]:
+        - generic [ref=e490]: ０
+        - generic [ref=e491]: Theme
+        - generic [ref=e493]: Ｓ
+    - list [ref=e494]:
+      - listitem [ref=e495]:
+        - link "AI Disclaimer" [ref=e496] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/principles-for-ai-generated-content
+      - listitem [ref=e497]:
+        - link "Previous Versions" [ref=e498] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/previous-versions/
+      - listitem [ref=e499]:
+        - link "Blog" [ref=e500] [cursor=pointer]:
+          - /url: https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog
+      - listitem [ref=e501]:
+        - link "Contribute" [ref=e502] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/contribute
+      - listitem [ref=e503]:
+        - link "Privacy" [ref=e504] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+      - listitem [ref=e505]:
+        - link "Consumer Health Privacy" [ref=e506] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+      - listitem [ref=e507]:
+        - link "Terms of Use" [ref=e508] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/legal/termsofuse
+      - listitem [ref=e509]:
+        - link "Trademarks" [ref=e510] [cursor=pointer]:
+          - /url: https://www.microsoft.com/legal/intellectualproperty/Trademarks/
+      - listitem [ref=e511]: © Microsoft 2026

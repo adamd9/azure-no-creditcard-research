@@ -1,0 +1,299 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to main content" [ref=e4] [cursor=pointer]:
+        - /url: "#main"
+      - link "Skip to Ask Learn chat experience" [ref=e5] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - heading "Microsoft Build 2026" [level=2] [ref=e10]
+            - paragraph [ref=e11]: June 2-3, 2026
+          - link "Learn more" [ref=e12] [cursor=pointer]:
+            - /url: https://aka.ms/MSBuild_FY26_BN_MSLearn_Hero
+            - generic [ref=e13]: Learn more
+            - generic [ref=e15]: Ｔ
+        - button "Dismiss alert" [ref=e16] [cursor=pointer]:
+          - generic [ref=e17]: Dismiss alert
+      - generic [ref=e18]:
+        - text: Ｏ Ｐ 
+        - generic [ref=e19]:
+          - link "Microsoft" [ref=e20] [cursor=pointer]:
+            - /url: https://www.microsoft.com
+            - img [ref=e21]
+          - link "Learn" [ref=e27] [cursor=pointer]:
+            - /url: /en-us/
+            - generic [ref=e28]: Learn
+          - generic [ref=e29]:
+            - navigation "Global" [ref=e31]:
+              - text: Ｒ
+              - list [ref=e32]:
+                - listitem [ref=e33]:
+                  - button "Documentation" [ref=e35] [cursor=pointer]:
+                    - generic [ref=e36]: Documentation
+                    - generic [ref=e38]: Ｓ
+                - listitem [ref=e39]:
+                  - button "Training & Labs" [ref=e41] [cursor=pointer]:
+                    - generic [ref=e42]: Training & Labs
+                    - generic [ref=e44]: Ｓ
+                - listitem [ref=e45]:
+                  - button "Q&A" [ref=e47] [cursor=pointer]:
+                    - generic [ref=e48]: Q&A
+                    - generic [ref=e50]: Ｓ
+                - listitem [ref=e51]:
+                  - button "Topics" [ref=e53] [cursor=pointer]:
+                    - generic [ref=e54]: Topics
+                    - generic [ref=e56]: Ｓ
+              - text: Ｔ
+            - generic [ref=e57]:
+              - text: Ｐ
+              - button "Open search" [ref=e58] [cursor=pointer]:
+                - generic [ref=e60]: 
+          - link "Sign in" [ref=e61] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e63]:
+          - link "Training" [ref=e64] [cursor=pointer]:
+            - /url: /en-us/training/
+            - generic [ref=e65]: Training
+          - navigation "Site" [ref=e66]:
+            - list [ref=e67]:
+              - listitem [ref=e68]:
+                - button "Products" [ref=e69] [cursor=pointer]:
+                  - generic [ref=e70]: Products
+                  - generic [ref=e72]: Ｓ
+              - listitem [ref=e73]:
+                - button "Career Paths" [ref=e74] [cursor=pointer]:
+                  - generic [ref=e75]: Career Paths
+                  - generic [ref=e77]: Ｓ
+              - listitem [ref=e78]:
+                - link "Browse all training" [ref=e79] [cursor=pointer]:
+                  - /url: /en-us/training/browse/
+                  - generic [ref=e80]: Browse all training
+              - listitem [ref=e81]:
+                - button "Learn for Organizations" [ref=e82] [cursor=pointer]:
+                  - generic [ref=e83]: Learn for Organizations
+                  - generic [ref=e85]: Ｓ
+                - text: Ｔ
+              - listitem [ref=e86]:
+                - button "Educator Center" [ref=e87] [cursor=pointer]:
+                  - generic [ref=e88]: Educator Center
+                  - generic [ref=e90]: Ｓ
+                - text: Ｔ Ｔ
+              - listitem [ref=e91]:
+                - button "Student Hub" [ref=e92] [cursor=pointer]:
+                  - generic [ref=e93]: Student Hub
+                  - generic [ref=e95]: Ｓ
+              - listitem [ref=e96]:
+                - link "FAQ & Help" [ref=e97] [cursor=pointer]:
+                  - /url: /en-us/training/support/
+                  - generic [ref=e98]: FAQ & Help
+              - text: Ｓ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ Ｔ
+  - navigation "Primary" [ref=e102]:
+    - button "Collapse" [expanded] [ref=e104] [cursor=pointer]:
+      - generic [ref=e106]: ﾝ
+    - search "Search" [ref=e107]:
+      - generic [ref=e108]: Search
+      - generic [ref=e110]:
+        - combobox "Search" [ref=e111]
+        - generic:
+          - generic: 󿄓
+    - tree "Table of contents" [ref=e112]:
+      - treeitem "Resources" [expanded] [level=1] [ref=e113]:
+        - generic [ref=e114] [cursor=pointer]: Resources
+        - group [ref=e115]:
+          - treeitem "Frequently asked questions" [level=2] [ref=e116] [cursor=pointer]
+          - treeitem "Common issues" [level=2] [ref=e117] [cursor=pointer]
+          - treeitem "Manage your Learn profile settings" [level=2] [ref=e118] [cursor=pointer]
+          - treeitem "Learn content types" [level=2] [ref=e119] [cursor=pointer]
+          - treeitem "Search Instant Answer Transparency Note" [level=2] [ref=e120] [cursor=pointer]
+          - treeitem "Ask Learn Responsible AI FAQ" [level=2] [ref=e121] [cursor=pointer]
+          - treeitem "AI Summary Transparency Note" [level=2] [ref=e122] [cursor=pointer]
+      - treeitem "Plans" [expanded] [level=1] [ref=e123]:
+        - generic [ref=e124] [cursor=pointer]: Plans
+        - group [ref=e125]:
+          - treeitem "Overview of Plans" [level=2] [ref=e126] [cursor=pointer]
+          - treeitem "How to create and manage Plans" [level=2] [ref=e127] [cursor=pointer]
+          - treeitem "How to start and complete Plans" [level=2] [ref=e128] [cursor=pointer]
+          - treeitem "Best practices" [level=2] [ref=e129] [cursor=pointer]
+          - treeitem "AI enhanced plan generation transparency note" [level=2] [ref=e130] [cursor=pointer]
+      - treeitem "Integrations" [expanded] [level=1] [ref=e131]:
+        - generic [ref=e132] [cursor=pointer]: Integrations
+        - group [ref=e133]:
+          - treeitem "Leverage Learn in your organization" [level=2] [ref=e134] [cursor=pointer]
+          - treeitem "Learn Platform API" [level=2] [ref=e135]:
+            - generic [ref=e136] [cursor=pointer]: Learn Platform API
+          - treeitem "Catalog API" [level=2] [ref=e137]:
+            - generic [ref=e138] [cursor=pointer]: Catalog API
+          - treeitem "MCP Server" [level=2] [ref=e139]:
+            - generic [ref=e140] [cursor=pointer]: MCP Server
+          - treeitem "Organizational Reporting" [level=2] [ref=e141]:
+            - generic [ref=e142] [cursor=pointer]: Organizational Reporting
+          - treeitem "ILT Scheduler" [level=2] [ref=e143] [cursor=pointer]
+          - treeitem "Agent Skills" [level=2] [ref=e144] [cursor=pointer]
+    - button "Download PDF" [ref=e146] [cursor=pointer]:
+      - generic [ref=e148]: 
+      - generic [ref=e149]: Download PDF
+  - main [ref=e150]:
+    - generic: Ｏ ，
+    - generic [ref=e151]:
+      - generic [ref=e152]:
+        - generic [ref=e154]:
+          - text: 
+          - group "Breadcrumbs" [ref=e155]:
+            - navigation "Breadcrumb" [ref=e156]:
+              - list [ref=e157]:
+                - listitem [ref=e158]:
+                  - link "Learn" [ref=e159] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/
+          - generic [ref=e160]:
+            - text: 󿄐
+            - button "Ask Learn" [ref=e161] [cursor=pointer]:
+              - generic [ref=e163]: 󿄐
+              - generic [ref=e164]: Ask Learn
+            - text: 󿄐
+            - group [ref=e165]:
+              - generic "More actions" [ref=e166] [cursor=pointer]:
+                - generic [ref=e168]: 
+        - text: ﾁ
+        - heading "Frequently asked questions" [level=1] [ref=e170]
+        - generic: 
+        - generic [ref=e172]:
+          - generic [ref=e174]: ﾃ
+          - button "Summarize this article for me" [ref=e175] [cursor=pointer]:
+            - generic [ref=e176]: Summarize this article for me
+        - group "What do you have questions about?" [ref=e178]:
+          - generic [ref=e179]: What do you have questions about?
+          - generic [ref=e180]:
+            - generic [ref=e181] [cursor=pointer]:
+              - text: 
+              - radio "General" [ref=e182]
+              - generic [ref=e183]: General
+            - generic [ref=e184] [cursor=pointer]:
+              - text: 
+              - radio "Profile" [ref=e185]
+              - generic [ref=e186]: Profile
+            - generic [ref=e187] [cursor=pointer]:
+              - text: 
+              - radio "Transcript" [ref=e188]
+              - generic [ref=e189]: Transcript
+            - generic [ref=e190] [cursor=pointer]:
+              - text: 
+              - radio "Sandbox" [checked] [ref=e191]
+              - generic [ref=e192]: Sandbox
+            - generic [ref=e193] [cursor=pointer]:
+              - text: 
+              - radio "Support" [ref=e194]
+              - generic [ref=e195]: Support
+            - generic [ref=e196] [cursor=pointer]:
+              - text: 
+              - radio "Educators" [ref=e197]
+              - generic [ref=e198]: Educators
+        - navigation "In this article" [ref=e199]:
+          - heading "In this article" [level=2] [ref=e200]
+          - list [ref=e201]:
+            - listitem [ref=e202]:
+              - link "What are the Microsoft Learn sandboxes?" [ref=e203] [cursor=pointer]:
+                - /url: "#what-are-the-microsoft-learn-sandboxes"
+            - listitem [ref=e204]:
+              - link "Are sandboxes still available?" [ref=e205] [cursor=pointer]:
+                - /url: "#are-sandboxes-still-available"
+        - generic [ref=e206]:
+          - text:                                    
+          - generic [ref=e207]:
+            - generic [ref=e208]:
+              - 'link "Section titled: What are the Microsoft Learn sandboxes?" [ref=e209] [cursor=pointer]':
+                - /url: "#what-are-the-microsoft-learn-sandboxes"
+                - text: 
+              - heading "What are the Microsoft Learn sandboxes?" [level=2] [ref=e210]
+            - paragraph [ref=e211]: The Microsoft Learn sandboxes were free environments used to explore Azure and other products through Microsoft Learn training modules.
+            - generic [ref=e212]:
+              - 'link "Section titled: Are sandboxes still available?" [ref=e213] [cursor=pointer]':
+                - /url: "#are-sandboxes-still-available"
+                - text: 
+              - heading "Are sandboxes still available?" [level=2] [ref=e214]
+            - paragraph [ref=e215]:
+              - text: Sandboxes are no longer available. To complete exercises in training modules, you'll need access to an Azure subscription. If you don't have one yet, you can
+              - link "sign up" [ref=e216] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn_6cbe71e9-da19-ad43-cdc1-81729fbbf0a0
+              - text: for a free 30-day Azure trial or a pay-as-you-go subscription.
+          - text:         
+        - alert [ref=e217]
+        - status [ref=e218]
+      - generic [ref=e219]:
+        - separator [ref=e220]
+        - heading "Additional resources" [level=2] [ref=e221]
+        - article [ref=e223]:
+          - paragraph [ref=e224]:
+            - generic [ref=e226]: 
+            - text: Documentation
+          - list [ref=e228]:
+            - listitem [ref=e229]:
+              - paragraph [ref=e230]:
+                - link "Troubleshooting common training issues in Microsoft Learn" [ref=e231] [cursor=pointer]:
+                  - /url: /en-us/training/support/troubleshooting?source=recommendations
+              - paragraph [ref=e232]: Troubleshooting common training issues in Microsoft Learn
+        - article [ref=e234]:
+          - paragraph [ref=e235]:
+            - generic [ref=e237]: 
+            - text: Training
+          - generic [ref=e238]:
+            - generic [ref=e239]:
+              - paragraph [ref=e240]: Learning path
+              - paragraph [ref=e241]:
+                - link "Prepare to teach SC-300 Microsoft Identity and Access Administrator - Training" [ref=e242] [cursor=pointer]:
+                  - /url: /en-us/training/paths/prepare-teach-sc-300-identity-access-administrator/?source=recommendations
+              - paragraph [ref=e243]: Learn about the Microsoft Learn for Educators program and how to best deliver its content to your students. Prepare to deliver Microsoft’s security solutions, SC-900 Microsoft Security, Compliance, and Identity Fundamentals in academic program.
+            - generic [ref=e244]:
+              - paragraph [ref=e245]: Certification
+              - paragraph [ref=e246]:
+                - link "Microsoft Certified Educator - Certifications" [ref=e247] [cursor=pointer]:
+                  - /url: /en-us/credentials/certifications/microsoft-certified-educator/?source=recommendations
+              - paragraph [ref=e248]: Validate that you have the global educator technology literacy competencies needed to provide a rich, custom learning experience for students.
+      - generic [ref=e249]:
+        - separator [ref=e250]
+        - list [ref=e251]:
+          - listitem [ref=e252]:
+            - generic [ref=e254]: Last updated on 10/27/2025
+  - complementary "Additional resources"
+  - text: 󿄐 Ｐ
+  - contentinfo [ref=e256]:
+    - generic [ref=e257]:
+      - link "Content language selector. Currently set to English (United States)." [ref=e258] [cursor=pointer]:
+        - /url: /en-us/locale?target=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Ftraining%2Fsupport%2Ffaq%3Fpivots%3Dsandbox
+        - generic [ref=e260]: 
+        - generic [ref=e261]: English (United States)
+      - link "Your Privacy Choices" [ref=e263] [cursor=pointer]:
+        - /url: https://aka.ms/yourcaliforniaprivacychoices
+        - img [ref=e264]
+        - generic [ref=e269]: Your Privacy Choices
+      - button "Theme" [ref=e272] [cursor=pointer]:
+        - generic [ref=e274]: ０
+        - generic [ref=e275]: Theme
+        - generic [ref=e277]: Ｓ
+    - list [ref=e278]:
+      - listitem [ref=e279]:
+        - link "AI Disclaimer" [ref=e280] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/principles-for-ai-generated-content
+      - listitem [ref=e281]:
+        - link "Previous Versions" [ref=e282] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/previous-versions/
+      - listitem [ref=e283]:
+        - link "Blog" [ref=e284] [cursor=pointer]:
+          - /url: https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog
+      - listitem [ref=e285]:
+        - link "Contribute" [ref=e286] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/contribute
+      - listitem [ref=e287]:
+        - link "Privacy" [ref=e288] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+      - listitem [ref=e289]:
+        - link "Consumer Health Privacy" [ref=e290] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+      - listitem [ref=e291]:
+        - link "Terms of Use" [ref=e292] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/legal/termsofuse
+      - listitem [ref=e293]:
+        - link "Trademarks" [ref=e294] [cursor=pointer]:
+          - /url: https://www.microsoft.com/legal/intellectualproperty/Trademarks/
+      - listitem [ref=e295]: © Microsoft 2026

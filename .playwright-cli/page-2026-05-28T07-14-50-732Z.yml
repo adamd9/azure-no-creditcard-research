@@ -1,0 +1,603 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to main content" [ref=e4] [cursor=pointer]:
+        - /url: "#main"
+      - link "Skip to Ask Learn chat experience" [ref=e5] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - heading "Microsoft Build 2026" [level=2] [ref=e10]
+            - paragraph [ref=e11]: June 2-3, 2026
+          - link "Learn more" [ref=e12] [cursor=pointer]:
+            - /url: https://aka.ms/MSBuild_FY26_BN_MSLearn_Hero
+            - generic [ref=e13]: Learn more
+            - generic [ref=e15]: Ｔ
+        - button "Dismiss alert" [ref=e16] [cursor=pointer]:
+          - generic [ref=e17]: Dismiss alert
+      - generic [ref=e18]:
+        - text: Ｏ Ｐ 
+        - generic [ref=e19]:
+          - link "Microsoft" [ref=e20] [cursor=pointer]:
+            - /url: https://www.microsoft.com
+            - img [ref=e21]
+          - link "Learn" [ref=e27] [cursor=pointer]:
+            - /url: /en-us/
+            - generic [ref=e28]: Learn
+          - generic [ref=e29]:
+            - navigation "Global" [ref=e31]:
+              - text: Ｒ
+              - list [ref=e32]:
+                - listitem [ref=e33]:
+                  - button "Documentation" [ref=e35] [cursor=pointer]:
+                    - generic [ref=e36]: Documentation
+                    - generic [ref=e38]: Ｓ
+                - listitem [ref=e39]:
+                  - button "Training & Labs" [ref=e41] [cursor=pointer]:
+                    - generic [ref=e42]: Training & Labs
+                    - generic [ref=e44]: Ｓ
+                - listitem [ref=e45]:
+                  - button "Q&A" [ref=e47] [cursor=pointer]:
+                    - generic [ref=e48]: Q&A
+                    - generic [ref=e50]: Ｓ
+                - listitem [ref=e51]:
+                  - button "Topics" [ref=e53] [cursor=pointer]:
+                    - generic [ref=e54]: Topics
+                    - generic [ref=e56]: Ｓ
+              - text: Ｔ
+            - generic [ref=e57]:
+              - text: Ｐ
+              - button "Open search" [ref=e58] [cursor=pointer]:
+                - generic [ref=e60]: 
+          - link "Sign in" [ref=e61] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e63]:
+          - link "Partner Center" [ref=e64] [cursor=pointer]:
+            - /url: /en-us/partner-center/
+            - generic [ref=e65]: Partner Center
+          - navigation "Site" [ref=e66]:
+            - list [ref=e67]:
+              - listitem [ref=e68]:
+                - link "Administrator documentation" [ref=e69] [cursor=pointer]:
+                  - /url: /en-us/partner-center/overview/
+                  - generic [ref=e70]: Administrator documentation
+              - listitem [ref=e71]:
+                - link "Developer documentation" [ref=e72] [cursor=pointer]:
+                  - /url: /en-us/partner-center/developer/
+                  - generic [ref=e73]: Developer documentation
+              - listitem [ref=e74]:
+                - button "Resources" [ref=e75] [cursor=pointer]:
+                  - generic [ref=e76]: Resources
+                  - generic [ref=e78]: Ｓ
+              - text: Ｓ Ｔ
+          - generic [ref=e79]:
+            - link "Support" [ref=e80] [cursor=pointer]:
+              - /url: https://partner.microsoft.com/support
+            - link "Dashboard" [ref=e81] [cursor=pointer]:
+              - /url: https://partner.microsoft.com/dashboard
+  - navigation "Primary" [ref=e85]:
+    - button "Collapse" [expanded] [ref=e87] [cursor=pointer]:
+      - generic [ref=e89]: ﾝ
+    - search "Search" [ref=e90]:
+      - generic [ref=e91]: Search
+      - generic [ref=e93]:
+        - combobox "Search" [ref=e94]
+        - generic:
+          - generic: 󿄓
+    - tree "Table of contents" [ref=e95]:
+      - treeitem "Microsoft Partner Center documentation" [level=1] [ref=e96] [cursor=pointer]
+      - treeitem "What is Partner Center?" [level=1] [ref=e97] [cursor=pointer]
+      - treeitem "Get around Partner Center" [level=1] [ref=e98] [cursor=pointer]
+      - treeitem "Partner Center AI assistant" [level=1] [ref=e99]:
+        - generic [ref=e100] [cursor=pointer]: Partner Center AI assistant
+      - treeitem "Announcements" [level=1] [ref=e101]:
+        - generic [ref=e102] [cursor=pointer]: Announcements
+      - treeitem "Launch Enablement Guide" [level=1] [ref=e103] [cursor=pointer]
+      - treeitem "Enroll" [level=1] [ref=e104]:
+        - generic [ref=e105] [cursor=pointer]: Enroll
+      - treeitem "Action Center" [level=1] [ref=e106]:
+        - generic [ref=e107] [cursor=pointer]: Action Center
+      - treeitem "Account settings" [level=1] [ref=e108]:
+        - generic [ref=e109] [cursor=pointer]: Account settings
+      - treeitem "Security" [level=1] [ref=e110]:
+        - generic [ref=e111] [cursor=pointer]: Security
+      - treeitem "Membership" [level=1] [ref=e112]:
+        - generic [ref=e113] [cursor=pointer]: Membership
+      - treeitem "Benefits" [level=1] [ref=e114]:
+        - generic [ref=e115] [cursor=pointer]: Benefits
+      - treeitem "Referrals" [level=1] [ref=e116]:
+        - generic [ref=e117] [cursor=pointer]: Referrals
+      - treeitem "Customers" [expanded] [level=1] [ref=e118]:
+        - generic [ref=e119] [cursor=pointer]: Customers
+        - group [ref=e120]:
+          - treeitem "Customers overview" [level=2] [ref=e121] [cursor=pointer]
+          - treeitem "Connect with your customers" [level=2] [ref=e122] [cursor=pointer]
+          - treeitem "See your customer list" [level=2] [ref=e123] [cursor=pointer]
+          - treeitem "Manage your customers with tags" [level=2] [ref=e124] [cursor=pointer]
+          - treeitem "View customer activity logs" [level=2] [ref=e125] [cursor=pointer]
+          - treeitem "Granular delegated admin privileges (GDAP)" [level=2] [ref=e126]:
+            - generic [ref=e127] [cursor=pointer]: Granular delegated admin privileges (GDAP)
+          - treeitem "Work with partners" [level=2] [ref=e128]:
+            - generic [ref=e129] [cursor=pointer]: Work with partners
+          - treeitem "Manage your customers" [level=2] [ref=e130]:
+            - generic [ref=e131] [cursor=pointer]: Manage your customers
+          - treeitem "Manage customer subscriptions" [level=2] [ref=e132]:
+            - generic [ref=e133] [cursor=pointer]: Manage customer subscriptions
+          - treeitem "Microsoft Customer Agreements" [level=2] [ref=e134]:
+            - generic [ref=e135] [cursor=pointer]: Microsoft Customer Agreements
+          - treeitem "CSP offers" [expanded] [level=2] [ref=e136]:
+            - generic [ref=e137] [cursor=pointer]: CSP offers
+            - group [ref=e138]:
+              - treeitem "Buy Azure at PAYG rates" [level=3] [ref=e139] [cursor=pointer]
+              - treeitem "Begin using PAYG rates with the Azure plan" [level=3] [ref=e140] [cursor=pointer]
+              - treeitem "Purchase the Azure plan" [level=3] [ref=e141] [cursor=pointer]
+              - treeitem "Sell Azure reservations" [level=3] [ref=e142] [cursor=pointer]
+              - treeitem "Buy Microsoft Azure reservations on behalf of your customers" [level=3] [ref=e143] [cursor=pointer]
+              - treeitem "Save with Azure savings plans" [level=3] [ref=e144] [cursor=pointer]
+              - treeitem "Sell Office 365 GCC for CSP" [level=3] [ref=e145] [cursor=pointer]
+              - treeitem "Sell subscriptions to your customers" [level=3] [ref=e146] [cursor=pointer]
+              - treeitem "Sell Minecraft Education subscriptions" [level=3] [ref=e147] [cursor=pointer]
+              - treeitem "Offer your customers trials of Microsoft products" [level=3] [ref=e148] [cursor=pointer]
+              - treeitem "Azure Partner Shared Services" [level=3] [ref=e149] [cursor=pointer]
+              - treeitem "Software subscriptions" [level=3] [ref=e150] [cursor=pointer]
+              - treeitem "Extended security updates" [level=3] [ref=e151] [cursor=pointer]
+              - treeitem "Sell to specialized industries" [level=3] [ref=e152] [cursor=pointer]
+              - treeitem "Create and sell offers to education customers" [level=3] [ref=e153] [cursor=pointer]
+              - treeitem "New commerce experiences for license-based services" [level=3] [ref=e154]:
+                - generic [ref=e155] [cursor=pointer]: New commerce experiences for license-based services
+              - treeitem "Compare Azure offers" [level=3] [ref=e156] [cursor=pointer]
+              - treeitem "Sell partner offers in CSP" [level=3] [ref=e157] [cursor=pointer]
+              - treeitem "Available Azure services" [level=3] [ref=e158] [cursor=pointer]
+              - treeitem "Azure reservations" [expanded] [level=3] [ref=e159]:
+                - generic [ref=e160] [cursor=pointer]: Azure reservations
+                - group [ref=e161]:
+                  - treeitem "VM sizing for maximum reservation usage" [level=4] [ref=e162] [cursor=pointer]
+                  - treeitem "Azure reserved VM instances (RI) + server subscriptions" [level=4] [ref=e163] [cursor=pointer]
+          - treeitem "Microsoft Marketplace" [level=2] [ref=e164]:
+            - generic [ref=e165] [cursor=pointer]: Microsoft Marketplace
+          - treeitem "Advisors selling Office 365" [level=2] [ref=e166]:
+            - generic [ref=e167] [cursor=pointer]: Advisors selling Office 365
+          - treeitem "Support your customers" [level=2] [ref=e168]:
+            - generic [ref=e169] [cursor=pointer]: Support your customers
+      - treeitem "Billing" [level=1] [ref=e170]:
+        - generic [ref=e171] [cursor=pointer]: Billing
+      - treeitem "Pricing" [level=1] [ref=e172]:
+        - generic [ref=e173] [cursor=pointer]: Pricing
+      - treeitem "Incentives" [level=1] [ref=e174]:
+        - generic [ref=e175] [cursor=pointer]: Incentives
+      - treeitem "Microsoft Marketplace offers" [level=1] [ref=e176]:
+        - generic [ref=e177] [cursor=pointer]: Microsoft Marketplace offers
+      - treeitem "Earnings" [level=1] [ref=e178]:
+        - generic [ref=e179] [cursor=pointer]: Earnings
+      - treeitem "Insights" [level=1] [ref=e180]:
+        - generic [ref=e181] [cursor=pointer]: Insights
+      - treeitem "Help + support" [level=1] [ref=e182]:
+        - generic [ref=e183] [cursor=pointer]: Help + support
+      - treeitem "Developer resources" [level=1] [ref=e184]:
+        - generic [ref=e185] [cursor=pointer]: Developer resources
+    - button "Download PDF" [ref=e187] [cursor=pointer]:
+      - generic [ref=e189]: 
+      - generic [ref=e190]: Download PDF
+  - main [ref=e191]:
+    - generic: Ｏ ，
+    - generic [ref=e192]:
+      - generic [ref=e193]:
+        - generic [ref=e195]:
+          - text: 
+          - group "Breadcrumbs" [ref=e196]:
+            - navigation "Breadcrumb" [ref=e197]:
+              - list [ref=e198]:
+                - listitem [ref=e199]:
+                  - link "Learn" [ref=e200] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/
+                - listitem [ref=e201]:
+                  - link "Partner Center" [ref=e202] [cursor=pointer]:
+                    - /url: https://learn.microsoft.com/en-us/partner-center/
+          - generic [ref=e203]:
+            - text: 󿄐
+            - button "Ask Learn" [ref=e204] [cursor=pointer]:
+              - generic [ref=e206]: 󿄐
+              - generic [ref=e207]: Ask Learn
+            - text: 󿄐
+            - group [ref=e208]:
+              - generic "More actions" [ref=e209] [cursor=pointer]:
+                - generic [ref=e211]: 
+        - text: ﾁ
+        - heading "Microsoft Azure VM sizing for maximum reservation usage" [level=1] [ref=e213]
+        - generic: 
+        - generic [ref=e215]:
+          - generic [ref=e217]: ﾃ
+          - button "Summarize this article for me" [ref=e218] [cursor=pointer]:
+            - generic [ref=e219]: Summarize this article for me
+        - navigation "In this article" [ref=e220]:
+          - heading "In this article" [level=2] [ref=e221]
+          - list [ref=e222]:
+            - listitem [ref=e223]:
+              - link "Determine the VM size for a customer's Azure reservation" [ref=e224] [cursor=pointer]:
+                - /url: "#determine-the-vm-size-for-a-customers-azure-reservation"
+            - listitem [ref=e225]:
+              - link "Verify Azure VM usage and reservation discount" [ref=e226] [cursor=pointer]:
+                - /url: "#verify-azure-vm-usage-and-reservation-discount"
+            - listitem [ref=e227]:
+              - link "Related content" [ref=e228] [cursor=pointer]:
+                - /url: "#related-content"
+        - generic [ref=e229]:
+          - paragraph [ref=e230]:
+            - strong [ref=e231]: Appropriate roles
+            - text: ": Admin agent | Sales agent"
+          - paragraph [ref=e232]: This article explains how to size a virtual machine (VM) to your customers' computing needs when you buy Microsoft Azure reservations for them.
+          - generic [ref=e233]:
+            - paragraph [ref=e234]:
+              - generic [ref=e236]: ７
+              - text: Note
+            - paragraph [ref=e237]: This article applies only to Direct bill and indirect providers partners in the Cloud Solution Provider (CSP) program.
+            - paragraph [ref=e238]:
+              - text: Customers using other types of subscriptions (such as pay-as-you-go, individual, Microsoft Customer Agreement, or Enterprise Agreement subscriptions) should read the Azure documentation
+              - link "Save with Azure reservations" [ref=e239] [cursor=pointer]:
+                - /url: /en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations
+              - text: instead.
+          - generic [ref=e240]:
+            - 'link "Section titled: Determine the VM size for a customer''s Azure reservation" [ref=e241] [cursor=pointer]':
+              - /url: "#determine-the-vm-size-for-a-customers-azure-reservation"
+              - text: 
+            - heading "Determine the VM size for a customer's Azure reservation" [level=2] [ref=e242]
+          - paragraph [ref=e243]: When buying Microsoft Azure reservations on behalf of your customers, choose a VM sized to meet the customer's computing needs.
+          - paragraph [ref=e244]: "The following sections describe how you can get VM sizing information using:"
+          - list [ref=e245]:
+            - listitem [ref=e246]:
+              - link "Azure utilization API" [ref=e247] [cursor=pointer]:
+                - /url: "#get-vm-sizing-information-using-the-azure-utilization-api"
+            - listitem [ref=e248]:
+              - link "Microsoft Azure portal" [ref=e249] [cursor=pointer]:
+                - /url: "#get-vm-sizing-information-using-the-microsoft-azure-portal"
+            - listitem [ref=e250]:
+              - link "Azure PowerShell" [ref=e251] [cursor=pointer]:
+                - /url: "#get-vm-sizing-information-using-microsoft-azure-powershell"
+            - listitem [ref=e252]:
+              - link "Azure Resource Manager (ARM) API" [ref=e253] [cursor=pointer]:
+                - /url: "#get-vm-sizing-information-using-the-azure-resource-manager-arm-api"
+          - generic [ref=e254]:
+            - paragraph [ref=e255]:
+              - generic [ref=e257]: ）
+              - text: Important
+            - paragraph [ref=e258]: To correctly identify the type and size of VM to buy on behalf of your customer, you must use one of the methods described in the following sections because the VM series type isn't correctly displayed in Partner Center reconciliation files.
+          - paragraph [ref=e259]: After you buy a reservation, the reservation discount is applied automatically to virtual machines matching the attributes and quantity of the reservation. You don't need to assign the reservation to a VM.
+          - paragraph [ref=e260]: Reservation discounts don't apply to classic or promotional VMs.
+          - separator [ref=e261]
+          - generic [ref=e262]:
+            - 'link "Section titled: Get VM sizing information using the Azure utilization API" [ref=e263] [cursor=pointer]':
+              - /url: "#get-vm-sizing-information-using-the-azure-utilization-api"
+              - text: 
+            - heading "Get VM sizing information using the Azure utilization API" [level=3] [ref=e264]
+          - paragraph [ref=e265]: "To get VM sizing information using the Azure utilization API, use the following step:"
+          - list [ref=e266]:
+            - listitem [ref=e267]:
+              - text: Use the value for
+              - code [ref=e268]: ServiceType
+              - text: attribute from
+              - code [ref=e269]: additionalInfo
+              - text: in the API response.
+          - paragraph [ref=e270]:
+            - text: For more information, see
+            - link "Get a customer's utilization records for Azure" [ref=e271] [cursor=pointer]:
+              - /url: ../developer/get-a-customer-s-utilization-record-for-azure
+            - text: in the
+            - link "Partner Center API" [ref=e272] [cursor=pointer]:
+              - /url: ../developer/
+            - text: .
+          - separator [ref=e273]
+          - generic [ref=e274]:
+            - 'link "Section titled: Get VM sizing information using the Microsoft Azure portal" [ref=e275] [cursor=pointer]':
+              - /url: "#get-vm-sizing-information-using-the-microsoft-azure-portal"
+              - text: 
+            - heading "Get VM sizing information using the Microsoft Azure portal" [level=3] [ref=e276]
+          - paragraph [ref=e277]: "To get VM sizing information using the Microsoft Azure portal, use the following steps:"
+          - list [ref=e278]:
+            - listitem [ref=e279]:
+              - paragraph [ref=e280]:
+                - text: In Partner Center, go to your
+                - strong [ref=e281]: Customers
+                - text: page.
+            - listitem [ref=e282]:
+              - paragraph [ref=e283]: Find the customer who wants to buy Azure VM reservations and then select the down arrow to expand the customer's information.
+            - listitem [ref=e284]:
+              - paragraph [ref=e285]:
+                - text: Select
+                - strong [ref=e286]: Microsoft Azure Management Portal
+                - text: to open the customer's record in the Azure portal.
+            - listitem [ref=e287]:
+              - paragraph [ref=e288]:
+                - text: Select
+                - strong [ref=e289]: Virtual machines
+                - text: from the portal menu and then select the VM for which you want to buy a reservation.
+            - listitem [ref=e290]:
+              - paragraph [ref=e291]: On the VM's detail page, find the size and region information, as shown in the following illustration. Use that information to purchase the reservation in Partner Center.
+              - paragraph [ref=e292]:
+                - link "Screenshot showing size and region information on detail page. " [ref=e294] [cursor=pointer]:
+                  - /url: ../media/azure-usage/vm-details.png#lightbox
+                  - img "Screenshot showing size and region information on detail page." [ref=e295]
+                  - text: 
+          - separator [ref=e296]
+          - generic [ref=e297]:
+            - 'link "Section titled: Get VM sizing information using Microsoft Azure PowerShell" [ref=e298] [cursor=pointer]':
+              - /url: "#get-vm-sizing-information-using-microsoft-azure-powershell"
+              - text: 
+            - heading "Get VM sizing information using Microsoft Azure PowerShell" [level=3] [ref=e299]
+          - paragraph [ref=e300]: "To get VM sizing information using Microsoft Azure PowerShell, use the following steps:"
+          - paragraph [ref=e301]: Use the information in the following image to get the location and size of the VM for which you want to buy a reservation.
+          - paragraph [ref=e302]:
+            - link "Screenshot of VM location, size, and other information in PowerShell. " [ref=e304] [cursor=pointer]:
+              - /url: ../media/azure-usage/azure-powershell.png#lightbox
+              - img "Screenshot of VM location, size, and other information in PowerShell." [ref=e305]
+              - text: 
+          - separator [ref=e306]
+          - generic [ref=e307]:
+            - 'link "Section titled: Get VM sizing information using the Azure Resource Manager (ARM) API" [ref=e308] [cursor=pointer]':
+              - /url: "#get-vm-sizing-information-using-the-azure-resource-manager-arm-api"
+              - text: 
+            - heading "Get VM sizing information using the Azure Resource Manager (ARM) API" [level=3] [ref=e309]
+          - paragraph [ref=e310]: "To get VM sizing information using the ARM API, use the following steps:"
+          - list [ref=e311]:
+            - listitem [ref=e312]:
+              - paragraph [ref=e313]: Using the ARMClient or the ARM APIs, call the ARM client for the VM for which you want to buy a reservation.
+              - paragraph [ref=e314]:
+                - code [ref=e315]: /subscriptions/<Subscription ID>/resourceGroups/<Resource group name>/providers/Microsoft.Compute/virtualMachines/<VM Instance Name>?api-version=2017-12-01
+            - listitem [ref=e316]:
+              - paragraph [ref=e317]:
+                - text: The call returns the values for
+                - strong [ref=e318]: vmSize
+                - text: and
+                - strong [ref=e319]: location
+                - text: ", as shown in the following images."
+              - paragraph [ref=e320]:
+                - link "Screenshot showing vmSize using the Azure Resource Manager. " [ref=e322] [cursor=pointer]:
+                  - /url: ../media/azure-usage/arm-api-size.png#lightbox
+                  - img "Screenshot showing vmSize using the Azure Resource Manager." [ref=e323]
+                  - text: 
+                - link "Screenshot showing location using the Azure Resource Manager.location value. " [ref=e325] [cursor=pointer]:
+                  - /url: ../media/azure-usage/arm-api-location.png#lightbox
+                  - img "Screenshot showing location using the Azure Resource Manager.location value." [ref=e326]
+                  - text: 
+          - generic [ref=e327]:
+            - 'link "Section titled: Verify Azure VM usage and reservation discount" [ref=e328] [cursor=pointer]':
+              - /url: "#verify-azure-vm-usage-and-reservation-discount"
+              - text: 
+            - heading "Verify Azure VM usage and reservation discount" [level=2] [ref=e329]
+          - paragraph [ref=e330]: After you purchase an Azure Reserved VM instance on behalf of a customer, the discount for paying for VM space in advance is automatically applied to the virtual machines that match the attributes and quantity of the customer's reservation.
+          - paragraph [ref=e331]: "You can verify the customer's reservation usage and see which virtual machines the reservation discounts are applied using:"
+          - list [ref=e332]:
+            - listitem [ref=e333]:
+              - link "Microsoft Azure portal" [ref=e334] [cursor=pointer]:
+                - /url: "#verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"
+            - listitem [ref=e335]:
+              - link "Azure utilization API" [ref=e336] [cursor=pointer]:
+                - /url: "#verify-the-customers-reservation-usage-with-the-azure-utilization-api"
+          - paragraph [ref=e337]: Instructions for using each of these methods are in the following sections.
+          - generic [ref=e338]:
+            - paragraph [ref=e339]:
+              - generic [ref=e341]: ７
+              - text: Note
+            - paragraph [ref=e342]: Only the Azure utilization API shows the virtual machine to which the discount is being applied.
+          - generic [ref=e343]:
+            - 'link "Section titled: Verify the customer''s reservation usage in the Microsoft Azure portal" [ref=e344] [cursor=pointer]':
+              - /url: "#verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"
+              - text: 
+            - heading "Verify the customer's reservation usage in the Microsoft Azure portal" [level=3] [ref=e345]
+          - paragraph [ref=e346]: "To verify the customer's reservation usage in the Microsoft Azure portal, use the following steps:"
+          - list [ref=e347]:
+            - listitem [ref=e348]:
+              - paragraph [ref=e349]:
+                - text: In Partner Center, go to your
+                - strong [ref=e350]: Customers
+                - text: page.
+            - listitem [ref=e351]:
+              - paragraph [ref=e352]: Find the customer whose reservation discount and usage you want to verify and then select the down arrow to expand the customer's information.
+            - listitem [ref=e353]:
+              - paragraph [ref=e354]:
+                - text: Select
+                - strong [ref=e355]: Microsoft Azure Management Portal
+                - text: to open the customer's record in the Azure portal.
+            - listitem [ref=e356]:
+              - paragraph [ref=e357]:
+                - text: Select
+                - strong [ref=e358]: Reservations
+                - text: from the portal menu and then select the reservation for which you want to check usage.
+            - listitem [ref=e359]:
+              - paragraph [ref=e360]:
+                - text: On the
+                - strong [ref=e361]: Overview
+                - text: page, check the reservation's utilization graph, which shows how much of the reservation was applied to virtual machines.
+              - list [ref=e362]:
+                - listitem [ref=e363]:
+                  - paragraph [ref=e364]: If the reservation's utilization is 100%, your customer is getting all the possible savings that the reservation purchase can provide.
+                - listitem [ref=e365]:
+                  - paragraph [ref=e366]: If the reservation's usage is 0%, the discount isn't being applied to any virtual machine.
+                - listitem [ref=e367]:
+                  - paragraph [ref=e368]: If the reservation's usage is between 1% and 99%, there are unused benefits.
+              - paragraph [ref=e369]: To avoid unused benefit, determine the correct size VM to support the customer's computing needs before making the purchase.
+              - generic [ref=e370]:
+                - paragraph [ref=e371]:
+                  - generic [ref=e373]: ７
+                  - text: Note
+                - paragraph [ref=e374]: Utilization data can be delayed by up to 8 hours.
+          - generic [ref=e375]:
+            - 'link "Section titled: Verify the customer''s reservation usage with the Azure utilization API" [ref=e376] [cursor=pointer]':
+              - /url: "#verify-the-customers-reservation-usage-with-the-azure-utilization-api"
+              - text: 
+            - heading "Verify the customer's reservation usage with the Azure utilization API" [level=3] [ref=e377]
+          - generic [ref=e378]:
+            - paragraph [ref=e379]:
+              - generic [ref=e381]: ７
+              - text: Note
+            - paragraph [ref=e382]: Only the Azure utilization API shows the virtual machine to which the discount is being applied.
+          - paragraph [ref=e383]: You can use the Azure utilization API get reservation usage data. Use that data to see which VMs the discount is applied to and verify that the customer is getting the reservation discount.
+          - paragraph [ref=e384]: Compare Example A to Example B to see how to verify a customer's reservation usage.
+          - paragraph [ref=e385]:
+            - link "Reservation usage examples. " [ref=e387] [cursor=pointer]:
+              - /url: ../media/azure-usage/azure-utilization-api.png#lightbox
+              - img "Reservation usage examples." [ref=e388]
+              - text: 
+          - list [ref=e389]:
+            - listitem [ref=e390]:
+              - code [ref=e391]: reservationId
+              - text: identifies the Azure reservation that was used to apply the discount to the VM.
+            - listitem [ref=e392]:
+              - code [ref=e393]: consumptionMeter
+              - text: is the
+              - code [ref=e394]: MeterId
+              - text: for the VM that has the reservation discount applied to it.
+            - listitem [ref=e395]:
+              - code [ref=e396]: ReservationMeter
+              - text: shows $0 cost because the reservation discount was applied.
+          - paragraph [ref=e397]:
+            - text: For more information, see
+            - link "Get a customer's utilization records for Azure" [ref=e398] [cursor=pointer]:
+              - /url: ../developer/get-a-customer-s-utilization-record-for-azure
+            - text: in the
+            - link "Partner Center API" [ref=e399] [cursor=pointer]:
+              - /url: ../developer/
+            - text: .
+          - generic [ref=e400]:
+            - paragraph [ref=e401]:
+              - generic [ref=e403]: ）
+              - text: Important
+            - paragraph [ref=e404]:
+              - text: Software costs, such as Microsoft Windows Server, aren't included in the price of a VM reservation and appear as separate line items in the order record and on your invoice. However, if a customer has the Azure Hybrid Use Benefit, software costs aren't applied. For more information, see
+              - link "Windows software costs not included with Reserved Instances" [ref=e405] [cursor=pointer]:
+                - /url: /en-us/azure/billing/billing-reserved-instance-windows-software-costs
+              - text: .
+          - generic [ref=e406]:
+            - 'link "Section titled: Related content" [ref=e407] [cursor=pointer]':
+              - /url: "#related-content"
+              - text: 
+            - heading "Related content" [level=2] [ref=e408]
+          - list [ref=e409]:
+            - listitem [ref=e410]:
+              - link "Sell Microsoft Azure Reserved VM Instances" [ref=e411] [cursor=pointer]:
+                - /url: azure-reservations
+            - listitem [ref=e412]:
+              - link "Buy Azure reservations" [ref=e413] [cursor=pointer]:
+                - /url: azure-reservations-buying
+            - listitem [ref=e414]:
+              - link "Managing Azure reservations in Partner Center" [ref=e415] [cursor=pointer]:
+                - /url: azure-reservations-manage
+            - listitem [ref=e416]:
+              - link "Prepay for virtual machines with Azure Reserved VM Instances" [ref=e417] [cursor=pointer]:
+                - /url: /en-us/azure/virtual-machines/windows/prepay-reserved-vm-instances
+              - text: in the Azure Help
+            - listitem [ref=e418]:
+              - link "Manage reserved VM instances" [ref=e419] [cursor=pointer]:
+                - /url: /en-us/azure/billing/billing-manage-reserved-vm-instance
+              - text: in the Azure Help
+            - listitem [ref=e420]:
+              - link "Purchase Azure Reserved VM Instances" [ref=e421] [cursor=pointer]:
+                - /url: ../developer/purchase-azure-reservations
+              - text: in the Partner Center developer documentation
+            - listitem [ref=e422]:
+              - link "Give customers permission to buy their own Azure reservations" [ref=e423] [cursor=pointer]:
+                - /url: give-customers-permission
+        - alert [ref=e424]
+        - status [ref=e425]
+        - generic [ref=e426]:
+          - separator [ref=e427]
+          - heading "Feedback" [level=2] [ref=e428]
+          - generic [ref=e429]:
+            - paragraph [ref=e430]: Was this page helpful?
+            - generic [ref=e431]:
+              - button "Yes" [ref=e432] [cursor=pointer]:
+                - generic [ref=e434]: 
+                - generic [ref=e435]: "Yes"
+              - button "No" [ref=e436] [cursor=pointer]:
+                - generic [ref=e438]: 
+                - generic [ref=e439]: "No"
+              - text: 
+      - generic [ref=e440]:
+        - separator [ref=e441]
+        - heading "Additional resources" [level=2] [ref=e442]
+        - article [ref=e444]:
+          - paragraph [ref=e445]:
+            - generic [ref=e447]: 
+            - text: Documentation
+          - list [ref=e449]:
+            - listitem [ref=e450]:
+              - paragraph [ref=e451]:
+                - link "Azure reservations and server subscriptions - Partner Center" [ref=e452] [cursor=pointer]:
+                  - /url: /en-us/partner-center/customers/azure-ri-server-subscriptions?source=recommendations
+              - paragraph [ref=e453]: Learn about Cloud Solution Provider (CSP) opportunities to acquire, prepare, and manage Azure reservations and Server subscriptions for customers.
+            - listitem [ref=e454]:
+              - paragraph [ref=e455]:
+                - link "Sell Customers Microsoft Azure Reservations - Partner Center" [ref=e456] [cursor=pointer]:
+                  - /url: /en-us/partner-center/customers/azure-reservations?source=recommendations
+              - paragraph [ref=e457]: As a Cloud Solution Provider, you can buy, sell, and manage Azure reservations for customers. Use Partner Center, the Azure portal, or the Partner Center API.
+            - listitem [ref=e458]:
+              - paragraph [ref=e459]:
+                - link "Save with Azure Savings Plans - Partner Center" [ref=e460] [cursor=pointer]:
+                  - /url: /en-us/partner-center/customers/azure-savings-plan?source=recommendations
+              - paragraph [ref=e461]: As a Cloud Solution Provider, you can use the Azure portal to acquire and manage Azure savings plans for customers.
+          - button "Show 5 more" [ref=e462] [cursor=pointer]:
+            - generic [ref=e463]: Show 5 more
+        - article [ref=e465]:
+          - paragraph [ref=e466]:
+            - generic [ref=e468]: 
+            - text: Training
+          - generic [ref=e469]:
+            - generic [ref=e470]:
+              - paragraph [ref=e471]: Module
+              - paragraph [ref=e472]:
+                - link "Save money with Azure Reserved Instances - Training" [ref=e473] [cursor=pointer]:
+                  - /url: /en-us/training/modules/save-money-with-azure-reserved-instances/?source=recommendations
+              - paragraph [ref=e474]: Learn how to save money by taking advantage of Azure Reserved Instances.
+            - generic [ref=e475]:
+              - paragraph [ref=e476]: Certification
+              - paragraph [ref=e477]:
+                - 'link "Microsoft Certified: Azure Virtual Desktop Specialty - Certifications" [ref=e478] [cursor=pointer]':
+                  - /url: /en-us/credentials/certifications/azure-virtual-desktop-specialty/?source=recommendations
+              - paragraph [ref=e479]: Plan, deliver, manage, and monitor virtual desktop experiences and remote apps on Microsoft Azure for any device.
+      - generic [ref=e480]:
+        - separator [ref=e481]
+        - list [ref=e482]:
+          - listitem [ref=e483]:
+            - generic [ref=e485]: Last updated on 09/29/2025
+  - complementary "Additional resources":   
+  - text: 󿄐 Ｐ
+  - contentinfo [ref=e487]:
+    - generic [ref=e488]:
+      - link "Content language selector. Currently set to English (United States)." [ref=e489] [cursor=pointer]:
+        - /url: /en-us/locale?target=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fpartner-center%2Fcustomers%2Fazure-usage
+        - generic [ref=e491]: 
+        - generic [ref=e492]: English (United States)
+      - link "Your Privacy Choices" [ref=e494] [cursor=pointer]:
+        - /url: https://aka.ms/yourcaliforniaprivacychoices
+        - img [ref=e495]
+        - generic [ref=e500]: Your Privacy Choices
+      - button "Theme" [ref=e503] [cursor=pointer]:
+        - generic [ref=e505]: ０
+        - generic [ref=e506]: Theme
+        - generic [ref=e508]: Ｓ
+    - list [ref=e509]:
+      - listitem [ref=e510]:
+        - link "AI Disclaimer" [ref=e511] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/principles-for-ai-generated-content
+      - listitem [ref=e512]:
+        - link "Previous Versions" [ref=e513] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/previous-versions/
+      - listitem [ref=e514]:
+        - link "Blog" [ref=e515] [cursor=pointer]:
+          - /url: https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog
+      - listitem [ref=e516]:
+        - link "Contribute" [ref=e517] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/contribute
+      - listitem [ref=e518]:
+        - link "Privacy" [ref=e519] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+      - listitem [ref=e520]:
+        - link "Consumer Health Privacy" [ref=e521] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+      - listitem [ref=e522]:
+        - link "Terms of Use" [ref=e523] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/legal/termsofuse
+      - listitem [ref=e524]:
+        - link "Trademarks" [ref=e525] [cursor=pointer]:
+          - /url: https://www.microsoft.com/legal/intellectualproperty/Trademarks/
+      - listitem [ref=e526]: © Microsoft 2026

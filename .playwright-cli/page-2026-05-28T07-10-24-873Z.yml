@@ -1,0 +1,506 @@
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - link "Skip to main content" [ref=e6] [cursor=pointer]:
+      - /url: "#primaryArea"
+    - banner [ref=e7]:
+      - generic [ref=e8]:
+        - generic [ref=e10]:
+          - link "Microsoft" [ref=e12] [cursor=pointer]:
+            - /url: https://www.microsoft.com
+            - img "Microsoft" [ref=e13]
+          - link "Nonprofits" [ref=e15] [cursor=pointer]:
+            - /url: https://www.microsoft.com/en-us/nonprofits
+            - generic [ref=e16]: Nonprofits
+        - navigation "Contextual menu" [ref=e19]:
+          - generic [ref=e21]:
+            - generic [ref=e22]:
+              - button "Products " [ref=e25] [cursor=pointer]:
+                - text: Products
+                - generic [ref=e27]: 
+              - link "Eligibility" [ref=e28] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/nonprofits/eligibility
+              - button "Resources " [ref=e31] [cursor=pointer]:
+                - text: Resources
+                - generic [ref=e33]: 
+            - button "More " [ref=e36] [cursor=pointer]:
+              - text: More
+              - generic [ref=e38]: 
+            - link "Get started" [ref=e40] [cursor=pointer]:
+              - /url: http://aka.ms/nonprofitgetstarted
+        - generic [ref=e41]:
+          - navigation "All Microsoft menu" [ref=e44]:
+            - button "All Microsoft " [ref=e47] [cursor=pointer]:
+              - text: All Microsoft
+              - generic [ref=e49]: 
+          - generic [ref=e50]:
+            - text: 
+            - button "Search or ask a question" [ref=e51] [cursor=pointer]:
+              - generic [ref=e53]: 
+  - main [ref=e56]:
+    - generic [ref=e59]:
+      - region "Announcement Bar" [ref=e65] [cursor=pointer]:
+        - paragraph [ref=e67]:
+          - link "Learn more about local nonprofit events and offers in your area" [ref=e68]:
+            - /url: https://aka.ms/MicrosoftNonprofitEventsandOffers
+            - text: Explore local nonprofit events and offers in your area 
+      - status "Alert" [ref=e74]:
+        - text: 
+        - generic [ref=e75]:
+          - text: 
+          - paragraph [ref=e76]:
+            - text: Free technology grants and discounts available for nonprofits.
+            - link "Get started with registration" [ref=e77] [cursor=pointer]:
+              - /url: https://nonprofit.microsoft.com/register
+              - text: Get started
+      - generic [ref=e80]:
+        - generic [ref=e82]:
+          - img "Three people in matching shirts and badges preparing a delivery" [ref=e85]
+          - generic [ref=e91]:
+            - heading "Nonprofit eligibility" [level=1] [ref=e93]
+            - generic [ref=e94]: Microsoft provides grants and discounted solutions to eligible nonprofits. Determine eligibility for your organization below.
+        - 'navigation "steps to determine eligibility: navigate using the in-page navigation" [ref=e97]':
+          - list [ref=e98]:
+            - listitem [ref=e99]:
+              - link "1. Is my organization eligible?" [ref=e100] [cursor=pointer]:
+                - /url: "#areaheading-7782111f-a0e8-4720-8b45-a69760ffe6c9"
+            - listitem [ref=e101]:
+              - link "2. Who can register?" [ref=e102] [cursor=pointer]:
+                - /url: "#areaheading-439f61bd-66b5-474f-bc8d-f6143343d506"
+            - listitem [ref=e103]:
+              - link "3. Who can use a license?" [ref=e104] [cursor=pointer]:
+                - /url: "#areaheading-35383159-11a3-4793-a617-e6d3724b007d"
+            - listitem [ref=e105]:
+              - link "Common questions" [ref=e106] [cursor=pointer]:
+                - /url: "#areaheading-dcd49765-b9ff-4349-9721-028662803f2d"
+        - generic [ref=e109]:
+          - heading "1. Is my organization eligible?" [level=2] [ref=e111]
+          - generic [ref=e113]: Familiarize yourself with our three eligibility requirements to begin the process.
+      - generic [ref=e115]:
+        - generic [ref=e119]:
+          - 'tablist "Steps to determine eligibility: navigate using the in-page navigation" [ref=e122]':
+            - tab "Organization" [selected] [ref=e123] [cursor=pointer]
+            - tab "Mission" [ref=e124] [cursor=pointer]
+            - tab "Additional terms of use" [ref=e125] [cursor=pointer]
+          - text:  
+        - generic [ref=e128]:
+          - tabpanel "Organization" [ref=e130]:
+            - generic [ref=e136]:
+              - paragraph [ref=e137]: "Organizations must be a:"
+              - list [ref=e138]:
+                - listitem [ref=e139]:
+                  - strong [ref=e140]: Nonprofit or non-governmental organization
+                  - text: with
+                  - link "View the nonprofit organization eligibility guidelines, prompts a PDF download" [ref=e141] [cursor=pointer]:
+                    - /url: https://aka.ms/eligibility-requirements
+                    - text: recognized legal status in their respective country
+                  - text: (equal to 501(c)(3) status under the United States Internal Revenue Code);
+                - listitem [ref=e142]:
+                  - strong [ref=e143]: Public library
+                  - text: that provides general library services without charge to all residents of a given community, district or region; or
+                - listitem [ref=e144]:
+                  - strong [ref=e145]: Public museum
+                  - text: ", including public or private institutions, open to the public, that conserve and exhibit tangible objects for purposes of cultural preservation, education, or aesthetic enjoyment."
+                - listitem [ref=e146]:
+                  - strong [ref=e147]: United States
+                  - text: "healthcare organizations, specifically:"
+                  - list [ref=e148]:
+                    - listitem [ref=e149]: Independent Critical Access Hospitals (CAHs) and Rural Emergency Hospitals (REHs). Independent hospitals are those not in a health system, which Centers for Medicare & Medicaid Servies (CMS) typically defines as a group of affiliated hospitals and providers under common ownership or management.
+                    - listitem [ref=e150]: Health Resources and Services Administration (HRSA)-designated Federally Qualified Health Centers (FQHCs) and HRSA-certified FQHC Look-Alikes
+                    - listitem [ref=e151]: CMS-certified nonprofit Rural Health Clinics (RHCs)
+                    - listitem [ref=e152]: Skilled Nursing Facilities (SNF), whose primary focus is short-term medical care and rehabilitation, and
+                    - listitem [ref=e153]: Long-Term Care (LTC) facilities, whose primary focus is long-term custodial care
+              - paragraph [ref=e154]:
+                - emphasis [ref=e155]: If your organization does not meet these criteria, it is not currently eligible.
+              - paragraph [ref=e156]:
+                - link "View the eligibility FAQs for additional information" [ref=e157] [cursor=pointer]:
+                  - /url: "#areaheading-dcd49765-b9ff-4349-9721-028662803f2d"
+                  - text: View eligibility FAQs for additional information
+          - link "Back to tabs" [ref=e158] [cursor=pointer]:
+            - /url: "#tab-organization-tab"
+      - generic [ref=e161]:
+        - heading "2. Who should register?" [level=2] [ref=e171]
+        - generic [ref=e175]:
+          - img "Person in professional clothing sitting in front of a laptop in an office" [ref=e178]
+          - generic [ref=e180]:
+            - heading "Registering your organization" [level=3] [ref=e181]
+            - generic [ref=e182]: The person completing the nonprofit registration must be an employee or strategic volunteer of the nonprofit. If you are a third-party IT provider or other entity working for a nonprofit, you may not complete registration on its behalf.
+        - generic [ref=e187]:
+          - heading "3. Who can use the license?" [level=2] [ref=e189]
+          - generic [ref=e191]: Nonprofit discounts and grants are permitted for specific employees and volunteers. Nonprofit beneficiaries, donors, and members (such as members of a church, club, or sports team) are not eligible for nonprofit offers.
+        - heading "Grants vs. discounted licenses" [level=3] [ref=e196]:
+          - paragraph [ref=e197]: Grants vs. discounted licenses
+        - generic [ref=e200]:
+          - paragraph [ref=e201]: "Depending on the employee status and role in the nonprofit there is a difference between available offers:"
+          - list [ref=e202]:
+            - listitem [ref=e203]: Grants – Granted licenses are only permitted for paid employees and unpaid executive staff if all organization eligibility is met. User amount limits do apply and vary by availability of country of usage. Additionally, organizations are expected to regularly remove unused granted licenses from their subscription. Adherence to policy guidance is encouraged and tenant may be subject to audit by Microsoft.
+            - listitem [ref=e204]: Discounts – Discounted licenses are permitted for all staff, including volunteers and temporary staff of the organization. Eligible nonprofits may access discounted pricing on commercial cloud offers, and some on-premise offers. Discounts vary by product, and/or quantity
+        - generic [ref=e207]:
+          - generic [ref=e209]:
+            - generic [ref=e210]:
+              - img "Person making a presentation to other people in a boardroom"
+            - generic [ref=e211]:
+              - heading "Paid employees" [level=4] [ref=e212]
+              - generic [ref=e213]: Paid staff includes employees on mandatory unpaid time off but who remain employees of the nonprofit, often referred to as furloughed staff. It does not include staff whose employment has been terminated or is subject to layoff. Paid staff are permitted to use granted and discounted licenses.
+          - generic [ref=e216]:
+            - generic [ref=e217]:
+              - img "Person in boardroom speaking to others while using a laptop"
+            - generic [ref=e218]:
+              - heading "Unpaid executive staff" [level=4] [ref=e219]
+              - generic [ref=e220]: Unpaid executive staff is defined as unpaid staff that acts as senior leadership for the nonprofit. Eligible unpaid executive roles are board of directors, president, officer, executive director, and executive program directors. Eligible unpaid executive staff are permitted to use granted and discounted licenses.
+          - generic [ref=e223]:
+            - generic [ref=e224]:
+              - img "Group of volunteers passing cardboard boxes from delivery van"
+            - generic [ref=e225]:
+              - heading "Volunteers and temporary staff" [level=4] [ref=e226]
+              - generic [ref=e227]: Volunteers is defined as all other non-executive unpaid staff and general volunteers. Discounted nonprofit offers are permitted for all nonprofit staff and volunteers.
+        - table [ref=e231]:
+          - rowgroup [ref=e232]:
+            - row "Type Nonprofit Grant Offers Nonprofit Discount Offers Volunteer Use Benefit" [ref=e233]:
+              - columnheader "Type" [ref=e234]
+              - columnheader "Nonprofit Grant Offers" [ref=e235]
+              - columnheader "Nonprofit Discount Offers" [ref=e236]
+              - columnheader "Volunteer Use Benefit" [ref=e237]
+          - rowgroup [ref=e238]:
+            - row "Paid Employees • •" [ref=e239]:
+              - cell "Paid Employees" [ref=e240]
+              - cell "•" [ref=e241]:
+                - generic [ref=e242]: •
+              - cell "•" [ref=e243]:
+                - generic [ref=e244]: •
+              - cell [ref=e245]
+            - row "Unpaid Executive Staff • • •" [ref=e246]:
+              - cell "Unpaid Executive Staff" [ref=e247]
+              - cell "•" [ref=e248]:
+                - generic [ref=e249]: •
+              - cell "•" [ref=e250]:
+                - generic [ref=e251]: •
+              - cell "•" [ref=e252]:
+                - generic [ref=e253]: •
+            - row "Volunteers • •" [ref=e254]:
+              - cell "Volunteers" [ref=e255]
+              - cell [ref=e256]
+              - cell "•" [ref=e257]:
+                - generic [ref=e258]: •
+              - cell "•" [ref=e259]:
+                - generic [ref=e260]: •
+            - row "Contracted Staff (temporary, third-party) •" [ref=e261]:
+              - cell "Contracted Staff (temporary, third-party)" [ref=e262]
+              - cell [ref=e263]
+              - cell "•" [ref=e264]:
+                - generic [ref=e265]: •
+              - cell [ref=e266]
+            - row "Beneficiaries, Members, Donors" [ref=e267]:
+              - cell "Beneficiaries, Members, Donors" [ref=e268]
+              - cell [ref=e269]
+              - cell [ref=e270]
+              - cell [ref=e271]
+        - heading "License restrictions" [level=3] [ref=e276]:
+          - paragraph [ref=e277]: License restrictions
+        - paragraph [ref=e281]: Organizations cannot share, transfer, rent, or resell nonprofit licenses or subscriptions with/to other organizations or individuals even if they are part of the same group. If the group has both nonprofit and for-profit organizations in its legal structure, nonprofit offers are only permitted for the eligible nonprofit organizations. Additionally, groups with centrally managed information technology (IT) systems are only eligible for one grant account. Please contact Microsoft to learn more about enterprise licensing options.
+        - generic [ref=e287]:
+          - heading "Get started with discounts and grants" [level=2] [ref=e289]
+          - generic [ref=e290]:
+            - generic [ref=e291]: Eligible nonprofits may access discounted pricing on commercial cloud offers and some on-premises offers.
+            - link "Register to determine your nonprofit’s eligibility for discounts and grants." [ref=e293] [cursor=pointer]:
+              - /url: https://aka.ms/nonprofitgetstarted
+              - text: Register now 
+        - heading "Commonly asked eligibility questions" [level=2] [ref=e298]
+        - generic [ref=e299]:
+          - group [ref=e300]:
+            - button "Expand all" [ref=e301] [cursor=pointer]
+            - generic [ref=e302]: "|"
+            - button "Collapse all" [disabled] [pressed] [ref=e303]
+          - list [ref=e304]:
+            - listitem [ref=e305]:
+              - heading "What are the eligibility requirements for the Microsoft nonprofit programs?" [level=4] [ref=e306]:
+                - button "What are the eligibility requirements for the Microsoft nonprofit programs?" [ref=e307] [cursor=pointer]:
+                  - generic [ref=e308]: 
+                  - text: What are the eligibility requirements for the Microsoft nonprofit programs?
+            - listitem [ref=e309]:
+              - heading "Which persons affiliated with the nonprofit organization are eligible to use nonprofit licenses?" [level=4] [ref=e310]:
+                - button "Which persons affiliated with the nonprofit organization are eligible to use nonprofit licenses?" [ref=e311] [cursor=pointer]:
+                  - generic [ref=e312]: 
+                  - text: Which persons affiliated with the nonprofit organization are eligible to use nonprofit licenses?
+            - listitem [ref=e313]:
+              - heading "How can I license volunteers in my nonprofit?" [level=4] [ref=e314]:
+                - button "How can I license volunteers in my nonprofit?" [ref=e315] [cursor=pointer]:
+                  - generic [ref=e316]: 
+                  - text: How can I license volunteers in my nonprofit?
+            - listitem [ref=e317]:
+              - heading "Are there any restrictions for volunteer licenses?" [level=4] [ref=e318]:
+                - button "Are there any restrictions for volunteer licenses?" [ref=e319] [cursor=pointer]:
+                  - generic [ref=e320]: 
+                  - text: Are there any restrictions for volunteer licenses?
+            - listitem [ref=e321]:
+              - heading "My nonprofit is using Charity licenses for my staff licensing, but also provides skilling and/or education programs in our community. Can I also use student and faculty Academic licenses in my existing tenant?" [level=4] [ref=e322]:
+                - button "My nonprofit is using Charity licenses for my staff licensing, but also provides skilling and/or education programs in our community. Can I also use student and faculty Academic licenses in my existing tenant?" [ref=e323] [cursor=pointer]:
+                  - generic [ref=e324]: 
+                  - text: My nonprofit is using Charity licenses for my staff licensing, but also provides skilling and/or education programs in our community. Can I also use student and faculty Academic licenses in my existing tenant?
+            - listitem [ref=e325]:
+              - heading "Is there a certain usage requirement for licenses?" [level=4] [ref=e326]:
+                - button "Is there a certain usage requirement for licenses?" [ref=e327] [cursor=pointer]:
+                  - generic [ref=e328]: 
+                  - text: Is there a certain usage requirement for licenses?
+            - listitem [ref=e329]:
+              - heading "How is eligibility for these programs determined?" [level=4] [ref=e330]:
+                - button "How is eligibility for these programs determined?" [ref=e331] [cursor=pointer]:
+                  - generic [ref=e332]: 
+                  - text: How is eligibility for these programs determined?
+            - listitem [ref=e333]:
+              - heading "What if a library or library system is run by a city or county government (federal or state) – do they still get nonprofit pricing?" [level=4] [ref=e334]:
+                - button "What if a library or library system is run by a city or county government (federal or state) – do they still get nonprofit pricing?" [ref=e335] [cursor=pointer]:
+                  - generic [ref=e336]: 
+                  - text: What if a library or library system is run by a city or county government (federal or state) – do they still get nonprofit pricing?
+            - listitem [ref=e337]:
+              - heading "How long does it take to receive eligibility validation?" [level=4] [ref=e338]:
+                - button "How long does it take to receive eligibility validation?" [ref=e339] [cursor=pointer]:
+                  - generic [ref=e340]: 
+                  - text: How long does it take to receive eligibility validation?
+            - listitem [ref=e341]:
+              - heading "I’m not sure if my organization qualifies?" [level=4] [ref=e342]:
+                - button "I’m not sure if my organization qualifies?" [ref=e343] [cursor=pointer]:
+                  - generic [ref=e344]: 
+                  - text: I’m not sure if my organization qualifies?
+            - listitem [ref=e345]:
+              - heading "Why don’t all nonprofit organizations qualify?" [level=4] [ref=e346]:
+                - button "Why don’t all nonprofit organizations qualify?" [ref=e347] [cursor=pointer]:
+                  - generic [ref=e348]: 
+                  - text: Why don’t all nonprofit organizations qualify?
+            - listitem [ref=e349]:
+              - heading "How long does eligibility last?" [level=4] [ref=e350]:
+                - button "How long does eligibility last?" [ref=e351] [cursor=pointer]:
+                  - generic [ref=e352]: 
+                  - text: How long does eligibility last?
+            - listitem [ref=e353]:
+              - heading "Can a nonprofit submit an appeal if denied?" [level=4] [ref=e354]:
+                - button "Can a nonprofit submit an appeal if denied?" [ref=e355] [cursor=pointer]:
+                  - generic [ref=e356]: 
+                  - text: Can a nonprofit submit an appeal if denied?
+        - generic [ref=e359]:
+          - heading "Questions about nonprofit offers?" [level=2] [ref=e361]
+          - generic [ref=e362]:
+            - generic [ref=e363]: Microsoft representatives can help you find the right products for your organization and address inquiries related to eligibility and technical support.
+            - link "Contact us with questions" [ref=e365] [cursor=pointer]:
+              - /url: https://aka.ms/ngosupportform
+              - text: Contact us 
+        - region "follow us on social media" [ref=e367]:
+          - text: Follow Microsoft for Nonprofits
+          - list [ref=e368]:
+            - listitem [ref=e369]:
+              - link "Follow Microsoft for Nonprofits on X (formerly Twitter), opens in a new tab" [ref=e370] [cursor=pointer]:
+                - /url: https://twitter.com/msftnonprofits
+                - img "Follow Microsoft for Nonprofits on X (formerly Twitter)" [ref=e371]
+            - listitem [ref=e372]:
+              - link "Follow Microsoft for Nonprofits on Facebook, opens in a new tab" [ref=e373] [cursor=pointer]:
+                - /url: https://www.facebook.com/msftnonprofits
+                - img "Follow Microsoft for Nonprofits on Facebook" [ref=e374]
+            - listitem [ref=e375]:
+              - link "Follow Microsoft for Nonprofits on LinkedIn, opens in a new tab" [ref=e376] [cursor=pointer]:
+                - /url: https://www.linkedin.com/showcase/microsoft-for-nonprofits/
+                - img "Follow Microsoft for Nonprofits on LinkedIn" [ref=e377]
+  - contentinfo [ref=e380]:
+    - navigation "Footer Resource links" [ref=e382]:
+      - generic [ref=e383]:
+        - generic [ref=e384]:
+          - heading "What's new" [level=2] [ref=e385]
+          - list [ref=e386]:
+            - listitem [ref=e387]:
+              - link "Surface Pro" [ref=e388] [cursor=pointer]:
+                - /url: https://www.microsoft.com/surface/devices/surface-pro
+            - listitem [ref=e389]:
+              - link "Surface Laptop" [ref=e390] [cursor=pointer]:
+                - /url: https://www.microsoft.com/surface/devices/surface-laptop
+            - listitem [ref=e391]:
+              - link "Surface Laptop Studio 2" [ref=e392] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/d/Surface-Laptop-Studio-2/8rqr54krf1dz
+            - listitem [ref=e393]:
+              - link "Copilot for organizations" [ref=e394] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-copilot/organizations?icid=DSM_Footer_CopilotOrganizations
+            - listitem [ref=e395]:
+              - link "Copilot for personal use" [ref=e396] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-copilot/for-individuals?form=MY02PT&OCID=GE_web_Copilot_Free_868g3t5nj
+            - listitem [ref=e397]:
+              - link "AI in Windows" [ref=e398] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/windows/ai-features?icid=DSM_Footer_WhatsNew_AIinWindows
+            - listitem [ref=e399]:
+              - link "Explore Microsoft products" [ref=e400] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-products-and-apps
+            - listitem [ref=e401]:
+              - link "Windows 11 apps" [ref=e402] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/windows/apps-for-windows?icid=DSM_Footer_WhatsNew_Windows11apps
+        - generic [ref=e403]:
+          - heading "Microsoft Store" [level=2] [ref=e404]
+          - list [ref=e405]:
+            - listitem [ref=e406]:
+              - link "Account profile" [ref=e407] [cursor=pointer]:
+                - /url: https://account.microsoft.com/
+            - listitem [ref=e408]:
+              - link "Download Center" [ref=e409] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/download
+            - listitem [ref=e410]:
+              - link "Microsoft Store support" [ref=e411] [cursor=pointer]:
+                - /url: https://go.microsoft.com/fwlink/?linkid=2139749
+            - listitem [ref=e412]:
+              - link "Returns" [ref=e413] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/returns
+            - listitem [ref=e414]:
+              - link "Order tracking" [ref=e415] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/order-tracking
+            - listitem [ref=e416]:
+              - link "Certified Refurbished" [ref=e417] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/certified-refurbished-products
+            - listitem [ref=e418]:
+              - link "Microsoft Store Promise" [ref=e419] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020
+            - listitem [ref=e420]:
+              - link "Flexible Payments" [ref=e421] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/payment-financing-options?icid=footer_financing_vcc
+        - generic [ref=e422]:
+          - heading "Education" [level=2] [ref=e423]
+          - list [ref=e424]:
+            - listitem [ref=e425]:
+              - link "Microsoft in education" [ref=e426] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education
+            - listitem [ref=e427]:
+              - link "Devices for education" [ref=e428] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education/devices/overview
+            - listitem [ref=e429]:
+              - link "Microsoft Teams for Education" [ref=e430] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education/products/teams
+            - listitem [ref=e431]:
+              - link "Microsoft 365 Education" [ref=e432] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education/products/microsoft-365
+            - listitem [ref=e433]:
+              - link "How to buy for your school" [ref=e434] [cursor=pointer]:
+                - /url: https://www.microsoft.com/education/how-to-buy
+            - listitem [ref=e435]:
+              - link "Educator training and development" [ref=e436] [cursor=pointer]:
+                - /url: https://education.microsoft.com/
+            - listitem [ref=e437]:
+              - link "Deals for students and parents" [ref=e438] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/education
+            - listitem [ref=e439]:
+              - link "AI for education" [ref=e440] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/education/ai-in-education
+      - generic [ref=e441]:
+        - generic [ref=e442]:
+          - heading "Business" [level=2] [ref=e443]
+          - list [ref=e444]:
+            - listitem [ref=e445]:
+              - link "Microsoft AI" [ref=e446] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/ai?icid=DSM_Footer_AI
+            - listitem [ref=e447]:
+              - link "Microsoft Security" [ref=e448] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/security
+            - listitem [ref=e449]:
+              - link "Dynamics 365" [ref=e450] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/dynamics-365
+            - listitem [ref=e451]:
+              - link "Microsoft 365" [ref=e452] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-365/business
+            - listitem [ref=e453]:
+              - link "Microsoft Power Platform" [ref=e454] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/power-platform
+            - listitem [ref=e455]:
+              - link "Microsoft Teams" [ref=e456] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-teams/group-chat-software
+            - listitem [ref=e457]:
+              - link "Microsoft 365 Copilot" [ref=e458] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/microsoft-365-copilot?icid=DSM_Footer_Microsoft365Copilot
+            - listitem [ref=e459]:
+              - link "Small Business" [ref=e460] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/store/b/business?icid=CNavBusinessStore
+        - generic [ref=e461]:
+          - heading "Developer & IT" [level=2] [ref=e462]
+          - list [ref=e463]:
+            - listitem [ref=e464]:
+              - link "Azure" [ref=e465] [cursor=pointer]:
+                - /url: https://azure.microsoft.com/en-us/
+            - listitem [ref=e466]:
+              - link "Microsoft Developer" [ref=e467] [cursor=pointer]:
+                - /url: https://developer.microsoft.com/en-us/
+            - listitem [ref=e468]:
+              - link "Microsoft Learn" [ref=e469] [cursor=pointer]:
+                - /url: https://learn.microsoft.com/
+            - listitem [ref=e470]:
+              - link "Support for AI marketplace apps" [ref=e471] [cursor=pointer]:
+                - /url: https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&ocid=cmm3atxvn98
+            - listitem [ref=e472]:
+              - link "Microsoft Tech Community" [ref=e473] [cursor=pointer]:
+                - /url: https://techcommunity.microsoft.com/
+            - listitem [ref=e474]:
+              - link "Microsoft Marketplace" [ref=e475] [cursor=pointer]:
+                - /url: https://marketplace.microsoft.com?icid=DSM_Footer_Marketplace&ocid=cmm3atxvn98
+            - listitem [ref=e476]:
+              - link "Software companies" [ref=e477] [cursor=pointer]:
+                - /url: https://www.microsoft.com/software-development-companies?icid=DSM_All_SoftwareCompanies/ocid=cmm3atxvn98
+            - listitem [ref=e478]:
+              - link "Visual Studio" [ref=e479] [cursor=pointer]:
+                - /url: https://visualstudio.microsoft.com/
+        - generic [ref=e480]:
+          - heading "Company" [level=2] [ref=e481]
+          - list [ref=e482]:
+            - listitem [ref=e483]:
+              - link "Careers" [ref=e484] [cursor=pointer]:
+                - /url: https://careers.microsoft.com/
+            - listitem [ref=e485]:
+              - link "About Microsoft" [ref=e486] [cursor=pointer]:
+                - /url: https://www.microsoft.com/about
+            - listitem [ref=e487]:
+              - link "Company news" [ref=e488] [cursor=pointer]:
+                - /url: https://news.microsoft.com/source/?icid=DSM_Footer_Company_CompanyNews
+            - listitem [ref=e489]:
+              - link "Privacy at Microsoft" [ref=e490] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/privacy?icid=DSM_Footer_Company_Privacy
+            - listitem [ref=e491]:
+              - link "Investors" [ref=e492] [cursor=pointer]:
+                - /url: https://www.microsoft.com/investor/default.aspx
+            - listitem [ref=e493]:
+              - link "Diversity and inclusion" [ref=e494] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/diversity/default?icid=DSM_Footer_Company_Diversity
+            - listitem [ref=e495]:
+              - link "Accessibility" [ref=e496] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/accessibility
+            - listitem [ref=e497]:
+              - link "Sustainability" [ref=e498] [cursor=pointer]:
+                - /url: https://www.microsoft.com/en-us/corporate-responsibility/sustainability?icid=DSM_Footer_Sustainability
+    - generic [ref=e499]:
+      - generic [ref=e500]:
+        - generic [ref=e501]:
+          - generic [ref=e503]: 
+          - link "Content Language Selector. Currently set to English (United States)" [ref=e504] [cursor=pointer]:
+            - /url: https://www.microsoft.com/en-us/nonprofits/locale
+            - text: English (United States)
+        - link "Your Privacy Choices Opt-Out Icon Your Privacy Choices" [ref=e506] [cursor=pointer]:
+          - /url: https://aka.ms/yourcaliforniaprivacychoices
+          - img "Your Privacy Choices Opt-Out Icon" [ref=e507]
+          - generic [ref=e512]: Your Privacy Choices
+        - link "Consumer Health Privacy" [ref=e513] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+      - navigation "Microsoft corporate links" [ref=e515]:
+        - list [ref=e516]:
+          - listitem [ref=e517]:
+            - link "Sitemap" [ref=e518] [cursor=pointer]:
+              - /url: https://www.microsoft.com/en-us/sitemap1.aspx
+          - listitem [ref=e519]:
+            - link "Contact Microsoft" [ref=e520] [cursor=pointer]:
+              - /url: https://support.microsoft.com/contactus
+          - listitem [ref=e521]:
+            - link "Privacy" [ref=e522] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+          - listitem [ref=e523]:
+            - link "Terms of use" [ref=e524] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?LinkID=206977
+          - listitem [ref=e525]:
+            - link "Trademarks" [ref=e526] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?linkid=2196228
+          - listitem [ref=e527]:
+            - link "Safety & eco" [ref=e528] [cursor=pointer]:
+              - /url: https://go.microsoft.com/fwlink/?linkid=2196227
+          - listitem [ref=e529]:
+            - link "Recycling" [ref=e530] [cursor=pointer]:
+              - /url: https://www.microsoft.com/en-us/legal/compliance/recycling
+          - listitem [ref=e531]:
+            - link "About our ads" [ref=e532] [cursor=pointer]:
+              - /url: https://choice.microsoft.com
+          - listitem [ref=e533]: © Microsoft 2026
